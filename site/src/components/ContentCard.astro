@@ -18,16 +18,17 @@ interface Props {
 const { title, summary, url, platform, author, publishedAt, finalScore, engagement } = Astro.props;
 
 function getScoreClass(score: number): string {
-  if (score >= 8) return "score-high";
-  if (score >= 5) return "score-mid";
-  return "score-low";
+  if (score >= 7) return "score-high";
+  return "score-mid";
 }
 
 function formatEngagement(platform: string, engagement: any): string {
   if (platform === "youtube") {
-    return `${(engagement.views || 0).toLocaleString()} views`;
+    const views = engagement.views || 0;
+    if (views >= 1000) return `${(views / 1000).toFixed(1)}K views`;
+    return `${views} views`;
   }
-  return `${engagement.score || 0} upvotes · ${engagement.comments || 0} comments`;
+  return `↑${engagement.score || 0} · ${engagement.comments || 0} comments`;
 }
 ---
 
@@ -42,9 +43,11 @@ function formatEngagement(platform: string, engagement: any): string {
   </div>
   <p class="card-summary">{summary}</p>
   <div class="card-meta">
-    <div>
+    <div class="card-meta-left">
       <span class={`platform-tag platform-${platform}`}>{platform}</span>
-      <span> · {author} · {formatEngagement(platform, engagement)}</span>
+      <span>{author}</span>
+      <span>·</span>
+      <span>{formatEngagement(platform, engagement)}</span>
     </div>
     <a href={url} target="_blank" rel="noopener" class="card-link">
       查看原文 →
