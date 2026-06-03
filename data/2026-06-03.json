@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T08:30:00Z",
+  "items": [
+    {
+      "id": "yt-sample1",
+      "title": "Claude 4 New Features: Complete Guide",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "author": "AI Explained",
+      "platform": "youtube",
+      "publishedAt": "2026-06-03T06:00:00Z",
+      "rawContent": "A comprehensive guide to Claude 4 new features",
+      "engagement": { "views": 15000, "likes": 800 },
+      "scores": { "relevance": 9, "novelty": 8, "actionability": 9 },
+      "summary": "Claude 4 发布全新功能，包括增强的代码生成能力和多模态推理，本视频详细演示了实际使用方法。",
+      "engagementPercentile": 0.9,
+      "finalScore": 11.8
+    },
+    {
+      "id": "reddit-sample1",
+      "title": "I built an AI agent that automates my entire workflow",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/example",
+      "author": "devuser123",
+      "platform": "reddit",
+      "publishedAt": "2026-06-03T04:00:00Z",
+      "rawContent": "Sharing my setup for automating daily tasks with local LLMs",
+      "engagement": { "score": 342, "comments": 67 },
+      "scores": { "relevance": 8, "novelty": 7, "actionability": 9 },
+      "summary": "开发者分享了使用本地 LLM 构建自动化工作流的完整方案，包含具体的模型选择和部署步骤。",
+      "engagementPercentile": 0.85,
+      "finalScore": 10.2
+    }
+  ],
+  "stats": {
+    "totalCollected": 156,
+    "totalScored": 156,
+    "totalPublished": 2
+  }
+}

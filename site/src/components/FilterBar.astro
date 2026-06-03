@@ -1,0 +1,36 @@
+---
+interface Props {
+  platforms: string[];
+}
+
+const { platforms } = Astro.props;
+---
+
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="all">全部</button>
+  {platforms.map((p) => (
+    <button class="filter-btn" data-filter={p}>{p}</button>
+  ))}
+</div>
+
+<script>
+  const buttons = document.querySelectorAll(".filter-btn");
+  const cards = document.querySelectorAll(".card");
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      buttons.forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      const filter = (btn as HTMLElement).dataset.filter;
+      cards.forEach((card) => {
+        const el = card as HTMLElement;
+        if (filter === "all" || el.dataset.platform === filter) {
+          el.style.display = "";
+        } else {
+          el.style.display = "none";
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,53 @@
+---
+interface Props {
+  title: string;
+  summary: string;
+  url: string;
+  platform: "youtube" | "reddit";
+  author: string;
+  publishedAt: string;
+  finalScore: number;
+  engagement: {
+    views?: number;
+    likes?: number;
+    score?: number;
+    comments?: number;
+  };
+}
+
+const { title, summary, url, platform, author, publishedAt, finalScore, engagement } = Astro.props;
+
+function getScoreClass(score: number): string {
+  if (score >= 8) return "score-high";
+  if (score >= 5) return "score-mid";
+  return "score-low";
+}
+
+function formatEngagement(platform: string, engagement: any): string {
+  if (platform === "youtube") {
+    return `${(engagement.views || 0).toLocaleString()} views`;
+  }
+  return `${engagement.score || 0} upvotes · ${engagement.comments || 0} comments`;
+}
+---
+
+<article class="card" data-platform={platform}>
+  <div class="card-header">
+    <h3 class="card-title">
+      <a href={url} target="_blank" rel="noopener">{title}</a>
+    </h3>
+    <span class={`card-score ${getScoreClass(finalScore)}`}>
+      {finalScore.toFixed(1)}
+    </span>
+  </div>
+  <p class="card-summary">{summary}</p>
+  <div class="card-meta">
+    <div>
+      <span class={`platform-tag platform-${platform}`}>{platform}</span>
+      <span> · {author} · {formatEngagement(platform, engagement)}</span>
+    </div>
+    <a href={url} target="_blank" rel="noopener" class="card-link">
+      查看原文 →
+    </a>
+  </div>
+</article>

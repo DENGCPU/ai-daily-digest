@@ -1,0 +1,67 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ContentCard from "../components/ContentCard.astro";
+import FilterBar from "../components/FilterBar.astro";
+import fs from "node:fs";
+import path from "node:path";
+
+const dataDir = path.resolve("../data");
+let digest = null;
+let dates: string[] = [];
+
+if (fs.existsSync(dataDir)) {
+  const files = fs.readdirSync(dataDir).filter((f) => f.endsWith(".json")).sort().reverse();
+  dates = files.map((f) => f.replace(".json", ""));
+
+  if (files.length > 0) {
+    const latest = JSON.parse(fs.readFileSync(path.join(dataDir, files[0]), "utf-8"));
+    digest = latest;
+  }
+}
+---
+
+<Layout title="AI Daily Digest">
+  <header>
+    <h1>AI Daily Digest</h1>
+    <p>每日精选 AI 工具动态 · 自动聚合自 YouTube & Reddit</p>
+    {digest && (
+      <div class="stats">
+        <span>日期: {digest.date}</span>
+        <span>采集: {digest.stats.totalCollected}</span>
+        <span>精选: {digest.stats.totalPublished}</span>
+      </div>
+    )}
+    {dates.length > 1 && (
+      <div class="date-nav">
+        {dates.slice(0, 7).map((d) => (
+          <a href={`/${d}`}>{d}</a>
+        ))}
+      </div>
+    )}
+  </header>
+
+  {digest && digest.items.length > 0 ? (
+    <>
+      <FilterBar platforms={["youtube", "reddit"]} />
+      <div class="cards">
+        {digest.items.map((item: any) => (
+          <ContentCard
+            title={item.title}
+            summary={item.summary}
+            url={item.url}
+            platform={item.platform}
+            author={item.author}
+            publishedAt={item.publishedAt}
+            finalScore={item.finalScore}
+            engagement={item.engagement}
+          />
+        ))}
+      </div>
+    </>
+  ) : (
+    <div class="empty-state">
+      <p>暂无内容</p>
+      <p>每日数据将在 UTC 08:00 自动更新</p>
+    </div>
+  )}
+</Layout>
