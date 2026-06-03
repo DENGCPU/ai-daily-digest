@@ -1,0 +1,116 @@
+import { GoogleGenerativeAI } from "@google/generative-ai";
+import { config } from "../config.js";
+import { SCORING_PROMPT } from "./prompts.js";
+import type { ContentItem, LLMScores } from "../types.js";
+
+export interface ScoringResult {
+  scores: LLMScores;
+  summary: string;
+}
+
+const DEFAULT_SCORES: ScoringResult = {
+  scores: { relevance: 5, novelty: 5, actionability: 5 },
+  summary: "评分失败，使用默认分数",
+};
+
+export async function scoreItems(
+  items: ContentItem[]
+): Promise<Map<string, ScoringResult>> {
+  const genAI = new GoogleGenerativeAI(config.gemini.apiKey);
+  const model = genAI.getGenerativeModel({
+    model: config.gemini.model,
+    generationConfig: {
+      responseMimeType: "application/json",
+    },
+  });
+
+  const results = new Map<string, ScoringResult>();
+  const semaphore = new Semaphore(config.gemini.maxConcurrent);
+
+  const tasks = items.map((item) =>
+    semaphore.run(async () => {
+      const result = await scoreItem(model, item);
+      results.set(item.id, result);
+      await sleep(config.gemini.requestIntervalMs);
+    })
+  );
+
+  await Promise.all(tasks);
+  return results;
+}
+
+async function scoreItem(
+  model: any,
+  item: ContentItem
+): Promise<ScoringResult> {
+  const prompt = SCORING_PROMPT.replace("{title}", item.title)
+    .replace("{platform}", item.platform)
+    .replace("{content}", item.rawContent.slice(0, 1000));
+
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const result = await model.generateContent(prompt);
+      const text = result.response.text();
+      const parsed = JSON.parse(text);
+
+      const scores: LLMScores = {
+        relevance: clamp(parsed.relevance, 1, 10),
+        novelty: clamp(parsed.novelty, 1, 10),
+        actionability: clamp(parsed.actionability, 1, 10),
+      };
+
+      return { scores, summary: parsed.summary || "无摘要" };
+    } catch (error: any) {
+      if (attempt === 0 && error?.status === 429) {
+        await sleep(5000);
+        continue;
+      }
+      if (attempt === 0) continue;
+      console.warn(`Scoring failed for "${item.title}":`, error?.message);
+      return DEFAULT_SCORES;
+    }
+  }
+
+  return DEFAULT_SCORES;
+}
+
+function clamp(value: number, min: number, max: number): number {
+  return Math.max(min, Math.min(max, value));
+}
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+class Semaphore {
+  private queue: Array<() => void> = [];
+  private running = 0;
+
+  constructor(private maxConcurrent: number) {}
+
+  async run<T>(fn: () => Promise<T>): Promise<T> {
+    await this.acquire();
+    try {
+      return await fn();
+    } finally {
+      this.release();
+    }
+  }
+
+  private acquire(): Promise<void> {
+    if (this.running < this.maxConcurrent) {
+      this.running++;
+      return Promise.resolve();
+    }
+    return new Promise((resolve) => this.queue.push(resolve));
+  }
+
+  private release(): void {
+    this.running--;
+    const next = this.queue.shift();
+    if (next) {
+      this.running++;
+      next();
+    }
+  }
+}
