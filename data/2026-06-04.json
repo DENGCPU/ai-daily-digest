@@ -1,55 +1,7 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T11:16:09.042Z",
+  "generatedAt": "2026-06-04T11:22:58.421Z",
   "items": [
-    {
-      "id": "hn-48383220",
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "author": "reconnecting",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T12:42:07.000Z",
-      "rawContent": "Meta workers can opt out of being tracked at work up to 30 min",
-      "engagement": {
-        "score": 735,
-        "comments": 702
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 1,
-      "finalScore": 7.5
-    },
-    {
-      "id": "hn-48383056",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "author": "pdyc",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T12:25:14.000Z",
-      "rawContent": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
-      "engagement": {
-        "score": 501,
-        "comments": 621
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.9411764705882353,
-      "finalScore": 7.352941176470589
-    },
     {
       "id": "hn-48385906",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
@@ -59,20 +11,20 @@
       "publishedAt": "2026-06-03T16:04:42.000Z",
       "rawContent": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "engagement": {
-        "score": 856,
+        "score": 861,
         "comments": 335
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 3
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.8823529411764706,
-      "finalScore": 7.205882352941177
+      "summary": "Gemma 4 12B 是一种新型统一多模态模型，摒弃传统编码器设计，支持文本、图像等多模态输入，强调架构简化与端到端训练。该模型目前仅以研究公告形式披露，尚未开源或提供可用工具接口。",
+      "summaryEn": "Gemma 4 12B is a novel unified multimodal model that eliminates separate encoders, enabling end-to-end training across modalities like text and images; it represents a conceptual and architectural advance but lacks released code, weights, or practical deployment guidance.",
+      "titleEn": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "category": "论文",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.583333333333334
     },
     {
       "id": "hn-48392343",
@@ -83,68 +35,68 @@
       "publishedAt": "2026-06-04T00:56:32.000Z",
       "rawContent": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "engagement": {
-        "score": 237,
-        "comments": 110
+        "score": 240,
+        "comments": 111
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
+      "summary": "作者构建了一个存在安全漏洞的Web应用，并投入1500美元使用主流大语言模型（如Claude、GPT-4）尝试自动化渗透测试，探讨LLM在真实红队任务中的能力边界与局限性。",
+      "summaryEn": "The author built a deliberately vulnerable web application and spent $1,500 testing whether LLMs (e.g., Claude, GPT-4) could autonomously discover and exploit real-world security flaws—assessing their practical utility and limitations in offensive security tasks.",
+      "titleEn": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "category": "讨论",
-      "engagementPercentile": 0.8235294117647058,
-      "finalScore": 7.0588235294117645
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.466666666666667
     },
     {
-      "id": "hn-48386725",
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "url": "https://github.com/duanebester/gooey",
-      "author": "ksec",
+      "id": "hn-48383056",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "author": "pdyc",
       "platform": "hackernews",
-      "publishedAt": "2026-06-03T17:12:27.000Z",
-      "rawContent": "Gooey: A GPU-accelerated UI framework for Zig",
+      "publishedAt": "2026-06-03T12:25:14.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
       "engagement": {
-        "score": 182,
-        "comments": 70
+        "score": 502,
+        "comments": 623
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 4
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
+      "summary": "本文讨论优步对AI工具（如Claude Code）设置每月1500美元使用上限的商业决策，将其视为AI企业服务定价趋势的重要信号，反映大公司对AI成本管控的现实考量。",
+      "summaryEn": "This piece analyzes Uber's imposition of a $1,500/month cap on AI tool usage (e.g., Claude Code) as a strategic cost-control measure and interprets it as an indicative signal for broader AI enterprise pricing trends.",
+      "titleEn": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "category": "讨论",
-      "engagementPercentile": 0.7647058823529411,
-      "finalScore": 6.911764705882353
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.955555555555556
     },
     {
-      "id": "hn-48392082",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "author": "jbredeche",
+      "id": "hn-48396004",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "author": "BrunoBernardino",
       "platform": "hackernews",
-      "publishedAt": "2026-06-04T00:27:52.000Z",
-      "rawContent": "The ways we contain Claude across products",
+      "publishedAt": "2026-06-04T08:56:10.000Z",
+      "rawContent": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you&#x27;d like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we&#x27;ve talked with lawyers and are inclined to no longer require the NDA&#x2F;NCC for privacy reasons shared with us before (signing requires identification), but instead use a source-available permissive",
       "engagement": {
-        "score": 141,
-        "comments": 67
+        "score": 77,
+        "comments": 55
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.7058823529411765,
-      "finalScore": 6.764705882352942
+      "summary": "Uruky 是一款总部位于欧盟的新型搜索引擎，定位为 Kagi 的替代品，新上线图像搜索和 URL 重写功能，并提供通过算力验证码获取2小时免费试用的机制。",
+      "summaryEn": "Uruky is an EU-based search engine positioned as a privacy-focused alternative to Kagi, newly launching image search and URL rewrite capabilities, with a 2-hour free trial accessible via a proof-of-work captcha upon first top-up.",
+      "titleEn": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
     },
     {
       "id": "hn-48387095",
@@ -159,64 +111,298 @@
         "comments": 61
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 4
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.6470588235294118,
-      "finalScore": 6.617647058823529
+      "summary": "Hyper 是一家 YC 孵化（P26）的初创公司推出的 AI 工具，定位为“企业大脑”，旨在通过接入企业内部信息流来增强 AI 智能体（agentic）的开发与自动化能力。",
+      "summaryEn": "Hyper is a YC-backed (P26) AI tool launched as a 'company brain'—a centralized, contextual knowledge layer that integrates with internal enterprise data streams to improve AI agent performance and automation.",
+      "titleEn": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "category": "工具",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.05
     },
     {
-      "id": "hn-48386129",
-      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-      "url": "https://nutrepedia.com/en-us/",
-      "author": "llovan",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T16:24:46.000Z",
-      "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-      "engagement": {
-        "score": 123,
-        "comments": 28
-      },
+      "id": "hf-2606.00477",
+      "title": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
+      "url": "https://huggingface.co/papers/2606.00477",
+      "author": "Xin Gao",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-29T20:00:00.000Z",
+      "rawContent": "Unified multimodal models (UMMs) have emerged as a promising paradigm for general-purpose multimodal intelligence. As they are deployed in real-world applications, effectively updating internal knowledge becomes critical. While knowledge editing has matured for text-only models, it remains unclear whether edits that successfully modify textual outputs also transfer to image generation in UMMs. To study this question, we introduce UniKE, the first benchmark for cross-modality knowledge editing in",
+      "engagement": {},
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.5882352941176471,
-      "finalScore": 6.470588235294118
+      "summary": "本文提出UniKE基准，首次系统评估统一多模态模型（UMMs）中跨模态知识编辑的有效性，探究文本层面的知识修改能否泛化至图像生成任务。",
+      "summaryEn": "This paper introduces UniKE, the first benchmark for evaluating cross-modal knowledge editing in unified multimodal models (UMMs), investigating whether knowledge edits applied to text outputs generalize to visual generation.",
+      "titleEn": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
     },
     {
-      "id": "hn-48396004",
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "url": "https://uruky.com/?il=en",
-      "author": "BrunoBernardino",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-04T08:56:10.000Z",
-      "rawContent": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you&#x27;d like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we&#x27;ve talked with lawyers and are inclined to no longer require the NDA&#x2F;NCC for privacy reasons shared with us before (signing requires identification), but instead use a source-available permissive",
-      "engagement": {
-        "score": 73,
-        "comments": 45
-      },
+      "id": "hf-2606.04923",
+      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.04923",
+      "author": "Xuekang Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to reward hacking and ineffective or unsafe training outcomes. In real-world rubric-based RL, such hacking behaviors are often subtle and entangled with multiple judge biases, making them difficult to analyze, detect, and mitigate. In this paper, we introduce CHERRL, a controllable hacking environment",
+      "engagement": {},
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出CHERRL——一个可控的奖励黑客环境，用于复现、分析和检测基于评分标准的强化学习中由LLM裁判引发的奖励黑客行为，并系统研究其成因与缓解路径。",
+      "summaryEn": "This paper introduces CHERRL, a controllable hacking environment to reproduce, analyze, and detect reward hacking in rubric-based reinforcement learning—where LLM-as-a-Judge biases are exploited by policy models—offering systematic insights into causes, detection, and mitigation.",
+      "titleEn": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2605.27492",
+      "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
+      "url": "https://huggingface.co/papers/2605.27492",
+      "author": "Yipeng Ouyang",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-25T20:00:00.000Z",
+      "rawContent": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-horizon benchmarks that fail to capture the dynamic complexity of real-world production workflows. As a result, benchmark performance may poorly reflect practical capability under realistic runtime environments involving long execution chains, tool interactions, dependency management, and iterative f",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出RAMP评估框架，旨在弥补现有静态基准测试的不足，针对生产环境中智能体模型（如LLM Agent）的动态运行时行为（如长链执行、工具调用、依赖管理）进行真实场景化评估。",
+      "summaryEn": "This paper introduces RAMP, a runtime assessment framework designed to address the limitations of static, isolated benchmarks by evaluating agentic LLMs under realistic production conditions—including long-horizon execution, tool interaction, dependency management, and iterative feedback.",
+      "titleEn": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.03890",
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2606.03890",
+      "author": "Yifei Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks either evaluate offline over full videos or target events rather than spatial structure. We introduce OVO-S-Bench, a fully human-annotated benchmark for streaming spatial intelligence, comprising 1,680 questions over 348 source videos. Annotation involves 12 trained annotators, each also serving as a ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
         "actionability": 5
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
+      "summary": "OVO-S-Bench 是一个全新的人工标注分层基准，专为评估多模态大语言模型在连续第一人称视频流中进行空间智能推理（如布局理解、跨视角空间推断）的能力而设计，填补了现有基准在流式空间认知评估上的空白。",
+      "summaryEn": "OVO-S-Bench is a novel, fully human-annotated hierarchical benchmark designed to evaluate multimodal LLMs’ streaming spatial intelligence—such as layout reasoning and cross-frame spatial inference—from continuous egocentric video streams, addressing a critical gap in existing evaluation frameworks.",
+      "titleEn": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2605.30792",
+      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
+      "url": "https://huggingface.co/papers/2605.30792",
+      "author": "Yanjie An",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-28T20:00:00.000Z",
+      "rawContent": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in modality, speech realization, and timing behavior. Existing evaluation practices assess important aspects such as translation quality, speech quality, and temporal quality, but these aspects are often evaluated under separate protocols, making it difficult to compare heterogeneous systems comprehensive",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "OpenSTBench 是一项面向语音翻译（ST）系统的新型综合评估基准，旨在统一评估跨模态（S2TT/S2ST）、离线/流式系统在翻译质量、语音质量和时序质量等方面的性能。该工作指出当前评估协议割裂、难以横向比较异构系统的问题，并提出标准化评测框架。",
+      "summaryEn": "OpenSTBench is a novel comprehensive benchmark for speech translation (ST) systems, designed to unify evaluation across modalities (S2TT/S2ST), offline/streaming paradigms, and dimensions including translation quality, speech quality, and temporal quality. It addresses the fragmentation of current evaluation protocols and proposes a standardized framework for fair comparison of heterogeneous ST systems.",
+      "titleEn": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hn-48386725",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "url": "https://github.com/duanebester/gooey",
+      "author": "ksec",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T17:12:27.000Z",
+      "rawContent": "Gooey: A GPU-accelerated UI framework for Zig",
+      "engagement": {
+        "score": 182,
+        "comments": 71
+      },
+      "scores": {
+        "relevance": 6,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "Gooey 是一个为 Zig 编程语言设计的 GPU 加速 UI 框架，目前处于早期开源开发阶段，旨在提供高性能、低开销的图形界面能力。",
+      "summaryEn": "Gooey is a GPU-accelerated UI framework for the Zig programming language, released as an early-stage open-source project aiming to enable high-performance, low-overhead GUI development.",
+      "titleEn": "Gooey: A GPU-accelerated UI framework for Zig",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 7.666666666666667
+    },
+    {
+      "id": "hf-2606.02859",
+      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+      "url": "https://huggingface.co/papers/2606.02859",
+      "author": "Zhenting Qi",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-31T20:00:00.000Z",
+      "rawContent": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordination in markets, we study this question through an agent economy in which agents compete via auctions for the right to act, exchange payments, and accumulate wealth from environmental rewards. These simple economic signals induce decentralized credit assignment, driving planning without global orch",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该研究受哈耶克经济思想启发，提出一种基于拍卖、支付与财富积累的多智能体经济框架，通过去中心化经济信号实现智能体群体的自组织与协同规划。",
+      "summaryEn": "Inspired by Friedrich Hayek’s economic theory, this work proposes an agent economy—featuring auctions, payments, and wealth accumulation—to enable decentralized, self-organizing multi-agent intelligence without centralized control.",
+      "titleEn": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.02684",
+      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2606.02684",
+      "author": "Yuying Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-31T20:00:00.000Z",
+      "rawContent": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which trajectories to learn from, which tokens are most informative, and which supervision signals are most reliable. Motivated by this trend, we rethink optimization granularity of OPD and propose \\fireicon\\ FiRe-OPD (Filter, then Reweight), which jointly adjusts supervision signals at both trajectory and to",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出FiRe-OPD方法，通过先过滤再重加权的两阶段策略，重新思考在线策略蒸馏（OPD）中的优化粒度问题，聚焦于轨迹和token层面的监督信号选择与校准。",
+      "summaryEn": "This paper proposes FiRe-OPD (Filter, then Reweight), a novel two-stage framework that rethinks optimization granularity in on-policy distillation by jointly filtering and reweighting supervision signals at both trajectory and token levels.",
+      "titleEn": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2605.31148",
+      "title": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
+      "url": "https://huggingface.co/papers/2605.31148",
+      "author": "Tianhui Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-28T20:00:00.000Z",
+      "rawContent": "Humans can effortlessly perceive spatial layouts, form cognitive representations, reason about spatial relations, and translate such reasoning into actions in everyday 3D environments. Although recent vision-language models (VLMs) have shown promising performance on observation-conditioned spatial perception and reasoning tasks, it remains unclear whether they can build coherent spatial understanding, act upon it, and refine their actions through multi-turn feedback. To study this problem, we in",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "该研究提出SpatialAct基准，用于系统评估多模态大模型（VLM）在3D场景中从空间推理到具身动作执行的端到端能力，填补了现有评测在空间理解—行动闭环上的空白。",
+      "summaryEn": "This work introduces SpatialAct, a new benchmark designed to systematically evaluate the end-to-end spatial reasoning-to-action capabilities of vision-language models (VLMs) in 3D environments—assessing not just perception and reasoning, but also action execution and iterative refinement via multi-turn feedback.",
+      "titleEn": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.2
+    },
+    {
+      "id": "hf-2606.05131",
+      "title": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
+      "url": "https://huggingface.co/papers/2606.05131",
+      "author": "Kelan Gray",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choice: the observables must be expressive, nearly invariant under the dynamics, and, ideally, compatible with composition. Deep Koopman methods learn flexible coordinates, whereas structure-preserving methods enforce operator identities on fixed dictionaries. We combine these ideas by introducing Deep Embedded Multiplicative Dynamic Mode Decomposition ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "该研究提出了一种深度嵌入式乘性动态模态分解（DMD）方法，旨在实现代数结构保持的Koopman算子学习，兼顾表达性与动力学不变性。工作属于理论驱动的AI建模范式创新，聚焦于可解释动力系统建模。",
+      "summaryEn": "This paper introduces Deep Embedded Multiplicative DMD, a novel Koopman learning framework that jointly optimizes for expressivity, dynamical invariance, and algebraic structure preservation (e.g., compositionality). It bridges deep representation learning with physics-informed operator constraints.",
+      "titleEn": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.2
+    },
+    {
+      "id": "hf-2606.04048",
+      "title": "Unlocking Feature Learning in Gated Delta Networks at Scale",
+      "url": "https://huggingface.co/papers/2606.04048",
+      "author": "Yifeng Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "Training and scaling Large Language Models demand enormous computational resources, motivating both efficient sub-quadratic architectures and principled hyperparameter tuning methods. While the Maximal Update Parametrization (μP) has enabled zero-shot hyperparameter transfer for standard Transformers, its extension to linear models, particularly those with structured state transitions and complicated architectures, remains largely unexplored. By rigorously propagating coordinate-size estimates t",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "本文探讨了在门控Delta网络（Gated Delta Networks）中规模化实现特征学习的理论基础，重点扩展Maximal Update Parametrization（μP）方法以支持具有结构化状态转移的非标准架构。研究涉及坐标尺度传播与超参数可迁移性，属于前沿AI模型训练理论。",
+      "summaryEn": "This paper investigates principled feature learning in Gated Delta Networks at scale, extending the Maximal Update Parametrization (μP) framework to non-standard architectures with structured state transitions. It provides theoretical analysis of coordinate-wise scaling and zero-shot hyperparameter transfer beyond standard Transformers.",
+      "titleEn": "Unlocking Feature Learning in Gated Delta Networks at Scale",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.2
+    },
+    {
+      "id": "hn-48392082",
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "author": "jbredeche",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T00:27:52.000Z",
+      "rawContent": "The ways we contain Claude across products",
+      "engagement": {
+        "score": 144,
+        "comments": 67
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 3
+      },
+      "summary": "本文探讨了Anthropic如何在不同产品中部署和约束Claude模型，涉及安全对齐、沙盒隔离与API层管控等工程实践，属于行业实践分享而非技术细节披露。",
+      "summaryEn": "This piece discusses how Anthropic contains and constrains the Claude model across its product suite—covering safety alignment, sandboxing, and API-level governance—but offers no technical implementation details or step-by-step guidance.",
+      "titleEn": "The ways we contain Claude across products",
       "category": "讨论",
-      "engagementPercentile": 0.5294117647058824,
-      "finalScore": 6.323529411764706
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.355555555555557
+    },
+    {
+      "id": "hn-48383220",
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "author": "reconnecting",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T12:42:07.000Z",
+      "rawContent": "Meta workers can opt out of being tracked at work up to 30 min",
+      "engagement": {
+        "score": 736,
+        "comments": 702
+      },
+      "scores": {
+        "relevance": 3,
+        "novelty": 4,
+        "actionability": 2
+      },
+      "summary": "该内容报道了Meta员工可选择在工作期间最多30分钟不被公司监控，属于企业AI监控政策相关的行业新闻与职场伦理讨论。",
+      "summaryEn": "This reports that Meta employees may opt out of workplace surveillance for up to 30 minutes—a piece of industry news concerning corporate AI monitoring policies and workplace ethics.",
+      "titleEn": "Meta workers can opt out of being tracked at work up to 30 min",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 4.500000000000001
     },
     {
       "id": "hn-48391838",
@@ -231,465 +417,45 @@
         "comments": 54
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 4,
+        "novelty": 6,
+        "actionability": 2
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
+      "summary": "该内容源自 Hacker News，仅以标题形式提及‘Ü 编程语言’，未提供任何技术细节、用途说明或与 AI 的关联信息，缺乏实质性内容。",
+      "summaryEn": "This content is a bare title 'The Ü Programming Language' posted on Hacker News, with no description, technical details, context, or connection to AI tools, development, or usage.",
+      "titleEn": "The Ü Programming Language",
       "category": "讨论",
-      "engagementPercentile": 0.47058823529411764,
-      "finalScore": 6.176470588235294
+      "engagementPercentile": 0,
+      "finalScore": 4
     },
     {
-      "id": "hn-48388909",
-      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-      "url": "https://github.com/tastyeffectco/sandboxes",
-      "author": "tastyeffectco",
+      "id": "hn-48386129",
+      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "url": "https://nutrepedia.com/en-us/",
+      "author": "llovan",
       "platform": "hackernews",
-      "publishedAt": "2026-06-03T19:43:37.000Z",
-      "rawContent": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "publishedAt": "2026-06-03T16:24:46.000Z",
+      "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
       "engagement": {
-        "score": 94,
+        "score": 124,
         "comments": 28
       },
       "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
+        "relevance": 4,
+        "novelty": 3,
+        "actionability": 2
       },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.4117647058823529,
-      "finalScore": 6.029411764705882
-    },
-    {
-      "id": "hn-48390400",
-      "title": "A Mathematician's Lament (2002) [pdf]",
-      "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-      "author": "xeonmc",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T21:32:10.000Z",
-      "rawContent": "A Mathematician's Lament (2002) [pdf]",
-      "engagement": {
-        "score": 81,
-        "comments": 5
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.35294117647058826,
-      "finalScore": 5.882352941176471
-    },
-    {
-      "id": "hn-48389586",
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "author": "zaydmulani",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T20:32:10.000Z",
-      "rawContent": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "engagement": {
-        "score": 45,
-        "comments": 18
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.29411764705882354,
-      "finalScore": 5.735294117647058
-    },
-    {
-      "id": "hn-48387251",
-      "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-      "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-      "author": "gmays",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T17:50:16.000Z",
-      "rawContent": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-      "engagement": {
-        "score": 69,
-        "comments": 5
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.23529411764705882,
-      "finalScore": 5.588235294117647
-    },
-    {
-      "id": "hn-48385829",
-      "title": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
-      "url": "https://github.com/ideogram-oss/ideogram4",
-      "author": "pigcat",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T16:00:09.000Z",
-      "rawContent": "It&#x27;s our new text-to-image model: a 9.3B single-stream diffusion transformer trained entirely from scratch.<p>We focused heavily on controllability through structured JSON prompts, with strong text rendering, spatial awareness through bounding box guidance, and color palette control.<p>It has the best text rendering of any open-weight model we&#x27;ve tested so far, and the NF4 quantized checkpoint runs on a single 24GB GPU.<p>For more technical details and examples see our blog post: <a hr",
-      "engagement": {
-        "score": 42,
-        "comments": 9
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.17647058823529413,
-      "finalScore": 5.441176470588235
-    },
-    {
-      "id": "hn-48386343",
-      "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
-      "url": "https://github.com/loadingalias/rscrypto",
-      "author": "LoadingALIAS",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T16:41:14.000Z",
-      "rawContent": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
-      "engagement": {
-        "score": 30,
-        "comments": 12
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.11764705882352941,
-      "finalScore": 5.294117647058823
-    },
-    {
-      "id": "hn-48383564",
-      "title": "Claude Opus 4.8 Max responding to an empty message",
-      "url": "https://xcancel.com/davidad/status/2061858258046898518",
-      "author": "frb",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T13:14:29.000Z",
-      "rawContent": "Claude Opus 4.8 Max responding to an empty message",
-      "engagement": {
-        "score": 27,
-        "comments": 4
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.058823529411764705,
-      "finalScore": 5.147058823529411
-    },
-    {
-      "id": "hn-48384125",
-      "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
-      "url": "https://shirleymaxx.github.io/REST3D/",
-      "author": "ibobev",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T13:53:03.000Z",
-      "rawContent": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
-      "engagement": {
-        "score": 26,
-        "comments": 2
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2605.31148",
-      "title": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
-      "url": "https://huggingface.co/papers/2605.31148",
-      "author": "Tianhui Liu",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-28T20:00:00.000Z",
-      "rawContent": "Humans can effortlessly perceive spatial layouts, form cognitive representations, reason about spatial relations, and translate such reasoning into actions in everyday 3D environments. Although recent vision-language models (VLMs) have shown promising performance on observation-conditioned spatial perception and reasoning tasks, it remains unclear whether they can build coherent spatial understanding, act upon it, and refine their actions through multi-turn feedback. To study this problem, we in",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.00477",
-      "title": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
-      "url": "https://huggingface.co/papers/2606.00477",
-      "author": "Xin Gao",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-29T20:00:00.000Z",
-      "rawContent": "Unified multimodal models (UMMs) have emerged as a promising paradigm for general-purpose multimodal intelligence. As they are deployed in real-world applications, effectively updating internal knowledge becomes critical. While knowledge editing has matured for text-only models, it remains unclear whether edits that successfully modify textual outputs also transfer to image generation in UMMs. To study this question, we introduce UniKE, the first benchmark for cross-modality knowledge editing in",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.02859",
-      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
-      "url": "https://huggingface.co/papers/2606.02859",
-      "author": "Zhenting Qi",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-31T20:00:00.000Z",
-      "rawContent": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordination in markets, we study this question through an agent economy in which agents compete via auctions for the right to act, exchange payments, and accumulate wealth from environmental rewards. These simple economic signals induce decentralized credit assignment, driving planning without global orch",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.05131",
-      "title": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
-      "url": "https://huggingface.co/papers/2606.05131",
-      "author": "Kelan Gray",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T20:00:00.000Z",
-      "rawContent": "Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choice: the observables must be expressive, nearly invariant under the dynamics, and, ideally, compatible with composition. Deep Koopman methods learn flexible coordinates, whereas structure-preserving methods enforce operator identities on fixed dictionaries. We combine these ideas by introducing Deep Embedded Multiplicative Dynamic Mode Decomposition ",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.04923",
-      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.04923",
-      "author": "Xuekang Wang",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T20:00:00.000Z",
-      "rawContent": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to reward hacking and ineffective or unsafe training outcomes. In real-world rubric-based RL, such hacking behaviors are often subtle and entangled with multiple judge biases, making them difficult to analyze, detect, and mitigate. In this paper, we introduce CHERRL, a controllable hacking environment",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2605.27492",
-      "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
-      "url": "https://huggingface.co/papers/2605.27492",
-      "author": "Yipeng Ouyang",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-25T20:00:00.000Z",
-      "rawContent": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-horizon benchmarks that fail to capture the dynamic complexity of real-world production workflows. As a result, benchmark performance may poorly reflect practical capability under realistic runtime environments involving long execution chains, tool interactions, dependency management, and iterative f",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.03890",
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "url": "https://huggingface.co/papers/2606.03890",
-      "author": "Yifei Li",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-01T20:00:00.000Z",
-      "rawContent": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks either evaluate offline over full videos or target events rather than spatial structure. We introduce OVO-S-Bench, a fully human-annotated benchmark for streaming spatial intelligence, comprising 1,680 questions over 348 source videos. Annotation involves 12 trained annotators, each also serving as a ",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.02684",
-      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2606.02684",
-      "author": "Yuying Li",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-31T20:00:00.000Z",
-      "rawContent": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which trajectories to learn from, which tokens are most informative, and which supervision signals are most reliable. Motivated by this trend, we rethink optimization granularity of OPD and propose \\fireicon\\ FiRe-OPD (Filter, then Reweight), which jointly adjusts supervision signals at both trajectory and to",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.04048",
-      "title": "Unlocking Feature Learning in Gated Delta Networks at Scale",
-      "url": "https://huggingface.co/papers/2606.04048",
-      "author": "Yifeng Liu",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-01T20:00:00.000Z",
-      "rawContent": "Training and scaling Large Language Models demand enormous computational resources, motivating both efficient sub-quadratic architectures and principled hyperparameter tuning methods. While the Maximal Update Parametrization (μP) has enabled zero-shot hyperparameter transfer for standard Transformers, its extension to linear models, particularly those with structured state transitions and complicated architectures, remains largely unexplored. By rigorously propagating coordinate-size estimates t",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2605.30792",
-      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
-      "url": "https://huggingface.co/papers/2605.30792",
-      "author": "Yanjie An",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-28T20:00:00.000Z",
-      "rawContent": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in modality, speech realization, and timing behavior. Existing evaluation practices assess important aspects such as translation quality, speech quality, and temporal quality, but these aspects are often evaluated under separate protocols, making it difficult to compare heterogeneous systems comprehensive",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.03220",
-      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
-      "url": "https://huggingface.co/papers/2606.03220",
-      "author": "Yuxin Meng",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T02:29:40.000Z",
-      "rawContent": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce WebRISE, which compiles task requirements into Interaction Contract Graphs (ICGs) of observable states, user-intent transitions, and DOM/visual assertions for implementation-agnostic browser execution. WebRISE spans 442 tasks across five input modalities (Text, Markdown, Sketch, Image, Video), with",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.05165",
-      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
-      "url": "https://huggingface.co/papers/2606.05165",
-      "author": "Rishit Dagli",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T20:00:00.000Z",
-      "rawContent": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is added or removed, but repeated retraining is computationally challenging for Large Language Models (LLMs). Consequently, most approaches approximate this effect in the parameter space using gradients. However, tracking gradients across billions of parameters is not only prohibitively expensive but reli",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
+      "summary": "Nutrepedia 是一个支持29种语言/地区的营养信息查询工具，使用 Clojure 和 Htmx 构建，属于轻量级 Web 应用，但未突出 AI 相关功能或集成。",
+      "summaryEn": "Nutrepedia is a nutrition information lookup tool supporting 29 locales, built with Clojure and Htmx; it is a conventional web application with no explicit AI components, capabilities, or integration.",
+      "titleEn": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 3.2722222222222226
     }
   ],
   "stats": {
     "totalCollected": 68,
-    "totalScored": 38,
-    "totalPublished": 30
+    "totalScored": 20,
+    "totalPublished": 20
   }
 }
