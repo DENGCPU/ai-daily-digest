@@ -1,0 +1,602 @@
+{
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T08:28:02.089Z",
+  "items": [
+    {
+      "id": "hn-48383220",
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "author": "reconnecting",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T12:42:07.000Z",
+      "rawContent": "Meta workers can opt out of being tracked at work up to 30 min",
+      "engagement": {
+        "score": 727,
+        "comments": 691
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48383056",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "author": "pdyc",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T12:25:14.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
+      "engagement": {
+        "score": 468,
+        "comments": 586
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.9375,
+      "finalScore": 7.34375
+    },
+    {
+      "id": "hn-48385906",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "author": "rvz",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T16:04:42.000Z",
+      "rawContent": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "engagement": {
+        "score": 817,
+        "comments": 322
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-48392343",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "author": "jc4p",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T00:56:32.000Z",
+      "rawContent": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "engagement": {
+        "score": 189,
+        "comments": 77
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.8125,
+      "finalScore": 7.03125
+    },
+    {
+      "id": "hn-48386725",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "url": "https://github.com/duanebester/gooey",
+      "author": "ksec",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T17:12:27.000Z",
+      "rawContent": "Gooey: A GPU-accelerated UI framework for Zig",
+      "engagement": {
+        "score": 175,
+        "comments": 67
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-48392082",
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "author": "jbredeche",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T00:27:52.000Z",
+      "rawContent": "The ways we contain Claude across products",
+      "engagement": {
+        "score": 115,
+        "comments": 50
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.6875,
+      "finalScore": 6.71875
+    },
+    {
+      "id": "hn-48387095",
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "url": "https://news.ycombinator.com/item?id=48387095",
+      "author": "shalinshah",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T17:39:53.000Z",
+      "rawContent": "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
+      "engagement": {
+        "score": 65,
+        "comments": 58
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "hn-48386129",
+      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "url": "https://nutrepedia.com/en-us/",
+      "author": "llovan",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T16:24:46.000Z",
+      "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "engagement": {
+        "score": 120,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.5625,
+      "finalScore": 6.40625
+    },
+    {
+      "id": "hn-48391838",
+      "title": "The Ü Programming Language",
+      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+      "author": "deterministic",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T00:00:04.000Z",
+      "rawContent": "The Ü Programming Language",
+      "engagement": {
+        "score": 51,
+        "comments": 51
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-48388909",
+      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "author": "tastyeffectco",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T19:43:37.000Z",
+      "rawContent": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "engagement": {
+        "score": 86,
+        "comments": 21
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.4375,
+      "finalScore": 6.09375
+    },
+    {
+      "id": "hn-48390400",
+      "title": "A Mathematician's Lament (2002) [pdf]",
+      "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+      "author": "xeonmc",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T21:32:10.000Z",
+      "rawContent": "A Mathematician's Lament (2002) [pdf]",
+      "engagement": {
+        "score": 74,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "hn-48387251",
+      "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+      "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+      "author": "gmays",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T17:50:16.000Z",
+      "rawContent": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+      "engagement": {
+        "score": 68,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.3125,
+      "finalScore": 5.78125
+    },
+    {
+      "id": "hn-48389586",
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "author": "zaydmulani",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T20:32:10.000Z",
+      "rawContent": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "engagement": {
+        "score": 42,
+        "comments": 17
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    },
+    {
+      "id": "hn-48385829",
+      "title": "Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model",
+      "url": "https://github.com/ideogram-oss/ideogram4",
+      "author": "pigcat",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T16:00:09.000Z",
+      "rawContent": "It&#x27;s our new text-to-image model: a 9.3B single-stream diffusion transformer trained entirely from scratch.<p>We focused heavily on controllability through structured JSON prompts, with strong text rendering, spatial awareness through bounding box guidance, and color palette control.<p>It has the best text rendering of any open-weight model we&#x27;ve tested so far, and the NF4 quantized checkpoint runs on a single 24GB GPU.<p>For more technical details and examples see our blog post: <a hr",
+      "engagement": {
+        "score": 41,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.1875,
+      "finalScore": 5.46875
+    },
+    {
+      "id": "hn-48386343",
+      "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+      "url": "https://github.com/loadingalias/rscrypto",
+      "author": "LoadingALIAS",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T16:41:14.000Z",
+      "rawContent": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+      "engagement": {
+        "score": 30,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.125,
+      "finalScore": 5.3125
+    },
+    {
+      "id": "hn-48383564",
+      "title": "Claude Opus 4.8 Max responding to an empty message",
+      "url": "https://xcancel.com/davidad/status/2061858258046898518",
+      "author": "frb",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T13:14:29.000Z",
+      "rawContent": "Claude Opus 4.8 Max responding to an empty message",
+      "engagement": {
+        "score": 27,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0.0625,
+      "finalScore": 5.15625
+    },
+    {
+      "id": "hn-48384125",
+      "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+      "url": "https://shirleymaxx.github.io/REST3D/",
+      "author": "ibobev",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T13:53:03.000Z",
+      "rawContent": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+      "engagement": {
+        "score": 26,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.05131",
+      "title": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
+      "url": "https://huggingface.co/papers/2606.05131",
+      "author": "Kelan Gray",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choice: the observables must be expressive, nearly invariant under the dynamics, and, ideally, compatible with composition. Deep Koopman methods learn flexible coordinates, whereas structure-preserving methods enforce operator identities on fixed dictionaries. We combine these ideas by introducing Deep Embedded Multiplicative Dynamic Mode Decomposition ",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.04923",
+      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.04923",
+      "author": "Xuekang Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Rubric-based reinforcement learning (RL) uses an LLM-as-a-Judge (LaaJ) to score model outputs according to rubrics as rewards. However, policy models may exploit latent biases in the judge, leading to reward hacking and ineffective or unsafe training outcomes. In real-world rubric-based RL, such hacking behaviors are often subtle and entangled with multiple judge biases, making them difficult to analyze, detect, and mitigate. In this paper, we introduce CHERRL, a controllable hacking environment",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2605.27492",
+      "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
+      "url": "https://huggingface.co/papers/2605.27492",
+      "author": "Yipeng Ouyang",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-25T20:00:00.000Z",
+      "rawContent": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-horizon benchmarks that fail to capture the dynamic complexity of real-world production workflows. As a result, benchmark performance may poorly reflect practical capability under realistic runtime environments involving long execution chains, tool interactions, dependency management, and iterative f",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.03890",
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2606.03890",
+      "author": "Yifei Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks either evaluate offline over full videos or target events rather than spatial structure. We introduce OVO-S-Bench, a fully human-annotated benchmark for streaming spatial intelligence, comprising 1,680 questions over 348 source videos. Annotation involves 12 trained annotators, each also serving as a ",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.02684",
+      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2606.02684",
+      "author": "Yuying Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-31T20:00:00.000Z",
+      "rawContent": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which trajectories to learn from, which tokens are most informative, and which supervision signals are most reliable. Motivated by this trend, we rethink optimization granularity of OPD and propose \\fireicon\\ FiRe-OPD (Filter, then Reweight), which jointly adjusts supervision signals at both trajectory and to",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.04048",
+      "title": "Unlocking Feature Learning in Gated Delta Networks at Scale",
+      "url": "https://huggingface.co/papers/2606.04048",
+      "author": "Yifeng Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "Training and scaling Large Language Models demand enormous computational resources, motivating both efficient sub-quadratic architectures and principled hyperparameter tuning methods. While the Maximal Update Parametrization (μP) has enabled zero-shot hyperparameter transfer for standard Transformers, its extension to linear models, particularly those with structured state transitions and complicated architectures, remains largely unexplored. By rigorously propagating coordinate-size estimates t",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2605.30792",
+      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
+      "url": "https://huggingface.co/papers/2605.30792",
+      "author": "Yanjie An",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-28T20:00:00.000Z",
+      "rawContent": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in modality, speech realization, and timing behavior. Existing evaluation practices assess important aspects such as translation quality, speech quality, and temporal quality, but these aspects are often evaluated under separate protocols, making it difficult to compare heterogeneous systems comprehensive",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.03220",
+      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
+      "url": "https://huggingface.co/papers/2606.03220",
+      "author": "Yuxin Meng",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T02:29:40.000Z",
+      "rawContent": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce WebRISE, which compiles task requirements into Interaction Contract Graphs (ICGs) of observable states, user-intent transitions, and DOM/visual assertions for implementation-agnostic browser execution. WebRISE spans 442 tasks across five input modalities (Text, Markdown, Sketch, Image, Video), with",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.05165",
+      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
+      "url": "https://huggingface.co/papers/2606.05165",
+      "author": "Rishit Dagli",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is added or removed, but repeated retraining is computationally challenging for Large Language Models (LLMs). Consequently, most approaches approximate this effect in the parameter space using gradients. However, tracking gradients across billions of parameters is not only prohibitively expensive but reli",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2605.29489",
+      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
+      "url": "https://huggingface.co/papers/2605.29489",
+      "author": "Yuanyi Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-27T20:00:00.000Z",
+      "rawContent": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce MergePipe, a budget-aware execution layer that casts LLM merging as an expert access-set problem: given a merge operator and a checkpoint family in a shared weight coordinate system, choose which expert delta blocks to access under an explicit I/O budget. MergePipe indexes parameter blocks, builds dete",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.03503",
+      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
+      "url": "https://huggingface.co/papers/2606.03503",
+      "author": "Ziyan Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T07:21:27.000Z",
+      "rawContent": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain trial and errors and mainstream RLVR approaches choose outcome-correct CoT trajectories for memorization, the redundant explorations in long CoTs are inevitably reinforced, which results in the over-thinking issues of LRMs. Previous attempts to resolve this issue mainly give more advantage to shorte",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.05080",
+      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
+      "url": "https://huggingface.co/papers/2606.05080",
+      "author": "Zhangchen Xu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing benchmarks for frontier models primarily evaluate either single-turn responses or short-horizon agent trajectories, failing to capture the challenges of sustained iterative improvement over extended time horizons. To address this gap, we introduce AutoLab, a new benchmark for ultra long-horizon closed-",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.03972",
+      "title": "AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2606.03972",
+      "author": "Haobo Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "We present AAD-1, an Asymmetric Adversarial Distillation framework for One-step autoregressive image-to-video generation. State-of-the-art methods adopt adversarial distillation but suffer from motion collapse and training instability, resulting in static videos. AAD-1 addresses these challenges through two key designs in architecture and training strategy. Our key architectural insight is to break the symmetry between generator and discriminator. While the generator remains causal to preserve a",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    }
+  ],
+  "stats": {
+    "totalCollected": 67,
+    "totalScored": 67,
+    "totalPublished": 30
+  }
+}
