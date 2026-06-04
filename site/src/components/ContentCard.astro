@@ -9,6 +9,7 @@ interface Props {
   author: string;
   publishedAt: string;
   finalScore: number;
+  category?: string;
   engagement: {
     views?: number;
     likes?: number;
@@ -17,7 +18,7 @@ interface Props {
   };
 }
 
-const { title, titleEn, summary, summaryEn, url, platform, author, publishedAt, finalScore, engagement } = Astro.props;
+const { title, titleEn, summary, summaryEn, url, platform, author, publishedAt, finalScore, category, engagement } = Astro.props;
 
 function getScoreClass(score: number): string {
   if (score >= 7) return "score-high";
@@ -59,7 +60,7 @@ function getPlatformLabel(platform: string): string {
 }
 ---
 
-<article class="card" data-platform={platform}>
+<article class="card" data-platform={platform} data-category={category || "讨论"}>
   <div class="card-header">
     <h3 class="card-title">
       <a href={url} target="_blank" rel="noopener">

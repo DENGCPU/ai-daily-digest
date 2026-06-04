@@ -1,9 +1,11 @@
 ---
 interface Props {
   title: string;
+  dates?: string[];
+  currentDate?: string;
 }
 
-const { title } = Astro.props;
+const { title, dates = [], currentDate } = Astro.props;
 import "../styles/global.css";
 import SearchBar from "../components/SearchBar.astro";
 ---
@@ -17,15 +19,68 @@ import SearchBar from "../components/SearchBar.astro";
     <link rel="alternate" type="application/rss+xml" title="AI Daily Digest" href="/rss.xml" />
   </head>
   <body>
-    <div class="container">
-      <SearchBar />
-      <slot />
+    <div class="app-layout">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h1>AI Daily Digest</h1>
+          <p><span class="i18n-zh">AI 日报</span><span class="i18n-en" style="display:none">Daily AI Updates</span></p>
+        </div>
+        <div class="sidebar-section-title">
+          <span class="i18n-zh">历史日期</span><span class="i18n-en" style="display:none">Archive</span>
+        </div>
+        <nav class="sidebar-dates">
+          {dates.map((d) => (
+            <a href={d === dates[0] ? "/" : `/${d}`} class={d === currentDate ? "active" : ""}>{d}</a>
+          ))}
+        </nav>
+        <div class="sidebar-footer">
+          <div class="theme-toggle" id="theme-toggle">
+            <span id="theme-icon">☀️</span>
+            <span class="i18n-zh">切换主题</span><span class="i18n-en" style="display:none">Toggle theme</span>
+          </div>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <SearchBar />
+        <slot />
+        <footer>
+          <p>Powered by Qwen-Plus · GitHub Actions · Cloudflare Pages</p>
+        </footer>
+      </main>
     </div>
-    <footer>
-      <p>Powered by Qwen-Plus · GitHub Actions · Cloudflare Pages</p>
-    </footer>
+
+    <div class="mobile-nav">
+      {dates.slice(0, 7).map((d) => (
+        <a href={d === dates[0] ? "/" : `/${d}`} class={d === currentDate ? "active" : ""}>{d}</a>
+      ))}
+    </div>
+
     <script is:inline>
       (function() {
+        // Theme
+        var theme = localStorage.getItem("theme") || "light";
+        if (theme === "dark") document.documentElement.setAttribute("data-theme", "dark");
+        function applyTheme(t) {
+          if (t === "dark") {
+            document.documentElement.setAttribute("data-theme", "dark");
+          } else {
+            document.documentElement.removeAttribute("data-theme");
+          }
+          var icon = document.getElementById("theme-icon");
+          if (icon) icon.textContent = t === "dark" ? "🌙" : "☀️";
+        }
+        applyTheme(theme);
+        document.addEventListener("click", function(e) {
+          var toggle = e.target.closest("#theme-toggle");
+          if (toggle) {
+            theme = theme === "dark" ? "light" : "dark";
+            localStorage.setItem("theme", theme);
+            applyTheme(theme);
+          }
+        });
+
+        // Language
         var lang = localStorage.getItem("lang") || "zh";
         function applyLang(l) {
           var zhEls = document.querySelectorAll(".i18n-zh");

@@ -1,7 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import ContentCard from "../components/ContentCard.astro";
-import FilterBar from "../components/FilterBar.astro";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -20,84 +19,74 @@ if (fs.existsSync(dataDir)) {
 }
 
 const CATEGORIES = [
-  { key: "工具", label: "工具", labelEn: "Tools", emoji: "🛠️" },
-  { key: "开源", label: "开源", labelEn: "Open Source", emoji: "📦" },
-  { key: "论文", label: "论文", labelEn: "Research", emoji: "📄" },
-  { key: "教程", label: "教程", labelEn: "Tutorials", emoji: "📚" },
-  { key: "讨论", label: "讨论", labelEn: "Discussion", emoji: "💬" },
+  { key: "all", label: "全部", labelEn: "All" },
+  { key: "工具", label: "工具", labelEn: "Tools" },
+  { key: "开源", label: "开源", labelEn: "Open Source" },
+  { key: "论文", label: "论文", labelEn: "Research" },
+  { key: "教程", label: "教程", labelEn: "Tutorials" },
+  { key: "讨论", label: "讨论", labelEn: "Discussion" },
 ];
 
-function groupByCategory(items: any[]) {
-  const groups: Record<string, any[]> = {};
+function countByCategory(items: any[]) {
+  const counts: Record<string, number> = { all: items.length };
   for (const item of items) {
     const cat = item.category || "讨论";
-    if (!groups[cat]) groups[cat] = [];
-    groups[cat].push(item);
+    counts[cat] = (counts[cat] || 0) + 1;
   }
-  return groups;
+  return counts;
 }
 
-const grouped = digest ? groupByCategory(digest.items) : {};
+const counts = digest ? countByCategory(digest.items) : {};
 ---
 
-<Layout title="AI Daily Digest">
-  <header>
-    <div class="header-top">
-      <h1>AI Daily Digest</h1>
+<Layout title="AI Daily Digest" dates={dates} currentDate={digest?.date}>
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <h2 class="page-title">{digest?.date || "AI Daily Digest"}</h2>
+      {digest && (
+        <div class="stats">
+          <span><span class="i18n-zh">采集</span><span class="i18n-en" style="display:none">Collected</span> {digest.stats.totalCollected}</span>
+          <span><span class="i18n-zh">精选</span><span class="i18n-en" style="display:none">Selected</span> {digest.stats.totalPublished}</span>
+        </div>
+      )}
+    </div>
+    <div class="top-bar-right">
       <button id="lang-toggle" class="lang-btn">EN</button>
     </div>
-    <p>
-      <span class="i18n-zh">每日精选 AI 动态 · 自动聚合自 6 大平台</span>
-      <span class="i18n-en" style="display:none">Daily curated AI updates from 6 platforms</span>
-    </p>
-    {digest && (
-      <div class="stats">
-        <span><span class="i18n-zh">日期</span><span class="i18n-en" style="display:none">Date</span>: {digest.date}</span>
-        <span><span class="i18n-zh">采集</span><span class="i18n-en" style="display:none">Collected</span>: {digest.stats.totalCollected}</span>
-        <span><span class="i18n-zh">精选</span><span class="i18n-en" style="display:none">Selected</span>: {digest.stats.totalPublished}</span>
-      </div>
-    )}
-    {dates.length > 1 && (
-      <div class="date-nav">
-        <a href={`/${dates[1]}`}>← {dates[1]}</a>
-        <a class="active"><span class="i18n-zh">最新</span><span class="i18n-en" style="display:none">Latest</span></a>
-      </div>
-    )}
-  </header>
+  </div>
 
   {digest && digest.items.length > 0 ? (
     <>
-      <FilterBar platforms={["hackernews", "github", "huggingface", "producthunt", "arxiv", "devto"]} />
-      {CATEGORIES.map((cat) => {
-        const items = grouped[cat.key];
-        if (!items || items.length === 0) return null;
-        return (
-          <section class="category-section">
-            <h2 class="category-title">
-              <span class="category-emoji">{cat.emoji}</span>
+      <div class="category-tabs">
+        {CATEGORIES.map((cat) => {
+          const count = counts[cat.key] || 0;
+          if (cat.key !== "all" && count === 0) return null;
+          return (
+            <button class={`category-tab ${cat.key === "all" ? "active" : ""}`} data-category={cat.key}>
               <span class="i18n-zh">{cat.label}</span>
               <span class="i18n-en" style="display:none">{cat.labelEn}</span>
-              <span class="category-count">{items.length}</span>
-            </h2>
-            <div class="cards">
-              {items.map((item: any) => (
-                <ContentCard
-                  title={item.title}
-                  titleEn={item.titleEn}
-                  summary={item.summary}
-                  summaryEn={item.summaryEn}
-                  url={item.url}
-                  platform={item.platform}
-                  author={item.author}
-                  publishedAt={item.publishedAt}
-                  finalScore={item.finalScore}
-                  engagement={item.engagement}
-                />
-              ))}
-            </div>
-          </section>
-        );
-      })}
+              <span class="tab-count">{count}</span>
+            </button>
+          );
+        })}
+      </div>
+      <div class="cards">
+        {digest.items.map((item: any) => (
+          <ContentCard
+            title={item.title}
+            titleEn={item.titleEn}
+            summary={item.summary}
+            summaryEn={item.summaryEn}
+            url={item.url}
+            platform={item.platform}
+            author={item.author}
+            publishedAt={item.publishedAt}
+            finalScore={item.finalScore}
+            engagement={item.engagement}
+            category={item.category}
+          />
+        ))}
+      </div>
     </>
   ) : (
     <div class="empty-state">
@@ -106,3 +95,25 @@ const grouped = digest ? groupByCategory(digest.items) : {};
     </div>
   )}
 </Layout>
+
+<script>
+  const tabs = document.querySelectorAll(".category-tab");
+  const cards = document.querySelectorAll(".card");
+
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => {
+      tabs.forEach((t) => t.classList.remove("active"));
+      tab.classList.add("active");
+
+      const category = (tab as HTMLElement).dataset.category;
+      cards.forEach((card) => {
+        const el = card as HTMLElement;
+        if (category === "all" || el.dataset.category === category) {
+          el.style.display = "";
+        } else {
+          el.style.display = "none";
+        }
+      });
+    });
+  });
+</script>
