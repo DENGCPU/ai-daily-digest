@@ -27,9 +27,10 @@ export const config = {
     minScore: 10,
   },
 
-  gemini: {
-    apiKey: process.env.GEMINI_API_KEY || "",
-    model: "gemini-2.0-flash",
+  llm: {
+    apiKey: process.env.LLM_API_KEY || process.env.GEMINI_API_KEY || "",
+    baseUrl: process.env.LLM_BASE_URL || "https://api.deepseek.com",
+    model: process.env.LLM_MODEL || "deepseek-chat",
     maxConcurrent: 5,
     requestIntervalMs: 1000,
   },

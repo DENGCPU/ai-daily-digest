@@ -1,4 +1,3 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
 import { config } from "../config.js";
 import { SCORING_PROMPT } from "./prompts.js";
 import type { ContentItem, LLMScores, Category } from "../types.js";
@@ -24,22 +23,14 @@ const DEFAULT_SCORES: ScoringResult = {
 export async function scoreItems(
   items: ContentItem[]
 ): Promise<Map<string, ScoringResult>> {
-  const genAI = new GoogleGenerativeAI(config.gemini.apiKey);
-  const model = genAI.getGenerativeModel({
-    model: config.gemini.model,
-    generationConfig: {
-      responseMimeType: "application/json",
-    },
-  });
-
   const results = new Map<string, ScoringResult>();
-  const semaphore = new Semaphore(config.gemini.maxConcurrent);
+  const semaphore = new Semaphore(config.llm.maxConcurrent);
 
   const tasks = items.map((item) =>
     semaphore.run(async () => {
-      const result = await scoreItem(model, item);
+      const result = await scoreItem(item);
       results.set(item.id, result);
-      await sleep(config.gemini.requestIntervalMs);
+      await sleep(config.llm.requestIntervalMs);
     })
   );
 
@@ -47,18 +38,41 @@ export async function scoreItems(
   return results;
 }
 
-async function scoreItem(
-  model: any,
-  item: ContentItem
-): Promise<ScoringResult> {
+async function scoreItem(item: ContentItem): Promise<ScoringResult> {
   const prompt = SCORING_PROMPT.replace("{title}", item.title)
     .replace("{platform}", item.platform)
     .replace("{content}", item.rawContent.slice(0, 1000));
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      const result = await model.generateContent(prompt);
-      const text = result.response.text();
+      const response = await fetch(`${config.llm.baseUrl}/v1/chat/completions`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${config.llm.apiKey}`,
+        },
+        body: JSON.stringify({
+          model: config.llm.model,
+          messages: [{ role: "user", content: prompt }],
+          response_format: { type: "json_object" },
+          temperature: 0.3,
+        }),
+      });
+
+      if (response.status === 429) {
+        if (attempt === 0) {
+          await sleep(5000);
+          continue;
+        }
+        throw new Error("Rate limited");
+      }
+
+      if (!response.ok) {
+        throw new Error(`API error: ${response.status} ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      const text = data.choices?.[0]?.message?.content || "";
       const parsed = JSON.parse(text);
 
       const scores: LLMScores = {
@@ -79,10 +93,6 @@ async function scoreItem(
         category,
       };
     } catch (error: any) {
-      if (attempt === 0 && error?.status === 429) {
-        await sleep(5000);
-        continue;
-      }
       if (attempt === 0) continue;
       console.warn(`Scoring failed for "${item.title}":`, error?.message);
       return DEFAULT_SCORES;
