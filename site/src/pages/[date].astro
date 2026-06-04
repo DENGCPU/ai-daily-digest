@@ -23,6 +23,34 @@ let digest = null;
 if (fs.existsSync(filePath)) {
   digest = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 }
+
+const allDates = fs.existsSync(dataDir)
+  ? fs.readdirSync(dataDir).filter((f) => f.endsWith(".json")).map((f) => f.replace(".json", "")).sort().reverse()
+  : [];
+
+const currentIdx = allDates.indexOf(date!);
+const prevDate = currentIdx < allDates.length - 1 ? allDates[currentIdx + 1] : null;
+const nextDate = currentIdx > 0 ? allDates[currentIdx - 1] : null;
+
+const CATEGORIES = [
+  { key: "工具", label: "工具", labelEn: "Tools", emoji: "🛠️" },
+  { key: "开源", label: "开源", labelEn: "Open Source", emoji: "📦" },
+  { key: "论文", label: "论文", labelEn: "Research", emoji: "📄" },
+  { key: "教程", label: "教程", labelEn: "Tutorials", emoji: "📚" },
+  { key: "讨论", label: "讨论", labelEn: "Discussion", emoji: "💬" },
+];
+
+function groupByCategory(items: any[]) {
+  const groups: Record<string, any[]> = {};
+  for (const item of items) {
+    const cat = item.category || "讨论";
+    if (!groups[cat]) groups[cat] = [];
+    groups[cat].push(item);
+  }
+  return groups;
+}
+
+const grouped = digest ? groupByCategory(digest.items) : {};
 ---
 
 <Layout title={`AI Daily Digest - ${date}`}>
@@ -31,42 +59,61 @@ if (fs.existsSync(filePath)) {
       <h1>AI Daily Digest</h1>
       <button id="lang-toggle" class="lang-btn">EN</button>
     </div>
-    <p>{date} · <span class="i18n-zh">每日精选 AI 工具动态</span><span class="i18n-en" style="display:none">Daily curated AI updates</span></p>
+    <p>
+      <span class="i18n-zh">每日精选 AI 动态 · 自动聚合自 6 大平台</span>
+      <span class="i18n-en" style="display:none">Daily curated AI updates from 6 platforms</span>
+    </p>
     {digest && (
       <div class="stats">
+        <span><span class="i18n-zh">日期</span><span class="i18n-en" style="display:none">Date</span>: {date}</span>
         <span><span class="i18n-zh">采集</span><span class="i18n-en" style="display:none">Collected</span>: {digest.stats.totalCollected}</span>
         <span><span class="i18n-zh">精选</span><span class="i18n-en" style="display:none">Selected</span>: {digest.stats.totalPublished}</span>
       </div>
     )}
     <div class="date-nav">
-      <a href="/">← <span class="i18n-zh">返回最新</span><span class="i18n-en" style="display:none">Latest</span></a>
+      {prevDate && <a href={`/${prevDate}`}>← {prevDate}</a>}
+      <a href="/" class={nextDate ? "" : "active"}><span class="i18n-zh">最新</span><span class="i18n-en" style="display:none">Latest</span></a>
+      {nextDate && <a href={`/${nextDate}`}>{nextDate} →</a>}
     </div>
   </header>
 
   {digest && digest.items.length > 0 ? (
     <>
       <FilterBar platforms={["hackernews", "github", "huggingface", "producthunt", "arxiv", "devto"]} />
-      <div class="cards">
-        {digest.items.map((item: any) => (
-          <ContentCard
-            title={item.title}
-            titleEn={item.titleEn}
-            summary={item.summary}
-            summaryEn={item.summaryEn}
-            url={item.url}
-            platform={item.platform}
-            author={item.author}
-            publishedAt={item.publishedAt}
-            finalScore={item.finalScore}
-            engagement={item.engagement}
-          />
-        ))}
-      </div>
+      {CATEGORIES.map((cat) => {
+        const items = grouped[cat.key];
+        if (!items || items.length === 0) return null;
+        return (
+          <section class="category-section">
+            <h2 class="category-title">
+              <span class="category-emoji">{cat.emoji}</span>
+              <span class="i18n-zh">{cat.label}</span>
+              <span class="i18n-en" style="display:none">{cat.labelEn}</span>
+              <span class="category-count">{items.length}</span>
+            </h2>
+            <div class="cards">
+              {items.map((item: any) => (
+                <ContentCard
+                  title={item.title}
+                  titleEn={item.titleEn}
+                  summary={item.summary}
+                  summaryEn={item.summaryEn}
+                  url={item.url}
+                  platform={item.platform}
+                  author={item.author}
+                  publishedAt={item.publishedAt}
+                  finalScore={item.finalScore}
+                  engagement={item.engagement}
+                />
+              ))}
+            </div>
+          </section>
+        );
+      })}
     </>
   ) : (
     <div class="empty-state">
       <p><span class="i18n-zh">该日期暂无数据</span><span class="i18n-en" style="display:none">No data for this date</span></p>
-      <a href="/"><span class="i18n-zh">返回最新</span><span class="i18n-en" style="display:none">Back to latest</span></a>
     </div>
   )}
 </Layout>

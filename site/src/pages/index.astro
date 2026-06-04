@@ -59,9 +59,8 @@ const grouped = digest ? groupByCategory(digest.items) : {};
     )}
     {dates.length > 1 && (
       <div class="date-nav">
-        {dates.slice(0, 7).map((d) => (
-          <a href={`/${d}`} class={d === digest?.date ? "active" : ""}>{d}</a>
-        ))}
+        <a href={`/${dates[1]}`}>← {dates[1]}</a>
+        <a class="active"><span class="i18n-zh">最新</span><span class="i18n-en" style="display:none">Latest</span></a>
       </div>
     )}
   </header>
