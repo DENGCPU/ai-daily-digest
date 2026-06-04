@@ -15,6 +15,14 @@
   --youtube-bg: rgba(255, 78, 78, 0.08);
   --reddit: #ff6b35;
   --reddit-bg: rgba(255, 107, 53, 0.08);
+  --hackernews: #ff6600;
+  --hackernews-bg: rgba(255, 102, 0, 0.08);
+  --github: #8b5cf6;
+  --github-bg: rgba(139, 92, 246, 0.08);
+  --huggingface: #ffcd00;
+  --huggingface-bg: rgba(255, 205, 0, 0.08);
+  --producthunt: #da552f;
+  --producthunt-bg: rgba(218, 85, 47, 0.08);
   --score-high: #4ade80;
   --score-high-bg: rgba(74, 222, 128, 0.1);
   --score-mid: #fbbf24;
@@ -122,7 +130,15 @@ header > p {
   display: flex;
   gap: 0.5rem;
   margin-bottom: 1.75rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 0.25rem;
+}
+
+.filter-bar::-webkit-scrollbar {
+  display: none;
 }
 
 .filter-btn {
@@ -255,6 +271,26 @@ header > p {
 .platform-reddit {
   background: var(--reddit-bg);
   color: var(--reddit);
+}
+
+.platform-hackernews {
+  background: var(--hackernews-bg);
+  color: var(--hackernews);
+}
+
+.platform-github {
+  background: var(--github-bg);
+  color: var(--github);
+}
+
+.platform-huggingface {
+  background: var(--huggingface-bg);
+  color: var(--huggingface);
+}
+
+.platform-producthunt {
+  background: var(--producthunt-bg);
+  color: var(--producthunt);
 }
 
 .card-link {

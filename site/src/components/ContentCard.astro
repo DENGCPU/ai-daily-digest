@@ -3,7 +3,7 @@ interface Props {
   title: string;
   summary: string;
   url: string;
-  platform: "youtube" | "reddit";
+  platform: "youtube" | "reddit" | "hackernews" | "github" | "huggingface" | "producthunt";
   author: string;
   publishedAt: string;
   finalScore: number;
@@ -23,12 +23,37 @@ function getScoreClass(score: number): string {
 }
 
 function formatEngagement(platform: string, engagement: any): string {
-  if (platform === "youtube") {
-    const views = engagement.views || 0;
-    if (views >= 1000) return `${(views / 1000).toFixed(1)}K views`;
-    return `${views} views`;
+  switch (platform) {
+    case "youtube": {
+      const views = engagement.views || 0;
+      if (views >= 1000) return `${(views / 1000).toFixed(1)}K views`;
+      return `${views} views`;
+    }
+    case "reddit":
+    case "hackernews":
+      return `↑${engagement.score || 0} · ${engagement.comments || 0} comments`;
+    case "github": {
+      const stars = engagement.likes || 0;
+      if (stars >= 1000) return `★${(stars / 1000).toFixed(1)}K`;
+      return `★${stars}`;
+    }
+    case "huggingface":
+      return `👍${engagement.likes || 0}`;
+    case "producthunt":
+      return `▲${engagement.likes || 0} · ${engagement.comments || 0} comments`;
+    default:
+      return `↑${engagement.score || 0}`;
   }
-  return `↑${engagement.score || 0} · ${engagement.comments || 0} comments`;
+}
+
+function getPlatformLabel(platform: string): string {
+  switch (platform) {
+    case "hackernews": return "HN";
+    case "github": return "GitHub";
+    case "huggingface": return "HF Papers";
+    case "producthunt": return "PH";
+    default: return platform;
+  }
 }
 ---
 
@@ -44,7 +69,7 @@ function formatEngagement(platform: string, engagement: any): string {
   <p class="card-summary">{summary}</p>
   <div class="card-meta">
     <div class="card-meta-left">
-      <span class={`platform-tag platform-${platform}`}>{platform}</span>
+      <span class={`platform-tag platform-${platform}`}>{getPlatformLabel(platform)}</span>
       <span>{author}</span>
       <span>·</span>
       <span>{formatEngagement(platform, engagement)}</span>
