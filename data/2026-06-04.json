@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T08:28:02.089Z",
+  "generatedAt": "2026-06-04T09:23:35.412Z",
   "items": [
     {
       "id": "hn-48383220",
@@ -11,8 +11,8 @@
       "publishedAt": "2026-06-03T12:42:07.000Z",
       "rawContent": "Meta workers can opt out of being tracked at work up to 30 min",
       "engagement": {
-        "score": 727,
-        "comments": 691
+        "score": 730,
+        "comments": 695
       },
       "scores": {
         "relevance": 5,
@@ -20,6 +20,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 1,
       "finalScore": 7.5
     },
@@ -32,8 +35,8 @@
       "publishedAt": "2026-06-03T12:25:14.000Z",
       "rawContent": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
       "engagement": {
-        "score": 468,
-        "comments": 586
+        "score": 480,
+        "comments": 600
       },
       "scores": {
         "relevance": 5,
@@ -41,6 +44,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.9375,
       "finalScore": 7.34375
     },
@@ -53,8 +59,8 @@
       "publishedAt": "2026-06-03T16:04:42.000Z",
       "rawContent": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "engagement": {
-        "score": 817,
-        "comments": 322
+        "score": 829,
+        "comments": 323
       },
       "scores": {
         "relevance": 5,
@@ -62,6 +68,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.875,
       "finalScore": 7.1875
     },
@@ -74,8 +83,8 @@
       "publishedAt": "2026-06-04T00:56:32.000Z",
       "rawContent": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "engagement": {
-        "score": 189,
-        "comments": 77
+        "score": 207,
+        "comments": 84
       },
       "scores": {
         "relevance": 5,
@@ -83,6 +92,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.8125,
       "finalScore": 7.03125
     },
@@ -95,8 +107,8 @@
       "publishedAt": "2026-06-03T17:12:27.000Z",
       "rawContent": "Gooey: A GPU-accelerated UI framework for Zig",
       "engagement": {
-        "score": 175,
-        "comments": 67
+        "score": 177,
+        "comments": 68
       },
       "scores": {
         "relevance": 5,
@@ -104,6 +116,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.75,
       "finalScore": 6.875
     },
@@ -116,8 +131,8 @@
       "publishedAt": "2026-06-04T00:27:52.000Z",
       "rawContent": "The ways we contain Claude across products",
       "engagement": {
-        "score": 115,
-        "comments": 50
+        "score": 122,
+        "comments": 54
       },
       "scores": {
         "relevance": 5,
@@ -125,6 +140,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.6875,
       "finalScore": 6.71875
     },
@@ -137,7 +155,7 @@
       "publishedAt": "2026-06-03T17:39:53.000Z",
       "rawContent": "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
       "engagement": {
-        "score": 65,
+        "score": 67,
         "comments": 58
       },
       "scores": {
@@ -146,6 +164,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.625,
       "finalScore": 6.5625
     },
@@ -158,7 +179,7 @@
       "publishedAt": "2026-06-03T16:24:46.000Z",
       "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
       "engagement": {
-        "score": 120,
+        "score": 121,
         "comments": 27
       },
       "scores": {
@@ -167,6 +188,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.5625,
       "finalScore": 6.40625
     },
@@ -188,6 +212,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.5,
       "finalScore": 6.25
     },
@@ -200,8 +227,8 @@
       "publishedAt": "2026-06-03T19:43:37.000Z",
       "rawContent": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
       "engagement": {
-        "score": 86,
-        "comments": 21
+        "score": 89,
+        "comments": 24
       },
       "scores": {
         "relevance": 5,
@@ -209,6 +236,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.4375,
       "finalScore": 6.09375
     },
@@ -221,8 +251,8 @@
       "publishedAt": "2026-06-03T21:32:10.000Z",
       "rawContent": "A Mathematician's Lament (2002) [pdf]",
       "engagement": {
-        "score": 74,
-        "comments": 4
+        "score": 78,
+        "comments": 5
       },
       "scores": {
         "relevance": 5,
@@ -230,6 +260,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.375,
       "finalScore": 5.9375
     },
@@ -242,7 +275,7 @@
       "publishedAt": "2026-06-03T17:50:16.000Z",
       "rawContent": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
       "engagement": {
-        "score": 68,
+        "score": 69,
         "comments": 5
       },
       "scores": {
@@ -251,6 +284,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.3125,
       "finalScore": 5.78125
     },
@@ -263,7 +299,7 @@
       "publishedAt": "2026-06-03T20:32:10.000Z",
       "rawContent": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
       "engagement": {
-        "score": 42,
+        "score": 43,
         "comments": 17
       },
       "scores": {
@@ -272,6 +308,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.25,
       "finalScore": 5.625
     },
@@ -284,7 +323,7 @@
       "publishedAt": "2026-06-03T16:00:09.000Z",
       "rawContent": "It&#x27;s our new text-to-image model: a 9.3B single-stream diffusion transformer trained entirely from scratch.<p>We focused heavily on controllability through structured JSON prompts, with strong text rendering, spatial awareness through bounding box guidance, and color palette control.<p>It has the best text rendering of any open-weight model we&#x27;ve tested so far, and the NF4 quantized checkpoint runs on a single 24GB GPU.<p>For more technical details and examples see our blog post: <a hr",
       "engagement": {
-        "score": 41,
+        "score": 42,
         "comments": 8
       },
       "scores": {
@@ -293,6 +332,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.1875,
       "finalScore": 5.46875
     },
@@ -314,6 +356,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.125,
       "finalScore": 5.3125
     },
@@ -335,6 +380,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0.0625,
       "finalScore": 5.15625
     },
@@ -356,6 +404,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -374,6 +425,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -392,6 +446,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -410,6 +467,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -428,6 +488,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -446,6 +509,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -464,6 +530,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -482,6 +551,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -500,6 +572,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -518,6 +593,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -536,6 +614,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -554,6 +635,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -572,6 +656,9 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     },
@@ -590,13 +677,16 @@
         "actionability": 5
       },
       "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
     }
   ],
   "stats": {
     "totalCollected": 67,
-    "totalScored": 67,
+    "totalScored": 37,
     "totalPublished": 30
   }
 }
