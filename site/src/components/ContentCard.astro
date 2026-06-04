@@ -1,7 +1,9 @@
 ---
 interface Props {
   title: string;
+  titleEn?: string;
   summary: string;
+  summaryEn?: string;
   url: string;
   platform: "youtube" | "reddit" | "hackernews" | "github" | "huggingface" | "producthunt";
   author: string;
@@ -15,7 +17,7 @@ interface Props {
   };
 }
 
-const { title, summary, url, platform, author, publishedAt, finalScore, engagement } = Astro.props;
+const { title, titleEn, summary, summaryEn, url, platform, author, publishedAt, finalScore, engagement } = Astro.props;
 
 function getScoreClass(score: number): string {
   if (score >= 7) return "score-high";
@@ -60,13 +62,19 @@ function getPlatformLabel(platform: string): string {
 <article class="card" data-platform={platform}>
   <div class="card-header">
     <h3 class="card-title">
-      <a href={url} target="_blank" rel="noopener">{title}</a>
+      <a href={url} target="_blank" rel="noopener">
+        <span class="i18n-zh">{title}</span>
+        <span class="i18n-en" style="display:none">{titleEn || title}</span>
+      </a>
     </h3>
     <span class={`card-score ${getScoreClass(finalScore)}`}>
       {finalScore.toFixed(1)}
     </span>
   </div>
-  <p class="card-summary">{summary}</p>
+  <p class="card-summary">
+    <span class="i18n-zh">{summary}</span>
+    <span class="i18n-en" style="display:none">{summaryEn || summary}</span>
+  </p>
   <div class="card-meta">
     <div class="card-meta-left">
       <span class={`platform-tag platform-${platform}`}>{getPlatformLabel(platform)}</span>
@@ -75,7 +83,8 @@ function getPlatformLabel(platform: string): string {
       <span>{formatEngagement(platform, engagement)}</span>
     </div>
     <a href={url} target="_blank" rel="noopener" class="card-link">
-      查看原文 →
+      <span class="i18n-zh">查看原文 →</span>
+      <span class="i18n-en" style="display:none">View →</span>
     </a>
   </div>
 </article>

@@ -16,9 +16,14 @@ export interface EngagementData {
   score?: number;
 }
 
+export type Category = "工具" | "开源" | "论文" | "教程" | "讨论";
+
 export interface ScoredItem extends ContentItem {
   scores: LLMScores;
   summary: string;
+  summaryEn: string;
+  titleEn: string;
+  category: Category;
   engagementPercentile: number;
   finalScore: number;
 }

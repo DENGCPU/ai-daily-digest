@@ -6,6 +6,8 @@ import { collectHuggingFace } from "./collectors/huggingface.js";
 import { collectProductHunt } from "./collectors/producthunt.js";
 import { scoreItems } from "./scoring/llm-scorer.js";
 import { rankAndFilter } from "./scoring/ranker.js";
+import { prefilterByEngagement } from "./scoring/prefilter.js";
+import { generateWechatHtml } from "./output/wechat-html.js";
 import { config } from "./config.js";
 import type { ContentItem, DailyDigest } from "./types.js";
 import { mkdir, writeFile } from "fs/promises";
@@ -79,14 +81,18 @@ async function main() {
 
   console.log(`Total collected: ${allItems.length} items`);
 
+  // Pre-filter: top 20 per platform by engagement
+  const filteredItems = prefilterByEngagement(allItems);
+  console.log(`After pre-filter: ${filteredItems.length} items (from ${allItems.length})`);
+
   // Score with LLM
   console.log("Scoring with Gemini Flash...");
-  const scoringResults = await scoreItems(allItems);
+  const scoringResults = await scoreItems(filteredItems);
   console.log(`Scored: ${scoringResults.size} items`);
 
   // Rank and filter
   console.log("Ranking and filtering...");
-  const rankedItems = rankAndFilter(allItems, scoringResults);
+  const rankedItems = rankAndFilter(filteredItems, scoringResults);
   console.log(`Final selection: ${rankedItems.length} items`);
 
   // Write output
@@ -105,6 +111,15 @@ async function main() {
   const outputPath = join(config.output.dataDir, `${date}.json`);
   await writeFile(outputPath, JSON.stringify(digest, null, 2));
   console.log(`Output written to ${outputPath}`);
+
+  // Generate WeChat HTML article
+  const wechatDir = join(config.output.dataDir, "wechat");
+  await mkdir(wechatDir, { recursive: true });
+  const wechatPath = join(wechatDir, `${date}.html`);
+  const wechatHtml = generateWechatHtml(rankedItems, date);
+  await writeFile(wechatPath, wechatHtml);
+  console.log(`WeChat article written to ${wechatPath}`);
+
   console.log("Done!");
 }
 

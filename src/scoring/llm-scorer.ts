@@ -1,16 +1,24 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { config } from "../config.js";
 import { SCORING_PROMPT } from "./prompts.js";
-import type { ContentItem, LLMScores } from "../types.js";
+import type { ContentItem, LLMScores, Category } from "../types.js";
+
+const VALID_CATEGORIES: Category[] = ["工具", "开源", "论文", "教程", "讨论"];
 
 export interface ScoringResult {
   scores: LLMScores;
   summary: string;
+  summaryEn: string;
+  titleEn: string;
+  category: Category;
 }
 
 const DEFAULT_SCORES: ScoringResult = {
   scores: { relevance: 5, novelty: 5, actionability: 5 },
   summary: "评分失败，使用默认分数",
+  summaryEn: "Scoring failed, using default scores",
+  titleEn: "",
+  category: "讨论",
 };
 
 export async function scoreItems(
@@ -59,7 +67,17 @@ async function scoreItem(
         actionability: clamp(parsed.actionability, 1, 10),
       };
 
-      return { scores, summary: parsed.summary || "无摘要" };
+      const category: Category = VALID_CATEGORIES.includes(parsed.category)
+        ? parsed.category
+        : "讨论";
+
+      return {
+        scores,
+        summary: parsed.summary || "无摘要",
+        summaryEn: parsed.summaryEn || "",
+        titleEn: parsed.titleEn || item.title,
+        category,
+      };
     } catch (error: any) {
       if (attempt === 0 && error?.status === 429) {
         await sleep(5000);

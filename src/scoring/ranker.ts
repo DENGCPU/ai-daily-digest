@@ -37,6 +37,9 @@ export function rankAndFilter(
         ...item,
         scores: scoringResult.scores,
         summary: scoringResult.summary,
+        summaryEn: scoringResult.summaryEn,
+        titleEn: scoringResult.titleEn,
+        category: scoringResult.category,
         engagementPercentile,
         finalScore,
       });
@@ -62,7 +65,7 @@ function groupByPlatform(
   return groups;
 }
 
-function getEngagementValue(item: ContentItem): number {
+export function getEngagementValue(item: ContentItem): number {
   switch (item.platform) {
     case "youtube":
       return (item.engagement.views || 0) + (item.engagement.likes || 0) * 10;

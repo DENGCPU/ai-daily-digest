@@ -27,16 +27,19 @@ if (fs.existsSync(filePath)) {
 
 <Layout title={`AI Daily Digest - ${date}`}>
   <header>
-    <h1>AI Daily Digest</h1>
-    <p>{date} · 每日精选 AI 工具动态</p>
+    <div class="header-top">
+      <h1>AI Daily Digest</h1>
+      <button id="lang-toggle" class="lang-btn">EN</button>
+    </div>
+    <p>{date} · <span class="i18n-zh">每日精选 AI 工具动态</span><span class="i18n-en" style="display:none">Daily curated AI updates</span></p>
     {digest && (
       <div class="stats">
-        <span>采集: {digest.stats.totalCollected}</span>
-        <span>精选: {digest.stats.totalPublished}</span>
+        <span><span class="i18n-zh">采集</span><span class="i18n-en" style="display:none">Collected</span>: {digest.stats.totalCollected}</span>
+        <span><span class="i18n-zh">精选</span><span class="i18n-en" style="display:none">Selected</span>: {digest.stats.totalPublished}</span>
       </div>
     )}
     <div class="date-nav">
-      <a href="/">← 返回最新</a>
+      <a href="/">← <span class="i18n-zh">返回最新</span><span class="i18n-en" style="display:none">Latest</span></a>
     </div>
   </header>
 
@@ -47,7 +50,9 @@ if (fs.existsSync(filePath)) {
         {digest.items.map((item: any) => (
           <ContentCard
             title={item.title}
+            titleEn={item.titleEn}
             summary={item.summary}
+            summaryEn={item.summaryEn}
             url={item.url}
             platform={item.platform}
             author={item.author}
@@ -60,8 +65,8 @@ if (fs.existsSync(filePath)) {
     </>
   ) : (
     <div class="empty-state">
-      <p>该日期暂无数据</p>
-      <a href="/">返回最新</a>
+      <p><span class="i18n-zh">该日期暂无数据</span><span class="i18n-en" style="display:none">No data for this date</span></p>
+      <a href="/"><span class="i18n-zh">返回最新</span><span class="i18n-en" style="display:none">Back to latest</span></a>
     </div>
   )}
 </Layout>

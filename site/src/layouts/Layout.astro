@@ -27,5 +27,27 @@ import SearchBar from "../components/SearchBar.astro";
     <footer>
       <p>Powered by Gemini Flash · GitHub Actions · Cloudflare Pages</p>
     </footer>
+    <script is:inline>
+      (function() {
+        var lang = localStorage.getItem("lang") || "zh";
+        function applyLang(l) {
+          var zhEls = document.querySelectorAll(".i18n-zh");
+          var enEls = document.querySelectorAll(".i18n-en");
+          zhEls.forEach(function(el) { el.style.display = l === "zh" ? "" : "none"; });
+          enEls.forEach(function(el) { el.style.display = l === "en" ? "" : "none"; });
+          var btn = document.getElementById("lang-toggle");
+          if (btn) btn.textContent = l === "zh" ? "EN" : "中";
+          document.documentElement.lang = l === "zh" ? "zh-CN" : "en";
+        }
+        applyLang(lang);
+        document.addEventListener("click", function(e) {
+          if (e.target && e.target.id === "lang-toggle") {
+            lang = lang === "zh" ? "en" : "zh";
+            localStorage.setItem("lang", lang);
+            applyLang(lang);
+          }
+        });
+      })();
+    </script>
   </body>
 </html>

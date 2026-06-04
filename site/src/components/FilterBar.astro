@@ -16,7 +16,9 @@ const platformLabels: Record<string, string> = {
 ---
 
 <div class="filter-bar">
-  <button class="filter-btn active" data-filter="all">全部</button>
+  <button class="filter-btn active" data-filter="all">
+    <span class="i18n-zh">全部</span><span class="i18n-en" style="display:none">All</span>
+  </button>
   {platforms.map((p) => (
     <button class="filter-btn" data-filter={p}>{platformLabels[p] || p}</button>
   ))}

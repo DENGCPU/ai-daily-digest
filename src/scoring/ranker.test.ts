@@ -29,8 +29,8 @@ describe("rankAndFilter", () => {
     ];
 
     const scores = new Map<string, ScoringResult>([
-      ["a", { scores: { relevance: 3, novelty: 3, actionability: 3 }, summary: "低" }],
-      ["b", { scores: { relevance: 9, novelty: 8, actionability: 9 }, summary: "高" }],
+      ["a", { scores: { relevance: 3, novelty: 3, actionability: 3 }, summary: "低", summaryEn: "low", titleEn: "Low", category: "讨论" as const }],
+      ["b", { scores: { relevance: 9, novelty: 8, actionability: 9 }, summary: "高", summaryEn: "high", titleEn: "High", category: "工具" as const }],
     ]);
 
     const result = rankAndFilter(items, scores);
@@ -45,8 +45,8 @@ describe("rankAndFilter", () => {
     ];
 
     const scores = new Map<string, ScoringResult>([
-      ["a", { scores: { relevance: 8, novelty: 7, actionability: 6 }, summary: "A" }],
-      ["b", { scores: { relevance: 9, novelty: 8, actionability: 7 }, summary: "B" }],
+      ["a", { scores: { relevance: 8, novelty: 7, actionability: 6 }, summary: "A", summaryEn: "A", titleEn: "A", category: "工具" as const }],
+      ["b", { scores: { relevance: 9, novelty: 8, actionability: 7 }, summary: "B", summaryEn: "B", titleEn: "B", category: "工具" as const }],
     ]);
 
     const result = rankAndFilter(items, scores);
@@ -59,7 +59,7 @@ describe("rankAndFilter", () => {
     ];
 
     const scores = new Map<string, ScoringResult>([
-      ["low", { scores: { relevance: 1, novelty: 1, actionability: 1 }, summary: "低" }],
+      ["low", { scores: { relevance: 1, novelty: 1, actionability: 1 }, summary: "低", summaryEn: "low", titleEn: "Low", category: "讨论" as const }],
     ]);
 
     const result = rankAndFilter(items, scores);
@@ -82,7 +82,7 @@ describe("rankAndFilter", () => {
     const scores = new Map<string, ScoringResult>(
       items.map((item) => [
         item.id,
-        { scores: { relevance: 8, novelty: 7, actionability: 8 }, summary: "测试" },
+        { scores: { relevance: 8, novelty: 7, actionability: 8 }, summary: "测试", summaryEn: "test", titleEn: "Test", category: "工具" as const },
       ])
     );
 

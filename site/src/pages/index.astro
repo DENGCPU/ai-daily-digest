@@ -22,13 +22,19 @@ if (fs.existsSync(dataDir)) {
 
 <Layout title="AI Daily Digest">
   <header>
-    <h1>AI Daily Digest</h1>
-    <p>每日精选 AI 工具动态 · 自动聚合自 6 大平台</p>
+    <div class="header-top">
+      <h1>AI Daily Digest</h1>
+      <button id="lang-toggle" class="lang-btn">EN</button>
+    </div>
+    <p>
+      <span class="i18n-zh">每日精选 AI 工具动态 · 自动聚合自 6 大平台</span>
+      <span class="i18n-en" style="display:none">Daily curated AI updates from 6 platforms</span>
+    </p>
     {digest && (
       <div class="stats">
-        <span>日期: {digest.date}</span>
-        <span>采集: {digest.stats.totalCollected}</span>
-        <span>精选: {digest.stats.totalPublished}</span>
+        <span><span class="i18n-zh">日期</span><span class="i18n-en" style="display:none">Date</span>: {digest.date}</span>
+        <span><span class="i18n-zh">采集</span><span class="i18n-en" style="display:none">Collected</span>: {digest.stats.totalCollected}</span>
+        <span><span class="i18n-zh">精选</span><span class="i18n-en" style="display:none">Selected</span>: {digest.stats.totalPublished}</span>
       </div>
     )}
     {dates.length > 1 && (
@@ -47,7 +53,9 @@ if (fs.existsSync(dataDir)) {
         {digest.items.map((item: any) => (
           <ContentCard
             title={item.title}
+            titleEn={item.titleEn}
             summary={item.summary}
+            summaryEn={item.summaryEn}
             url={item.url}
             platform={item.platform}
             author={item.author}
@@ -60,8 +68,8 @@ if (fs.existsSync(dataDir)) {
     </>
   ) : (
     <div class="empty-state">
-      <p>暂无内容</p>
-      <p>每日数据将在 UTC 08:00 自动更新</p>
+      <p><span class="i18n-zh">暂无内容</span><span class="i18n-en" style="display:none">No content yet</span></p>
+      <p><span class="i18n-zh">每日数据将在北京时间 08:00 自动更新</span><span class="i18n-en" style="display:none">Daily data updates at 08:00 Beijing time</span></p>
     </div>
   )}
 </Layout>
