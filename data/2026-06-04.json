@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T09:23:35.412Z",
+  "generatedAt": "2026-06-04T11:16:09.042Z",
   "items": [
     {
       "id": "hn-48383220",
@@ -11,8 +11,8 @@
       "publishedAt": "2026-06-03T12:42:07.000Z",
       "rawContent": "Meta workers can opt out of being tracked at work up to 30 min",
       "engagement": {
-        "score": 730,
-        "comments": 695
+        "score": 735,
+        "comments": 702
       },
       "scores": {
         "relevance": 5,
@@ -35,8 +35,8 @@
       "publishedAt": "2026-06-03T12:25:14.000Z",
       "rawContent": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
       "engagement": {
-        "score": 480,
-        "comments": 600
+        "score": 501,
+        "comments": 621
       },
       "scores": {
         "relevance": 5,
@@ -47,8 +47,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.9375,
-      "finalScore": 7.34375
+      "engagementPercentile": 0.9411764705882353,
+      "finalScore": 7.352941176470589
     },
     {
       "id": "hn-48385906",
@@ -59,8 +59,8 @@
       "publishedAt": "2026-06-03T16:04:42.000Z",
       "rawContent": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "engagement": {
-        "score": 829,
-        "comments": 323
+        "score": 856,
+        "comments": 335
       },
       "scores": {
         "relevance": 5,
@@ -71,8 +71,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.875,
-      "finalScore": 7.1875
+      "engagementPercentile": 0.8823529411764706,
+      "finalScore": 7.205882352941177
     },
     {
       "id": "hn-48392343",
@@ -83,8 +83,8 @@
       "publishedAt": "2026-06-04T00:56:32.000Z",
       "rawContent": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "engagement": {
-        "score": 207,
-        "comments": 84
+        "score": 237,
+        "comments": 110
       },
       "scores": {
         "relevance": 5,
@@ -95,8 +95,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.8125,
-      "finalScore": 7.03125
+      "engagementPercentile": 0.8235294117647058,
+      "finalScore": 7.0588235294117645
     },
     {
       "id": "hn-48386725",
@@ -107,8 +107,8 @@
       "publishedAt": "2026-06-03T17:12:27.000Z",
       "rawContent": "Gooey: A GPU-accelerated UI framework for Zig",
       "engagement": {
-        "score": 177,
-        "comments": 68
+        "score": 182,
+        "comments": 70
       },
       "scores": {
         "relevance": 5,
@@ -119,8 +119,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.75,
-      "finalScore": 6.875
+      "engagementPercentile": 0.7647058823529411,
+      "finalScore": 6.911764705882353
     },
     {
       "id": "hn-48392082",
@@ -131,7 +131,103 @@
       "publishedAt": "2026-06-04T00:27:52.000Z",
       "rawContent": "The ways we contain Claude across products",
       "engagement": {
-        "score": 122,
+        "score": 141,
+        "comments": 67
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7058823529411765,
+      "finalScore": 6.764705882352942
+    },
+    {
+      "id": "hn-48387095",
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "url": "https://news.ycombinator.com/item?id=48387095",
+      "author": "shalinshah",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T17:39:53.000Z",
+      "rawContent": "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
+      "engagement": {
+        "score": 71,
+        "comments": 61
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6470588235294118,
+      "finalScore": 6.617647058823529
+    },
+    {
+      "id": "hn-48386129",
+      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "url": "https://nutrepedia.com/en-us/",
+      "author": "llovan",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T16:24:46.000Z",
+      "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "engagement": {
+        "score": 123,
+        "comments": 28
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5882352941176471,
+      "finalScore": 6.470588235294118
+    },
+    {
+      "id": "hn-48396004",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "author": "BrunoBernardino",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T08:56:10.000Z",
+      "rawContent": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you&#x27;d like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we&#x27;ve talked with lawyers and are inclined to no longer require the NDA&#x2F;NCC for privacy reasons shared with us before (signing requires identification), but instead use a source-available permissive",
+      "engagement": {
+        "score": 73,
+        "comments": 45
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5294117647058824,
+      "finalScore": 6.323529411764706
+    },
+    {
+      "id": "hn-48391838",
+      "title": "The Ü Programming Language",
+      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+      "author": "deterministic",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T00:00:04.000Z",
+      "rawContent": "The Ü Programming Language",
+      "engagement": {
+        "score": 53,
         "comments": 54
       },
       "scores": {
@@ -143,80 +239,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.6875,
-      "finalScore": 6.71875
-    },
-    {
-      "id": "hn-48387095",
-      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-      "url": "https://news.ycombinator.com/item?id=48387095",
-      "author": "shalinshah",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T17:39:53.000Z",
-      "rawContent": "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
-      "engagement": {
-        "score": 67,
-        "comments": 58
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.625,
-      "finalScore": 6.5625
-    },
-    {
-      "id": "hn-48386129",
-      "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-      "url": "https://nutrepedia.com/en-us/",
-      "author": "llovan",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T16:24:46.000Z",
-      "rawContent": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-      "engagement": {
-        "score": 121,
-        "comments": 27
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.5625,
-      "finalScore": 6.40625
-    },
-    {
-      "id": "hn-48391838",
-      "title": "The Ü Programming Language",
-      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-      "author": "deterministic",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-04T00:00:04.000Z",
-      "rawContent": "The Ü Programming Language",
-      "engagement": {
-        "score": 51,
-        "comments": 51
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.5,
-      "finalScore": 6.25
+      "engagementPercentile": 0.47058823529411764,
+      "finalScore": 6.176470588235294
     },
     {
       "id": "hn-48388909",
@@ -227,8 +251,8 @@
       "publishedAt": "2026-06-03T19:43:37.000Z",
       "rawContent": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
       "engagement": {
-        "score": 89,
-        "comments": 24
+        "score": 94,
+        "comments": 28
       },
       "scores": {
         "relevance": 5,
@@ -239,8 +263,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.4375,
-      "finalScore": 6.09375
+      "engagementPercentile": 0.4117647058823529,
+      "finalScore": 6.029411764705882
     },
     {
       "id": "hn-48390400",
@@ -251,7 +275,7 @@
       "publishedAt": "2026-06-03T21:32:10.000Z",
       "rawContent": "A Mathematician's Lament (2002) [pdf]",
       "engagement": {
-        "score": 78,
+        "score": 81,
         "comments": 5
       },
       "scores": {
@@ -263,8 +287,32 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.375,
-      "finalScore": 5.9375
+      "engagementPercentile": 0.35294117647058826,
+      "finalScore": 5.882352941176471
+    },
+    {
+      "id": "hn-48389586",
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "author": "zaydmulani",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-03T20:32:10.000Z",
+      "rawContent": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "engagement": {
+        "score": 45,
+        "comments": 18
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.29411764705882354,
+      "finalScore": 5.735294117647058
     },
     {
       "id": "hn-48387251",
@@ -287,32 +335,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.3125,
-      "finalScore": 5.78125
-    },
-    {
-      "id": "hn-48389586",
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "author": "zaydmulani",
-      "platform": "hackernews",
-      "publishedAt": "2026-06-03T20:32:10.000Z",
-      "rawContent": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "engagement": {
-        "score": 43,
-        "comments": 17
-      },
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0.25,
-      "finalScore": 5.625
+      "engagementPercentile": 0.23529411764705882,
+      "finalScore": 5.588235294117647
     },
     {
       "id": "hn-48385829",
@@ -324,7 +348,7 @@
       "rawContent": "It&#x27;s our new text-to-image model: a 9.3B single-stream diffusion transformer trained entirely from scratch.<p>We focused heavily on controllability through structured JSON prompts, with strong text rendering, spatial awareness through bounding box guidance, and color palette control.<p>It has the best text rendering of any open-weight model we&#x27;ve tested so far, and the NF4 quantized checkpoint runs on a single 24GB GPU.<p>For more technical details and examples see our blog post: <a hr",
       "engagement": {
         "score": 42,
-        "comments": 8
+        "comments": 9
       },
       "scores": {
         "relevance": 5,
@@ -335,8 +359,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.1875,
-      "finalScore": 5.46875
+      "engagementPercentile": 0.17647058823529413,
+      "finalScore": 5.441176470588235
     },
     {
       "id": "hn-48386343",
@@ -359,8 +383,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.125,
-      "finalScore": 5.3125
+      "engagementPercentile": 0.11764705882352941,
+      "finalScore": 5.294117647058823
     },
     {
       "id": "hn-48383564",
@@ -383,8 +407,8 @@
       "summaryEn": "Scoring failed, using default scores",
       "titleEn": "",
       "category": "讨论",
-      "engagementPercentile": 0.0625,
-      "finalScore": 5.15625
+      "engagementPercentile": 0.058823529411764705,
+      "finalScore": 5.147058823529411
     },
     {
       "id": "hn-48384125",
@@ -398,6 +422,69 @@
         "score": 26,
         "comments": 2
       },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2605.31148",
+      "title": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
+      "url": "https://huggingface.co/papers/2605.31148",
+      "author": "Tianhui Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-28T20:00:00.000Z",
+      "rawContent": "Humans can effortlessly perceive spatial layouts, form cognitive representations, reason about spatial relations, and translate such reasoning into actions in everyday 3D environments. Although recent vision-language models (VLMs) have shown promising performance on observation-conditioned spatial perception and reasoning tasks, it remains unclear whether they can build coherent spatial understanding, act upon it, and refine their actions through multi-turn feedback. To study this problem, we in",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.00477",
+      "title": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
+      "url": "https://huggingface.co/papers/2606.00477",
+      "author": "Xin Gao",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-29T20:00:00.000Z",
+      "rawContent": "Unified multimodal models (UMMs) have emerged as a promising paradigm for general-purpose multimodal intelligence. As they are deployed in real-world applications, effectively updating internal knowledge becomes critical. While knowledge editing has matured for text-only models, it remains unclear whether edits that successfully modify textual outputs also transfer to image generation in UMMs. To study this question, we introduce UniKE, the first benchmark for cross-modality knowledge editing in",
+      "engagement": {},
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    },
+    {
+      "id": "hf-2606.02859",
+      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+      "url": "https://huggingface.co/papers/2606.02859",
+      "author": "Zhenting Qi",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-31T20:00:00.000Z",
+      "rawContent": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordination in markets, we study this question through an agent economy in which agents compete via auctions for the right to act, exchange payments, and accumulate wealth from environmental rewards. These simple economic signals induce decentralized credit assignment, driving planning without global orch",
+      "engagement": {},
       "scores": {
         "relevance": 5,
         "novelty": 5,
@@ -598,95 +685,11 @@
       "category": "讨论",
       "engagementPercentile": 0,
       "finalScore": 5
-    },
-    {
-      "id": "hf-2605.29489",
-      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
-      "url": "https://huggingface.co/papers/2605.29489",
-      "author": "Yuanyi Wang",
-      "platform": "huggingface",
-      "publishedAt": "2026-05-27T20:00:00.000Z",
-      "rawContent": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce MergePipe, a budget-aware execution layer that casts LLM merging as an expert access-set problem: given a merge operator and a checkpoint family in a shared weight coordinate system, choose which expert delta blocks to access under an explicit I/O budget. MergePipe indexes parameter blocks, builds dete",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.03503",
-      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
-      "url": "https://huggingface.co/papers/2606.03503",
-      "author": "Ziyan Liu",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T07:21:27.000Z",
-      "rawContent": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain trial and errors and mainstream RLVR approaches choose outcome-correct CoT trajectories for memorization, the redundant explorations in long CoTs are inevitably reinforced, which results in the over-thinking issues of LRMs. Previous attempts to resolve this issue mainly give more advantage to shorte",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.05080",
-      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
-      "url": "https://huggingface.co/papers/2606.05080",
-      "author": "Zhangchen Xu",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-02T20:00:00.000Z",
-      "rawContent": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing benchmarks for frontier models primarily evaluate either single-turn responses or short-horizon agent trajectories, failing to capture the challenges of sustained iterative improvement over extended time horizons. To address this gap, we introduce AutoLab, a new benchmark for ultra long-horizon closed-",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
-    },
-    {
-      "id": "hf-2606.03972",
-      "title": "AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation",
-      "url": "https://huggingface.co/papers/2606.03972",
-      "author": "Haobo Li",
-      "platform": "huggingface",
-      "publishedAt": "2026-06-01T20:00:00.000Z",
-      "rawContent": "We present AAD-1, an Asymmetric Adversarial Distillation framework for One-step autoregressive image-to-video generation. State-of-the-art methods adopt adversarial distillation but suffer from motion collapse and training instability, resulting in static videos. AAD-1 addresses these challenges through two key designs in architecture and training strategy. Our key architectural insight is to break the symmetry between generator and discriminator. While the generator remains causal to preserve a",
-      "engagement": {},
-      "scores": {
-        "relevance": 5,
-        "novelty": 5,
-        "actionability": 5
-      },
-      "summary": "评分失败，使用默认分数",
-      "summaryEn": "Scoring failed, using default scores",
-      "titleEn": "",
-      "category": "讨论",
-      "engagementPercentile": 0,
-      "finalScore": 5
     }
   ],
   "stats": {
-    "totalCollected": 67,
-    "totalScored": 37,
+    "totalCollected": 68,
+    "totalScored": 38,
     "totalPublished": 30
   }
 }
