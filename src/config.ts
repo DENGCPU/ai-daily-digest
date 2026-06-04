@@ -28,9 +28,9 @@ export const config = {
   },
 
   llm: {
-    apiKey: process.env.LLM_API_KEY || process.env.GEMINI_API_KEY || "",
-    baseUrl: process.env.LLM_BASE_URL || "https://api.deepseek.com",
-    model: process.env.LLM_MODEL || "deepseek-chat",
+    apiKey: process.env.LLM_API_KEY || "",
+    baseUrl: process.env.LLM_BASE_URL || "https://dashscope.aliyuncs.com/compatible-mode",
+    model: process.env.LLM_MODEL || "qwen-plus",
     maxConcurrent: 5,
     requestIntervalMs: 1000,
   },
