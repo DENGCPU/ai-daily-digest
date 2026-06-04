@@ -3,7 +3,7 @@ export interface ContentItem {
   title: string;
   url: string;
   author: string;
-  platform: "youtube" | "reddit";
+  platform: "youtube" | "reddit" | "hackernews" | "github" | "huggingface" | "producthunt";
   publishedAt: string;
   rawContent: string;
   engagement: EngagementData;

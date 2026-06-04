@@ -46,6 +46,31 @@ export const config = {
     deduplicationThreshold: 0.8,
   },
 
+  hackernews: {
+    algoliaBaseUrl: "https://hn.algolia.com/api/v1",
+    searchQueries: ["AI tools", "LLM", "GPT", "Claude", "AI agent", "machine learning"],
+    minPoints: 20,
+  },
+
+  github: {
+    pat: process.env.GITHUB_PAT || "",
+    searchQueries: [
+      "topic:llm OR topic:ai-agents OR topic:machine-learning",
+      "topic:llm OR topic:ai-tools",
+    ],
+    minStars: 50,
+  },
+
+  huggingface: {
+    baseUrl: "https://huggingface.co/api",
+  },
+
+  producthunt: {
+    token: process.env.PRODUCTHUNT_TOKEN || "",
+    graphqlUrl: "https://api.producthunt.com/v2/api/graphql",
+    topics: ["artificial-intelligence", "ai", "machine-learning"],
+  },
+
   output: {
     dataDir: "data",
   },
