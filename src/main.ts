@@ -1,9 +1,9 @@
-import { collectYouTube } from "./collectors/youtube.js";
-import { collectReddit } from "./collectors/reddit.js";
 import { collectHackerNews } from "./collectors/hackernews.js";
 import { collectGitHub } from "./collectors/github.js";
 import { collectHuggingFace } from "./collectors/huggingface.js";
 import { collectProductHunt } from "./collectors/producthunt.js";
+import { collectArxiv } from "./collectors/arxiv.js";
+import { collectDevto } from "./collectors/devto.js";
 import { scoreItems } from "./scoring/llm-scorer.js";
 import { rankAndFilter } from "./scoring/ranker.js";
 import { prefilterByEngagement } from "./scoring/prefilter.js";
@@ -17,61 +17,26 @@ async function main() {
   const date = new Date().toISOString().split("T")[0];
   console.log(`[${date}] Starting daily digest pipeline...`);
 
-  // Collect from all sources
   const allItems: ContentItem[] = [];
 
-  try {
-    console.log("Collecting from YouTube...");
-    const ytItems = await collectYouTube();
-    console.log(`  YouTube: ${ytItems.length} items`);
-    allItems.push(...ytItems);
-  } catch (error: any) {
-    console.error("YouTube collection failed:", error?.message);
-  }
+  const sources = [
+    { name: "Hacker News", fn: collectHackerNews },
+    { name: "GitHub", fn: collectGitHub },
+    { name: "Hugging Face", fn: collectHuggingFace },
+    { name: "Product Hunt", fn: collectProductHunt },
+    { name: "arXiv", fn: collectArxiv },
+    { name: "Dev.to", fn: collectDevto },
+  ];
 
-  try {
-    console.log("Collecting from Reddit...");
-    const redditItems = await collectReddit();
-    console.log(`  Reddit: ${redditItems.length} items`);
-    allItems.push(...redditItems);
-  } catch (error: any) {
-    console.error("Reddit collection failed:", error?.message);
-  }
-
-  try {
-    console.log("Collecting from Hacker News...");
-    const hnItems = await collectHackerNews();
-    console.log(`  Hacker News: ${hnItems.length} items`);
-    allItems.push(...hnItems);
-  } catch (error: any) {
-    console.error("Hacker News collection failed:", error?.message);
-  }
-
-  try {
-    console.log("Collecting from GitHub...");
-    const ghItems = await collectGitHub();
-    console.log(`  GitHub: ${ghItems.length} items`);
-    allItems.push(...ghItems);
-  } catch (error: any) {
-    console.error("GitHub collection failed:", error?.message);
-  }
-
-  try {
-    console.log("Collecting from Hugging Face...");
-    const hfItems = await collectHuggingFace();
-    console.log(`  Hugging Face: ${hfItems.length} items`);
-    allItems.push(...hfItems);
-  } catch (error: any) {
-    console.error("Hugging Face collection failed:", error?.message);
-  }
-
-  try {
-    console.log("Collecting from Product Hunt...");
-    const phItems = await collectProductHunt();
-    console.log(`  Product Hunt: ${phItems.length} items`);
-    allItems.push(...phItems);
-  } catch (error: any) {
-    console.error("Product Hunt collection failed:", error?.message);
+  for (const source of sources) {
+    try {
+      console.log(`Collecting from ${source.name}...`);
+      const items = await source.fn();
+      console.log(`  ${source.name}: ${items.length} items`);
+      allItems.push(...items);
+    } catch (error: any) {
+      console.error(`${source.name} collection failed:`, error?.message);
+    }
   }
 
   if (allItems.length === 0) {
@@ -81,12 +46,12 @@ async function main() {
 
   console.log(`Total collected: ${allItems.length} items`);
 
-  // Pre-filter: top 20 per platform by engagement
+  // Pre-filter: top 10 per platform by engagement
   const filteredItems = prefilterByEngagement(allItems);
   console.log(`After pre-filter: ${filteredItems.length} items (from ${allItems.length})`);
 
   // Score with LLM
-  console.log("Scoring with Gemini Flash...");
+  console.log("Scoring with Qwen-Plus...");
   const scoringResults = await scoreItems(filteredItems);
   console.log(`Scored: ${scoringResults.size} items`);
 

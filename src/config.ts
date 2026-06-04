@@ -1,30 +1,14 @@
 export const config = {
-  youtube: {
-    apiKey: process.env.YOUTUBE_API_KEY || "",
-    searchQueries: [
-      "AI tools 2026",
-      "new AI agent tutorial",
-      "LLM release announcement",
-      "Claude GPT new feature",
-      "AI workflow automation",
-      "AI coding assistant",
-    ],
-    minDurationSeconds: 120,
-    minViewCount: 100,
+  arxiv: {
+    baseUrl: "https://export.arxiv.org/api/query",
+    categories: ["cs.AI", "cs.CL", "cs.LG"],
+    maxResults: 30,
   },
 
-  reddit: {
-    clientId: process.env.REDDIT_CLIENT_ID || "",
-    clientSecret: process.env.REDDIT_CLIENT_SECRET || "",
-    subreddits: [
-      "LocalLLaMA",
-      "artificial",
-      "MachineLearning",
-      "ChatGPT",
-      "singularity",
-      "StableDiffusion",
-    ],
-    minScore: 10,
+  devto: {
+    baseUrl: "https://dev.to/api/articles",
+    tags: ["ai", "machinelearning", "llm", "gpt"],
+    minReactions: 5,
   },
 
   llm: {
@@ -56,8 +40,8 @@ export const config = {
   github: {
     pat: process.env.GITHUB_PAT || "",
     searchQueries: [
-      "topic:llm OR topic:ai-agents OR topic:machine-learning",
-      "topic:llm OR topic:ai-tools",
+      "llm OR ai-agent OR machine-learning language:python language:typescript",
+      "llm OR ai-tools OR gpt",
     ],
     minStars: 50,
   },

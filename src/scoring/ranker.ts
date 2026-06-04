@@ -67,14 +67,16 @@ function groupByPlatform(
 
 export function getEngagementValue(item: ContentItem): number {
   switch (item.platform) {
-    case "youtube":
-      return (item.engagement.views || 0) + (item.engagement.likes || 0) * 10;
     case "github":
       return (item.engagement.likes || 0) + (item.engagement.score || 0) * 3;
     case "huggingface":
       return (item.engagement.likes || 0) * 10;
     case "producthunt":
       return (item.engagement.likes || 0) + (item.engagement.comments || 0) * 2;
+    case "arxiv":
+      return 10;
+    case "devto":
+      return (item.engagement.likes || 0) + (item.engagement.comments || 0) * 3;
     default:
       return (item.engagement.score || 0) + (item.engagement.comments || 0) * 2;
   }

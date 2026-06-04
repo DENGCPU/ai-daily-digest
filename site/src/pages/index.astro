@@ -18,6 +18,26 @@ if (fs.existsSync(dataDir)) {
     digest = latest;
   }
 }
+
+const CATEGORIES = [
+  { key: "工具", label: "工具", labelEn: "Tools", emoji: "🛠️" },
+  { key: "开源", label: "开源", labelEn: "Open Source", emoji: "📦" },
+  { key: "论文", label: "论文", labelEn: "Research", emoji: "📄" },
+  { key: "教程", label: "教程", labelEn: "Tutorials", emoji: "📚" },
+  { key: "讨论", label: "讨论", labelEn: "Discussion", emoji: "💬" },
+];
+
+function groupByCategory(items: any[]) {
+  const groups: Record<string, any[]> = {};
+  for (const item of items) {
+    const cat = item.category || "讨论";
+    if (!groups[cat]) groups[cat] = [];
+    groups[cat].push(item);
+  }
+  return groups;
+}
+
+const grouped = digest ? groupByCategory(digest.items) : {};
 ---
 
 <Layout title="AI Daily Digest">
@@ -27,7 +47,7 @@ if (fs.existsSync(dataDir)) {
       <button id="lang-toggle" class="lang-btn">EN</button>
     </div>
     <p>
-      <span class="i18n-zh">每日精选 AI 工具动态 · 自动聚合自 6 大平台</span>
+      <span class="i18n-zh">每日精选 AI 动态 · 自动聚合自 6 大平台</span>
       <span class="i18n-en" style="display:none">Daily curated AI updates from 6 platforms</span>
     </p>
     {digest && (
@@ -40,7 +60,7 @@ if (fs.existsSync(dataDir)) {
     {dates.length > 1 && (
       <div class="date-nav">
         {dates.slice(0, 7).map((d) => (
-          <a href={`/${d}`}>{d}</a>
+          <a href={`/${d}`} class={d === digest?.date ? "active" : ""}>{d}</a>
         ))}
       </div>
     )}
@@ -48,23 +68,37 @@ if (fs.existsSync(dataDir)) {
 
   {digest && digest.items.length > 0 ? (
     <>
-      <FilterBar platforms={["youtube", "reddit", "hackernews", "github", "huggingface", "producthunt"]} />
-      <div class="cards">
-        {digest.items.map((item: any) => (
-          <ContentCard
-            title={item.title}
-            titleEn={item.titleEn}
-            summary={item.summary}
-            summaryEn={item.summaryEn}
-            url={item.url}
-            platform={item.platform}
-            author={item.author}
-            publishedAt={item.publishedAt}
-            finalScore={item.finalScore}
-            engagement={item.engagement}
-          />
-        ))}
-      </div>
+      <FilterBar platforms={["hackernews", "github", "huggingface", "producthunt", "arxiv", "devto"]} />
+      {CATEGORIES.map((cat) => {
+        const items = grouped[cat.key];
+        if (!items || items.length === 0) return null;
+        return (
+          <section class="category-section">
+            <h2 class="category-title">
+              <span class="category-emoji">{cat.emoji}</span>
+              <span class="i18n-zh">{cat.label}</span>
+              <span class="i18n-en" style="display:none">{cat.labelEn}</span>
+              <span class="category-count">{items.length}</span>
+            </h2>
+            <div class="cards">
+              {items.map((item: any) => (
+                <ContentCard
+                  title={item.title}
+                  titleEn={item.titleEn}
+                  summary={item.summary}
+                  summaryEn={item.summaryEn}
+                  url={item.url}
+                  platform={item.platform}
+                  author={item.author}
+                  publishedAt={item.publishedAt}
+                  finalScore={item.finalScore}
+                  engagement={item.engagement}
+                />
+              ))}
+            </div>
+          </section>
+        );
+      })}
     </>
   ) : (
     <div class="empty-state">

@@ -45,7 +45,7 @@ if (fs.existsSync(filePath)) {
 
   {digest && digest.items.length > 0 ? (
     <>
-      <FilterBar platforms={["youtube", "reddit", "hackernews", "github", "huggingface", "producthunt"]} />
+      <FilterBar platforms={["hackernews", "github", "huggingface", "producthunt", "arxiv", "devto"]} />
       <div class="cards">
         {digest.items.map((item: any) => (
           <ContentCard

@@ -11,10 +11,6 @@
   --accent-hover: #8ba4ff;
   --border: #232636;
   --border-hover: #3a3f5c;
-  --youtube: #ff4e4e;
-  --youtube-bg: rgba(255, 78, 78, 0.08);
-  --reddit: #ff6b35;
-  --reddit-bg: rgba(255, 107, 53, 0.08);
   --hackernews: #ff6600;
   --hackernews-bg: rgba(255, 102, 0, 0.08);
   --github: #8b5cf6;
@@ -23,6 +19,10 @@
   --huggingface-bg: rgba(255, 205, 0, 0.08);
   --producthunt: #da552f;
   --producthunt-bg: rgba(218, 85, 47, 0.08);
+  --arxiv: #b31b1b;
+  --arxiv-bg: rgba(179, 27, 27, 0.08);
+  --devto: #08a6f3;
+  --devto-bg: rgba(8, 166, 243, 0.08);
   --score-high: #4ade80;
   --score-high-bg: rgba(74, 222, 128, 0.1);
   --score-mid: #fbbf24;
@@ -317,6 +317,16 @@ header > p {
   color: var(--producthunt);
 }
 
+.platform-arxiv {
+  background: var(--arxiv-bg);
+  color: var(--arxiv);
+}
+
+.platform-devto {
+  background: var(--devto-bg);
+  color: var(--devto);
+}
+
 .card-link {
   display: inline-flex;
   align-items: center;
@@ -353,6 +363,43 @@ footer {
   border-top: 1px solid var(--border);
   max-width: 860px;
   margin: 0 auto;
+}
+
+/* Category sections */
+.category-section {
+  margin-bottom: 2rem;
+}
+
+.category-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.category-emoji {
+  font-size: 1.1rem;
+}
+
+.category-count {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  background: var(--bg-surface);
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  margin-left: 0.25rem;
+}
+
+/* Date nav active */
+.date-nav a.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-glow);
 }
 
 /* Responsive */

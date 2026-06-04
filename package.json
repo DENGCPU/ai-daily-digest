@@ -7,9 +7,7 @@
     "test": "bun test",
     "build:site": "cd site && bun run build"
   },
-  "dependencies": {
-    "googleapis": "^144.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/bun": "^1.2.0",
     "typescript": "^5.7.0"

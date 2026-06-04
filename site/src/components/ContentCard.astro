@@ -5,7 +5,7 @@ interface Props {
   summary: string;
   summaryEn?: string;
   url: string;
-  platform: "youtube" | "reddit" | "hackernews" | "github" | "huggingface" | "producthunt";
+  platform: "hackernews" | "github" | "huggingface" | "producthunt" | "arxiv" | "devto";
   author: string;
   publishedAt: string;
   finalScore: number;
@@ -26,12 +26,6 @@ function getScoreClass(score: number): string {
 
 function formatEngagement(platform: string, engagement: any): string {
   switch (platform) {
-    case "youtube": {
-      const views = engagement.views || 0;
-      if (views >= 1000) return `${(views / 1000).toFixed(1)}K views`;
-      return `${views} views`;
-    }
-    case "reddit":
     case "hackernews":
       return `↑${engagement.score || 0} · ${engagement.comments || 0} comments`;
     case "github": {
@@ -43,6 +37,10 @@ function formatEngagement(platform: string, engagement: any): string {
       return `👍${engagement.likes || 0}`;
     case "producthunt":
       return `▲${engagement.likes || 0} · ${engagement.comments || 0} comments`;
+    case "arxiv":
+      return "paper";
+    case "devto":
+      return `♥${engagement.likes || 0} · ${engagement.comments || 0} comments`;
     default:
       return `↑${engagement.score || 0}`;
   }
@@ -54,6 +52,8 @@ function getPlatformLabel(platform: string): string {
     case "github": return "GitHub";
     case "huggingface": return "HF Papers";
     case "producthunt": return "PH";
+    case "arxiv": return "arXiv";
+    case "devto": return "Dev.to";
     default: return platform;
   }
 }
