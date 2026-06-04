@@ -1,7 +1,7 @@
 import type { ContentItem } from "../types.js";
 import { getEngagementValue } from "./ranker.js";
 
-const TOP_N_PER_PLATFORM = 20;
+const TOP_N_PER_PLATFORM = 10;
 
 export function prefilterByEngagement(items: ContentItem[]): ContentItem[] {
   const groups = new Map<string, ContentItem[]>();

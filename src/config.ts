@@ -43,7 +43,7 @@ export const config = {
     },
     engagementBoost: 0.5,
     minFinalScore: 3.0,
-    topN: 30,
+    topN: 20,
     deduplicationThreshold: 0.8,
   },
 
