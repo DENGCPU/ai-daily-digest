@@ -4,12 +4,21 @@ interface Props {
 }
 
 const { platforms } = Astro.props;
+
+const platformLabels: Record<string, string> = {
+  youtube: "YouTube",
+  reddit: "Reddit",
+  hackernews: "HN",
+  github: "GitHub",
+  huggingface: "HF Papers",
+  producthunt: "Product Hunt",
+};
 ---
 
 <div class="filter-bar">
   <button class="filter-btn active" data-filter="all">全部</button>
   {platforms.map((p) => (
-    <button class="filter-btn" data-filter={p}>{p}</button>
+    <button class="filter-btn" data-filter={p}>{platformLabels[p] || p}</button>
   ))}
 </div>
 

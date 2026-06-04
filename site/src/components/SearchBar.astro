@@ -1,0 +1,54 @@
+---
+---
+
+<div id="search" class="search-container"></div>
+
+<script is:inline>
+  window.addEventListener("DOMContentLoaded", function() {
+    var script = document.createElement("script");
+    script.src = "/pagefind/pagefind-ui.js";
+    script.onload = function() {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: false,
+        showImages: false,
+      });
+    };
+    document.head.appendChild(script);
+
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = "/pagefind/pagefind-ui.css";
+    document.head.appendChild(link);
+  });
+</script>
+
+<style>
+  .search-container {
+    margin-bottom: 1.5rem;
+  }
+
+  :global(.pagefind-ui) {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: var(--accent);
+    --pagefind-ui-text: var(--text);
+    --pagefind-ui-background: var(--bg-card);
+    --pagefind-ui-border: var(--border);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: var(--radius-sm);
+    --pagefind-ui-font: "Inter", -apple-system, sans-serif;
+  }
+
+  :global(.pagefind-ui__search-input) {
+    background: var(--bg-surface) !important;
+    color: var(--text) !important;
+  }
+
+  :global(.pagefind-ui__result-link) {
+    color: var(--accent) !important;
+  }
+
+  :global(.pagefind-ui__result-excerpt) {
+    color: var(--text-secondary) !important;
+  }
+</style>

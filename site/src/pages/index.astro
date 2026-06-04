@@ -23,7 +23,7 @@ if (fs.existsSync(dataDir)) {
 <Layout title="AI Daily Digest">
   <header>
     <h1>AI Daily Digest</h1>
-    <p>每日精选 AI 工具动态 · 自动聚合自 YouTube & Reddit</p>
+    <p>每日精选 AI 工具动态 · 自动聚合自 6 大平台</p>
     {digest && (
       <div class="stats">
         <span>日期: {digest.date}</span>
@@ -42,7 +42,7 @@ if (fs.existsSync(dataDir)) {
 
   {digest && digest.items.length > 0 ? (
     <>
-      <FilterBar platforms={["youtube", "reddit"]} />
+      <FilterBar platforms={["youtube", "reddit", "hackernews", "github", "huggingface", "producthunt"]} />
       <div class="cards">
         {digest.items.map((item: any) => (
           <ContentCard

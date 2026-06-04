@@ -1,5 +1,9 @@
 import { collectYouTube } from "./collectors/youtube.js";
 import { collectReddit } from "./collectors/reddit.js";
+import { collectHackerNews } from "./collectors/hackernews.js";
+import { collectGitHub } from "./collectors/github.js";
+import { collectHuggingFace } from "./collectors/huggingface.js";
+import { collectProductHunt } from "./collectors/producthunt.js";
 import { scoreItems } from "./scoring/llm-scorer.js";
 import { rankAndFilter } from "./scoring/ranker.js";
 import { config } from "./config.js";
@@ -30,6 +34,42 @@ async function main() {
     allItems.push(...redditItems);
   } catch (error: any) {
     console.error("Reddit collection failed:", error?.message);
+  }
+
+  try {
+    console.log("Collecting from Hacker News...");
+    const hnItems = await collectHackerNews();
+    console.log(`  Hacker News: ${hnItems.length} items`);
+    allItems.push(...hnItems);
+  } catch (error: any) {
+    console.error("Hacker News collection failed:", error?.message);
+  }
+
+  try {
+    console.log("Collecting from GitHub...");
+    const ghItems = await collectGitHub();
+    console.log(`  GitHub: ${ghItems.length} items`);
+    allItems.push(...ghItems);
+  } catch (error: any) {
+    console.error("GitHub collection failed:", error?.message);
+  }
+
+  try {
+    console.log("Collecting from Hugging Face...");
+    const hfItems = await collectHuggingFace();
+    console.log(`  Hugging Face: ${hfItems.length} items`);
+    allItems.push(...hfItems);
+  } catch (error: any) {
+    console.error("Hugging Face collection failed:", error?.message);
+  }
+
+  try {
+    console.log("Collecting from Product Hunt...");
+    const phItems = await collectProductHunt();
+    console.log(`  Product Hunt: ${phItems.length} items`);
+    allItems.push(...phItems);
+  } catch (error: any) {
+    console.error("Product Hunt collection failed:", error?.message);
   }
 
   if (allItems.length === 0) {
