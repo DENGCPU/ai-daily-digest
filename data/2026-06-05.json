@@ -1,0 +1,491 @@
+{
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T04:14:14.138Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 181280,
+        "score": 31104
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进，支持动态任务规划、工具调用和长期记忆增强。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting dynamic task planning, tool use, and long-term memory augmentation.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "hn-48403980",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "author": "binyu",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T20:11:20.000Z",
+      "rawContent": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "engagement": {
+        "score": 319,
+        "comments": 101
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Anthropic 开源了一个用于AI驱动漏洞发现的框架，旨在提升代码安全分析的自动化能力，但当前内容仅提及名称与来源，缺乏技术细节或使用指南。",
+      "summaryEn": "Anthropic has open-sourced a framework for AI-powered vulnerability discovery to automate security analysis of code; however, the provided content is minimal—only naming the project and its source, with no technical details or usage instructions.",
+      "titleEn": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.266666666666666
+    },
+    {
+      "id": "hn-48396004",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "author": "BrunoBernardino",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T08:56:10.000Z",
+      "rawContent": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you&#x27;d like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we&#x27;ve talked with lawyers and are inclined to no longer require the NDA&#x2F;NCC for privacy reasons shared with us before (signing requires identification), but instead use a source-available permissive",
+      "engagement": {
+        "score": 219,
+        "comments": 198
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Uruky 是一款总部位于欧盟的新型搜索引擎，作为 Kagi 的替代品，新上线了图像搜索和 URL 重写功能，并提供通过算力验证码获取的 2 小时免费试用。其源代码策略转向更宽松的“源码可用”（source-available）模式，不再强制要求签署含身份验证的 NDA/NCC 协议。",
+      "summaryEn": "Uruky is an EU-based search engine alternative to Kagi that has recently launched image search and URL rewriting features, offering a 2-hour free trial via proof-of-work captcha. It has shifted its source code policy to a permissive source-available model, dropping mandatory NDA/NCC agreements requiring user identification.",
+      "titleEn": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 184769,
+        "score": 46189
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主 AI 代理框架，旨在降低 AI 应用开发门槛，支持用户基于其构建和定制智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI development, enabling users to build and customize intelligent agents on top of it.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 173201,
+        "score": 16447
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个开源的本地大模型运行框架，支持一键拉取和运行包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与商业适配模型。",
+      "summaryEn": "Ollama is an open-source framework for running large language models locally, enabling one-command setup and execution of multiple models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 143920,
+        "score": 22648
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149231,
+        "score": 9190
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI智能体与工作流。它支持与主流LLM、向量数据库及工具集成，显著简化AI应用开发流程。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows, with seamless integration support for major LLMs, vector databases, and tools.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3816690",
+      "title": "RepoRecon: I Got Tired of Reading Bad Code, So I Built an AI That Does It For Me",
+      "url": "https://dev.to/az-dev1/reporecon-i-got-tired-of-reading-bad-code-so-i-built-an-ai-that-does-it-for-me-5djp",
+      "author": "Akash",
+      "platform": "devto",
+      "publishedAt": "2026-06-04T06:14:22Z",
+      "rawContent": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   Let's skip...",
+      "engagement": {
+        "likes": 8,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "RepoRecon 是一个开源AI工具，专为自动化代码库理解而设计，能快速解析、摘要和问答大型代码仓库，旨在缓解开发者阅读低质量或 undocumented 代码的负担。",
+      "summaryEn": "RepoRecon is an open-source AI tool designed for automated codebase understanding—enabling fast summarization, navigation, and Q&A over large repositories to reduce the cognitive load of reading poorly documented or low-quality code.",
+      "titleEn": "RepoRecon: I Got Tired of Reading Bad Code, So I Built an AI That Does It For Me",
+      "category": "开源",
+      "engagementPercentile": 0.75,
+      "finalScore": 10.3125
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 81962,
+        "score": 17667
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization—widely adopted for production LLM deployment.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "devto-3817394",
+      "title": "I Did the Math on GitHub Copilot's New AI Credits Billing. The 24x Price Gap Changes Everything.",
+      "url": "https://dev.to/tokenmixai/i-did-the-math-on-github-copilots-new-ai-credits-billing-the-24x-price-gap-changes-everything-5h99",
+      "author": "tokenmixai",
+      "platform": "devto",
+      "publishedAt": "2026-06-04T07:35:15Z",
+      "rawContent": "GitHub Copilot switched from Premium Request Units to usage-based AI Credits on June 1, 2026. I ran the numbers across 10 models and 5 real workflows. The same agent run costs $0.0068 or $1.85 depending on which model you pick. Here's what actually changes — and what doesn't.",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文分析了GitHub Copilot自2026年6月1日起启用的AI积分计费模式，通过对比10种模型在5类真实工作流中的成本，揭示了最高达24倍的价格差异及其对开发者实际使用的影响。",
+      "summaryEn": "This article analyzes GitHub Copilot’s new AI Credits billing model introduced on June 1, 2026, revealing up to a 24× price gap across 10 models and 5 real-world workflows—highlighting concrete cost implications for developers.",
+      "titleEn": "I Did the Math on GitHub Copilot's New AI Credits Billing. The 24x Price Gap Changes Everything.",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 10.125
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 40819,
+        "score": 38990
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻、LLM驱动的决策仪表盘及多渠道推送，可零成本定时运行。",
+      "summaryEn": "An open-source, LLM-powered stock analysis system supporting A-share, Hong Kong, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and multi-channel notifications — designed for zero-cost scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3820378",
+      "title": "How I Built an AI Co-Founder Matching Platform Assisted By GitHub Copilot",
+      "url": "https://dev.to/serjson/how-i-built-an-ai-co-founder-matching-platform-assisted-by-github-copilot-105i",
+      "author": "Isreal Oparanti ",
+      "platform": "devto",
+      "publishedAt": "2026-06-04T14:33:28Z",
+      "rawContent": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   FoundrGeeks —...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 5,
+        "actionability": 7
+      },
+      "summary": "本文是一篇实践导向的开发日志，详细介绍了作者如何利用 GitHub Copilot 辅助构建一个 AI 驱动的联合创始人匹配平台（FoundrGeeks），涵盖技术选型、迭代思路与 AI 编程协作经验。",
+      "summaryEn": "This is a hands-on development log detailing how the author built an AI-powered co-founder matching platform (FoundrGeeks) with GitHub Copilot assistance, covering tech stack choices, iterative development, and practical AI-augmented coding workflows.",
+      "titleEn": "How I Built an AI Co-Founder Matching Platform Assisted By GitHub Copilot",
+      "category": "教程",
+      "engagementPercentile": 0.875,
+      "finalScore": 9.775
+    },
+    {
+      "id": "devto-3818140",
+      "title": "Headroom: Cut Your LLM Token Usage by Up to 95% Without Changing Your Answers",
+      "url": "https://dev.to/arshtechpro/headroom-cut-your-llm-token-usage-by-up-to-95-without-changing-your-answers-5g06",
+      "author": "ArshTechPro",
+      "platform": "devto",
+      "publishedAt": "2026-06-04T09:15:08Z",
+      "rawContent": "If you're building AI agents or running LLM pipelines in production, you already know the pain: tool...",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Headroom 是一款新型 AI 工具，通过智能 token 压缩与响应优化技术，在不改变 LLM 输出内容的前提下，将 token 消耗降低高达 95%，显著降低生产环境中的 API 成本和延迟。",
+      "summaryEn": "Headroom is a novel AI tool that reduces LLM token usage by up to 95% without altering output correctness—enabling substantial cost savings and latency improvements in production AI agents and pipelines.",
+      "titleEn": "Headroom: Cut Your LLM Token Usage by Up to 95% Without Changing Your Answers",
+      "category": "工具",
+      "engagementPercentile": 0.375,
+      "finalScore": 9.61875
+    },
+    {
+      "id": "hn-48399358",
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "url": "https://boxes.dev",
+      "author": "nab",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T14:38:35.000Z",
+      "rawContent": "Hi HN, we’re Nick and Drew, and we’re building boxes.dev – the first cloud-only agentic dev environment (ADE) that gives every Codex and Claude Code agent its own cloud computer.<p>We’re two engineers who previously built Gem (co-founder&#x2F;CTO and first hire), and we spent the last year coding almost exclusively using Codex and Claude Code. It’s been a huge change to how we code, and it’s been exhilarating seeing the models keep getting better – but we eventually realized that developing on l",
+      "engagement": {
+        "score": 85,
+        "comments": 63
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Boxes.dev 是一个全新的云端原生开发环境，专为 Claude Code 和 Codex 等 AI 编程代理设计，为每个代理分配独立的云计算机，彻底替代本地 localhost 开发模式。",
+      "summaryEn": "Boxes.dev is a novel cloud-native development environment designed specifically for AI coding agents like Claude Code and Codex, assigning each agent its own isolated cloud computer—eliminating the need for localhost-based development.",
+      "titleEn": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "hn-48399974",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-04T15:18:00.000Z",
+      "rawContent": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "engagement": {
+        "score": 120,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "华为推出的KVarN是一个专为vLLM框架设计的原生后端，支持KV缓存量化，旨在提升大语言模型推理的内存效率与吞吐量。",
+      "summaryEn": "KVarN is a native vLLM backend developed by Huawei that enables KV-cache quantization to improve memory efficiency and throughput in LLM inference.",
+      "titleEn": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78203,
+        "score": 15374
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，提供招聘、调度与报告等类“首席代理官”功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to manage multiple AI agents as a 24/7 autonomous team, offering 'Chief Agent Operator'-style capabilities including agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 79557,
+        "score": 11313
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术实现一键生成高清短视频，支持本地部署与定制化扩展。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, supporting local deployment and customization.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48406358",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "author": "geoffbp",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-05T00:04:29.000Z",
+      "rawContent": "Open Code Review – An AI-powered code review CLI tool",
+      "engagement": {
+        "score": 84,
+        "comments": 20
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Open Code Review 是一款基于AI的命令行代码审查工具，旨在自动化识别代码缺陷、安全漏洞和风格问题。",
+      "summaryEn": "Open Code Review is an AI-powered command-line tool designed to automate detection of code defects, security vulnerabilities, and style issues.",
+      "titleEn": "Open Code Review – An AI-powered code review CLI tool",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "github-infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "author": "infiniflow",
+      "platform": "github",
+      "publishedAt": "2023-12-12T06:13:13Z",
+      "rawContent": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "engagement": {
+        "likes": 81939,
+        "score": 9440
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿 RAG 技术与智能体（Agent）能力，旨在为大语言模型构建更强大的上下文层。",
+      "summaryEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates state-of-the-art RAG with Agent capabilities to build a more robust context layer for LLMs.",
+      "titleEn": "infiniflow/ragflow",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3782443",
+      "title": "Agent-Safe Angular Components: Copy-Paste MCP + Skills Setup for Verified AI Development",
+      "url": "https://dev.to/turingsoracle/agent-safe-angular-components-copy-paste-mcp-skills-setup-for-verified-ai-development-32ai",
+      "author": "Antonio Cardenas ",
+      "platform": "devto",
+      "publishedAt": "2026-06-04T04:32:42Z",
+      "rawContent": "Angular v22 MCP + Skills Integration: Agentic Development Setup   With Angular v22, the MCP...",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文是一篇面向 Angular 开发者的实操指南，详细介绍了如何在 Angular v22 中集成 MCP（Model Control Protocol）和 Skills 框架，实现安全、可验证的 AI 代理式开发，支持一键复制粘贴配置。",
+      "summaryEn": "This is a hands-on tutorial for Angular developers, detailing how to integrate MCP (Model Control Protocol) and Skills frameworks into Angular v22 to enable safe, verifiable agentic AI development—with copy-paste-ready setup steps.",
+      "titleEn": "Agent-Safe Angular Components: Copy-Paste MCP + Skills Setup for Verified AI Development",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8
+    }
+  ],
+  "stats": {
+    "totalCollected": 68,
+    "totalScored": 29,
+    "totalPublished": 20
+  }
+}
