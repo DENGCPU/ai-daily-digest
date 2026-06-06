@@ -1,0 +1,488 @@
+{
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T03:57:23.735Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 183395,
+        "score": 31453
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 173294,
+        "score": 16462
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行大型语言模型的开源工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多种主流开源与商业对齐模型的一键拉取和运行。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling one-command pull and execution of popular models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "hn-48414367",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "author": "coffeemug",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-05T15:59:57.000Z",
+      "rawContent": "pg_durable: Microsoft open sources in-database durable execution",
+      "engagement": {
+        "score": 352,
+        "comments": 82
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "微软开源了pg_durable项目，这是一个为PostgreSQL设计的数据库内持久化执行框架，支持长时间运行、容错且状态可恢复的AI/数据工作流。该项目填补了传统数据库在有状态异步任务调度方面的空白，对AI工程化和MLOps场景具有实用价值。",
+      "summaryEn": "Microsoft has open-sourced pg_durable, an in-database durable execution framework for PostgreSQL that enables fault-tolerant, stateful, long-running workflows—particularly valuable for AI/ML orchestration and MLOps. It bridges a key gap in database-native support for resilient asynchronous task execution.",
+      "titleEn": "pg_durable: Microsoft open sources in-database durable execution",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.266666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144074,
+        "score": 22674
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "devto-3822232",
+      "title": "Inference Theft: Your AI Endpoint Is Someone Else's Free Model",
+      "url": "https://dev.to/morganwilliscloud/inference-theft-your-ai-endpoint-is-someone-elses-free-model-579p",
+      "author": "Morgan Willis",
+      "platform": "devto",
+      "publishedAt": "2026-06-05T13:37:59Z",
+      "rawContent": "How to defend AI endpoints against inference theft and denial-of-wallet attacks: bot detection, guardrails, cost-aware routing, and budget controls.",
+      "engagement": {
+        "likes": 12,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了防御AI推理端点遭受推理窃取（inference theft）和“钱包拒绝服务”（denial-of-wallet）攻击的实用方法，包括机器人检测、防护护栏、成本感知路由和预算控制。",
+      "summaryEn": "This article presents practical defensive techniques against inference theft and denial-of-wallet attacks on AI endpoints, including bot detection, guardrails, cost-aware routing, and budget controls.",
+      "titleEn": "Inference Theft: Your AI Endpoint Is Someone Else's Free Model",
+      "category": "教程",
+      "engagementPercentile": 0.75,
+      "finalScore": 11.1375
+    },
+    {
+      "id": "hn-48414653",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-05T16:18:48.000Z",
+      "rawContent": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "engagement": {
+        "score": 298,
+        "comments": 90
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文介绍了Gemini团队发布的Gemma 4量化感知训练（QAT）模型，专为在移动设备和笔记本电脑等资源受限设备上高效运行而优化，强调模型压缩与推理效率提升。",
+      "summaryEn": "This post announces the release of Gemma 4 quantization-aware training (QAT) models by Google’s Gemini team, optimized for efficient inference on resource-constrained devices like mobile phones and laptops.",
+      "titleEn": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333332
+    },
+    {
+      "id": "devto-3813677",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5",
+      "author": "Olivier Lacombe",
+      "platform": "devto",
+      "publishedAt": "2026-06-05T16:51:47Z",
+      "rawContent": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop,...",
+      "engagement": {
+        "likes": 34,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "Gemma 4 12B 是一款新型免编码器的统一多模态模型，专为本地高效运行设计，但当前内容仅宣布发布，未提供技术细节、代码或使用指南。",
+      "summaryEn": "Gemma 4 12B is a newly announced unified, encoder-free multimodal model optimized for high-performance local execution—but the article provides only an introductory announcement without technical specifications, code, or deployment instructions.",
+      "titleEn": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 10.8
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 140229,
+        "score": 20135
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型服务，便于快速部署和交互式使用大语言模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backends including Ollama and the OpenAI API, enabling quick deployment and interactive LLM usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 40977,
+        "score": 39139
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并提供零成本定时运行和多渠道推送功能。",
+      "summaryEn": "An open-source, LLM-powered stock analysis system supporting A-share, Hong Kong, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82029,
+        "score": 17701
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149275,
+        "score": 9197
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。它支持与 LangChain 等主流框架集成，适合开发者快速原型设计。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows, with native integration with frameworks like LangChain, enabling rapid prototyping for developers.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 129180,
+        "score": 7687
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3824655",
+      "title": "I Took the Keyboard Back From an Agent Mid-Task - Here's What the New PMP Can't Test",
+      "url": "https://dev.to/itskondrat/i-took-the-keyboard-back-from-an-agent-mid-task-heres-what-the-new-pmp-cant-test-55n1",
+      "author": "Mykola Kondratiuk",
+      "platform": "devto",
+      "publishedAt": "2026-06-05T06:22:24Z",
+      "rawContent": "A few weeks back I had an agent reconciling a vendor list. It ran clean. No error, no crash, output...",
+      "engagement": {
+        "likes": 24,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "本文是一篇反思性技术随笔，探讨在AI代理（agent）执行任务过程中人类主动介入（如中途接管键盘）所揭示的当前AI系统在可控性、可中断性和人机协作方面的局限性，并指出现有评估框架（如PMP）未能覆盖这些关键维度。",
+      "summaryEn": "This is a reflective technical essay examining the limitations of current AI agents—particularly around controllability, interruptibility, and human-in-the-loop collaboration—highlighted by the author's deliberate mid-task keyboard reclamation, and argues that standard evaluation benchmarks like the PMP fail to measure these critical dimensions.",
+      "titleEn": "I Took the Keyboard Back From an Agent Mid-Task - Here's What the New PMP Can't Test",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 9.34375
+    },
+    {
+      "id": "devto-3827951",
+      "title": "I kept using Claude Code. Added one thing to it. Cut AI engineering costs by 62%.",
+      "url": "https://dev.to/gaurav_vij137/i-kept-using-claude-code-added-one-thing-to-it-cut-ai-engineering-costs-by-62-52ke",
+      "author": "Gaurav Vij",
+      "platform": "devto",
+      "publishedAt": "2026-06-05T12:25:43Z",
+      "rawContent": "Same task. Same machine. Same models. Two runs. $1.96 vs $0.74.  The difference wasn't prompt...",
+      "engagement": {
+        "likes": 8,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文分享了通过在Claude Code中添加一项关键配置（未明示但 implied 为 caching、state reuse 或 deterministic sampling），显著降低AI工程成本的实践案例，强调实操优化而非 prompt 工程。",
+      "summaryEn": "This post shares a practical optimization—adding one key configuration (e.g., caching, state reuse, or deterministic sampling) to Claude Code—that cut AI engineering costs by 62% on identical hardware and models, highlighting cost-saving tactics beyond prompt engineering.",
+      "titleEn": "I kept using Claude Code. Added one thing to it. Cut AI engineering costs by 62%.",
+      "category": "教程",
+      "engagementPercentile": 0.25,
+      "finalScore": 9.112499999999999
+    },
+    {
+      "id": "devto-3830050",
+      "title": "I shipped a 2-line Claude Code plugin that makes it shut up",
+      "url": "https://dev.to/oler/i-shipped-a-2-line-claude-code-plugin-that-makes-it-shut-up-1hel",
+      "author": "Rodrigo Oler",
+      "platform": "devto",
+      "publishedAt": "2026-06-05T19:05:33Z",
+      "rawContent": "tldr is an open-source Claude Code plugin: toggle it on and every reply stays under 5 lines — until you turn it off.",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一款开源的Claude Code插件，仅用两行代码即可强制Claude回复严格控制在5行以内，提升响应简洁性与可读性。",
+      "summaryEn": "This is an open-source Claude Code plugin that enforces concise replies—limiting every response to under 5 lines—with just two lines of code.",
+      "titleEn": "I shipped a 2-line Claude Code plugin that makes it shut up",
+      "category": "开源",
+      "engagementPercentile": 0.25,
+      "finalScore": 9.112499999999999
+    },
+    {
+      "id": "hn-48409955",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "author": "zdkaster",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-05T09:10:42.000Z",
+      "rawContent": "Hi HN, not sure if anyone would be interested, but just wanted to share that I&#x27;ve been maintaining my small tool called &#x27;lowfat&#x27; that helps me filters some of my verbose CLI output. It&#x27;s a single binary, works as an agent hook or a shell wrapper. It has a plugin system to customize filters per command.<p>The idea is pretty simple: agents don&#x27;t need the full kubectl get -o yaml or any 10k-line dump to make decisions. \nSo that lowfat sits in between, strips the noise, and ",
+      "engagement": {
+        "score": 121,
+        "comments": 61
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Lowfat 是一款轻量级可插拔的命令行过滤工具，专为减少 LLM 处理 CLI 输出时的 token 消耗而设计，实测节省高达 91.8% 的 token；支持作为 shell 包装器或 agent 钩子使用，并提供按命令定制的插件系统。",
+      "summaryEn": "Lowfat is a lightweight, pluggable CLI filtering tool designed to drastically reduce LLM token consumption when processing verbose command-line output—achieving up to 91.8% token savings; it works as a shell wrapper or agent hook and supports per-command customizable plugins.",
+      "titleEn": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48408442",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "author": "taubek",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-05T05:46:06.000Z",
+      "rawContent": "Fine-tuning an LLM to write docs like it's 1995",
+      "engagement": {
+        "score": 178,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "该内容介绍了一种使用现代大语言模型进行风格化微调的实践方法，聚焦于让模型生成1995年风格的技术文档（如早期HTML指南、终端手册），涵盖数据准备、LoRA微调和提示工程等关键步骤。",
+      "summaryEn": "This content presents a hands-on tutorial on fine-tuning a modern LLM to generate technical documentation in the stylistic and linguistic conventions of 1995—e.g., early web HTML guides and Unix man-page tone—covering dataset curation, LoRA-based fine-tuning, and prompt engineering.",
+      "titleEn": "Fine-tuning an LLM to write docs like it's 1995",
+      "category": "教程",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.677777777777779
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78251,
+        "score": 15376
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，提供招聘、调度与报告等类管理功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to manage multiple AI agents as a 24/7 operational team, offering agent 'hiring', scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333333
+    },
+    {
+      "id": "github-Mintplex-Labs/anything-llm",
+      "title": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "author": "Mintplex-Labs",
+      "platform": "github",
+      "publishedAt": "2023-06-04T02:29:14Z",
+      "rawContent": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+      "engagement": {
+        "likes": 61123,
+        "score": 6636
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "AnythingLLM 是一个开源的本地优先大语言模型（LLM）智能体框架，支持私有化部署、文档加载、RAG 和多模型后端集成，旨在让用户完全掌控自己的AI工作流。",
+      "summaryEn": "AnythingLLM is an open-source, local-first LLM agent framework enabling private, on-prem deployment with RAG, document ingestion, and multi-model backend support—designed for full user control over AI workflows.",
+      "titleEn": "Mintplex-Labs/anything-llm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.01317",
+      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "url": "https://huggingface.co/papers/2606.01317",
+      "author": "Qi Hu",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-30T20:00:00.000Z",
+      "rawContent": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse unsafe prompts, leaving impacts on stateful workspaces largely unexamined. We present SABER, a benchmark for environment-aware operational safety that places models in realistic agent-style projects and evaluates safety from the final environment state after a sequence of actions. Beyond binary safety",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "SABER 是一项针对大语言模型编码智能体的新基准，聚焦于有状态项目工作区中的操作安全性评估，弥补了现有安全评测忽视环境状态演变的缺陷。",
+      "summaryEn": "SABER is a novel benchmark for evaluating the operational safety of LLM-based coding agents in realistic, stateful project environments—shifting safety assessment from isolated prompt refusal to holistic post-execution workspace integrity.",
+      "titleEn": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    }
+  ],
+  "stats": {
+    "totalCollected": 149,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
