@@ -1,0 +1,476 @@
+{
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T04:23:34.349Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 184897,
+        "score": 31757
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持动态工具调用与上下文自适应。该项目提供代码仓库、配置示例和基础文档，便于开发者快速集成与定制。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting dynamic tool use and context-aware adaptation. The repository includes code, configuration examples, and foundational documentation for developer integration and customization.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144191,
+        "score": 22691
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82091,
+        "score": 17728
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 11.244444444444442
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 41073,
+        "score": 39247
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并提供零成本定时运行和多渠道推送功能。",
+      "summaryEn": "This is an open-source, LLM-powered stock analysis system supporting A-share, H-share, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "hn-48428475",
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "author": "rohanucla",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-06T20:03:55.000Z",
+      "rawContent": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "engagement": {
+        "score": 78,
+        "comments": 35
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Sem 是一种面向代码理解的新基础构件，它不依赖语言服务器协议（LSP），而是基于 Git 提取和建模代码实体（如函数、类型、依赖关系），旨在提供更稳定、版本感知的语义索引能力。",
+      "summaryEn": "Sem is a new primitive for code understanding that moves beyond LSPs by modeling code entities (e.g., functions, types, dependencies) directly on top of Git history—enabling version-aware, stable semantic indexing.",
+      "titleEn": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "category": "工具",
+      "engagementPercentile": 0.8,
+      "finalScore": 10.5
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149312,
+        "score": 9201
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。它支持与 LangChain 等主流框架集成，适合快速原型开发。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows, with native integration for frameworks like LangChain, enabling rapid prototyping.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-BerriAI/litellm",
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "author": "BerriAI",
+      "platform": "github",
+      "publishedAt": "2023-07-27T00:09:52Z",
+      "rawContent": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "engagement": {
+        "likes": 49510,
+        "score": 8657
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 8,
+        "actionability": 9
+      },
+      "summary": "litellm 是一个开源的 Python SDK 和 AI 网关代理服务器，支持以统一 OpenAI 兼容格式调用 100+ 种大语言模型 API，并内置成本追踪、安全护栏、负载均衡和日志功能。",
+      "summaryEn": "litellm is an open-source Python SDK and AI gateway proxy server that enables unified OpenAI-compatible calls to 100+ LLM APIs (including Bedrock, Azure, Vertex AI, Anthropic, etc.), with built-in features like cost tracking, guardrails, load balancing, and logging.",
+      "titleEn": "BerriAI/litellm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.605555555555556
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78295,
+        "score": 15382
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，提供招聘、调度与报告等类管理功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, offering agent 'hiring', scheduling, and performance reporting capabilities.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "github-bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "author": "bytedance",
+      "platform": "github",
+      "publishedAt": "2025-05-07T02:50:19Z",
+      "rawContent": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "engagement": {
+        "likes": 70618,
+        "score": 9561
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "字节跳动开源的DEER-Flow是一个面向长周期任务的超级智能体（SuperAgent）框架，支持研究、编码与内容创作，集成沙盒、记忆、工具链、技能模块、子智能体和消息网关等核心能力。",
+      "summaryEn": "ByteDance's open-source DEER-Flow is a long-horizon SuperAgent framework designed for research, coding, and content creation, featuring integrated sandboxes, memory, tool orchestration, skill modules, subagents, and a message gateway.",
+      "titleEn": "bytedance/deer-flow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3833401",
+      "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
+      "url": "https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl",
+      "author": "Raghav Chamadiya",
+      "platform": "devto",
+      "publishedAt": "2026-06-06T07:57:41Z",
+      "rawContent": "Most code health scores are vibes. A number goes up, a number goes down, and nobody checks whether...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文基于实证基准测试，质疑主流代码健康度指标（如SonarQube、CodeClimate分数）对真实软件缺陷的预测能力，指出其多为‘直觉性’指标而缺乏严谨验证。",
+      "summaryEn": "This article empirically benchmarks whether popular code health scores (e.g., from SonarQube or CodeClimate) meaningfully predict actual bugs—finding they often reflect 'vibes' rather than validated, predictive signals.",
+      "titleEn": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
+      "category": "讨论",
+      "engagementPercentile": 0.6,
+      "finalScore": 9.23
+    },
+    {
+      "id": "github-unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "author": "unslothai",
+      "platform": "github",
+      "publishedAt": "2023-11-29T16:50:09Z",
+      "rawContent": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "engagement": {
+        "likes": 65935,
+        "score": 5906
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Unsloth Studio 是一个基于 Web 的用户界面，支持在本地训练和运行 Gemma 4、Qwen3.6、DeepSeek、gpt-oss 等开源大模型，降低了本地 AI 模型部署与微调的门槛。",
+      "summaryEn": "Unsloth Studio is a web-based UI that enables local training and inference of open large language models—including Gemma 4, Qwen3.6, DeepSeek, and gpt-oss—making local LLM fine-tuning and deployment more accessible.",
+      "titleEn": "unslothai/unsloth",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "devto-3836725",
+      "title": "MindPal: finishing the AI support app that remembers what matters",
+      "url": "https://dev.to/m1rw/mindpal-finishing-the-ai-support-app-that-remembers-what-matters-4ne5",
+      "author": "Marwan Hamdy",
+      "platform": "devto",
+      "publishedAt": "2026-06-06T19:38:09Z",
+      "rawContent": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   I built...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "MindPal 是一款面向个人知识管理的 AI 支持应用，主打长期记忆与上下文感知能力，旨在帮助用户持续追踪重要信息；该项目参与了 GitHub Finish-Up-A-Thon 挑战赛。",
+      "summaryEn": "MindPal is a personal AI assistant app focused on long-term memory and context-aware support for knowledge continuity; it was developed as an entry for the GitHub Finish-Up-A-Thon challenge.",
+      "titleEn": "MindPal: finishing the AI support app that remembers what matters",
+      "category": "工具",
+      "engagementPercentile": 0.6,
+      "finalScore": 8.450000000000001
+    },
+    {
+      "id": "devto-3834113",
+      "title": "AI Companies Are Paying Millions for Your Old Reddit Posts. Here's Why That Should Concern You.",
+      "url": "https://dev.to/nimay_04/ai-companies-are-paying-millions-for-your-old-reddit-posts-heres-why-that-should-concern-you-4h5l",
+      "author": "Nimesh Kulkarni",
+      "platform": "devto",
+      "publishedAt": "2026-06-06T10:06:04Z",
+      "rawContent": "I am so tired of opening my code editor and seeing the same AI-generated dashboard. Same layout. Same...",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文探讨AI公司高价收购Reddit历史数据引发的隐私与伦理隐忧，批评当前AI训练数据获取方式缺乏透明度和用户授权。",
+      "summaryEn": "This article discusses privacy and ethical concerns arising from AI companies paying millions for historical Reddit posts, criticizing the lack of transparency and user consent in AI training data acquisition.",
+      "titleEn": "AI Companies Are Paying Millions for Your Old Reddit Posts. Here's Why That Should Concern You.",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "github-danny-avila/LibreChat",
+      "title": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "author": "danny-avila",
+      "platform": "github",
+      "publishedAt": "2023-02-12T01:06:52Z",
+      "rawContent": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "engagement": {
+        "likes": 38434,
+        "score": 7884
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LibreChat 是一个功能丰富的开源 ChatGPT 克隆项目，支持多模型接入（如 GPT-5、Gemini、DeepSeek、o1 等）、智能体（Agents）、MCP 协议、技能系统、代码解释器、DALL-E-3 图像生成及多用户安全认证，可本地自托管。",
+      "summaryEn": "LibreChat is a feature-rich, open-source ChatGPT alternative supporting multi-model integration (including GPT-5, Gemini, DeepSeek, o1), agents, MCP protocol, skills, code interpreter, DALL-E-3 image generation, and secure multi-user authentication — fully self-hostable.",
+      "titleEn": "danny-avila/LibreChat",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.01317",
+      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "url": "https://huggingface.co/papers/2606.01317",
+      "author": "Qi Hu",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-30T20:00:00.000Z",
+      "rawContent": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse unsafe prompts, leaving impacts on stateful workspaces largely unexamined. We present SABER, a benchmark for environment-aware operational safety that places models in realistic agent-style projects and evaluates safety from the final environment state after a sequence of actions. Beyond binary safety",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "SABER 是一个面向状态化项目工作空间的新型基准，用于评估大语言模型编码代理在多步操作序列下的运行时安全性，弥补了现有安全评测忽视环境状态演变的空白。",
+      "summaryEn": "SABER is a novel benchmark for evaluating the operational safety of LLM-based coding agents in realistic, stateful project environments—shifting focus from single-response refusal to safety assessment based on final environment states after action sequences.",
+      "titleEn": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.06492",
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "https://huggingface.co/papers/2606.06492",
+      "author": "Liliana Hotsko",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-03T20:00:00.000Z",
+      "rawContent": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysis) or through per-repository fine-tuning and LoRA -- costly at repository scale and brittle to evolving codebases. We introduce Code2LoRA, a hypernetwork framework that generates repository-specific LoRA adapters, effectively injecting repository knowledge with zero inference-time token overhead. Co",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "Code2LoRA是一种新型超网络框架，可为代码语言模型动态生成仓库级LoRA适配器，在不增加推理时token开销的前提下，高效注入项目上下文知识，应对软件演化挑战。",
+      "summaryEn": "Code2LoRA is a novel hypernetwork framework that dynamically generates repository-specific LoRA adapters for code language models, enabling efficient injection of project-level context—such as imports, APIs, and conventions—without inference-time token overhead, addressing challenges posed by software evolution.",
+      "titleEn": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.05515",
+      "title": "BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding",
+      "url": "https://huggingface.co/papers/2606.05515",
+      "author": "Muhammad Usama",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-02T20:00:00.000Z",
+      "rawContent": "Learning representations of CAD models is a largely open problem. While 3D representation learning has flourished around point clouds and meshes, the native format of CAD - boundary representations BReps, which encodes exact parametric surfaces, curves, and their topology, has received little attention as a representation learning substrate. We introduce BRepCLIP, the first framework to align BRep geometry with language and image embeddings through contrastive pretraining. We model each CAD obje",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "本文提出了BRepCLIP，首个针对CAD边界表示（BRep）的对比多模态预训练框架，旨在将精确的参数化几何、语言和图像表征对齐，填补了CAD原生格式表征学习的研究空白。",
+      "summaryEn": "This paper introduces BRepCLIP, the first contrastive multimodal pretraining framework that aligns CAD boundary representations (BReps)—the native, parametric, topology-aware format—with language and image embeddings, addressing a critical gap in CAD representation learning.",
+      "titleEn": "BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "devto-3827796",
+      "title": "FastAPI for AI Engineers - Part 3: Connecting to a database",
+      "url": "https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-3-connecting-to-a-database-30ca",
+      "author": "Ananya S",
+      "platform": "devto",
+      "publishedAt": "2026-06-06T06:27:51Z",
+      "rawContent": "In the previous article, we explored how to build our first CRUD API using FastAPI. While our API...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 4,
+        "actionability": 10
+      },
+      "summary": "本文是面向AI工程师的FastAPI系列教程第三部分，详细讲解如何在FastAPI应用中连接和操作数据库（如SQLAlchemy），包含可直接复用的代码示例与配置步骤。",
+      "summaryEn": "This is Part 3 of a tutorial series on FastAPI for AI engineers, providing a step-by-step, hands-on guide to integrating databases (e.g., SQLAlchemy) into FastAPI applications, with production-ready code snippets and configuration best practices.",
+      "titleEn": "FastAPI for AI Engineers - Part 3: Connecting to a database",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.02956",
+      "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+      "url": "https://huggingface.co/papers/2606.02956",
+      "author": "Richard Schwarzkopf",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-31T20:00:00.000Z",
+      "rawContent": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset built around high-fidelity sensors and maps. Our fully synchronized sensor suite combines high-resolution global-shutter cameras, long-range lidar beyond 400m, 4D imaging radar, and redundant GNSS/INS localization. Our HD maps are, to our knowledge, the most complete of any sensor dataset, validated thr",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "KITScenes是一个面向自动驾驶的新型多模态欧洲数据集，具备高保真传感器（如400米以上长距激光雷达、4D成像雷达）和目前最完整的经验证高清地图，旨在弥补现有数据集在传感器精度、地图完备性和地理多样性上的不足。",
+      "summaryEn": "KITScenes is a new multimodal European autonomous driving dataset featuring high-fidelity sensors—including long-range lidar (>400m), 4D imaging radar, global-shutter cameras—and the most complete validated HD maps to date, addressing key gaps in sensor fidelity, map completeness, and geographic diversity of existing datasets.",
+      "titleEn": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.04880",
+      "title": "MAOAM: Unified Object and Material Selection with Vision-Language Models",
+      "url": "https://huggingface.co/papers/2606.04880",
+      "author": "Jaden Park",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "Selection is a core operation in interactive image editing. To be practical, a user should be able to specify and disambiguate the desired selection region through either text or click-based interactions, and the system should support selecting not only objects but also other criteria, such as materials. Material-based selection is valuable for tasks like re-texturing surfaces or editing instances of a specific material. However, existing vision-language-model (VLM) based selection methods are o",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "MAOAM 是一种基于视觉-语言模型的统一框架，支持通过文本或点击交互实现对象与材质级别的图像区域选择，填补了现有VLM选择方法在材质感知能力上的空白。",
+      "summaryEn": "MAOAM is a unified vision-language model framework for interactive image selection that supports both object-level and material-level targeting via text or click inputs—addressing a key gap in existing VLM-based selection methods.",
+      "titleEn": "MAOAM: Unified Object and Material Selection with Vision-Language Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 135,
+    "totalScored": 42,
+    "totalPublished": 20
+  }
+}
