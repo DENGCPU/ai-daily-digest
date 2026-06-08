@@ -1,0 +1,470 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T04:27:36.071Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 186221,
+        "score": 32033
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 184833,
+        "score": 46187
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在让开发者和普通用户都能轻松使用和构建基于大语言模型的自动化任务系统。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to make LLM-powered automation accessible for both developers and end users to use and extend.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144344,
+        "score": 22713
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82178,
+        "score": 17771
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.755555555555555
+    },
+    {
+      "id": "hn-48433756",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "author": "devenjarvis",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-07T11:16:46.000Z",
+      "rawContent": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe s",
+      "engagement": {
+        "score": 271,
+        "comments": 51
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Lathe 是一款实验性AI工具，利用大语言模型（如Claude Code）为用户生成基于权威资料的动手实践教程，并通过专设的本地UI引导用户亲手阅读和键入代码，旨在促进深度学习而非替代学习过程。",
+      "summaryEn": "Lathe is an experimental AI tool that uses LLMs (e.g., Claude Code) to generate hands-on, source-backed tutorials for technical topics, guiding users to learn deeply by reading and typing code manually in a purpose-built local UI—rather than outsourcing understanding.",
+      "titleEn": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 115409,
+        "score": 19316
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级开源项目，专注于在本地 CPU 上高效运行大型语言模型（LLM）推理，支持量化、多平台部署和零依赖运行。",
+      "summaryEn": "llama.cpp is a lightweight, open-source project written in C/C++ that enables efficient local LLM inference on CPUs, with support for model quantization, cross-platform deployment, and zero external dependencies.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149382,
+        "score": 9214
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78338,
+        "score": 15384
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to manage multiple AI agents as a 24/7 autonomous team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "author": "infiniflow",
+      "platform": "github",
+      "publishedAt": "2023-12-12T06:13:13Z",
+      "rawContent": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "engagement": {
+        "likes": 82144,
+        "score": 9468
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿 RAG 技术与智能体（Agent）能力，旨在为大语言模型构建更强大的上下文层。",
+      "summaryEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates state-of-the-art RAG techniques with Agent capabilities to build a more robust context layer for LLMs.",
+      "titleEn": "infiniflow/ragflow",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "author": "bytedance",
+      "platform": "github",
+      "publishedAt": "2025-05-07T02:50:19Z",
+      "rawContent": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "engagement": {
+        "likes": 70682,
+        "score": 9568
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "字节跳动开源的DEER-Flow是一个面向长周期任务的SuperAgent框架，支持研究、编码与内容创作，集成沙箱、记忆、工具链、技能模块、子智能体及消息网关等核心能力。",
+      "summaryEn": "ByteDance's open-source DEER-Flow is a long-horizon SuperAgent framework designed for complex, multi-step tasks spanning minutes to hours—enabling research, coding, and content creation via sandboxes, memory, tool integration, skills, subagents, and a message gateway.",
+      "titleEn": "bytedance/deer-flow",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "github-unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "author": "unslothai",
+      "platform": "github",
+      "publishedAt": "2023-11-29T16:50:09Z",
+      "rawContent": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "engagement": {
+        "likes": 66010,
+        "score": 5910
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Unsloth Studio 是一个基于 Web 的用户界面，支持在本地训练和运行 Gemma 4、Qwen3.6、DeepSeek、gpt-oss 等开源大模型，显著降低本地 AI 模型部署门槛。",
+      "summaryEn": "Unsloth Studio is a web-based UI enabling local training and inference of open models like Gemma 4, Qwen3.6, DeepSeek, and gpt-oss—streamlining accessible, on-device AI development.",
+      "titleEn": "unslothai/unsloth",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.05806",
+      "title": "When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.05806",
+      "author": "Dongsheng Zhu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-03T20:00:00.000Z",
+      "rawContent": "Existing benchmarks evaluate Tool-Integrated Reasoning (TIR) in LLMs on idealized ''happy paths'', largely overlooking real-world tool failures. We introduce ToolMaze, a benchmark for dynamic path discovery and error recovery in TIR agents. To separate systematic replanning from blind trial-and-error, ToolMaze adopts a two-dimensional design: DAG-based topological complexity and a 2 times 2 taxonomy of tool perturbations (explicit/implicit, transient/permanent). Evaluations show that perturbatio",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出ToolMaze基准，专门用于评估大语言模型智能体在工具调用失败时的动态重规划与异常恢复能力，弥补了现有基准忽视现实工具故障的缺陷。",
+      "summaryEn": "This paper introduces ToolMaze, a novel benchmark designed to evaluate dynamic replanning and anomaly recovery in LLM agents when tool calls fail—addressing a critical gap left by existing 'happy-path'-focused TIR benchmarks.",
+      "titleEn": "When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2606.07491",
+      "title": "Twelve quick tips for designing AI-driven HPC workflows",
+      "url": "http://arxiv.org/abs/2606.07491v1",
+      "author": "Jamie J. Alnasir",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-05T17:46:32Z",
+      "rawContent": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. However, the pervasive integration of artificial intelligence (AI) and foundation models into scientific research has introduced a fundamentally new computational paradigm. AI-driven workflows are characteristically iterative, data-driven, and probabilistic, introducing unique challenges regarding data ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文提供了12条设计AI驱动高性能计算（HPC）工作流的实用建议，聚焦于弥合传统确定性HPC流水线与新兴迭代式、数据驱动AI工作流之间的鸿沟。",
+      "summaryEn": "This article offers 12 practical tips for designing AI-driven high-performance computing (HPC) workflows, addressing the integration challenges between traditional deterministic HPC pipelines and modern iterative, data-driven AI workflows.",
+      "titleEn": "Twelve quick tips for designing AI-driven HPC workflows",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48434312",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "author": "poisonfountain",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-07T12:49:29.000Z",
+      "rawContent": "LLMs are eroding my software engineering career and I don't know what to do",
+      "engagement": {
+        "score": 853,
+        "comments": 848
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 4,
+        "actionability": 3
+      },
+      "summary": "这是一篇来自 Hacker News 的社区讨论帖，反映了软件工程师对大语言模型冲击职业前景的焦虑与困惑，属于行业情绪与职业影响层面的反思。",
+      "summaryEn": "This is a Hacker News community discussion post expressing anxiety and uncertainty among software engineers about how LLMs are disrupting traditional engineering roles and career trajectories.",
+      "titleEn": "LLMs are eroding my software engineering career and I don't know what to do",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.950000000000001
+    },
+    {
+      "id": "hf-2606.06891",
+      "title": "Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors",
+      "url": "https://huggingface.co/papers/2606.06891",
+      "author": "Hanxun Yu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-04T20:00:00.000Z",
+      "rawContent": "Despite advances in 3D scene understanding, existing 3D Large Multimodal Models operate in offline settings, requiring complete scene observations or predefined video clips. In this paper, we present an online 3D vision-language model that enables real-time spatial understanding from streaming video. Our approach adopts an autoregressive streaming control modeling based on the LLM's next-token prediction objective to learn when to respond, and employs a lightweight Visual-Spatial Feature Integra",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "本文提出Stream3D-VLM，一种支持实时流式视频输入的在线3D视觉语言模型，通过增量几何先验和自回归流控建模实现动态空间理解，突破了现有3D多模态模型依赖离线完整场景的局限。",
+      "summaryEn": "This paper introduces Stream3D-VLM, an online 3D vision-language model that enables real-time spatial understanding from streaming video using incremental geometry priors and autoregressive streaming control modeling—addressing the key limitation of existing 3D large multimodal models that require offline, complete scene inputs.",
+      "titleEn": "Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.06953",
+      "title": "LIMMT: Less is More for Motion Tracking",
+      "url": "https://huggingface.co/papers/2606.06953",
+      "author": "Yu Guan",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-04T20:00:00.000Z",
+      "rawContent": "We argue that high-quality motion data can steer tracking policies toward better optimization trajectories early in training. In this work, we introduce LIMMT (Less Is More for Motion Tracking). To our knowledge, this is the first data-centric study for physics-based humanoid motion tracking. We go beyond simply removing low-quality and erroneous clips, but define motion data quality through three dimensions: physics feasibility, diversity, and complexity. We show that even training with under 3",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出LIMMT方法，首次从数据中心视角研究基于物理的人形运动跟踪，通过物理可行性、多样性与复杂性三个维度定义运动数据质量，并证明少量高质量数据可显著提升训练效率与策略优化效果。",
+      "summaryEn": "This paper introduces LIMMT (Less Is More for Motion Tracking), the first data-centric study for physics-based humanoid motion tracking, defining motion data quality along three dimensions—physics feasibility, diversity, and complexity—and demonstrating that training on a small subset of high-quality motion data yields superior policy optimization trajectories.",
+      "titleEn": "LIMMT: Less is More for Motion Tracking",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.07502",
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "url": "https://huggingface.co/papers/2606.07502",
+      "author": "Songhao Wu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-04T20:00:00.000Z",
+      "rawContent": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal performance on massive text embedding benchmarks. In this paper, we identify a potential cause underlying this deficiency. Our motivation stems from an unexpected observation: text embeddings tend to align with frequent but uninformative tokens when projected onto the vocabulary space. We argue that th",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该论文揭示了大语言模型解嵌入矩阵（unembedding matrix）可被重新解释为文本嵌入的“特征透镜”，解释了其在标准文本嵌入基准上表现不佳的根本原因——嵌入向量在词表空间中意外对齐高频无信息词元。",
+      "summaryEn": "This paper reveals that the unembedding matrix in large language models functions as an implicit 'feature lens' for text embeddings, explaining their poor performance on standard text embedding benchmarks: text embeddings inadvertently align with frequent but semantically uninformative tokens in vocabulary space.",
+      "titleEn": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.06476",
+      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "url": "https://huggingface.co/papers/2606.06476",
+      "author": "Chenming Zhu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-03T20:00:00.000Z",
+      "rawContent": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thought. They often struggle to infer unobserved layouts, maintain cross-view consistency, and reason from alternative viewpoints when only limited egocentric observations are available. In this work, we study this problem as thinking with imagination, where a VLM actively acquires imagined visual evide",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 4
+      },
+      "summary": "本文提出“以想象力思考”范式，通过世界模拟器增强视觉语言模型的空间推理能力，使其能推断未观测布局、保持跨视角一致性并从有限第一人称观察中进行多视角推理。",
+      "summaryEn": "This paper introduces the 'thinking with imagination' paradigm, using world simulators to enhance vision-language models’ spatial reasoning—enabling inference of unobserved layouts, cross-view consistency maintenance, and multi-perspective reasoning from limited egocentric observations.",
+      "titleEn": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.07454",
+      "title": "PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams",
+      "url": "https://huggingface.co/papers/2606.07454",
+      "author": "Fuqiang Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-04T20:00:00.000Z",
+      "rawContent": "Scientific paper recommendation is typically evaluated as static ranking over a fixed candidate set, yet real scientific reading unfolds as a daily, longitudinal process in which interests shift and feedback accumulates. We introduce PaperFlow, a framework that organizes it into three coupled stages: Profiling, which constructs and maintains a structured, inspectable scholarly profile from heterogeneous cold-start evidence; Recommending, which ranks each date-specific paper stream through multi-",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "PaperFlow 是一种面向科研人员日常阅读流的新型论文推荐框架，通过动态建模学者画像、时序化推荐和自适应反馈三个耦合阶段，突破了传统静态排序范式。",
+      "summaryEn": "PaperFlow is a novel scientific paper recommendation framework designed for longitudinal, daily reading workflows; it advances beyond static ranking by integrating dynamic scholar profiling, date-specific stream ranking, and adaptive feedback in three coupled stages.",
+      "titleEn": "PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.05761",
+      "title": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+      "url": "https://huggingface.co/papers/2606.05761",
+      "author": "Wenxuan Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-03T20:00:00.000Z",
+      "rawContent": "Persistent AI assistants, such as OpenClaw, accumulate large collections of related memories over long-term interactions. As these memories grow, they may reinforce one another, diverge across contexts, or directly conflict, making correct assistance depend on memory relations rather than isolated recall. Existing long-term memory benchmarks rarely probe how agents preserve and utilize such relations during downstream tasks. To address this gap, we introduce SubtleMemory, a benchmark for fine-gr",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "SubtleMemory 是一个面向长周期AI智能体的新型基准，专注于细粒度关系记忆辨别能力评估，填补了现有长期记忆评测中忽视记忆间关系建模的空白。",
+      "summaryEn": "SubtleMemory is a novel benchmark designed to evaluate fine-grained relational memory discrimination in long-horizon AI agents, addressing the critical gap in existing long-term memory benchmarks that overlook how agents preserve and reason over inter-memory relationships.",
+      "titleEn": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 142,
+    "totalScored": 42,
+    "totalPublished": 20
+  }
+}
