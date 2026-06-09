@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T03:59:52.325Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 187650,
+        "score": 32331
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，支持动态任务规划与自我演进式能力增强，旨在随用户需求增长而持续进化。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework supporting dynamic task planning and self-evolving capability enhancement, designed to grow progressively with user needs.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 115657,
+        "score": 19364
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 8,
+        "actionability": 9
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级、高性能大语言模型推理框架，支持在 CPU 上高效运行 LLM，无需 GPU，广泛用于本地部署和边缘设备。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance LLM inference framework implemented in C/C++, enabling efficient CPU-only execution of large language models—ideal for local and edge deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 11.627777777777776
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 211017,
+        "score": 32364
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程工具，强调技能编排、记忆管理、安全机制与以研究为先的开发范式。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI coding agents, designed for Claude Code, Codex, Opencode, Cursor, and similar tools, emphasizing skill orchestration, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "devto-3696340",
+      "title": "🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo",
+      "author": "Web Developer Hyper",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T11:40:09Z",
+      "rawContent": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "engagement": {
+        "likes": 49,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "AI Avatar v10 是一款免费AI工具，支持VRM格式3D虚拟形象在VS Code和Chrome中实时驱动，集成AI聊天、AI助威消息与动画编辑功能。",
+      "summaryEn": "AI Avatar v10 is a free AI tool enabling real-time animation of VRM-based 3D avatars in VS Code and Chrome, with integrated AI chat, AI-generated cheering messages, and an animation editor.",
+      "titleEn": "AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144466,
+        "score": 22734
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for developing and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing capabilities.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149425,
+        "score": 9217
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82270,
+        "score": 17816
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to maximize throughput and minimize GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 130368,
+        "score": 7732
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for large-scale web search, scraping, and interaction—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3845336",
+      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+      "author": "Rapls",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T04:45:51Z",
+      "rawContent": "I was building a plugin release with Claude Code, and the changelog draft came together nicely. Pull...",
+      "engagement": {
+        "likes": 10,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文探讨了在 Claude Code 生态中如何根据轻量性优先原则选择扩展机制（如 Skill、MCP、Plugin 或 CLI），属于开发者实践中的经验分享与权衡分析。",
+      "summaryEn": "This article discusses how to choose among extension mechanisms (Skill, MCP, Plugin, or CLI) for Claude Code, prioritizing lightness — reflecting real-world developer trade-offs and workflow considerations.",
+      "titleEn": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.86111111111111
+    },
+    {
+      "id": "hn-48447806",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "author": "baepaul",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-08T16:52:11.000Z",
+      "rawContent": "What works now: user signups, org creations, private&#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don&#x27;t have many features quite yet (issues, PRs, CI).<p>What is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically e",
+      "engagement": {
+        "score": 180,
+        "comments": 142
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "Gitdot 是一个用 Rust 编写的开源 GitHub 替代品，目前已支持用户注册、组织创建、公私仓库及 GitHub 仓库导入（镜像或全量迁移），但尚缺少 Issues、PR 和 CI 等核心功能。",
+      "summaryEn": "Gitdot is an open-source, Rust-based GitHub alternative currently supporting user signups, org creation, public/private repos, and GitHub repository import (as read-only mirrors or full migrations), but lacks key features like issues, pull requests, and CI.",
+      "titleEn": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.2
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78376,
+        "score": 15391
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成 7×24 小时持续运行的自动化团队，支持智能体的招聘、调度与绩效报告。目前项目托管于 GitHub，但内容仅含标语式描述，缺乏技术细节、文档或使用指南。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 autonomous 'AI team', with capabilities for agent onboarding, scheduling, and reporting. Hosted on GitHub, the repository currently provides only high-level marketing language without technical documentation or implementation guidance.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "author": "infiniflow",
+      "platform": "github",
+      "publishedAt": "2023-12-12T06:13:13Z",
+      "rawContent": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "engagement": {
+        "likes": 82243,
+        "score": 9480
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿 RAG 技术与智能体（Agent）能力，旨在为大语言模型构建更强大的上下文层。",
+      "summaryEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates state-of-the-art RAG techniques with Agent capabilities to build a more robust context layer for LLMs.",
+      "titleEn": "infiniflow/ragflow",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "devto-3845295",
+      "title": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
+      "url": "https://dev.to/saurav_bhattacharya/i-built-an-adversarial-eval-framework-and-attacked-5-llms-every-single-one-failed-1j81",
+      "author": "Saurav Bhattacharya",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T04:32:59Z",
+      "rawContent": "10 adversarial scenarios, 64 assertions, 3-tier evaluation pyramid. Llama, Qwen, GPT-OSS — none scored above 63%. Here's what broke them.",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "作者构建了一个对抗性评估框架，对5个主流大语言模型进行了系统性压力测试，揭示其在10类对抗场景下的脆弱性；该框架本身可作为即插即用的AI安全评估工具。",
+      "summaryEn": "The author built an adversarial evaluation framework to systematically stress-test 5 major LLMs across 10 adversarial scenarios, exposing critical vulnerabilities; the framework is presented as a practical, reusable tool for AI safety assessment.",
+      "titleEn": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48449187",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "author": "aryamaan",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-08T18:22:39.000Z",
+      "rawContent": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "engagement": {
+        "score": 185,
+        "comments": 324
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "这是一篇 Hacker News 上的社区发帖，邀请用户分享自 AI 兴起以来为自己开发的个性化工具，内容以经验交流和案例分享为主，反映一线开发者如何将 AI 集入个人工作流。",
+      "summaryEn": "This is a Hacker News community post inviting users to share personalized tools they’ve built for themselves since the rise of AI, centered on real-world usage patterns and developer anecdotes rather than technical instruction.",
+      "titleEn": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.522222222222222
+    },
+    {
+      "id": "github-bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "author": "bytedance",
+      "platform": "github",
+      "publishedAt": "2025-05-07T02:50:19Z",
+      "rawContent": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "engagement": {
+        "likes": 70766,
+        "score": 9574
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "字节跳动开源的DEER-Flow是一个面向长周期任务的SuperAgent框架，支持研究、编码与内容创作，集成沙箱、记忆、工具、技能模块、子智能体及消息网关。该框架旨在处理需数分钟至数小时完成的复杂多步AI任务。",
+      "summaryEn": "ByteDance's open-source DEER-Flow is a long-horizon SuperAgent framework designed for research, coding, and content creation, featuring sandboxes, memory, tool integration, skill modules, subagents, and a message gateway to handle complex, multi-step tasks lasting minutes to hours.",
+      "titleEn": "bytedance/deer-flow",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.09079",
+      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "url": "https://huggingface.co/papers/2606.09079",
+      "author": "Yan Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-07T20:00:00.000Z",
+      "rawContent": "Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a novel inference paradigm powered by a Neural Memory Indexer built upon the DeepSeek-V4 architecture. Rather than passively attending to all historical tokens, LSA proactively predicts future context demands and preserves only the query-critical KV chunks in the GPU memory. Crucially, we instantiate t",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出了一种名为前瞻稀疏注意力（LSA）的新推理范式，通过神经记忆索引器优化DeepSeek-V4模型的KV缓存管理，显著缓解超长上下文推理中的GPU内存瓶颈。",
+      "summaryEn": "This paper introduces Lookahead Sparse Attention (LSA), a novel inference paradigm that uses a Neural Memory Indexer to dynamically retain only query-critical KV chunks—dramatically reducing GPU memory overhead for ultra-long-context inference in DeepSeek-V4.",
+      "titleEn": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2606.09826",
+      "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "url": "http://arxiv.org/abs/2606.09826v1",
+      "author": "Mingxian Lin",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-08T17:59:43Z",
+      "rawContent": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time benchmark of twelve newly built Unreal Engine 5 games s",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出OmniGameArena——一个基于Unreal Engine 5构建的统一实时基准测试套件，专为评估多类视觉语言模型（VLM）游戏智能体的改进动态而设计，弥补了现有游戏基准在多轮学习、多智能体协作与异构模型公平比较方面的不足。",
+      "summaryEn": "This paper introduces OmniGameArena, a unified real-time benchmark built in Unreal Engine 5 comprising twelve novel games, designed to evaluate improvement dynamics of diverse vision-language model (VLM) agents—including commercial, open-weight, and specialized game policies—addressing key gaps in existing game benchmarks regarding iterative learning, multi-agent settings, and standardized cross-model evaluation.",
+      "titleEn": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48445171",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "author": "fkilaiwi",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-08T13:35:27.000Z",
+      "rawContent": "Hey HN, we&#x27;re Faisal and Ahmad from Intuned (<a href=\"https:&#x2F;&#x2F;intunedhq.com\">https:&#x2F;&#x2F;intunedhq.com</a>). We’re building a platform for building, deploying, and maintaining browser automations.<p>Customers primarily use the Intuned AI agent to automate websites that don&#x27;t expose APIs. Common use-cases include scraping data, pulling reports, and submitting forms. As the website changes, our agent also helps automatically heal the automation.<p>On Intuned, browser auto",
+      "engagement": {
+        "score": 102,
+        "comments": 44
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Intuned 是一家 YC 孵化（S22）的初创公司，推出面向浏览器自动化的 AI 驱动平台，支持以代码形式构建、部署和维护自动化流程，并具备网页变更后的自动修复能力。",
+      "summaryEn": "Intuned (YC S22) is an AI-powered platform for building, deploying, and maintaining browser automations as code—especially for websites lacking APIs—and features self-healing capabilities when UIs change.",
+      "titleEn": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "devto-3846006",
+      "title": "Prompt Engineering Is Dead. System Engineering Is the Future.",
+      "url": "https://dev.to/yash_sonawane25/prompt-engineering-is-dead-system-engineering-is-the-future-30p8",
+      "author": "Yash Sonawane",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T06:37:25Z",
+      "rawContent": "Why the Best AI Builders Are No Longer Writing Better Prompts—They're Designing Better...",
+      "engagement": {
+        "likes": 8,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文提出“提示工程已死，系统工程才是未来”的观点，强调AI应用开发正从零散的提示调优转向端到端的系统化设计，涵盖提示、工具集成、RAG、缓存、评估与反馈闭环等全栈要素。",
+      "summaryEn": "This article argues that 'prompt engineering is dead' and advocates for 'system engineering' as the new paradigm—shifting AI development from isolated prompt tuning to holistic, production-grade system design involving tool orchestration, RAG, caching, evaluation, and feedback loops.",
+      "titleEn": "Prompt Engineering Is Dead. System Engineering Is the Future.",
+      "category": "讨论",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hf-2606.09809",
+      "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "url": "https://huggingface.co/papers/2606.09809",
+      "author": "Avijit Ghosh",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-07T20:00:00.000Z",
+      "rawContent": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omits, or trace an aggregate claim to its underlying evidence. Recent efforts address isolated components but leave three gaps: they cover only narrow slices of the evaluation lifecycle and do not compose into a single interpretable record; they specif",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出‘评估卡片’（Evaluation Cards）框架，旨在为AI模型评估报告提供统一、可解释的元数据层，以解决当前跨平台评估结果不一致、不可比、难追溯的根本性问题。",
+      "summaryEn": "This paper introduces 'Evaluation Cards', an interpretive metadata framework for AI evaluation reporting, designed to address systemic inconsistencies, incomparability, and lack of traceability across leaderboards, model cards, benchmarks, and industry reports.",
+      "titleEn": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 146,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
