@@ -1,0 +1,488 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T04:11:29.568Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 189022,
+        "score": 32621
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划、工具调用与多步推理。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning, tool use, and multi-step reasoning.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 138920,
+        "score": 23006
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型的应用程序的开源框架，专注于代理（agent）工程、链式调用和数据连接。它提供了丰富的模块化工具，支持快速开发RAG、智能体和自动化工作流。",
+      "summaryEn": "LangChain is an open-source framework for building LLM-powered applications, focused on agent engineering, chaining, and data integration. It offers modular, production-ready tools for developing RAG systems, autonomous agents, and AI workflows.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 11.333333333333332
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 212018,
+        "score": 32553
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程工具，强调技能编排、本能响应、记忆机制、安全增强与以研究为先的开发范式。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI programming agents, supporting tools like Claude Code, Codex, Opencode, and Cursor, with emphasis on skill orchestration, instinctive behavior, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "hn-48463808",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "author": "Philpax",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-09T16:58:01.000Z",
+      "rawContent": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "engagement": {
+        "score": 1904,
+        "comments": 1491
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "Claude Fable 5 是 Anthropic 推出的新型 AI 助手，其系统卡（System Card）详细说明了该模型的安全设计、能力边界与部署原则，属于面向企业与开发者的新一代大模型产品。该文档虽非技术实现细节，但为评估和负责任地使用该工具提供了关键依据。",
+      "summaryEn": "Claude Fable 5 is a new AI assistant released by Anthropic; its System Card (PDF) outlines safety protocols, capability boundaries, and deployment principles—positioning it as a production-ready AI tool for enterprises and developers. While not a technical implementation guide, the document provides essential governance and usage context.",
+      "titleEn": "Claude Fable 5",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 10.8
+    },
+    {
+      "id": "devto-3853825",
+      "title": "Stop Feeding Agents Raw Data",
+      "url": "https://dev.to/copyleftdev/stop-feeding-agents-raw-data-2kif",
+      "author": "Don Johnson",
+      "platform": "devto",
+      "publishedAt": "2026-06-09T06:05:05Z",
+      "rawContent": "I used to think the problem was the agent.  I would hand it a large JSON export and ask a reasonable...",
+      "engagement": {
+        "likes": 7,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践导向的AI代理开发指南，强调不应直接将原始数据（如大型JSON）喂给AI代理，而应通过数据预处理、结构化提示和分步任务分解来提升代理性能。",
+      "summaryEn": "This is a practical guide for AI agent development, arguing against feeding raw data (e.g., large JSON exports) directly to agents and instead advocating for preprocessing, structured prompting, and task decomposition to improve reliability and performance.",
+      "titleEn": "Stop Feeding Agents Raw Data",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144620,
+        "score": 22754
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，支持基于智能体（agentic）的工作流开发与部署，提供可视化编排、模型集成和应用发布能力。",
+      "summaryEn": "Dify is a production-ready open-source platform for building, orchestrating, and deploying agentic AI workflows, featuring visual workflow design, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 140888,
+        "score": 20218
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型服务，便于快速部署和交互式使用大语言模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backends including Ollama and OpenAI API, enabling quick deployment and interactive LLM usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149473,
+        "score": 9225
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI智能体与工作流。它支持与主流LLM、向量数据库及工具集成，显著简化AI应用开发流程。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows, with seamless integration support for major LLMs, vector databases, and tools.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82368,
+        "score": 17860
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，采用 PagedAttention 等创新技术显著提升吞吐量和显存利用率。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, leveraging innovations like PagedAttention to dramatically improve throughput and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "devto-3860915",
+      "title": "AI Usage Statistics 2026: The Structural Shift Behind Adoption, Work, and Hiring",
+      "url": "https://dev.to/alifar/ai-usage-statistics-2026-the-structural-shift-behind-adoption-work-and-hiring-mlj",
+      "author": "Ali Farhat",
+      "platform": "devto",
+      "publishedAt": "2026-06-09T22:41:28Z",
+      "rawContent": "AI in 2026 is no longer best understood as a technology trend. It has become a structural layer...",
+      "engagement": {
+        "likes": 19,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "本文分析2026年AI采用率、工作模式与招聘趋势的结构性转变，强调AI已从技术潮流演变为影响组织架构与劳动力市场的基础性力量。",
+      "summaryEn": "This article analyzes the structural shift in AI adoption, work practices, and hiring trends in 2026, arguing that AI has evolved from a technological trend into a foundational layer reshaping organizations and labor markets.",
+      "titleEn": "AI Usage Statistics 2026: The Structural Shift Behind Adoption, Work, and Hiring",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.583333333333334
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 41561,
+        "score": 39620
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并支持零成本定时运行和多渠道推送。",
+      "summaryEn": "An open-source LLM-powered stock analysis system supporting A-share, H-share, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3845295",
+      "title": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
+      "url": "https://dev.to/saurav_bhattacharya/i-built-an-adversarial-eval-framework-and-attacked-5-llms-every-single-one-failed-1j81",
+      "author": "Saurav Bhattacharya",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T04:32:59Z",
+      "rawContent": "10 adversarial scenarios, 64 assertions, 3-tier evaluation pyramid. Llama, Qwen, GPT-OSS — none scored above 63%. Here's what broke them.",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "作者构建了一个对抗性评估框架，对5个主流大语言模型进行了系统性压力测试，揭示其在10类对抗场景下的普遍脆弱性；该框架本身具备可复用的三层评估结构（64项断言），可直接用于AI模型鲁棒性验证。",
+      "summaryEn": "The author built a reusable adversarial evaluation framework with 10 adversarial scenarios and 64 assertions organized in a 3-tier pyramid, and used it to stress-test 5 LLMs — all scored below 63%, exposing critical robustness gaps; the framework design is explicitly shared for practical model validation.",
+      "titleEn": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
+      "category": "工具",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3837048",
+      "title": "The Messages Array, in 4 GIFs",
+      "url": "https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j",
+      "author": "Jasmin Virdi",
+      "platform": "devto",
+      "publishedAt": "2026-06-09T15:29:00Z",
+      "rawContent": "This is the third post of series Building TinyAgent where we are building a small agent from scratch...",
+      "engagement": {
+        "likes": 8,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 9
+      },
+      "summary": "本文是《Building TinyAgent》系列的第三篇，通过4个GIF动图直观演示了AI代理开发中消息数组（Messages Array）的结构、构建逻辑与交互流程，聚焦于实际编码实践。",
+      "summaryEn": "This is the third post in the 'Building TinyAgent' series, using 4 GIFs to visually demonstrate the structure, construction logic, and interaction flow of the Messages array in AI agent development, with a strong focus on hands-on implementation.",
+      "titleEn": "The Messages Array, in 4 GIFs",
+      "category": "教程",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.411111111111111
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 98012,
+        "score": 10938
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源项目，旨在为 AI 智能体提供标准化、可编程的网页交互能力，支持自动化在线任务执行。",
+      "summaryEn": "browser-use is an open-source project that enables AI agents to interact with websites programmatically and reliably, facilitating web automation tasks.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "arxiv-2606.11182",
+      "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "url": "http://arxiv.org/abs/2606.11182v1",
+      "author": "Weixian Xu",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-09T17:57:16Z",
+      "rawContent": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle heterogeneous input streams drawn from multiple datasets, domains, and task distributions, limiting their practical applicability. To mitigate cross-dataset interference, EEVEE introduces a router that p",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 5
+      },
+      "summary": "本文提出了EEVEE框架，首个面向真实世界多数据集任务流的测试时提示学习方法，旨在提升大语言模型智能体在动态异构环境下的自适应能力。",
+      "summaryEn": "This paper introduces EEVEE, the first test-time prompt learning framework for LLM agents designed to operate robustly across heterogeneous, real-world task streams drawn from multiple datasets and domains.",
+      "titleEn": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48467896",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "author": "mips_avatar",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-09T21:19:11.000Z",
+      "rawContent": "Related: https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Jun&#x2F;10&#x2F;if-claude-fable-stops-helping-you&#x2F;",
+      "engagement": {
+        "score": 607,
+        "comments": 298
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "本文是一篇技术评论文章，探讨了Anthropic推出的Claude Fable功能（一种用于增强AI响应可信度的“虚构性标注”机制）的潜在局限性，指出其失效时用户可能无法察觉，引发对AI透明度与可解释性的担忧。",
+      "summaryEn": "This is a critical commentary on Anthropic's Claude Fable feature—a mechanism designed to flag potentially fictional or unverifiable claims in AI responses—and argues that its silent failure poses a serious trust and transparency risk, as users receive no indication when the safeguard stops working.",
+      "titleEn": "If Claude Fable stops helping you, you'll never know",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 8.055555555555555
+    },
+    {
+      "id": "hn-48457830",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "author": "raffael_de",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-09T07:33:16.000Z",
+      "rawContent": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "engagement": {
+        "score": 531,
+        "comments": 183
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "这是一则关于微软开源工具遭黑客攻击、导致AI开发者密码泄露的安全事件报道，反映了AI开发供应链中的潜在风险。",
+      "summaryEn": "This is a security incident report about hackers compromising Microsoft's open-source tools to steal AI developers' credentials, highlighting supply-chain risks in AI development.",
+      "titleEn": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 7.944444444444446
+    },
+    {
+      "id": "devto-3844998",
+      "title": "Odysseus: The Self-Hosted AI Workspace That Bundles Everything (60k+ ⭐)",
+      "url": "https://dev.to/divyesh5981/odysseus-the-self-hosted-ai-workspace-that-bundles-everything-59k--5cln",
+      "author": "Divyesh",
+      "platform": "devto",
+      "publishedAt": "2026-06-08T03:35:21Z",
+      "rawContent": "I Tried PewDiePie's Open-Source AI Workspace. It's Actually Good.   Yes, that...",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一个名为Odysseus的自托管AI工作区开源项目，它集成了多种AI工具（如LLM、RAG、语音合成等），支持本地部署，已在GitHub获得超6万星标。",
+      "summaryEn": "This article reviews Odysseus — an open-source, self-hosted AI workspace that bundles LLMs, RAG, text-to-speech, and other AI capabilities into a single deployable stack, with over 60k GitHub stars.",
+      "titleEn": "Odysseus: The Self-Hosted AI Workspace That Bundles Everything (60k+ ⭐)",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hn-48463024",
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "author": "flanged",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-09T16:13:10.000Z",
+      "rawContent": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "engagement": {
+        "score": 372,
+        "comments": 593
+      },
+      "scores": {
+        "relevance": 6,
+        "novelty": 8,
+        "actionability": 2
+      },
+      "summary": "苹果因欧盟拒绝其豁免申请，决定暂不于欧盟地区推出Siri服务，反映出AI语音助手在监管合规方面的现实挑战。",
+      "summaryEn": "Apple has decided not to launch Siri in the EU after its request for regulatory exemption was denied, highlighting real-world compliance challenges for AI voice assistants under EU digital regulations.",
+      "titleEn": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.800000000000001
+    },
+    {
+      "id": "hf-2606.10740",
+      "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+      "url": "https://huggingface.co/papers/2606.10740",
+      "author": "Sai Kartheek Reddy Kasu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-09T07:50:28.000Z",
+      "rawContent": "Failures in multi-turn reasoning models are largely invisible to terminal-score evaluation. A model can lock onto an unsafe stance early in a long dialogue, yet its final-turn refusal rate may appear indistinguishable from a robustly aligned baseline. To expose these hidden temporal dynamics, we propose a trace-level diagnostic - the CoT-Output 2x2 safety matrix. This framework labels every turn along two independent axes (internal reasoning and visible output), yielding four operationally defin",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出了一种名为CoT-Output 2x2安全矩阵的诊断框架，用于揭示多轮推理模型中隐藏的时间性安全失效模式，指出仅依赖终局评分会掩盖早期推理偏差问题。",
+      "summaryEn": "This paper introduces the CoT-Output 2x2 safety matrix—a trace-level diagnostic framework—to uncover hidden temporal safety failures in multi-turn reasoning models, demonstrating that terminal-score evaluation masks early misalignment in chain-of-thought reasoning.",
+      "titleEn": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 155,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
