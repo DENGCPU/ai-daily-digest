@@ -1,0 +1,491 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T04:24:04.124Z",
+  "items": [
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 111844,
+        "score": 60052
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 10
+      },
+      "summary": "这是微软官方推出的面向初学者的生成式AI实践教程，包含21节循序渐进的课程，涵盖基础概念、API调用、模型微调及应用构建等实操内容。",
+      "summaryEn": "This is Microsoft's official hands-on tutorial series for beginners in generative AI, featuring 21 progressive lessons covering fundamentals, API integration, model fine-tuning, and end-to-end application building.",
+      "titleEn": "microsoft/generative-ai-for-beginners",
+      "category": "教程",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.666666666666666
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 184890,
+        "score": 46159
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于其构建和定制智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build and customize intelligent agents.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 212849,
+        "score": 32703
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，聚焦于技能编排、本能建模、记忆机制、安全增强及以研究为先导的开发范式，支持 Claude Code、Codex、Opencode、Cursor 等主流编程助手。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI programming agents, emphasizing skill orchestration, instinct modeling, memory integration, security hardening, and research-first development—designed to enhance Claude Code, Codex, Opencode, Cursor, and similar coding assistants.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "hn-48473166",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "author": "TomAnthony",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-10T08:21:38.000Z",
+      "rawContent": "&gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS’s data and security boundary.<p>From the announcement here: <a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;anthropi",
+      "engagement": {
+        "score": 399,
+        "comments": 234
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "AWS Bedrock平台宣布，使用Anthropic的Mythos系列及未来同级或更高级模型时，用户数据将被Anthropic保留30天以检测滥用行为，且该数据将脱离AWS的安全边界。",
+      "summaryEn": "AWS Bedrock announced that using Anthropic's Mythos-class models (e.g., Mythos 5) and future models of similar or higher capability will require opting into 30-day data retention by Anthropic—moving data outside AWS’s security boundary for misuse detection.",
+      "titleEn": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333332
+    },
+    {
+      "id": "devto-3865337",
+      "title": "When Prompt Batching Made My LLM App More Expensive",
+      "url": "https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5",
+      "author": "Awaliyatul Hikmah",
+      "platform": "devto",
+      "publishedAt": "2026-06-10T11:16:34Z",
+      "rawContent": "I was working on cost optimization for an LLM-based document translation pipeline.  At that point,...",
+      "engagement": {
+        "likes": 6,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践导向的技术博客，详细剖析了在LLM应用中盲目使用Prompt批处理（batching）反而导致成本上升的常见误区，并提供了基于实测的优化策略和替代方案。",
+      "summaryEn": "This is a practice-oriented technical blog post that identifies and explains the counterintuitive pitfall where prompt batching increases costs in LLM applications—especially in document translation—and offers empirically grounded optimization strategies and alternatives.",
+      "titleEn": "When Prompt Batching Made My LLM App More Expensive",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161488,
+        "score": 33463
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与微调。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and fine-tuning across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.094444444444445
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 190168,
+        "score": 32960
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在通过持续学习和用户交互实现渐进式能力增强，支持多步推理与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to progressively enhance capabilities through continual learning and user interaction, supporting multi-step reasoning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 173813,
+        "score": 16547
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个开源的本地大模型运行框架，支持一键拉取和运行包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与商业对齐模型。",
+      "summaryEn": "Ollama is an open-source framework for running large language models locally, enabling one-command setup and execution of multiple models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333335
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144779,
+        "score": 22781
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 138999,
+        "score": 23026
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, enabling chains, tool integration, and intelligent agent development.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.444444444444445
+    },
+    {
+      "id": "devto-3866794",
+      "title": "CLI over MCP: a small Chrome DevTools experiment in Copilot CLI",
+      "url": "https://dev.to/maximsaplin/cli-over-mcp-a-small-chrome-devtools-experiment-in-copilot-cli-5gpi",
+      "author": "Maxim Saplin",
+      "platform": "devto",
+      "publishedAt": "2026-06-10T15:25:25Z",
+      "rawContent": "I ran the same browser smoke task through two paths: direct Chrome DevTools MCP and a custom CLI...",
+      "engagement": {
+        "likes": 11,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一个在Copilot CLI中使用Chrome DevTools MCP协议的轻量级实验，对比了直接调用MCP与通过自定义CLI执行浏览器冒烟测试的效果。",
+      "summaryEn": "This article presents a lightweight experiment using Chrome DevTools' MCP protocol within Copilot CLI, comparing direct MCP invocation versus a custom CLI for executing browser smoke tests.",
+      "titleEn": "CLI over MCP: a small Chrome DevTools experiment in Copilot CLI",
+      "category": "教程",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.072222222222223
+    },
+    {
+      "id": "hn-48477400",
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "author": "anhldbk",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-10T15:01:06.000Z",
+      "rawContent": "Apache Burr: Build reliable AI agents and applications",
+      "engagement": {
+        "score": 183,
+        "comments": 95
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Apache Burr 是一个新开源的框架，专为构建可观察、可调试、可持久化的可靠AI智能体和应用而设计，支持与主流LLM和工具集成。",
+      "summaryEn": "Apache Burr is a newly open-sourced framework designed to build reliable, observable, debuggable, and persistent AI agents and applications, with native integration for major LLMs and tools.",
+      "titleEn": "Apache Burr: Build reliable AI agents and applications",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48479452",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "author": "tonyrice",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-10T17:11:56.000Z",
+      "rawContent": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "engagement": {
+        "score": 369,
+        "comments": 256
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "该内容指出Claude桌面版每次启动都会创建一个1.8 GB的Hyper-V虚拟机，即使仅用于基础聊天，引发对资源开销和设计合理性的社区质疑。",
+      "summaryEn": "This report highlights that Claude Desktop launches a 1.8 GB Hyper-V virtual machine on every startup—even for simple chat-only usage—sparking community concerns about resource inefficiency and architectural design choices.",
+      "titleEn": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.955555555555556
+    },
+    {
+      "id": "hn-48476136",
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "author": "tvissers",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-10T13:39:11.000Z",
+      "rawContent": "A €0.01 bank transfer could compromise a banking AI agent",
+      "engagement": {
+        "score": 170,
+        "comments": 161
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "该内容探讨了微小金额银行转账（如€0.01）可能被恶意利用，通过触发AI代理的异常响应或 logic flaws 来绕过安全机制，引发对金融领域AI代理鲁棒性与对抗性风险的行业关注。",
+      "summaryEn": "This content discusses how a trivial bank transfer (e.g., €0.01) could be exploited to compromise banking AI agents—highlighting adversarial vulnerabilities, edge-case failures, and real-world security implications for production AI systems in finance.",
+      "titleEn": "A €0.01 bank transfer could compromise a banking AI agent",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.8
+    },
+    {
+      "id": "devto-3835466",
+      "title": "The Most Dangerous Bias of Your AI Assistant Is That It Agrees With You",
+      "url": "https://dev.to/ben-witt/the-most-dangerous-bias-of-your-ai-assistant-is-that-it-agrees-with-you-4fhc",
+      "author": "Ben Witt",
+      "platform": "devto",
+      "publishedAt": "2026-06-10T08:00:00Z",
+      "rawContent": "We talk a lot about hallucinations. But there is another failure mode we should take just as...",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨AI助手因过度迎合用户观点而产生的“确认偏误”风险，指出这种隐蔽偏差比幻觉更危险，呼吁开发者和用户提高警觉并反思人机交互模式。",
+      "summaryEn": "This article examines the 'confirmation bias' risk in AI assistants—where they uncritically agree with users—as a subtle yet potentially more dangerous failure mode than hallucinations, urging greater awareness and critical engagement from both developers and users.",
+      "titleEn": "The Most Dangerous Bias of Your AI Assistant Is That It Agrees With You",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.8
+    },
+    {
+      "id": "devto-3838804",
+      "title": "On-Device AI in SwiftUI Apps",
+      "url": "https://dev.to/arshtechpro/on-device-ai-in-swiftui-apps-427h",
+      "author": "ArshTechPro",
+      "platform": "devto",
+      "publishedAt": "2026-06-09T15:29:42Z",
+      "rawContent": "A practical guide to running AI models locally in SwiftUI using Apple's Core ML, Vision, Natural Language, and Foundation Models frameworks.",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "本文是一份面向 SwiftUI 开发者的实用指南，详细介绍了如何在 iOS/macOS 设备上本地运行 AI 模型，涵盖 Core ML、Vision、Natural Language 和 Foundation Models 等 Apple 原生框架的集成方法。",
+      "summaryEn": "This is a practical, hands-on guide for SwiftUI developers on deploying and running AI models locally on Apple devices using native frameworks—Core ML, Vision, Natural Language, and Foundation Models.",
+      "titleEn": "On-Device AI in SwiftUI Apps",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.7
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 141028,
+        "score": 20241
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型服务，便于快速部署和交互式使用大语言模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backend LLM services (e.g., Ollama, OpenAI API), enabling quick deployment and interactive model usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48478471",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "author": "meetpateltech",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-10T16:09:37.000Z",
+      "rawContent": "DiffusionGemma: 4x Faster Text Generation",
+      "engagement": {
+        "score": 291,
+        "comments": 73
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "DiffusionGemma 是一种新型扩散模型架构，将文本生成速度提升至传统自回归模型的4倍，已作为开源项目发布。",
+      "summaryEn": "DiffusionGemma is a novel diffusion-based architecture for text generation that achieves 4× speedup over autoregressive models and has been released as an open-source project.",
+      "titleEn": "DiffusionGemma: 4x Faster Text Generation",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.4
+    },
+    {
+      "id": "devto-3865377",
+      "title": "Why AI Agents Break the Secrets Manager (And the Quiet Memory Crisis We're Ignoring)",
+      "url": "https://dev.to/the_seventeen/why-ai-agents-break-the-secrets-manager-and-the-quiet-memory-crisis-were-ignoring-2hk3",
+      "author": "The Seventeen",
+      "platform": "devto",
+      "publishedAt": "2026-06-10T11:19:12Z",
+      "rawContent": "Let’s talk about a feeling every engineer has had lately.  You’re sitting in your IDE, working with...",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨AI智能体在使用密钥管理器时引发的安全隐患与内存泄漏问题，指出当前工程实践中被忽视的‘静默内存危机’，属于对AI系统集成风险的深度行业反思。",
+      "summaryEn": "This article examines security and memory leakage risks introduced by AI agents when interfacing with secrets managers, highlighting an under-recognized 'quiet memory crisis' in AI system integration—a critical industry discussion on operational pitfalls.",
+      "titleEn": "Why AI Agents Break the Secrets Manager (And the Quiet Memory Crisis We're Ignoring)",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.4
+    },
+    {
+      "id": "devto-3858155",
+      "title": "MCP Is the USB-C of AI. So Why Are You Plugging Everything In?",
+      "url": "https://dev.to/kenwalger/mcp-is-the-usb-c-of-ai-so-why-are-you-plugging-everything-in-37jn",
+      "author": "Ken W Alger",
+      "platform": "devto",
+      "publishedAt": "2026-06-10T14:23:00Z",
+      "rawContent": "Where this fits: This article extends the Zero-Glue series. If you haven't read The End of Glue Code:...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文以‘MCP是AI领域的USB-C’为隐喻，探讨MCP（Model Communication Protocol）作为统一AI互操作协议的潜力与现状，属于对新兴AI基础设施标准的行业评论与趋势分析。",
+      "summaryEn": "This article uses the metaphor 'MCP is the USB-C of AI' to analyze the Model Communication Protocol (MCP) as an emerging interoperability standard for AI systems, offering critical commentary on its adoption challenges and ecosystem implications.",
+      "titleEn": "MCP Is the USB-C of AI. So Why Are You Plugging Everything In?",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8
+    }
+  ],
+  "stats": {
+    "totalCollected": 155,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
