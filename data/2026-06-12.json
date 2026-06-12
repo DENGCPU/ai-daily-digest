@@ -1,0 +1,479 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T04:26:43.508Z",
+  "items": [
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 173915,
+        "score": 16562
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "该GitHub仓库（Ollama）是一个开源本地AI模型运行工具，支持快速部署Kimi-K2.6、GLM-5.1、Qwen、Gemma等主流开源及商用大模型。",
+      "summaryEn": "This GitHub repository (Ollama) is an open-source tool for running large language models locally, enabling quick setup of models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "devto-3870378",
+      "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "url": "https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped",
+      "author": "Omotayo Aina",
+      "platform": "devto",
+      "publishedAt": "2026-06-11T04:08:23Z",
+      "rawContent": "A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...",
+      "engagement": {
+        "likes": 7,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文详细介绍了Google ADK（Agent Development Kit）中用于防御提示注入攻击的五层安全架构，并提供了具体配置方法和防护实践建议。",
+      "summaryEn": "This article details the five-layer security architecture in Google's Agent Development Kit (ADK) designed to defend AI agents against prompt injection attacks, including concrete configuration steps and mitigation best practices.",
+      "titleEn": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
+      "category": "教程",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 11.571428571428571
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139086,
+        "score": 23051
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和自主代理开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, supporting chains, tool integration, and autonomous agents.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 11.333333333333332
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 191164,
+        "score": 33214
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持多步推理与工具调用，适用于构建可扩展的AI代理系统。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting multi-step reasoning and tool use for building scalable AI agents.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 144904,
+        "score": 22804
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "devto-3874038",
+      "title": "HazelJS 1.0.0: Stable Release of the AI-Native TypeScript Framework",
+      "url": "https://dev.to/arslan_mecom/hazeljs-100-stable-release-of-the-ai-native-typescript-framework-89j",
+      "author": "Muhammad Arslan",
+      "platform": "devto",
+      "publishedAt": "2026-06-11T12:21:06Z",
+      "rawContent": "Today we are shipping HazelJS 1.0.0 — the first stable release of our AI-native TypeScript framework...",
+      "engagement": {
+        "likes": 11,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "HazelJS 1.0.0 是一个专为AI原生应用设计的稳定版TypeScript框架，支持LLM集成、智能代理和可组合AI工作流，面向开发者提供生产级AI工具链。",
+      "summaryEn": "HazelJS 1.0.0 is a stable, AI-native TypeScript framework designed for building LLM-powered applications, featuring built-in agent orchestration, tool calling, and composable AI workflows.",
+      "titleEn": "HazelJS 1.0.0: Stable Release of the AI-Native TypeScript Framework",
+      "category": "工具",
+      "engagementPercentile": 0.5714285714285714,
+      "finalScore": 10.414285714285713
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82616,
+        "score": 17964
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 131614,
+        "score": 7762
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149567,
+        "score": 9243
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-based AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "devto-3873325",
+      "title": "Auto-verifying your AI-SRE's fixes against your real cluster, with mirrord",
+      "url": "https://dev.to/metalbear/auto-verifying-your-ai-sres-fixes-against-your-real-cluster-with-mirrord-2p16",
+      "author": "Eyal Bukchin",
+      "platform": "devto",
+      "publishedAt": "2026-06-11T11:02:50Z",
+      "rawContent": "How to wire mirrord exec into your AI-SRE so every suggested fix is verified against your real cluster before it reaches a human.",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了如何将 mirrord 工具集成到 AI-SRE（AI 驱动的站点可靠性工程）工作流中，实现对 AI 建议修复方案在真实集群上的自动验证，提升运维决策可信度。",
+      "summaryEn": "This article explains how to integrate the mirrord tool into an AI-SRE workflow to automatically verify every AI-suggested fix against a live production cluster before human review.",
+      "titleEn": "Auto-verifying your AI-SRE's fixes against your real cluster, with mirrord",
+      "category": "教程",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 9.257142857142856
+    },
+    {
+      "id": "devto-3876015",
+      "title": "You Fixed the Rate Limits. Now Your Agent Fails Quietly.",
+      "url": "https://dev.to/p0rt/you-fixed-the-rate-limits-now-your-agent-fails-quietly-3keo",
+      "author": "Sergei Parfenov",
+      "platform": "devto",
+      "publishedAt": "2026-06-11T16:58:21Z",
+      "rawContent": "Every capacity fix - retries, fallbacks, caching - buys availability by acting on output it didn't freshly earn. Why uptime and correct uptime are different SLOs, and how to engineer the second one.",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文探讨AI代理系统中“静默失败”问题，指出单纯提升速率限制等容量措施无法保障结果正确性，强调需区分“可用性”与“正确可用性”两类服务等级目标（SLO），并呼吁在工程实践中优先保障输出质量。",
+      "summaryEn": "This article examines the 'silent failure' problem in AI agent systems, arguing that capacity fixes like rate limit adjustments, retries, and caching improve uptime but not necessarily correctness—highlighting the critical distinction between 'uptime' and 'correct uptime' as separate SLOs and advocating for correctness-aware engineering.",
+      "titleEn": "You Fixed the Rate Limits. Now Your Agent Fails Quietly.",
+      "category": "讨论",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 9.107142857142856
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 98364,
+        "score": 10976
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在为 AI 智能体提供标准化、可编程的网页交互能力，支持自动化在线任务，填补了 AI 代理与真实 Web 环境之间的关键桥梁。",
+      "summaryEn": "browser-use is an open-source library that enables AI agents to interact with websites programmatically and reliably, bridging the gap between AI agents and real-world web environments for task automation.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48489229",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "author": "rarisma",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-11T12:05:02.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260611122253&#x2F;https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;948280&#x2F;anthropic-claude-fable-invisible-distillation-guardrail\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260611122253&#x2F;https:&#x2F;&#x2F;www.theve...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;y4V4k\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;y4V4k</a>",
+      "engagement": {
+        "score": 350,
+        "comments": 346
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "Anthropic就Claude模型中未公开的“Fable”蒸馏式安全护栏向公众致歉，该隐形机制引发AI社区对透明度与安全治理的广泛质疑。",
+      "summaryEn": "Anthropic apologized for an undisclosed 'Fable' distillation-based safety guardrail in Claude models, sparking broad community debate about AI transparency and responsible deployment.",
+      "titleEn": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.955555555555557
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78533,
+        "score": 15405
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成可 7×24 小时自主运行的‘AI 团队’，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 7×24 autonomous 'AI team', enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333333
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 86278,
+        "score": 12312
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术实现一键生成高清短视频，支持本地部署与定制化扩展。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, supporting local deployment and customization.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.08039",
+      "title": "MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.08039",
+      "author": "Manan Tayal",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-05T20:00:00.000Z",
+      "rawContent": "Robotic simulators are a cornerstone of modern research in aerial robotics, serving both as a vehicle for the development of new control algorithms and as the data source for training reinforcement learning (RL) policies. Yet, existing quadcopter learning environments often face a trade-off between physical fidelity, multi-agent support, and the throughput required by modern deep RL pipelines. In this paper, we present MuJoCo-Drones-Gym, an open-source Gymnasium-compatible multi-drone environmen",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "MuJoCo-Drones-Gym 是一个开源的、支持 GPU 加速的多无人机仿真环境，专为控制算法开发和强化学习训练设计，兼容 Gymnasium 接口。",
+      "summaryEn": "MuJoCo-Drones-Gym is an open-source, GPU-accelerated multi-drone simulation environment designed for control algorithm development and reinforcement learning training, compatible with the Gymnasium API.",
+      "titleEn": "MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.13120",
+      "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
+      "url": "https://huggingface.co/papers/2606.13120",
+      "author": "Yunhan Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "rawContent": "Search Agents -- large language models augmented with search tools -- have intensified the need for future-proof evaluation benchmarks. Existing benchmarks such as BrowseComp rely on static knowledge, making them vulnerable to test-set contamination and parametric memorization. Consequently, models can achieve high scores through fact recall rather than genuine retrieval, obscuring true browsing competence via reasoning shortcuts.\n  In this paper, we introduce EvoBrowseComp, an evolving benchmar",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出EvoBrowseComp——一个面向动态演进知识的搜索智能体评测基准，旨在解决现有静态基准（如BrowseComp）易受测试集污染和参数记忆干扰的问题，从而更真实地评估模型的检索推理能力。",
+      "summaryEn": "This paper introduces EvoBrowseComp, an evolving benchmark for evaluating search agents on dynamically updating knowledge, addressing critical limitations of static benchmarks (e.g., BrowseComp) such as test-set contamination and parametric memorization, enabling more faithful assessment of genuine browsing and reasoning capabilities.",
+      "titleEn": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.13681",
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "https://huggingface.co/papers/2606.13681",
+      "author": "Jundong Xu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "rawContent": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing environments and updated task conditions. To address this gap, we introduce EvoArena, a benchmark suite that models environment changes as sequences of progressive updates across terminal, software, and so",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "EvoArena 是一个面向动态环境的新型基准套件，旨在评估大语言模型智能体在环境持续变化（如终端、软件、任务条件更新）下的记忆演化与鲁棒性。该工作填补了现有静态评测与真实部署场景之间的关键鸿沟。",
+      "summaryEn": "EvoArena is a novel benchmark suite designed to evaluate the memory evolution and robustness of LLM agents in dynamic environments—where terminals, software, and task conditions change progressively—addressing the critical gap between static benchmarks and real-world deployment.",
+      "titleEn": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.12674",
+      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://huggingface.co/papers/2606.12674",
+      "author": "Kushal Raj Bhandari",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-09T20:00:00.000Z",
+      "rawContent": "Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live catalogs, satisfy schemas, preserve dependencies across intermediate outputs, and ground final responses in executed evidence. Small planners often generate plausible workflow graphs that fail under tool resolution, parameter validation, dependency tracking, or execution. We argue that this failure mod",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Evoflux 提出一种推理时进化可执行工具工作流的方法，旨在提升紧凑型语言模型在动态工具调用场景下的鲁棒性与成功率，解决小规模规划器在工具发现、依赖追踪和执行验证中的常见失败问题。",
+      "summaryEn": "Evoflux introduces an inference-time evolutionary method for executable tool workflows, enhancing robustness and success rates of compact language models in dynamic tool-use scenarios—addressing common failures of small planners in tool discovery, dependency tracking, and execution validation.",
+      "titleEn": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "arxiv-2606.13680",
+      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "author": "Zilin Xiao",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-11T17:59:52Z",
+      "rawContent": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a post-training framework ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出了一种名为检索增强强化微调（RA-RFT）的新框架，旨在通过检索类比性推理示例提升大语言模型的复杂推理能力，突破传统基于语义相似性的检索局限。",
+      "summaryEn": "This paper introduces Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a novel post-training framework that improves complex reasoning in LMs by retrieving analogical reasoning examples—addressing the limitation of conventional semantic-similarity-based retrieval for reasoning tasks.",
+      "titleEn": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 146,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
