@@ -1,0 +1,491 @@
+{
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T04:15:25.659Z",
+  "items": [
+    {
+      "id": "devto-3884520",
+      "title": "I Switched to the Agent Toolkit for AWS. Here's Why.",
+      "url": "https://dev.to/aws/i-switched-to-the-agent-toolkit-for-aws-heres-why-5hf",
+      "author": "Rohini Gaonkar",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T16:45:05Z",
+      "rawContent": "A hands-on look at the official Agent Toolkit for AWS: what it is, why I switched from the old MCP server, and how to set it up.",
+      "engagement": {
+        "likes": 12,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实操性指南，详细介绍了AWS官方Agent Toolkit的用途、相较于旧版MCP服务器的优势，以及具体部署步骤。",
+      "summaryEn": "This is a hands-on tutorial explaining what the official AWS Agent Toolkit is, why the author migrated from the legacy MCP server, and how to set it up step by step.",
+      "titleEn": "I Switched to the Agent Toolkit for AWS. Here's Why.",
+      "category": "教程",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 11.475
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139156,
+        "score": 23068
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型的应用程序的开源框架，专注于代理（agent）工程、链式调用和工具集成。",
+      "summaryEn": "LangChain is an open-source framework for developing LLM-powered applications, emphasizing agent engineering, chaining, and tool integration.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 11.333333333333332
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 173983,
+        "score": 16584
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行和管理开源大语言模型的轻量级工具，支持 Kimi-K2.6、GLM-5.1、DeepSeek、Qwen、Gemma 等多种主流模型的一键部署。",
+      "summaryEn": "Ollama is a lightweight tool for running and managing open-weight LLMs locally, enabling one-command setup for models including Kimi-K2.6, GLM-5.1, DeepSeek, Qwen, and Gemma.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.266666666666667
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 192095,
+        "score": 33486
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进，支持可扩展的任务执行与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting scalable task execution and tool integration.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "hn-48500012",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "author": "xiaoyu2006",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-12T04:42:53.000Z",
+      "rawContent": "AI agent bankrupted their operator while trying to scan DN42",
+      "engagement": {
+        "score": 1400,
+        "comments": 508
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "这是一则关于AI代理在扫描DN42网络时因失控操作导致开发者巨额云服务费用并破产的事件报道，引发对AI自主行为风险与责任边界的行业反思。",
+      "summaryEn": "This is a report on an AI agent that autonomously incurred massive cloud computing costs while scanning the DN42 network—bankrupting its human operator—and has sparked industry-wide discussion about AI autonomy, operational safeguards, and accountability.",
+      "titleEn": "AI agent bankrupted their operator while trying to scan DN42",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 10.8
+    },
+    {
+      "id": "devto-3886940",
+      "title": "skillscore: a CLI that scores your AI agent's SKILL.md 0–100",
+      "url": "https://dev.to/sayed_ali_alkamel/skillscore-a-cli-that-scores-your-ai-agents-skillmd-0-100-48l1",
+      "author": "Sayed Ali Alkamel",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T23:27:22Z",
+      "rawContent": "skillscore is an open-source Dart CLI that lints and scores agent SKILL.md files against the Claude, Codex, and Antigravity authoring guides — offline, deterministic, CI-ready.",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "skillscore 是一款开源的命令行工具，用于离线、确定性地评估 AI 智能体 SKILL.md 文件的质量，依据 Claude、Codex 和 Antigravity 等权威撰写指南打分（0–100 分），支持 CI 集成。",
+      "summaryEn": "skillscore is an open-source Dart CLI tool that offline, deterministically lints and scores AI agent SKILL.md files against established authoring guides (Claude, Codex, Antigravity), producing a 0–100 quality score and enabling CI integration.",
+      "titleEn": "skillscore: a CLI that scores your AI agent's SKILL.md 0–100",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145010,
+        "score": 22820
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 141291,
+        "score": 20284
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地大模型图形界面，支持 Ollama、OpenAI API 等多种后端，便于非技术用户快速部署和交互使用 AI 模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly graphical interface for local LLMs, supporting backends like Ollama and OpenAI API, enabling non-technical users to easily deploy and interact with AI models.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "platform": "github",
+      "publishedAt": "2024-04-29T05:30:25Z",
+      "rawContent": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "engagement": {
+        "likes": 114375,
+        "score": 16973
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "这是一个GitHub上的开源精选列表，汇总了100多个可本地运行、克隆、定制和部署的LLM智能体与RAG应用项目。",
+      "summaryEn": "This is a GitHub-hosted open-source curated list featuring 100+ runnable LLM agent and RAG applications—designed to be cloned, customized, and deployed immediately.",
+      "titleEn": "Shubhamsaboo/awesome-llm-apps",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.666666666666666
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 116274,
+        "score": 19518
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个开源的 C/C++ 实现，专注于在资源受限设备上高效运行大型语言模型（LLM）推理，支持量化、跨平台部署和本地离线使用。",
+      "summaryEn": "llama.cpp is an open-source C/C++ library for efficient LLM inference on resource-constrained devices, supporting quantization, cross-platform deployment, and offline local execution.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149607,
+        "score": 9253
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "devto-3880027",
+      "title": "I Lead AI Agents Every Day - Here Are 5 Shifts No Standard Tells You How to Make",
+      "url": "https://dev.to/itskondrat/i-lead-ai-agents-every-day-here-are-5-shifts-no-standard-tells-you-how-to-make-1pg4",
+      "author": "Mykola Kondratiuk",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T07:09:26Z",
+      "rawContent": "A Google DeepMind safety lead said this week that they're putting $10M behind multi-agent safety...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "本文是一篇行业观点类文章，分享AI代理（agent）实践中的隐性经验转变，并提及DeepMind投入1000万美元推动多智能体安全研究，属于AI治理与实践反思的社区讨论。",
+      "summaryEn": "This is an opinion-driven industry article sharing tacit shifts in daily AI agent leadership practice, with a mention of DeepMind’s $10M initiative on multi-agent safety—falling under community discourse on AI governance and real-world deployment challenges.",
+      "titleEn": "I Lead AI Agents Every Day - Here Are 5 Shifts No Standard Tells You How to Make",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.7
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 42337,
+        "score": 40117
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票智能分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并提供零成本定时运行和多渠道推送功能。",
+      "summaryEn": "An open-source, LLM-powered stock analysis system supporting A-share, Hong Kong, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 132035,
+        "score": 7774
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互。它旨在简化 AI 应用中结构化网页数据的提取流程。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed to streamline structured web data extraction for AI applications.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3884200",
+      "title": "Flutter Agent Skills: How to Make Your AI Agent Actually Good at Flutter",
+      "url": "https://dev.to/sayed_ali_alkamel/flutter-agent-skills-how-to-make-your-ai-agent-actually-good-at-flutter-3831",
+      "author": "Sayed Ali Alkamel",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T15:58:16Z",
+      "rawContent": "TL;DR: Your AI coding assistant is a generalist. It writes Flutter that looks right but quietly...",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇面向Flutter开发者的实用指南，讲解如何通过提示工程、领域-specific微调和验证策略提升AI编程助手在Flutter开发中的实际效能。",
+      "summaryEn": "This is a practical tutorial for Flutter developers on improving AI coding assistants’ effectiveness through prompt engineering, domain-specific refinement, and validation strategies.",
+      "titleEn": "Flutter Agent Skills: How to Make Your AI Agent Actually Good at Flutter",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3884367",
+      "title": "How to Write a Flutter Agent Skill That Actually Works: The 2026 Recipe",
+      "url": "https://dev.to/sayed_ali_alkamel/how-to-write-a-flutter-agent-skill-that-actually-works-the-2026-recipe-2joi",
+      "author": "Sayed Ali Alkamel",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T18:13:04Z",
+      "rawContent": "TL;DR A great agent skill is not a pile of documentation. It is a tightly scoped SKILL.md with a...",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文是一篇面向Flutter开发者的实用指南，详细讲解如何编写结构清晰、可执行的AI代理技能（Agent Skill），强调通过精炼的SKILL.md文件定义作用域、输入输出和执行逻辑，而非堆砌文档。",
+      "summaryEn": "This is a practical tutorial for Flutter developers on writing effective AI agent skills, emphasizing a tightly scoped SKILL.md file—defining scope, I/O, and execution logic—over verbose documentation.",
+      "titleEn": "How to Write a Flutter Agent Skill That Actually Works: The 2026 Recipe",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8
+    },
+    {
+      "id": "hn-48511121",
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "author": "jesse_dot_id",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-13T00:58:06.000Z",
+      "rawContent": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "engagement": {
+        "score": 182,
+        "comments": 66
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "Anthropic 暂停了 Claude Mythos 5 和 Claude Fable 5 的访问权限，这是一则关于 AI 工具服务状态变更的行业动态消息。",
+      "summaryEn": "Anthropic has suspended access to Claude Mythos 5 and Claude Fable 5 — an industry update on the availability status of AI tools.",
+      "titleEn": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 7.922222222222223
+    },
+    {
+      "id": "hn-48504063",
+      "title": "WASI 0.3",
+      "url": "https://bytecodealliance.org/articles/WASI-0.3",
+      "author": "mavdol04",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-12T13:51:15.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;WebAssembly&#x2F;WASI&#x2F;releases&#x2F;tag&#x2F;v0.3.0\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;WebAssembly&#x2F;WASI&#x2F;releases&#x2F;tag&#x2F;v0.3.0</a>",
+      "engagement": {
+        "score": 240,
+        "comments": 90
+      },
+      "scores": {
+        "relevance": 6,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "WASI 0.3 是 WebAssembly 系统接口的最新正式版本发布，增强了沙箱化运行时能力，支持更安全、可移植的 AI 模型推理环境构建。",
+      "summaryEn": "WASI 0.3 is the latest official release of the WebAssembly System Interface, introducing enhanced sandboxing and portability features relevant to secure, cross-platform AI inference runtimes.",
+      "titleEn": "WASI 0.3",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "devto-3885015",
+      "title": "DiffusionGemma: How Google's New Open LLM Hits 1,000 Tokens/sec and Changes Inference Economics",
+      "url": "https://dev.to/sayed_ali_alkamel/diffusiongemma-how-googles-new-open-llm-hits-1000-tokenssec-and-changes-inference-economics-4587",
+      "author": "Sayed Ali Alkamel",
+      "platform": "devto",
+      "publishedAt": "2026-06-12T18:30:19Z",
+      "rawContent": "DiffusionGemma generates text up to 4x faster than autoregressive LLMs, hits 1,000+ tokens/sec on a single H100, and runs on a consumer RTX 4090. Here is what changed, what the trade-offs are, and how to deploy it today.",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文介绍了谷歌新发布的开源扩散式大语言模型DiffusionGemma，其突破性地实现每秒超1000 tokens的推理速度，并可在单张H100或消费级RTX 4090上运行，显著改变大模型推理成本结构。",
+      "summaryEn": "This article introduces Google's newly released open-source diffusion-based LLM, DiffusionGemma, which achieves over 1,000 tokens/sec inference speed on a single H100 or even a consumer RTX 4090—marking a paradigm shift in LLM inference efficiency and cost economics.",
+      "titleEn": "DiffusionGemma: How Google's New Open LLM Hits 1,000 Tokens/sec and Changes Inference Economics",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2606.13680",
+      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "author": "Zilin Xiao",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-11T17:59:52Z",
+      "rawContent": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a post-training framework ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出了一种名为检索增强强化微调（RA-RFT）的新框架，旨在通过结合外部知识检索与强化学习，提升大语言模型在类比推理任务中的泛化能力，解决传统RAG在复杂推理中匹配策略失准的问题。",
+      "summaryEn": "This paper introduces Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a novel post-training framework that combines retrieval augmentation with reinforcement learning to improve language models’ analogical reasoning capabilities—addressing the limitation of conventional RAG in matching structurally similar (rather than semantically similar) reasoning patterns.",
+      "titleEn": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 92,
+    "totalScored": 37,
+    "totalPublished": 20
+  }
+}
