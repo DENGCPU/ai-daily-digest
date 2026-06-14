@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T04:42:51.108Z",
+  "items": [
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163683,
+        "score": 21225
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词（prompt）共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt repository—formerly Awesome ChatGPT Prompts—that enables sharing, discovering, and self-hosting prompts for privacy-sensitive use.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.266666666666667
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 192872,
+        "score": 33663
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进，支持多步骤任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting multi-step task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174081,
+        "score": 16598
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行和管理开源大语言模型的轻量级工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多种主流模型的一键部署。",
+      "summaryEn": "Ollama is a lightweight tool for running and managing open-source large language models locally, enabling one-command deployment of popular models including Kimi-K2.6, GLM-5.1, Qwen, and Gemma.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "hn-48518684",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "author": "aloknnikhil",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-13T16:18:31.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn\" rel=\"nofollow\">https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn</a>",
+      "engagement": {
+        "score": 432,
+        "comments": 237
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "智谱AI正式发布GLM-5.2大语言模型，作为其最新商用版本，支持更长上下文、增强推理能力及多语言优化，面向开发者和企业用户提供API与本地部署选项。",
+      "summaryEn": "Zhipu AI has officially released GLM-5.2, its latest commercial large language model, featuring extended context length, improved reasoning capabilities, and multilingual enhancements, available via API and on-premises deployment.",
+      "titleEn": "GLM 5.2 Is Out",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 10.8
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145100,
+        "score": 22837
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82790,
+        "score": 18035
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed for production deployment and featuring innovations like PagedAttention.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 116426,
+        "score": 19554
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级开源库，专为在 CPU 上高效运行大型语言模型（LLM）推理而设计，支持量化、跨平台部署和低资源环境。它已成为边缘设备和本地 AI 应用的关键基础设施。",
+      "summaryEn": "llama.cpp is a lightweight, open-source C/C++ library for efficient LLM inference on CPUs, featuring model quantization, cross-platform support, and low-resource deployment—widely adopted for local and edge AI applications.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3892801",
+      "title": "Teach Your Agent to Forget (On Purpose)",
+      "url": "https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-06-13T17:26:10Z",
+      "rawContent": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "engagement": {
+        "likes": 20,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文介绍了作者正在开发的开源微型AI代码审查工具git-lrc，聚焦于让AI代理有选择地遗忘以提升隐私与效率，属于新兴的轻量级AI工程实践。",
+      "summaryEn": "This article introduces git-lrc, an open-source micro AI code reviewer that runs on every commit and explores intentional forgetting mechanisms for improved privacy and efficiency in AI agents.",
+      "titleEn": "Teach Your Agent to Forget (On Purpose)",
+      "category": "开源",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 9.633333333333335
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149632,
+        "score": 9260
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码/可视化平台，用于构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code/visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "devto-3891059",
+      "title": "I Pointed a Skill Linter at a 52k-Star Repo. Here Is What 84/100 Looks Like.",
+      "url": "https://dev.to/sayed_ali_alkamel/i-pointed-a-skill-linter-at-a-52k-star-repo-here-is-what-84100-looks-like-28cn",
+      "author": "Sayed Ali Alkamel",
+      "platform": "devto",
+      "publishedAt": "2026-06-13T12:54:57Z",
+      "rawContent": "I ran skillscore on all 24 skills from addyosmani/agent-skills to find what separates a 91/A from a 77/C. Two patterns showed up in every single C. Both are fixable in under 10 lines.",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "本文通过使用skillscore工具对热门AI技能仓库（agent-skills）进行代码质量评估，揭示了高分与低分技能的共性差异，并提供了可在10行内修复的具体实践建议。",
+      "summaryEn": "This article uses the skillscore linter to evaluate AI skill implementations in the popular addyosmani/agent-skills repository, identifies two consistent anti-patterns in low-scoring skills, and delivers concrete, sub-10-line fixes.",
+      "titleEn": "I Pointed a Skill Linter at a 52k-Star Repo. Here Is What 84/100 Looks Like.",
+      "category": "教程",
+      "engagementPercentile": 0.16666666666666666,
+      "finalScore": 9.424999999999999
+    },
+    {
+      "id": "hn-48515385",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "author": "pikann22",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-13T09:44:25.000Z",
+      "rawContent": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever",
+      "engagement": {
+        "score": 142,
+        "comments": 54
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Paca 是一款轻量级开源 Jira 替代工具，专为人类与 AI 代理协同工作设计，支持自定义视图、字段及基于 WASM 的插件架构，完全免费且持续维护。",
+      "summaryEn": "Paca is a lightweight, free Jira alternative built in Go, designed for seamless human-AI collaboration in sprint planning and task assignment, featuring custom views, fields, and a WASM-based plugin system.",
+      "titleEn": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "category": "工具",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 9.107142857142856
+    },
+    {
+      "id": "github-TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "author": "TauricResearch",
+      "platform": "github",
+      "publishedAt": "2024-12-28T03:31:08Z",
+      "rawContent": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "engagement": {
+        "likes": 85889,
+        "score": 16590
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "这是一个基于多智能体架构的开源金融交易框架，利用大语言模型（LLM）实现自动化交易策略设计与执行。项目提供可扩展的代码库、示例代理和集成接口，适用于量化交易研究与开发。",
+      "summaryEn": "This is an open-source financial trading framework built on a multi-agent architecture that leverages large language models (LLMs) for automated trading strategy design and execution. It provides an extensible codebase, example agents, and integration interfaces suitable for quantitative trading research and development.",
+      "titleEn": "TauricResearch/TradingAgents",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "devto-3892625",
+      "title": "Why Testing MCP Servers With Real AI Models Matters (2026)",
+      "url": "https://dev.to/rupa_tiwari_dd308948d710f/why-testing-mcp-servers-with-real-ai-models-matters-2026-55e9",
+      "author": "Rupa Tiwari",
+      "platform": "devto",
+      "publishedAt": "2026-06-13T16:53:58Z",
+      "rawContent": "TL;DR     Curl and unit tests check the wire format. A real model checks whether the tool is...",
+      "engagement": {
+        "likes": 11,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文强调在MCP（Model Control Protocol）服务器测试中，使用真实AI模型而非仅依赖cURL和单元测试的重要性，以验证工具的实际功能与语义正确性。",
+      "summaryEn": "This article argues that testing MCP (Model Control Protocol) servers with real AI models—not just cURL and unit tests—is essential to validate functional correctness, tool behavior, and semantic interoperability beyond wire-format compliance.",
+      "titleEn": "Why Testing MCP Servers With Real AI Models Matters (2026)",
+      "category": "教程",
+      "engagementPercentile": 0.5,
+      "finalScore": 8.875
+    },
+    {
+      "id": "hn-48516504",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "author": "hek2sch",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-13T12:10:47.000Z",
+      "rawContent": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "engagement": {
+        "score": 250,
+        "comments": 162
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "一篇关于某AI开源工具仓库在获得730万美元种子轮融资后突然被归档的行业新闻，引发社区对商业化与开源可持续性之间张力的广泛讨论。",
+      "summaryEn": "A news report on an AI open-source tool repository being abruptly archived overnight after securing $7.3M in seed funding, sparking community debate about the tension between commercialization and open-source sustainability.",
+      "titleEn": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 8.85714285714286
+    },
+    {
+      "id": "hf-2606.07867",
+      "title": "The Cold-Start Safety Gap in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.07867",
+      "author": "Chung-En Sun",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-04T20:00:00.000Z",
+      "rawContent": "Are tool-calling LLM agents equally safe throughout a conversation? We discover they are not: agents are most vulnerable at the very start of a session and become substantially safer after a few regular agentic tasks -- a phenomenon we term the cold-start safety gap. To study this systematically, we introduce Safety Over Depth for Agents (SODA), a benchmark that controls how many regular agentic tasks the agent completes before encountering a safety threat, supporting up to 20 preceding tasks. E",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 6
+      },
+      "summary": "本文揭示了大语言模型智能体在对话初始阶段存在显著安全脆弱性（即‘冷启动安全缺口’），并提出了首个系统性评估该现象的基准SODA，支持控制前置任务深度以量化安全演化过程。",
+      "summaryEn": "This paper identifies a critical 'cold-start safety gap' in tool-calling LLM agents—where safety is weakest at the beginning of a session and improves with initial task execution—and introduces SODA, the first benchmark designed to systematically measure safety as a function of task depth (up to 20 preceding tasks).",
+      "titleEn": "The Cold-Start Safety Gap in LLM Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.399999999999999
+    },
+    {
+      "id": "devto-3890617",
+      "title": "System Architect vs. AI Solution Architect: An Anatomy of Roles",
+      "url": "https://dev.to/merbayerp/system-architect-vs-ai-solution-architect-an-anatomy-of-roles-26i4",
+      "author": "Mustafa ERBAY",
+      "platform": "devto",
+      "publishedAt": "2026-06-13T09:50:19Z",
+      "rawContent": "I've observed fundamental differences between struggling with the overall stability and performance...",
+      "engagement": {
+        "likes": 9,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "本文对比了系统架构师与AI解决方案架构师的角色定位、核心职责与能力差异，强调AI架构师需更聚焦于数据管道、模型生命周期和MLOps实践。",
+      "summaryEn": "This article compares the roles of System Architect and AI Solution Architect, highlighting key differences in scope, responsibilities, and required competencies—particularly AI architects’ emphasis on data pipelines, model lifecycle management, and MLOps.",
+      "titleEn": "System Architect vs. AI Solution Architect: An Anatomy of Roles",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78621,
+        "score": 15416
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成 7×24 小时自主运行的“AI 团队”，提供招聘、调度与汇报等类管理功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 autonomous 'AI team', offering management-like capabilities such as agent hiring, scheduling, and reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333333
+    },
+    {
+      "id": "devto-3891311",
+      "title": "HeadLess BAI",
+      "url": "https://dev.to/akshit_sharma_321b0b789a4/headless-bai-4o0p",
+      "author": "Akshit Sharma",
+      "platform": "devto",
+      "publishedAt": "2026-06-13T11:45:25Z",
+      "rawContent": "I Compiled a Custom Chromium Binary to Make AI Fix Bad UIs — Here's How It Works   Most UI...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇技术教程，介绍如何编译定制化的无头Chromium二进制文件，结合AI能力自动修复网页UI缺陷，并提供了具体实现步骤和代码思路。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to compile a custom headless Chromium binary and integrate AI to automatically detect and fix common UI flaws in web applications, with practical implementation details.",
+      "titleEn": "I Compiled a Custom Chromium Binary to Make AI Fix Bad UIs — Here's How It Works",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.13174",
+      "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
+      "url": "https://huggingface.co/papers/2606.13174",
+      "author": "Yujun Zhou",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "rawContent": "Interactive LLM agents are becoming part of daily work, but they do not reliably become easier to work with over time: a correction remembered in one session may still be violated in the next. We study this gap between preference access and preference compliance. In tasks derived from anonymized real-user friction cases, Mem0 memory still leaves 57.5% of applicable preference checks violated. We introduce Test-time Rule Acquisition and Compiled Enforcement (TRACE), a drop-in skill-layer pipeline",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出TRACE方法，通过运行时规则获取与编译执行机制，提升编码智能体对用户偏好（如纠错反馈）的跨会话一致性遵守能力，在真实用户摩擦案例中显著降低偏好违规率。",
+      "summaryEn": "This paper introduces TRACE, a novel test-time rule acquisition and compiled enforcement framework that improves coding agents’ cross-session compliance with user corrections and preferences, reducing preference violations by over 40% compared to baseline memory systems.",
+      "titleEn": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 100141,
+        "score": 6611
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent 等多个代码与智能代理工具，提供统一界面访问。其官方站点为 ccswitch.io。",
+      "summaryEn": "cc-switch is a cross-platform desktop all-in-one AI assistant that unifies access to multiple coding and agent tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a single interface. The official website is ccswitch.io.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 139,
+    "totalScored": 45,
+    "totalPublished": 20
+  }
+}
