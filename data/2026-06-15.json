@@ -1,0 +1,473 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T04:57:09.405Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 193699,
+        "score": 33892
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，支持动态任务扩展与上下文自适应，旨在随用户需求演进而持续增强能力。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to dynamically grow and adapt its capabilities alongside user needs and task complexity.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "devto-3897524",
+      "title": "I Built an AI System Design Coach — Clone It, Try It, Break It",
+      "url": "https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b",
+      "author": "Nithin Pradeep",
+      "platform": "devto",
+      "publishedAt": "2026-06-14T10:22:52Z",
+      "rawContent": "The problem I kept running into   Every time I practiced system design, I'd hit the same...",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践导向的教程，介绍作者如何构建一个用于AI系统设计练习的交互式教练工具，并提供可复现的代码、部署指南和使用方法，帮助开发者通过动手实践提升AI系统设计能力。",
+      "summaryEn": "This is a hands-on tutorial describing how the author built an interactive AI system design coaching tool—complete with code, deployment instructions, and usage guidance—to help developers practice and improve AI system design through active experimentation.",
+      "titleEn": "I Built an AI System Design Coach — Clone It, Try It, Break It",
+      "category": "教程",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161590,
+        "score": 33501
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与训练。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and training across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163742,
+        "score": 21237
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt-sharing platform—formerly Awesome ChatGPT Prompts—that enables private, self-hosted deployment for organizations.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139310,
+        "score": 23092
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和自主代理开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, enabling chains, tool integration, and autonomous agent development.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.38888888888889
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145241,
+        "score": 22846
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用部署。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for building agentic workflows, featuring visual orchestration, LLM integration, and application deployment capabilities.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174184,
+        "score": 16620
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Ollama 是一个本地运行大型语言模型的开源工具，支持一键部署 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与商用模型。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling one-command setup of popular models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149681,
+        "score": 9272
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "platform": "github",
+      "publishedAt": "2024-04-29T05:30:25Z",
+      "rawContent": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "engagement": {
+        "likes": 114579,
+        "score": 17000
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "这是一个GitHub上的开源项目列表，汇集了100多个可本地运行、克隆、定制和部署的AI智能体与RAG应用，面向开发者提供即用型实践资源。",
+      "summaryEn": "This is a GitHub-curated open-source repository listing 100+ runnable, cloneable, customizable, and deployable AI agent and RAG applications—designed as hands-on, production-ready resources for developers.",
+      "titleEn": "Shubhamsaboo/awesome-llm-apps",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.183333333333334
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 116565,
+        "score": 19586
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级开源项目，专注于在本地 CPU 上高效运行大型语言模型（LLM），无需 GPU 即可进行推理。",
+      "summaryEn": "llama.cpp is a lightweight open-source project written in C/C++ that enables efficient local LLM inference on CPUs without requiring GPUs.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 82865,
+        "score": 18062
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.799999999999999
+    },
+    {
+      "id": "hn-48527623",
+      "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+      "author": "alebal123bal",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-14T14:37:51.000Z",
+      "rawContent": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "engagement": {
+        "score": 67,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "该项目展示了在RK3588S芯片上利用NPU加速双路YOLOv8n模型实现无人机实时检测，达到42 FPS，属于边缘AI部署的开源实践。",
+      "summaryEn": "This project demonstrates real-time UAV detection using a dual YOLOv8n model accelerated by the NPU on the RK3588S SoC, achieving 42 FPS — an open-source edge AI deployment implementation.",
+      "titleEn": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hf-2606.12736",
+      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+      "url": "https://huggingface.co/papers/2606.12736",
+      "author": "Tianyu Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-09T20:00:00.000Z",
+      "rawContent": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents rarely capture the complexity, heterogeneity, and extended reasoning required by scientific work, whereas benchmarks for scientific tasks often reduce research to static, direct problems and provide limited support for interactive evaluation. Here, we introduce SciAgentArena, a systematic benchmark fo",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出SciAgentArena，一个专为评估AI智能体在多尺度科学挑战中能力而设计的系统性基准，弥补了现有评测在复杂性、异质性和交互式推理方面的不足。",
+      "summaryEn": "This paper introduces SciAgentArena, a systematic benchmark designed to evaluate AI agents on multi-scale scientific challenges—addressing critical gaps in existing benchmarks regarding complexity, heterogeneity, and interactive, extended reasoning.",
+      "titleEn": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.06309",
+      "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+      "url": "https://huggingface.co/papers/2606.06309",
+      "author": "Chensheng Dai",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-03T20:00:00.000Z",
+      "rawContent": "Video generation models based on Diffusion Transformers (DiTs) have achieved remarkable performance in video synthesis, yet they suffer from high inference latency and computational costs due to the quadratic complexity of 3D attention. Existing acceleration methods primarily reduce computational complexity within each individual denoising steps through techniques such as sparse attention and KV-caching. However, they rigidly adhere to the inherent constraint of the standard diffusion pipeline: ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "RhymeFlow 是一种无需训练的视频生成加速方法，通过异步去噪流调度优化扩散Transformer（DiT）的推理效率，突破了传统扩散流程中每步必须严格同步的限制。",
+      "summaryEn": "RhymeFlow is a training-free acceleration method for video generation that improves inference efficiency of Diffusion Transformers (DiTs) via asynchronous denoising flow scheduling, relaxing the rigid step-wise synchronization constraint of standard diffusion pipelines.",
+      "titleEn": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2606.14697",
+      "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "url": "http://arxiv.org/abs/2606.14697v1",
+      "author": "Sicheng Yang",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-12T17:58:38Z",
+      "rawContent": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To enable source-level hallucination diagnosis, we intr",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "ClinHallu 是一项面向医学多模态大语言模型（MLLM）的新型基准，首次提出按推理阶段（视觉识别、知识召回、推理整合）细粒度诊断幻觉来源的方法，填补了现有医疗幻觉评估的结构性空白。",
+      "summaryEn": "ClinHallu is a novel benchmark for medical multimodal LLMs that enables stage-wise diagnosis of hallucinations—pinpointing origins in visual perception, medical knowledge retrieval, or reasoning integration—addressing a critical gap in fine-grained hallucination evaluation.",
+      "titleEn": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2605.30789",
+      "title": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
+      "url": "https://huggingface.co/papers/2605.30789",
+      "author": "Yiming Ren",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "rawContent": "We identify a new dimension for enhancing rollout diversity in Group Relative Policy Optimization (GRPO) for LLMs. While GRPO relies on diverse rollouts, prevailing strategies primarily increase diversity by injecting more token-level randomness, which may introduce step-wise noise and lead to incoherent trajectories. We uncover that smaller models within the same model family inherently exhibit higher policy-level diversity, indicated by their superior pass@k relative to larger counterparts as ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该研究发现，在GRPO（组相对策略优化）中，同族小模型天然具备更高的策略级多样性，可替代传统基于词元随机性的多样性增强方法，提升推理轨迹一致性与pass@k性能。",
+      "summaryEn": "This paper identifies policy-level diversity as a new axis for improving rollout diversity in GRPO for LLMs, showing that smaller models within the same family inherently exhibit higher behavioral diversity—and better pass@k—than larger counterparts, offering a more coherent alternative to token-level stochasticity.",
+      "titleEn": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.10813",
+      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
+      "url": "https://huggingface.co/papers/2606.10813",
+      "author": "Shuwen Xu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-09T20:00:00.000Z",
+      "rawContent": "Users rely on execution traces to observe agent behavior, diagnose failures, and ensure accountability. These traces contain rich procedural detail, including tool invocations, intermediate decisions, and error-recovery logic. Yet this detail can expose private procedural skills, allowing downstream methods to recover key formulas, thresholds, and strategies without access to model weights or skill files. To quantify this risk and evaluate protection, we construct CapTraceBench, a benchmark of 7",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出RedAct方法，用于对AI智能体的执行轨迹进行脱敏以保护程序性技能，并构建CapTraceBench基准来量化轨迹泄露风险。",
+      "summaryEn": "This paper introduces RedAct, a method for redacting AI agent execution traces to protect procedural skills, and proposes CapTraceBench—a benchmark of 7 tasks—to quantify the risk of skill leakage from traces.",
+      "titleEn": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.00793",
+      "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
+      "url": "https://huggingface.co/papers/2606.00793",
+      "author": "Shengjun Zhang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-07T20:00:00.000Z",
+      "rawContent": "Recent advancements in video-based world models have demonstrated an unprecedented ability to synthesize high-fidelity visual sequences. However, a fundamental gap persists between visually plausible video generation and the functional requirements of a world model, particularly in maintaining a stable and reasonable internal state over extended temporal horizons. While existing benchmarks primarily emphasize visual quality, motion coherence, and text-video alignment, they largely overlook memor",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "MBench 是一项针对视频世界模型记忆能力的综合性基准测试，旨在填补现有评测在长期时序状态一致性与内部记忆建模方面的空白。该基准强调模型维持稳定、合理内部状态的能力，而不仅限于视觉质量或跨模态对齐。",
+      "summaryEn": "MBench is a comprehensive benchmark designed to evaluate the memory capability of video-based world models, addressing the critical gap in assessing long-horizon internal state consistency—beyond conventional metrics like visual fidelity or text-video alignment.",
+      "titleEn": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.13707",
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "url": "https://huggingface.co/papers/2606.13707",
+      "author": "Fan Zhang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-09T20:00:00.000Z",
+      "rawContent": "The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limited to a narrow set of modalities and struggle to generalize to more complex settings where heterogeneous modalities coexist and interact. This limitation becomes particularly pronounced in omnimodal s",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Orchestra-o1 是一项针对多模态智能体协同的新型编排框架研究，旨在解决现有LLM智能体编排系统在异构多模态（文本、视觉、音频等）场景下泛化能力不足的问题。",
+      "summaryEn": "Orchestra-o1 is a novel research framework for orchestrating omnimodal (e.g., text, vision, audio) agent swarms, addressing the critical limitation of current LLM-based orchestration systems in handling heterogeneous, interacting modalities.",
+      "titleEn": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "arxiv-2606.14695",
+      "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "url": "http://arxiv.org/abs/2606.14695v1",
+      "author": "Jinsu Kim",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-12T17:58:08Z",
+      "rawContent": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applying these capabilities to real-world applications (e.g., ecosystems with numerous NPCs interacting simultaneously) exposes a critical inefficiency due to the excessive computational cost. In this paper, we question the necessity of dedicating a full, generalist model to a single persona, hypothesizing",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该论文提出Persona-Pruner方法，通过模型剪枝技术为角色扮演任务定制轻量级语言模型，在保持角色一致性的同时显著降低计算开销。",
+      "summaryEn": "This paper introduces Persona-Pruner, a model pruning technique that customizes lightweight language models for role-playing tasks, preserving persona consistency while substantially reducing computational cost.",
+      "titleEn": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 134,
+    "totalScored": 42,
+    "totalPublished": 20
+  }
+}
