@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T04:55:53.967Z",
+  "items": [
+    {
+      "id": "devto-3703634",
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "author": "Julien Avezou",
+      "platform": "devto",
+      "publishedAt": "2026-06-15T14:44:53Z",
+      "rawContent": "After posting several articles about the impact of AI on developers and sharing resources to help...",
+      "engagement": {
+        "likes": 29,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实操性教程，指导开发者如何构建一个Chrome扩展程序，以增强AI工具使用的专注度和意图性，涵盖设计思路、技术选型与实现步骤。",
+      "summaryEn": "This is a hands-on tutorial guiding developers through building a Chrome extension designed to promote intentional, focused use of AI tools—covering design rationale, tech stack selection, and step-by-step implementation.",
+      "titleEn": "Building a Chrome Extension to Make AI Use More Intentional",
+      "category": "教程",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 184965,
+        "score": 46141
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于其构建定制化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build custom agents on top of it.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161619,
+        "score": 33516
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的定义、训练与推理，是AI开发工作流中的核心基础设施。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling model definition, training, and inference for state-of-the-art text, vision, audio, and multimodal models — serving as foundational infrastructure for AI development workflows.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 194622,
+        "score": 34140
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的智能体（agent）框架，旨在随用户需求演进，支持可扩展的任务自动化与多步推理。该项目提供代码、配置示例和基础文档，但尚未包含完整教程或生产级部署指南。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source agent framework designed to evolve with user needs, supporting scalable task automation and multi-step reasoning. It provides source code, configuration examples, and basic documentation, but lacks comprehensive tutorials or production-ready deployment guidance.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163791,
+        "score": 21242
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt repository (formerly Awesome ChatGPT Prompts) that enables sharing, discovering, and self-hosting prompts with full privacy control.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.4
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139417,
+        "score": 23103
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的、用于构建基于大语言模型应用的框架，专注于代理（Agent）工程、链式调用与工具集成。它为开发者提供了标准化的抽象层和可复用模块。",
+      "summaryEn": "LangChain is an open-source framework for building LLM-powered applications, focused on agent engineering, chaining, and tool integration, providing standardized abstractions and reusable components for developers.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.38888888888889
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145381,
+        "score": 22865
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3904310",
+      "title": "Fable 5 Went Dark Friday Night. I Ran My Critical Workflow on a Backup Saturday - Here's What Broke",
+      "url": "https://dev.to/itskondrat/fable-5-went-dark-friday-night-i-ran-my-critical-workflow-on-a-backup-saturday-heres-what-broke-349d",
+      "author": "Mykola Kondratiuk",
+      "platform": "devto",
+      "publishedAt": "2026-06-15T07:42:36Z",
+      "rawContent": "On Friday afternoon a government order hit Anthropic, and by Saturday morning Fable 5 and Mythos 5...",
+      "engagement": {
+        "likes": 13,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文记录了Fable 5因政府指令突然停服后，作者在备用系统上运行关键AI工作流时遭遇的故障与应对反思，聚焦AI服务稳定性与运维韧性问题。",
+      "summaryEn": "This post documents the author's experience running a critical AI workflow on a backup system after Fable 5 went offline due to a government directive, highlighting real-world reliability challenges and operational trade-offs in production AI usage.",
+      "titleEn": "Fable 5 Went Dark Friday Night. I Ran My Critical Workflow on a Backup Saturday - Here's What Broke",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 9.762500000000001
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 141705,
+        "score": 20367
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型，便于快速部署和交互式使用。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backends including Ollama and OpenAI API, enabling quick deployment and interactive use.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "hn-48542100",
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "author": "cloudking",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-15T14:46:53.000Z",
+      "rawContent": "Has anyone here fully swapped Claude&#x2F;GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok&#x2F;s)",
+      "engagement": {
+        "score": 791,
+        "comments": 376
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "这是一则 Hacker News 上的社区讨论帖，询问开发者是否已将 Claude/GPT 等云端大模型完全替换为本地运行的 AI 模型用于日常编程工作，并征集实际部署配置与性能反馈。",
+      "summaryEn": "This is a Hacker News community discussion post asking whether developers have fully replaced cloud-based LLMs like Claude/GPT with locally run models for daily coding tasks, and soliciting real-world setup details and performance metrics (e.g., tokens/sec).",
+      "titleEn": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 9.45
+    },
+    {
+      "id": "devto-3869620",
+      "title": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
+      "url": "https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa",
+      "author": "Ryosuke Tsuji",
+      "platform": "devto",
+      "publishedAt": "2026-06-16T00:02:03Z",
+      "rawContent": "Series Final. The four mechanisms covered across this series — knowledge graph, Auto Review, Self-Healing, Recurrence Prevention — plus the non-engineer-PR application that sits on top of them, all hang off a single conviction: AI isn't something to trust; it's something to design. The 'I don't trust AI to fill in the blanks for me' framing this lives inside isn't doubt about generation quality, but the clear-eyed acceptance that AI has no idea what context wasn't handed to it, and that 'ideal b",
+      "engagement": {
+        "likes": 13,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文作为系列终篇，提出核心观点：AI不应被盲目信任，而应被主动设计；强调通过知识图谱、自动审查、自修复和复发预防等机制构建可信赖的AI系统，而非依赖其生成能力本身。",
+      "summaryEn": "This final installment of a series argues that AI should not be trusted by default but deliberately designed—highlighting four engineering mechanisms (knowledge graph, Auto Review, Self-Healing, Recurrence Prevention) and a non-engineer-facing PR layer to embed accountability and contextual awareness into AI systems.",
+      "titleEn": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 9.375
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 116724,
+        "score": 19616
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级、高性能大语言模型推理框架，支持在 CPU 和边缘设备上高效运行量化模型。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance LLM inference framework implemented in C/C++, enabling efficient quantized model execution on CPUs and edge devices.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hf-2606.15007",
+      "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "url": "https://huggingface.co/papers/2606.15007",
+      "author": "NVIDIA",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-11T20:00:00.000Z",
+      "rawContent": "We introduce Nemotron 3 Ultra, a 550 billion total and 55 billion active parameter Mixture-of-Experts Hybrid Mamba-Attention language model. We pre-trained Nemotron 3 Ultra on 20 trillion text tokens, then extended the context length to 1M tokens, and post-trained using Supervised Fine Tuning (SFT), Reinforcement Learning (RL), and Multi-teacher On-Policy Distillation (MOPD). Nemotron 3 Ultra is our most capable model yet, employing multiple key technologies - LatentMoE, Multi Token Prediction (",
+      "engagement": {},
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "Nemotron 3 Ultra 是一款开源的混合专家（MoE）大模型，融合 Mamba 与 Transformer 架构，具备 5500 亿总参数和 550 亿激活参数，支持 100 万 token 上下文，并采用 LatentMoE 和多 Token 预测等前沿技术优化智能体推理能力。",
+      "summaryEn": "Nemotron 3 Ultra is an open-source Mixture-of-Experts language model that hybridizes Mamba and Transformer architectures, featuring 550B total / 55B active parameters, 1M-token context length, and advanced techniques like LatentMoE and Multi-Token Prediction for agentic reasoning.",
+      "titleEn": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.5
+    },
+    {
+      "id": "devto-3903398",
+      "title": "Why Your Gemini Bill Doesn't Match the Model Names",
+      "url": "https://dev.to/tessl-io/why-your-gemini-bill-doesnt-match-the-model-names-9nk",
+      "author": "Tessl",
+      "platform": "devto",
+      "publishedAt": "2026-06-15T05:24:38Z",
+      "rawContent": "Why Your Gemini Bill Doesn't Match the Model Names   tl;dr - Across roughly 3,300 paired...",
+      "engagement": {
+        "likes": 12,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文分析了Google Gemini API账单中模型名称与实际计费项不一致的现象，揭示了底层模型映射、版本切换和定价分层等隐藏机制。",
+      "summaryEn": "This article explains why Gemini API billing line items often don’t match advertised model names—uncovering hidden model aliasing, version routing, and tiered pricing logic behind Google’s billing system.",
+      "titleEn": "Why Your Gemini Bill Doesn't Match the Model Names",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 8.43125
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149719,
+        "score": 9280
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 133276,
+        "score": 7810
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for large-scale web search, scraping, and interaction—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3903687",
+      "title": "Turning Gemma 4 into an Old Korean Translator",
+      "url": "https://dev.to/googleai/turning-gemma-4-into-an-old-korean-translator-hop",
+      "author": "bebechien",
+      "platform": "devto",
+      "publishedAt": "2026-06-15T06:13:07Z",
+      "rawContent": "There’s something uniquely beautiful about old books. The smell of weathered paper, the texture of...",
+      "engagement": {
+        "likes": 27,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 6
+      },
+      "summary": "本文是一篇实操性教程，介绍如何微调Google的Gemma模型（文中误称‘Gemma 4’，实际Gemma最新公开版本为Gemma 2）以实现古韩文（如朝鲜王朝时期文献）的翻译任务。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to fine-tune Google's Gemma model (note: 'Gemma 4' is inaccurate—Gemma 2 is the latest public version) for translating classical Korean texts, such as Joseon-era documents.",
+      "titleEn": "Turning Gemma 4 into an Old Korean Translator",
+      "category": "教程",
+      "engagementPercentile": 0.625,
+      "finalScore": 8.006250000000001
+    },
+    {
+      "id": "hn-48541014",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "author": "smashini",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-15T13:31:09.000Z",
+      "rawContent": "Can Europe train a frontier AI model on the compute it owns?",
+      "engagement": {
+        "score": 122,
+        "comments": 222
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文探讨欧洲是否具备自主训练前沿AI模型所需的算力基础设施，聚焦地缘政治、产业能力与技术主权等宏观议题。",
+      "summaryEn": "This piece examines whether Europe possesses sufficient domestically owned compute infrastructure to train frontier AI models, addressing geopolitical, industrial, and technological sovereignty concerns.",
+      "titleEn": "Can Europe train a frontier AI model on the compute it owns?",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 7.866666666666667
+    },
+    {
+      "id": "hf-2606.06302",
+      "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
+      "url": "https://huggingface.co/papers/2606.06302",
+      "author": "Hyungmin Kim",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-14T20:00:00.000Z",
+      "rawContent": "Multi-turn LLM serving accumulates dialogue history whose Key-Value (KV) cache grows with every turn and every user, quickly exceeding the model weights themselves and making memory -- not compute -- the binding constraint on throughput. Non-uniform KV compression, which allocates heterogeneous budgets across attention heads, preserves accuracy far better than uniform schemes, yet remains impractical: modern serving stacks assume identical KV lengths across heads, so heterogeneity traps freed me",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出Tangram方法，通过非均匀KV缓存压缩技术优化多轮对话场景下的大语言模型服务效率，在保持高精度的同时缓解内存瓶颈。该方法挑战了现有推理框架对各注意力头KV长度一致性的隐含假设。",
+      "summaryEn": "This paper introduces Tangram, a non-uniform KV cache compression method that significantly improves memory efficiency for multi-turn LLM serving while preserving accuracy—by breaking the common assumption of uniform KV lengths across attention heads in modern inference systems.",
+      "titleEn": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.11176",
+      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "url": "https://huggingface.co/papers/2606.11176",
+      "author": "Kevin Qinghong Lin",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-08T20:00:00.000Z",
+      "rawContent": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for context, running statistics, choosing an angle, and designing visuals. Recent agents handle individual steps well: data-science agents close the analysis loop, while design agents synthesize beautiful websites. But can an agent serve as a data journalist end to end? We introduce Data Journalist Agent (",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出了一种端到端的‘数据记者智能体’（Data Journalist Agent），旨在整合数据分析、叙事构建与多模态可视化能力，实现从原始数据到可验证新闻故事的自动化生成。",
+      "summaryEn": "This paper introduces the Data Journalist Agent, an end-to-end AI agent that integrates data analysis, narrative reasoning, and multimodal (text + visual) storytelling to transform raw data into verifiable, journalist-grade news features.",
+      "titleEn": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 145,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
