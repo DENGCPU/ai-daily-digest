@@ -1,0 +1,488 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T04:43:21.346Z",
+  "items": [
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 184988,
+        "score": 46138
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主 AI 代理框架，旨在降低 AI 应用开发门槛，支持用户基于其构建和定制智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI development, enabling users to build and customize intelligent agents.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161651,
+        "score": 33527
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的定义、训练与推理，是AI开发的核心基础设施之一。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling model definition, training, and inference for state-of-the-art text, vision, audio, and multimodal models.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "devto-3881613",
+      "title": "BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction (Hands-On Comparison)",
+      "url": "https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l",
+      "author": "Hadil Ben Abdallah",
+      "platform": "devto",
+      "publishedAt": "2026-06-16T10:02:23Z",
+      "rawContent": "You’ve built something with Playwright.  It works perfectly in your local environment. CI is green....",
+      "engagement": {
+        "likes": 30,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文通过实操对比BrowserAct与Playwright在真实反爬/反自动化环境（如Cloudflare、PerimeterX）中的表现，提供绕过现代反机器人检测的具体策略、代码片段和调试技巧。",
+      "summaryEn": "This hands-on tutorial compares BrowserAct and Playwright for real-world web test automation, demonstrating concrete techniques—like stealth configuration, fingerprint spoofing, and timing adjustments—to bypass modern anti-bot systems (e.g., Cloudflare, PerimeterX).",
+      "titleEn": "BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction (Hands-On Comparison)",
+      "category": "教程",
+      "engagementPercentile": 0.7142857142857143,
+      "finalScore": 10.857142857142858
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 195516,
+        "score": 34347
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体（agent）框架，旨在随用户需求演进，支持多步骤推理与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting multi-step reasoning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163828,
+        "score": 21248
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt-sharing platform (formerly Awesome ChatGPT Prompts) that enables private, self-hosted deployment for organizations.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.4
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139515,
+        "score": 23121
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, supporting chains, tool integration, and intelligent agent development.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.916666666666668
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145537,
+        "score": 22893
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个开源的、面向生产环境的智能体（agentic）工作流开发平台，支持快速构建和部署基于大语言模型的应用。",
+      "summaryEn": "Dify is an open-source, production-ready platform for developing and deploying agentic workflows powered by large language models.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "hn-48559188",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "author": "root-parent",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-16T17:54:02.000Z",
+      "rawContent": "GPT‑NL: a sovereign language model for the Netherlands",
+      "engagement": {
+        "score": 157,
+        "comments": 143
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "GPT-NL 是荷兰推出的首个主权语言模型，基于 LLaMA 架构微调，专为荷兰语优化并强调数据主权与本地化部署。该项目已开源模型权重、训练代码及评估基准。",
+      "summaryEn": "GPT-NL is the Netherlands’ first sovereign Dutch-language large language model, fine-tuned from LLaMA with a focus on linguistic fidelity, data sovereignty, and local infrastructure; its model weights, training code, and evaluation benchmarks are openly released.",
+      "titleEn": "GPT‑NL: a sovereign language model for the Netherlands",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.6
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174346,
+        "score": 16656
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Ollama 是一个用于本地运行和管理开源大语言模型的轻量级工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多种主流模型的一键部署。",
+      "summaryEn": "Ollama is a lightweight tool for running and managing open-source LLMs locally, enabling one-click deployment of models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "devto-3918251",
+      "title": "The $0 Bug That Cost Us $1,800 in API Calls",
+      "url": "https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add",
+      "author": "Arpit Gupta",
+      "platform": "devto",
+      "publishedAt": "2026-06-16T18:50:57Z",
+      "rawContent": "Last quarter our OpenAI bill went from $620 to $2,480 in 23 days.  No new features shipped. No...",
+      "engagement": {
+        "likes": 7,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实战经验分享，详细剖析了因未正确设置OpenAI API超时和重试逻辑导致的意外高额账单问题，并提供了可复用的防御性编码实践。该案例对AI应用开发者具有重要警示和实操参考价值。",
+      "summaryEn": "This is a hands-on post-mortem detailing how an unhandled timeout and retry bug in OpenAI API integration led to an $1,800 billing spike — with concrete debugging steps, code fixes (e.g., setting timeouts, disabling retries), and production safeguards.",
+      "titleEn": "The $0 Bug That Cost Us $1,800 in API Calls",
+      "category": "教程",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 9.471428571428572
+    },
+    {
+      "id": "devto-3916778",
+      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
+      "url": "https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d",
+      "author": "Jonathan Murray",
+      "platform": "devto",
+      "publishedAt": "2026-06-16T14:41:02Z",
+      "rawContent": "Rent the Intelligence, Own the Memory   On Friday, a single government letter pulled a...",
+      "engagement": {
+        "likes": 13,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文以Fable 5事件为切入点，批判性探讨AI系统中“上下文层”不应内嵌于模型本身，而应作为独立、可拥有、可控制的外部记忆层；强调架构分离对可控性、合规性与长期AI工程实践的重要性。",
+      "summaryEn": "Using the Fable 5 incident as a catalyst, this article argues that AI context layers must be decoupled from base models and treated as owned, external memory systems—highlighting architectural separation for control, compliance, and sustainable AI engineering.",
+      "titleEn": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
+      "category": "讨论",
+      "engagementPercentile": 0.5714285714285714,
+      "finalScore": 9.257142857142856
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 141907,
+        "score": 20397
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型，便于快速部署和交互式使用。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface supporting multiple backends (e.g., Ollama, OpenAI API), enabling quick deployment and interactive model usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48561410",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "url": "https://github.com/nvlabs/cutile-rs",
+      "author": "melihelibol",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-16T20:17:42.000Z",
+      "rawContent": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "engagement": {
+        "score": 49,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "cuTile Rust 是一个开源 Rust 库，旨在让开发者能安全、无数据竞争地编写 GPU 内核（支持 CUDA），利用 Rust 的所有权系统保障内存与并发安全。",
+      "summaryEn": "cuTile Rust is an open-source Rust library enabling developers to write safe, data-race-free GPU kernels (CUDA-compatible) by leveraging Rust’s ownership model for memory and concurrency safety.",
+      "titleEn": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 133708,
+        "score": 7829
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48558147",
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "author": "dzonga",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-16T16:49:46.000Z",
+      "rawContent": "Stop Using JWTs",
+      "engagement": {
+        "score": 299,
+        "comments": 169
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "本文是一篇在 Hacker News 上引发热议的技术观点文章，主张弃用 JWT（JSON Web Token）作为身份验证机制，指出其在状态管理、令牌撤销和安全配置方面的固有缺陷。",
+      "summaryEn": "This is a widely discussed opinion piece on Hacker News arguing against using JWTs for authentication, citing inherent security and operational drawbacks—including statelessness hindering revocation, misuse-prone defaults, and complexity in secure implementation.",
+      "titleEn": "Stop Using JWTs",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.944444444444445
+    },
+    {
+      "id": "hn-48557535",
+      "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+      "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+      "author": "laxmena",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-16T16:12:26.000Z",
+      "rawContent": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+      "engagement": {
+        "score": 37,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "GateGPT 是一个在 FPGA 上高效运行 Transformer 模型的开源硬件加速方案，支持每秒 56,000 个 token 的 KV 缓存推理，时钟频率仅 80 MHz。",
+      "summaryEn": "GateGPT is an open-source FPGA-based hardware accelerator for Transformer inference, achieving 56k tokens/sec with KV caching at just 80 MHz clock frequency.",
+      "titleEn": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149773,
+        "score": 9281
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "devto-3916501",
+      "title": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
+      "url": "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-06-16T14:06:45Z",
+      "rawContent": "A story about an AI content moderation system that flagged 347 posts since launch — and what...",
+      "engagement": {
+        "likes": 24,
+        "comments": 15
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "这是一篇关于AI内容审核系统误判作者文章为‘低质量’的个人经历反思，探讨了AI审核的透明度、偏差及行业实践问题。",
+      "summaryEn": "This is a reflective personal account of an AI content moderation system incorrectly flagging the author's article as 'low quality,' prompting analysis of AI moderation transparency, bias, and real-world deployment challenges.",
+      "titleEn": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 7.8571428571428585
+    },
+    {
+      "id": "hf-2606.17321",
+      "title": "ProCUA-SFT Technical Report",
+      "url": "https://huggingface.co/papers/2606.17321",
+      "author": "Jaehun Jung",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-14T20:00:00.000Z",
+      "rawContent": "Training computer-use agents (CUAs) -- models that interact with graphical desktops through screenshots and keyboard/mouse actions -- requires large-scale, diverse trajectory data collected in full desktop environments. The largest public resource, AgentNet (22.5K human trajectories), leads to negative transfer when used for supervised fine-tuning (SFT): continuing training UI-TARS 7B on AgentNet causes OSWorld success rate to fall from 26.3% to 8-10%. We present ProCUA-SFT, a dataset of 3.1M st",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该技术报告介绍了ProCUA-SFT数据集（310万条桌面交互轨迹），旨在解决计算机使用代理（CUA）监督微调中的负迁移问题，并验证其在OSWorld等基准上的显著性能提升。",
+      "summaryEn": "This technical report introduces ProCUA-SFT, a large-scale (3.1M) desktop interaction trajectory dataset designed to mitigate negative transfer in supervised fine-tuning of computer-use agents (CUAs), demonstrating substantial performance gains on benchmarks like OSWorld.",
+      "titleEn": "ProCUA-SFT Technical Report",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2606.18237",
+      "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "url": "http://arxiv.org/abs/2606.18237v1",
+      "author": "Shanda Li",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-16T17:58:05Z",
+      "rawContent": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, but they are difficult to scale due to their reliance on substantial manual effort for data curation and evaluation. We introduce ReproRepo, a scalable framework for reproducibility evaluation that leverages human-raised GitHub issues as naturally occurring supervision on realistic reproduction bloc",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出ReproRepo框架，利用GitHub仓库中的真实用户问题作为监督信号，实现可扩展的科研可复现性评估，旨在解决现有LLM辅助复现评测中人工标注成本高、难以规模化的问题。",
+      "summaryEn": "This paper introduces ReproRepo, a scalable framework for evaluating research reproducibility by leveraging naturally occurring GitHub issue reports as supervision—addressing the scalability bottleneck in current LLM-based reproducibility benchmarking caused by heavy manual curation.",
+      "titleEn": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 148,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
