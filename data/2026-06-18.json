@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T04:26:21.863Z",
+  "items": [
+    {
+      "id": "devto-3922930",
+      "title": "How I use premortems with Claude and Codex",
+      "url": "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm",
+      "author": "Pavel Kalo",
+      "platform": "devto",
+      "publishedAt": "2026-06-17T10:19:30Z",
+      "rawContent": "I started using premortems for a boring reason: I did not trust the default review question.  When I...",
+      "engagement": {
+        "likes": 35,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了作者如何将预验尸（premortem）方法与Claude和Codex等AI工具结合，用于提升软件开发中的风险识别与代码审查质量，并提供了具体实践步骤和提示词示例。",
+      "summaryEn": "This article details how the author integrates the premortem technique with AI tools like Claude and Codex to proactively identify risks and improve code review quality in software development, including concrete prompts and workflow steps.",
+      "titleEn": "How I use premortems with Claude and Codex",
+      "category": "教程",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 112109,
+        "score": 60214
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 10
+      },
+      "summary": "这是微软官方推出的面向初学者的生成式AI入门课程，包含21节循序渐进的实践课程，涵盖基础概念、API调用、提示工程及应用构建。课程以动手实验为核心，提供完整代码示例和Jupyter Notebook支持。",
+      "summaryEn": "This is Microsoft's official beginner-friendly generative AI course comprising 21 hands-on, step-by-step lessons covering fundamentals, API usage, prompt engineering, and application building—with executable code samples and Jupyter notebooks.",
+      "titleEn": "microsoft/generative-ai-for-beginners",
+      "category": "教程",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.666666666666666
+    },
+    {
+      "id": "devto-3916790",
+      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "url": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
+      "author": "Rapls",
+      "platform": "devto",
+      "publishedAt": "2026-06-17T02:07:22Z",
+      "rawContent": "There's a particular way an AI coding agent goes bad. Not a crash, not an error. It just gets duller....",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文探讨AI编码代理在会话中性能逐渐下降的现象，通过实证测量上下文窗口衰减来区分模型能力退化与MCP（Model Context Protocol）等外部协议问题，强调对AI系统行为的细致诊断意识。",
+      "summaryEn": "This article investigates the subtle degradation of AI coding agents mid-session—not through crashes or errors, but via measurable 'dulling'—and demonstrates how context window analysis helps distinguish true model capability loss from protocol-level issues like MCP misconfiguration.",
+      "titleEn": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "category": "讨论",
+      "engagementPercentile": 0.8,
+      "finalScore": 11.339999999999998
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185006,
+        "score": 46133
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在让开发者和普通用户都能便捷地使用和构建基于大语言模型的自动化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to make LLM-powered automation accessible for both developers and end users to use and build upon.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 196323,
+        "score": 34565
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排与长期记忆增强。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting complex task orchestration and long-term memory augmentation.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174421,
+        "score": 16666
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个本地运行大语言模型的开源工具，支持一键部署 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与商用模型，适用于开发者和终端用户快速体验与集成。",
+      "summaryEn": "Ollama is a local LLM runtime tool that enables one-command setup and execution of multiple models—including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others—making it ideal for rapid prototyping and local AI experimentation.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139593,
+        "score": 23132
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型应用的开源框架，专注于代理（agent）工程、链式调用与工具集成。",
+      "summaryEn": "LangChain is an open-source framework for building LLM-powered applications, focused on agent engineering, chaining, and tool integration.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.38888888888889
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145657,
+        "score": 22906
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个开源的、面向生产环境的智能体（agentic）工作流开发平台，支持快速构建和部署基于大语言模型的应用。",
+      "summaryEn": "Dify is an open-source, production-ready platform for developing and deploying agentic workflows powered by large language models.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83204,
+        "score": 18168
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存占用而设计。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to maximize throughput and minimize GPU memory usage.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "devto-3922409",
+      "title": "Stateful provider fallback for LLM pipelines: an FSM pattern",
+      "url": "https://dev.to/ale007xd/stateful-provider-fallback-for-llm-pipelines-an-fsm-pattern-48ak",
+      "author": "Alex Delov",
+      "platform": "devto",
+      "publishedAt": "2026-06-17T09:05:31Z",
+      "rawContent": "Gateway-level LLM fallback (LiteLLM, Bifrost, Kong AI Gateway) operates on individual HTTP requests....",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一种在LLM流水线中实现有状态提供者回退的有限状态机（FSM）设计模式，聚焦于网关层（如LiteLLM、Bifrost）的容错与可靠性增强。该方案适用于构建高可用AI服务架构。",
+      "summaryEn": "This article introduces a finite state machine (FSM) pattern for stateful LLM provider fallback in production pipelines, emphasizing gateway-level resilience using tools like LiteLLM and Bifrost. It targets robust, production-grade AI service orchestration.",
+      "titleEn": "Stateful provider fallback for LLM pipelines: an FSM pattern",
+      "category": "教程",
+      "engagementPercentile": 0.6,
+      "finalScore": 9.75
+    },
+    {
+      "id": "devto-3835464",
+      "title": "Stop Loading Your Entire Instruction System Into Every Session",
+      "url": "https://dev.to/ben-witt/significantly-fewer-context-tokens-through-a-modular-instruction-architecture-2g70",
+      "author": "Ben Witt",
+      "platform": "devto",
+      "publishedAt": "2026-06-17T08:00:00Z",
+      "rawContent": "Most people talk about better prompts. Hardly anyone talks about what happens before every prompt:...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文提出一种优化AI交互效率的实用方法：避免在每次会话中重复加载完整指令系统，转而采用动态、按需注入指令的策略，提升提示工程效果与系统性能。",
+      "summaryEn": "This article presents a practical method to optimize AI interaction efficiency: instead of loading the entire instruction system into every session, dynamically inject only relevant instructions on-demand—improving prompt engineering effectiveness and system performance.",
+      "titleEn": "Stop Loading Your Entire Instruction System Into Every Session",
+      "category": "教程",
+      "engagementPercentile": 0.4,
+      "finalScore": 9.719999999999999
+    },
+    {
+      "id": "hn-48566832",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "author": "e2e4",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-17T07:04:42.000Z",
+      "rawContent": "The founder's playbook: Building an AI-native startup",
+      "engagement": {
+        "score": 218,
+        "comments": 155
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文是一篇面向创业者的行业观察文章，探讨如何构建以AI为核心驱动力的初创企业，涵盖产品定位、团队组建、技术选型与商业化路径等关键议题。",
+      "summaryEn": "This is an industry-oriented article for founders, discussing how to build AI-native startups—including product strategy, team building, technology selection, and monetization—based on real-world insights and emerging trends.",
+      "titleEn": "The founder's playbook: Building an AI-native startup",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.466666666666665
+    },
+    {
+      "id": "hn-48567759",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "author": "himata4113",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-17T09:12:00.000Z",
+      "rawContent": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "engagement": {
+        "score": 818,
+        "comments": 392
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "GLM-5.2 是智谱AI发布的最新开源大语言模型，在Artificial Analysis基准测试中成为当前表现最优的开源权重模型。",
+      "summaryEn": "GLM-5.2 is Zhipu AI's latest open-weight large language model, currently ranked as the top-performing open-weight model on the Artificial Analysis benchmark.",
+      "titleEn": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 9.3
+    },
+    {
+      "id": "hn-48572553",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "author": "zachdive",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-17T16:14:04.000Z",
+      "rawContent": "Hey HN! I&#x27;m Zach from Adam (<a href=\"https:&#x2F;&#x2F;adam.new&#x2F;\">https:&#x2F;&#x2F;adam.new&#x2F;</a>). We&#x27;re building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:<p>- AI will be the primary medium for creating mechanical designs just like it is in software today.<p>- The best paradigm for CAD generation is to generate CAD as code (text -&gt; code -&gt; CAD).<p>We’re building CADAM, an open source Text to CAD platform. It&#x27;s a Rea",
+      "engagement": {
+        "score": 168,
+        "comments": 84
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Adam（YC W25）发布开源AI CAD平台CADAM，旨在通过文本生成代码再生成机械CAD模型，推动AI原生机械设计范式。项目处于早期但已开源，强调‘CAD as code’理念。",
+      "summaryEn": "Adam (YC W25) has launched CADAM, an open-source Text-to-CAD platform that generates mechanical designs by converting natural language to code and then to CAD—advocating an 'AI-native' and 'CAD-as-code' paradigm.",
+      "titleEn": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "hn-48567877",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "author": "esychology",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-17T09:28:36.000Z",
+      "rawContent": "Neural CAs model self-organizing pattern formation.<p>Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.<p>Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures like clouds.",
+      "engagement": {
+        "score": 189,
+        "comments": 49
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该项目将神经元胞自动机（Neural CAs）升级为神经场表示，首次实现高清分辨率下的实时自组织图案生成，并提供三个交互式演示（图案生长与自修复、PBR纹理合成、3D云纹理生成）。",
+      "summaryEn": "This project upgrades Neural Cellular Automata to neural field representations, enabling real-time, high-resolution self-organizing pattern generation for the first time, with three interactive demos: seed-based growth with self-healing, PBR texture synthesis, and 3D cloud texture generation.",
+      "titleEn": "Show HN: High-Res Neural Cellular Automata",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.1
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149806,
+        "score": 9290
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-based AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "hn-48568023",
+      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "url": "https://brevio.pro",
+      "author": "ruimbarreira",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-17T09:48:59.000Z",
+      "rawContent": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "engagement": {
+        "score": 85,
+        "comments": 28
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一则关于一款集成184个免费浏览器端工具的发布消息，涵盖PDF处理、图像编辑、开发者实用功能及AI任务，所有操作均在本地完成，无需上传文件。",
+      "summaryEn": "This is an announcement of a suite of 184 free, client-side browser tools covering PDF, image, developer, and AI tasks — all processed locally with no file uploads required.",
+      "titleEn": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.19336",
+      "title": "Learning User Simulators with Turing Rewards",
+      "url": "https://huggingface.co/papers/2606.19336",
+      "author": "Yingshan Susan Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth response, either by maximizing the log probability or by using a similarity reward. We instead propose {Turing-RL}: a Turing-Test-based reinforcement learning approach for training user simulator models. {",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出了一种基于图灵测试的强化学习方法（Turing-RL），用于训练用户模拟器，通过多轮交互式判别奖励替代传统单步响应匹配，提升了模拟真实人类行为的能力。",
+      "summaryEn": "This paper introduces Turing-RL, a Turing-test-inspired reinforcement learning framework for training user simulators, using interactive, discriminative rewards instead of static single-response matching to better emulate human behavior.",
+      "titleEn": "Learning User Simulators with Turing Rewards",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78791,
+        "score": 15451
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 代理组织成可全天候运行的自动化团队，支持代理的招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hf-2606.19005",
+      "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
+      "url": "https://huggingface.co/papers/2606.19005",
+      "author": "Mengyu Ye",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Diffusion models have become a promising alternative to autoregressive models. Among these, uniform diffusion language models (UDLMs) permit any token to be updated at any step, in principle enabling more flexible generation. However, no UDLM has yet been pretrained from scratch at both large parameter scale and large token budget. Both autoregressive modeling and masked diffusion modeling already have capable models at scale that the community can study and build on; uniform diffusion has none.",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "Sumi 是首个从零预训练的大规模均匀扩散语言模型（UDLM），填补了统一扩散范式在大规模参数与海量token预算下的空白，为扩散语言建模提供了新的开源基线。",
+      "summaryEn": "Sumi is the first large-scale uniform diffusion language model (UDLM) pretrained from scratch, addressing a critical gap in diffusion-based language modeling by delivering a scalable, open foundation where none previously existed.",
+      "titleEn": "Sumi: Open Uniform Diffusion Language Model from Scratch",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 143,
+    "totalScored": 46,
+    "totalPublished": 20
+  }
+}
