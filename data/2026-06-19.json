@@ -1,0 +1,491 @@
+{
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T04:54:13.664Z",
+  "items": [
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185021,
+        "score": 46125
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在让开发者和普通用户都能便捷地使用和构建基于大语言模型的自动化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to make LLM-powered automation accessible for both developers and end users to use and build upon.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 197097,
+        "score": 34824
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体（agent）框架，旨在随用户需求演进而持续增强能力，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to grow in capability alongside user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 217847,
+        "score": 33423
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等主流代码助手，强调技能集成、本能响应、记忆机制、安全性和以研究为先的开发范式。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI programming agents, designed for Claude Code, Codex, Opencode, Cursor, and similar tools, emphasizing skill orchestration, instinctive behavior, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163904,
+        "score": 21252
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词（prompt）共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt sharing platform—formerly Awesome ChatGPT Prompts—that enables private, self-hosted deployment for organizations.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.4
+    },
+    {
+      "id": "hn-48591348",
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "author": "turtlesoup",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-18T20:49:03.000Z",
+      "rawContent": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!",
+      "engagement": {
+        "score": 264,
+        "comments": 142
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "这是一个名为‘Are You in the Weights?’的在线工具，允许用户查询自己是否被主流大语言模型（包括前沿和小型模型）在参数权重中“识别”或“memorized”，通过并行调用多个模型并聚类响应来评估个体可识别性。",
+      "summaryEn": "‘Are You in the Weights?’ is a web tool that lets users check whether their personal identity (e.g., name, bio, online footprint) is memorized or recognizably embedded in the weights of various LLMs—by querying frontier and smaller models in parallel and clustering responses.",
+      "titleEn": "Show HN: Are You in the Weights?",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.399999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145771,
+        "score": 22916
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3932884",
+      "title": "Bridging IFTTT to Your Local AI Assistant with an MCP Proxy",
+      "url": "https://dev.to/aws/bridging-ifttt-to-your-local-ai-assistant-with-an-mcp-proxy-ind",
+      "author": "Maish Saidel-Keesing",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T13:28:22Z",
+      "rawContent": "IFTTT shipped MCP support but only for Claude and ChatGPT. Here's how I built a 500-line Node.js proxy to connect it to any stdio-based MCP client.",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了一个500行的Node.js MCP代理实现，用于将IFTTT的MCP支持扩展至任意基于stdio的本地AI助手，填补了官方仅支持Claude和ChatGPT的空白。",
+      "summaryEn": "This article presents a 500-line Node.js MCP proxy that extends IFTTT’s newly added MCP support to any stdio-based local AI assistant, bypassing the official limitation to only Claude and ChatGPT.",
+      "titleEn": "Bridging IFTTT to Your Local AI Assistant with an MCP Proxy",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3931411",
+      "title": "Beyond SLSA: How to Stop Zero-Click CI/CD Worms with a 9-Step Plan",
+      "url": "https://dev.to/docker/beyond-slsa-how-to-stop-zero-click-cicd-worms-with-a-9-step-plan-1l36",
+      "author": "Mohammad-Ali A'RÂBI",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T10:19:19Z",
+      "rawContent": "The security perimeter of modern software development has officially collapsed. Historically,...",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 8,
+        "actionability": 9
+      },
+      "summary": "本文提出一套针对CI/CD管道中零点击蠕虫攻击的九步防御方案，聚焦AI驱动的自动化开发流程中的新兴安全威胁，强调在AI增强型DevOps环境中强化构建链路可信度。",
+      "summaryEn": "This article presents a practical 9-step plan to defend against zero-click CI/CD worms—emerging threats that exploit AI-augmented automation pipelines—focusing on securing the software supply chain in AI-integrated DevOps environments.",
+      "titleEn": "Beyond SLSA: How to Stop Zero-Click CI/CD Worms with a 9-Step Plan",
+      "category": "教程",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.655555555555557
+    },
+    {
+      "id": "hn-48586299",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "author": "okwasniewski",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-18T14:49:44.000Z",
+      "rawContent": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (<a href=\"https:&#x2F;&#x2F;tester.army\">https:&#x2F;&#x2F;tester.army</a>). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We&#x27;ve built the platform fully around agents. Our agent will reliably execute the ",
+      "engagement": {
+        "score": 110,
+        "comments": 47
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "TesterArmy 是一家 YC 孵化（P26）的初创公司推出的智能测试平台，利用 AI 代理自动执行网页和移动应用的端到端测试，支持自然语言定义测试用例。该工具旨在替代手动测试和静态脚本维护，提升发布前与生产环境中的质量保障效率。",
+      "summaryEn": "TesterArmy is a YC-backed (P26) agentic testing platform that automates end-to-end web and mobile app testing by interpreting natural-language test specifications—replacing manual QA and brittle scripted tests for pre-deployment and production validation.",
+      "titleEn": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "devto-3932972",
+      "title": "Building an agentic PR reviewer with Antigravity SDK",
+      "url": "https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i",
+      "author": "Remigiusz Samborski",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T19:21:08Z",
+      "rawContent": "As announced in this blog post on June 18, 2026, Gemini CLI and Gemini Code Assist IDE extensions...",
+      "engagement": {
+        "likes": 10,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了如何使用 Antigravity SDK 构建具备自主决策能力的 PR（Pull Request）审查智能体，并提及 Gemini CLI 和 Gemini Code Assist IDE 插件的集成，属于面向开发者的 AI 增强型工具实践。该内容聚焦于 AI 工具在软件工程自动化中的具体应用。",
+      "summaryEn": "This article introduces building an autonomous PR review agent using the Antigravity SDK, with integration mentions of Gemini CLI and Gemini Code Assist IDE extensions—positioning it as a practical, developer-facing AI tool for engineering automation.",
+      "titleEn": "Building an agentic PR reviewer with Antigravity SDK",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.466666666666667
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 117230,
+        "score": 19716
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的开源项目，专注于在 CPU 上高效运行大型语言模型（LLM）推理，支持量化、跨平台部署和轻量级集成。",
+      "summaryEn": "llama.cpp is an open-source project that enables efficient LLM inference in pure C/C++, with strong support for model quantization, CPU-only execution, and cross-platform deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149829,
+        "score": 9290
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 43134,
+        "score": 40801
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并提供零成本定时运行和多渠道推送功能。",
+      "summaryEn": "An open-source, LLM-powered stock analysis system supporting A-share, H-share, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "devto-3934741",
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "url": "https://dev.to/googleai/im-not-a-developer-but-i-built-a-calendar-app-to-fix-my-most-annoying-work-task-dj4",
+      "author": "Aria Heller",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T21:59:19Z",
+      "rawContent": "I’m not a developer! I’ve never coded anything in my life. As far as I’m concerned, a Cloudtop is...",
+      "engagement": {
+        "likes": 10,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 8
+      },
+      "summary": "一位非技术背景的用户通过低代码/无代码工具（如Make、Airtable、Zapier）自主构建了一个解决日程协调痛点的日历应用，分享了具体搭建步骤和选型逻辑。",
+      "summaryEn": "A non-technical user built a custom calendar app using no-code/low-code tools (e.g., Make, Airtable, Zapier) to solve a recurring workplace scheduling pain point, sharing step-by-step implementation choices and practical workflow tips.",
+      "titleEn": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 8.933333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83291,
+        "score": 18209
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.799999999999999
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 134850,
+        "score": 7858
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "devto-3931366",
+      "title": "Part 5 — Installing a Black Box Recorder in Your RAG System: 4-Layer Metadata + 3-Level Verification, Root Cause in 5 Minutes",
+      "url": "https://dev.to/jamesli/part-5-installing-a-black-box-recorder-in-your-rag-system-4-layer-metadata-3-level-2nb",
+      "author": "James Lee",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T10:13:25Z",
+      "rawContent": "This article covers the fifth layer of the full-stack architecture: Full-Chain Traceability. This is...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是RAG系统可追溯性系列教程的第五部分，详细介绍了如何通过四层元数据设计与三级验证机制，在五分钟内实现黑盒记录器的安装与根因定位。",
+      "summaryEn": "This article is Part 5 of a tutorial series on full-chain traceability in RAG systems, providing a step-by-step guide to installing a 'black box recorder' using 4-layer metadata and 3-level verification for rapid root-cause analysis (within 5 minutes).",
+      "titleEn": "Part 5 — Installing a Black Box Recorder in Your RAG System: 4-Layer Metadata + 3-Level Verification, Root Cause in 5 Minutes",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3931354",
+      "title": "Part 2 — Why Does One System Need Three Chunking Strategies? And One Document Type Shouldn't Be Chunked At All",
+      "url": "https://dev.to/jamesli/part-2-why-does-one-system-need-three-chunking-strategies-and-one-document-type-shouldnt-be-2e5n",
+      "author": "James Lee",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T10:11:46Z",
+      "rawContent": "This article covers the second layer of the full-stack architecture: the Chunking Service. Chunking...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文深入解析了RAG系统中分块（chunking）服务的设计原理，解释为何单一系统需采用三种不同分块策略，并指出某类文档（如表格型结构化文档）应完全避免分块，强调语义完整性与检索效果的权衡。",
+      "summaryEn": "This article dives into the design rationale of the chunking service in RAG systems, explaining why a single system requires three distinct chunking strategies and why one document type—such as highly structured tabular documents—should not be chunked at all, emphasizing trade-offs between semantic integrity and retrieval effectiveness.",
+      "titleEn": "Part 2 — Why Does One System Need Three Chunking Strategies? And One Document Type Shouldn't Be Chunked At All",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3931358",
+      "title": "Part 3 — Vector Retrieval in Domain-Specific Terminology Scenarios: From Model Selection to Dual Validation",
+      "url": "https://dev.to/jamesli/part-3-vector-retrieval-in-domain-specific-terminology-scenarios-from-model-selection-to-dual-3485",
+      "author": "James Lee",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T10:12:19Z",
+      "rawContent": "This article covers the third layer of the full-stack architecture: the Hybrid Retrieval Layer. Core...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是系列教程第三部分，聚焦领域术语场景下的向量检索实践，涵盖混合检索层架构、模型选型策略及双重验证方法，提供可落地的技术路径。该内容面向AI工程师与RAG系统构建者，强调工程化落地细节。",
+      "summaryEn": "This is Part 3 of a practical series on RAG architecture, focusing on hybrid vector retrieval for domain-specific terminology—covering model selection criteria, dual validation techniques, and implementation considerations for production-grade retrieval layers.",
+      "titleEn": "Part 3 — Vector Retrieval in Domain-Specific Terminology Scenarios: From Model Selection to Dual Validation",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3933578",
+      "title": "Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.",
+      "url": "https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-06-18T15:36:12Z",
+      "rawContent": "You walk into the RFP briefing. Your competitor has 200 people, 97% AI coverage, and a 4-day...",
+      "engagement": {
+        "likes": 20,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "这是一篇反思AI营销泡沫与销售现实的行业评论文章，指出在B2B采购场景中，夸大AI能力（如‘97.2% AI coverage’）常胜过真实但朴素的技术方案，引发对AI落地实效与诚信的质疑。",
+      "summaryEn": "This is an industry commentary reflecting on the AI marketing bubble and sales reality, arguing that inflated AI claims (e.g., '97.2% AI coverage') often outperform honest, pragmatic solutions in B2B procurement—sparking critical discussion about AI efficacy and vendor transparency.",
+      "titleEn": "Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.944444444444445
+    }
+  ],
+  "stats": {
+    "totalCollected": 158,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
