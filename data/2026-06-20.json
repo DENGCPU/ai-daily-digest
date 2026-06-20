@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T04:09:27.706Z",
+  "items": [
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139729,
+        "score": 23168
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型的应用程序的开源框架，专注于代理（Agent）工程、链式调用和数据连接。它提供了丰富的模块化工具，支持快速开发RAG、智能体和自动化工作流。",
+      "summaryEn": "LangChain is an open-source framework for building LLM-powered applications, focused on agent engineering, chaining, and data integration. It offers modular, production-ready tools for developing RAG systems, autonomous agents, and AI workflows.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 12.277777777777777
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 197725,
+        "score": 35020
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "devto-3936799",
+      "title": "AI summaries need receipts: how I built evidence-bound reports from comments",
+      "url": "https://dev.to/woshiliyana/ai-summaries-need-receipts-how-i-built-evidence-bound-reports-from-comments-1c29",
+      "author": "Yana Li",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T04:10:28Z",
+      "rawContent": "A mistake I keep running into with AI feedback tools is treating the summary as the product.  Getting...",
+      "engagement": {
+        "likes": 14,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践导向的教程，介绍如何构建基于原始评论证据的AI生成摘要报告，强调在AI反馈工具中保留可追溯性与验证依据。作者分享了具体的技术思路、数据流设计和轻量级实现方法。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to build evidence-bound AI summaries—reports that explicitly link generated insights back to source comments—using practical data flow design and lightweight implementation techniques.",
+      "titleEn": "AI summaries need receipts: how I built evidence-bound reports from comments",
+      "category": "教程",
+      "engagementPercentile": 0.75,
+      "finalScore": 11.1375
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 117358,
+        "score": 19744
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级、高性能开源库，专为在 CPU 上高效运行大型语言模型（LLM）推理而设计，支持量化、跨平台部署和无 GPU 依赖。该仓库提供了完整的构建指南、示例和 API，开发者可直接集成或本地运行主流开源 LLM。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance open-source library written in C/C++ for efficient LLM inference on CPUs—supporting model quantization, cross-platform deployment, and GPU-free operation. It provides comprehensive build instructions, runnable examples, and clean APIs for direct integration or local LLM execution.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "devto-3937540",
+      "title": "How I Built an Adversarial AI Council in React (and Why It Argues With You)",
+      "url": "https://dev.to/stephen_dale_f411c38562bd/how-i-built-an-adversarial-ai-council-in-react-and-why-it-argues-with-you-4a2d",
+      "author": "Stephen Dale",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T06:20:43Z",
+      "rawContent": "A local-first, single-file SPA where multiple agents debate your decision and hand you a...",
+      "engagement": {
+        "likes": 5,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践性教程，详细介绍了如何使用 React 构建一个本地优先、单文件的 SPA 应用，其中多个 AI 代理可就用户决策展开辩论，展示了多智能体交互在前端应用中的创新实现。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to build a local-first, single-file React SPA where multiple AI agents debate the user's decisions — illustrating practical multi-agent interaction in frontend AI applications.",
+      "titleEn": "How I Built an Adversarial AI Council in React (and Why It Argues With You)",
+      "category": "教程",
+      "engagementPercentile": 0.625,
+      "finalScore": 10.63125
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149858,
+        "score": 9301
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "engagement": {
+        "likes": 43217,
+        "score": 40890
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票分析系统，支持A股、港股和美股，整合多源行情数据、实时新闻与LLM决策仪表盘，并支持零成本定时运行和多渠道推送。",
+      "summaryEn": "An open-source LLM-powered stock analysis system supporting A-share, H-share, and US markets, integrating multi-source market data, real-time news, an LLM-driven decision dashboard, and zero-cost scheduled execution with multi-channel notifications.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83371,
+        "score": 18248
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，采用 PagedAttention 等创新技术显著提升吞吐量和显存利用率。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, leveraging innovations like PagedAttention to dramatically improve throughput and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 135407,
+        "score": 7875
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-BerriAI/litellm",
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "author": "BerriAI",
+      "platform": "github",
+      "publishedAt": "2023-07-27T00:09:52Z",
+      "rawContent": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "engagement": {
+        "likes": 50928,
+        "score": 9011
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 8,
+        "actionability": 9
+      },
+      "summary": "litellm 是一个开源的 Python SDK 和 AI 网关代理服务器，支持以统一 OpenAI 兼容格式调用 100+ 种大语言模型 API，并内置成本追踪、安全护栏、负载均衡和日志功能。",
+      "summaryEn": "litellm is an open-source Python SDK and AI gateway proxy server that enables unified OpenAI-compatible calls to 100+ LLM APIs (including Bedrock, Azure, Anthropic, Vertex AI, etc.), with built-in features like cost tracking, guardrails, load balancing, and logging.",
+      "titleEn": "BerriAI/litellm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 9.1
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78877,
+        "score": 15456
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，提供招聘、调度与报告等类管理功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to manage multiple AI agents as a 24/7 operational team, offering agent 'hiring', scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "author": "unslothai",
+      "platform": "github",
+      "publishedAt": "2023-11-29T16:50:09Z",
+      "rawContent": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "engagement": {
+        "likes": 66912,
+        "score": 6012
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Unsloth Studio 是一个基于 Web 的用户界面，支持在本地训练和运行 Gemma 4、Qwen3.6、DeepSeek、gpt-oss 等开源大模型，降低 AI 模型本地部署与微调的技术门槛。",
+      "summaryEn": "Unsloth Studio is a web-based UI that enables local training and inference of open large language models—including Gemma 4, Qwen3.6, DeepSeek, and gpt-oss—making model fine-tuning and deployment more accessible.",
+      "titleEn": "unslothai/unsloth",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "devto-3942484",
+      "title": "Code Is the New Server. Specs Are the New Terraform.",
+      "url": "https://dev.to/dcstolf/code-is-the-new-server-specs-are-the-new-terraform-l4h",
+      "author": "Daniel Stolf",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T18:04:50Z",
+      "rawContent": "Most of us are committing the wrong artifact to version control.  When you commit code today, you're...",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文提出“代码即新服务器，规格即新Terraform”的观点，探讨AI时代基础设施抽象层的范式转移——开发者正从管理底层资源转向声明式定义系统行为与接口契约，强调API规范、类型定义和配置即代码的新核心地位。",
+      "summaryEn": "This article argues that 'code is the new server' and 'specs are the new Terraform', framing a paradigm shift in AI-era infrastructure: developers are moving from managing low-level resources to declaratively defining system behavior, interface contracts, and behavioral specifications—elevating API schemas, type definitions, and spec-as-code to foundational artifacts.",
+      "titleEn": "Code Is the New Server. Specs Are the New Terraform.",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 8.43125
+    },
+    {
+      "id": "devto-3939378",
+      "title": "AI makes writing code easier. It doesn't make engineering easier.",
+      "url": "https://dev.to/dimitrisk_cyclopt/ai-makes-writing-code-easier-it-doesnt-make-engineering-easier-120",
+      "author": "Dimitris Kyrkos",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T09:58:24Z",
+      "rawContent": "The narrative is backwards   There's a narrative going around that AI is making software...",
+      "engagement": {
+        "likes": 15,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 5,
+        "actionability": 3
+      },
+      "summary": "本文批判性地指出，AI虽显著提升了编码效率，但并未简化软件工程的核心挑战（如系统设计、 trade-offs、协作与 maintenance），强调需纠正“AI=工程自动化”的流行误解。",
+      "summaryEn": "This article critically argues that while AI significantly accelerates coding, it does not simplify core software engineering challenges—such as system design, architectural trade-offs, team collaboration, and long-term maintenance—urging a correction of the widespread misconception that 'AI equals engineering automation'.",
+      "titleEn": "AI makes writing code easier. It doesn't make engineering easier.",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.399999999999999
+    },
+    {
+      "id": "devto-3942033",
+      "title": "Breaking Build: Kiro and Claude delivered exactly what I asked, and it wasn't what I wanted",
+      "url": "https://dev.to/earlgreyhot1701d/breaking-build-kiro-and-claude-delivered-exactly-what-i-asked-and-it-wasnt-what-i-wanted-27l5",
+      "author": "L. Cordero",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T16:48:42Z",
+      "rawContent": "Building in public means showing the part where the robots did great work on the wrong...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "本文是一篇关于AI开发实践中的预期偏差反思：作者公开分享了使用Kiro和Claude构建项目时，模型虽精准执行指令却未满足真实意图的典型案例，揭示了提示工程与目标对齐的关键挑战。",
+      "summaryEn": "This is a reflective industry commentary on AI development pitfalls: the author publicly shares a case where Kiro and Claude perfectly executed literal instructions but failed to meet the underlying intent—highlighting critical challenges in prompt engineering and goal alignment.",
+      "titleEn": "Breaking Build: Kiro and Claude delivered exactly what I asked, and it wasn't what I wanted",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 8.125
+    },
+    {
+      "id": "hf-2606.20381",
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "url": "https://huggingface.co/papers/2606.20381",
+      "author": "Qian Zhao",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-17T20:00:00.000Z",
+      "rawContent": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI350-series GPUs, remain centered on E2M1 data elements. In this study, we identify a fundamental limitation of that choice: non-uniform formats such as E2M1 inherently suffer from Shrinkage Bias, a systematic negative rounding error caused by the geometric asymmetry of their representable bins. We sho",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "该研究揭示了LLM FP4预训练中E2M1格式固有的‘收缩偏差’问题，指出其源于浮点表示的几何不对称性，并提出了改进方案UFP4；属于前沿AI模型训练精度与硬件协同优化的基础研究。",
+      "summaryEn": "This study identifies 'Shrinkage Bias'—a systematic negative rounding error in E2M1 FP4 formats used for LLM pretraining—arising from geometric asymmetry in representable value bins, and proposes the UFP4 recipe to mitigate it; it represents foundational research at the intersection of numerical representation, LLM training efficiency, and hardware-aware AI systems.",
+      "titleEn": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3916592",
+      "title": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
+      "url": "https://dev.to/nazar_boyko/llm-gateways-routing-fallbacks-and-semantic-caching-1n2b",
+      "author": "Nazar Boyko",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T16:09:27Z",
+      "rawContent": "Here's a line of code that's quietly running in production at a surprising number of...",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了LLM网关的核心概念与实践模式，包括请求路由、故障转移和语义缓存，并通过代码示例说明如何在生产环境中构建可扩展、高可用的LLM调用层。",
+      "summaryEn": "This article introduces core patterns for LLM gateways—including request routing, fallback strategies, and semantic caching—and provides practical code examples for building robust, production-ready LLM abstraction layers.",
+      "titleEn": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3938386",
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "url": "https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f",
+      "author": "Ertuğrul Demir",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T10:09:03Z",
+      "rawContent": "AI has made me a little lazier.  Not dramatically lazy. Not \"the robots will do everything\" lazy....",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文是一篇实践导向的教程，介绍如何使用 Antigravity SDK 构建一个基于技能（而非复杂系统提示）的 Anki 智能复习助手，强调通过模块化技能设计提升 AI 助教的可靠性与可维护性。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to build an Anki-based AI tutor using the Antigravity SDK, advocating for 'skills'—modular, testable AI behaviors—over brittle system prompts to improve reliability and maintainability.",
+      "titleEn": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8
+    },
+    {
+      "id": "devto-3943510",
+      "title": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
+      "url": "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
+      "author": "Jonathan Murray",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T21:02:20Z",
+      "rawContent": "Internmaxxing   Somebody on your timeline this week called intern code \"API slop.\"...",
+      "engagement": {
+        "likes": 21,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "本文是一篇技术社区评论文章，讽刺性地对比了年轻开发者（'Internmaxxing'）对快速、松散API集成的推崇与资深工程师对云服务过度抽象化和质量下滑的不满，反映了AI时代开发文化代际冲突。",
+      "summaryEn": "This is a satirical community commentary contrasting 'Internmaxxing'—a tongue-in-cheek term for rapid, low-friction API integration favored by junior developers—with seasoned engineers' frustration over cloud bloat and declining software quality, highlighting generational tensions in AI-augmented development culture.",
+      "titleEn": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.906250000000001
+    },
+    {
+      "id": "hf-2606.20529",
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "url": "https://huggingface.co/papers/2606.20529",
+      "author": "Md Nayem Uddin",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-17T20:00:00.000Z",
+      "rawContent": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents, task states are not represented separately. Observations, tool returns, and policy instructions are placed in the prompt, leaving agents to reconstruct the relevant states from the prompt each time ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LedgerAgent 提出了一种结构化状态表示机制，使工具调用型智能体能在客服等策略敏感场景中显式维护任务状态（如事实、约束、条件），从而更可靠地遵循领域策略并提升多轮交互一致性。",
+      "summaryEn": "LedgerAgent introduces a structured state representation mechanism that enables tool-calling agents to explicitly maintain task states (e.g., facts, identifiers, constraints, conditions) across turns in policy-sensitive domains like customer service, improving adherence to domain policies and multi-turn consistency.",
+      "titleEn": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 141,
+    "totalScored": 46,
+    "totalPublished": 20
+  }
+}
