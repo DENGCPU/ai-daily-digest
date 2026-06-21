@@ -1,0 +1,476 @@
+{
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T04:50:18.310Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 198425,
+        "score": 35200
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 218925,
+        "score": 33566
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等主流 AI 编程工具，强调技能编排、本能响应、记忆机制、安全增强与研究驱动开发。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI programming agents, supporting tools like Claude Code, Codex, Opencode, and Cursor, with emphasis on skill orchestration, instinctive behavior, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 163990,
+        "score": 21254
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词（prompt）共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt repository—formerly Awesome ChatGPT Prompts—that enables sharing, discovering, and self-hosting prompts for privacy-sensitive use.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174619,
+        "score": 16700
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行和管理大语言模型的开源工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等主流开源及商业适配模型，简化了模型部署与交互流程。",
+      "summaryEn": "Ollama is an open-source tool for running and managing large language models locally, supporting popular models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others—enabling easy deployment and CLI-based interaction.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139780,
+        "score": 23183
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, enabling chaining, tool integration, and agentic workflows.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.38888888888889
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 145984,
+        "score": 22959
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for developing and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing capabilities.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 117471,
+        "score": 19772
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级、高性能开源库，专为在 CPU 上高效运行大型语言模型（LLM）推理而设计，支持多种量化格式和跨平台部署。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance open-source library written in C/C++ for efficient LLM inference on CPUs, supporting multiple quantization formats and cross-platform deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48610841",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "author": "gr4vityWall",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-20T17:02:49.000Z",
+      "rawContent": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "engagement": {
+        "score": 123,
+        "comments": 241
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 8,
+        "actionability": 3
+      },
+      "summary": "Bun 正在为 JavaScriptCore 提交一个开放的 Pull Request，旨在引入共享内存线程支持，这将增强 JavaScript 运行时的并发能力。",
+      "summaryEn": "Bun has an open pull request to add shared-memory threads support to JavaScriptCore, enhancing low-level concurrency capabilities in the JavaScript runtime.",
+      "titleEn": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.81111111111111
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83437,
+        "score": 18271
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，采用 PagedAttention 等创新技术显著提升吞吐量和显存利用率。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, leveraging innovations like PagedAttention to dramatically improve throughput and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.799999999999999
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149885,
+        "score": 9307
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-based AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 135882,
+        "score": 7888
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for large-scale web search, scraping, and interaction—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48611513",
+      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "author": "overflowy",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-20T18:17:58.000Z",
+      "rawContent": "I made this because the online &quot;make my PDF look scanned&quot; tools want you to upload your file to their servers, which feels sketchy at best. Also, I wasn&#x27;t happy with the output they produce, I wanted something that looks realistic.",
+      "engagement": {
+        "score": 99,
+        "comments": 49
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "这是一款本地运行的AI增强型PDF处理工具，支持命令行和浏览器（通过WASM）将PDF渲染成逼真的扫描效果，强调隐私保护与输出质量。",
+      "summaryEn": "This is a privacy-first, locally executed tool that transforms PDFs into realistic scanned documents using CLI or browser-based WASM—no file uploads to remote servers.",
+      "titleEn": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.444444444444445
+    },
+    {
+      "id": "hf-2606.20381",
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "url": "https://huggingface.co/papers/2606.20381",
+      "author": "Qian Zhao",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-17T20:00:00.000Z",
+      "rawContent": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI350-series GPUs, remain centered on E2M1 data elements. In this study, we identify a fundamental limitation of that choice: non-uniform formats such as E2M1 inherently suffer from Shrinkage Bias, a systematic negative rounding error caused by the geometric asymmetry of their representable bins. We sho",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文深入分析了LLM FP4预训练中E2M1格式引发的‘收缩偏差’问题，揭示其几何根源与系统性影响，并提出新型UFP4训练方案以缓解该偏差。",
+      "summaryEn": "This paper identifies and analyzes 'Shrinkage Bias'—a systematic negative rounding error inherent in E2M1 FP4 formats used in LLM pretraining—tracing its geometric origin, quantifying its systemic impact on model convergence and quality, and proposing the UFP4 recipe as a principled mitigation.",
+      "titleEn": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2606.20532",
+      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "url": "http://arxiv.org/abs/2606.20532v1",
+      "author": "Nityanand Mathur",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-18T17:47:32Z",
+      "rawContent": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention attribution for speech diffusion models, adapting the DAAM framework to the speech domain for the first time, and apply it to CapSpeech-TTS. Our method extracts per-token heatmaps across 25 layers and 2",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "该论文首次将DAAM框架适配至语音领域，提出面向风格标注文本到语音（TTS）系统的跨注意力归因方法，用于解析指令词对声学输出的逐层、逐token影响机制。",
+      "summaryEn": "This paper introduces the first cross-attention attribution method for speech diffusion models—adapting the DAAM framework to the speech domain—to interpret how individual instruction words shape acoustic output in style-captioned text-to-speech systems.",
+      "titleEn": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3916592",
+      "title": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
+      "url": "https://dev.to/nazar_boyko/llm-gateways-routing-fallbacks-and-semantic-caching-1n2b",
+      "author": "Nazar Boyko",
+      "platform": "devto",
+      "publishedAt": "2026-06-19T16:09:27Z",
+      "rawContent": "Here's a line of code that's quietly running in production at a surprising number of...",
+      "engagement": {
+        "likes": 7,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了LLM网关的核心模式——路由、故障转移和语义缓存，通过代码示例和架构图讲解如何在生产环境中提升LLM应用的可靠性、性能与成本效益。",
+      "summaryEn": "This article introduces core LLM gateway patterns—routing, fallbacks, and semantic caching—using code examples and architecture diagrams to explain how to improve reliability, performance, and cost-efficiency of LLM applications in production.",
+      "titleEn": "LLM Gateways: Routing, Fallbacks, And Semantic Caching",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48608394",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "author": "farhadhf",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-20T11:19:05.000Z",
+      "rawContent": "Temporary Cloudflare accounts for AI agents",
+      "engagement": {
+        "score": 187,
+        "comments": 101
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "该内容讨论了为AI代理临时创建Cloudflare账户以绕过服务限制的实践，属于开发者社区中关于AI基础设施对抗性使用的经验分享与伦理探讨。",
+      "summaryEn": "This content discusses the practice of creating temporary Cloudflare accounts for AI agents to bypass rate limits or access controls, reflecting community-level discourse on infrastructure workarounds and operational ethics in AI deployment.",
+      "titleEn": "Temporary Cloudflare accounts for AI agents",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 8.055555555555555
+    },
+    {
+      "id": "hf-2606.20529",
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "url": "https://huggingface.co/papers/2606.20529",
+      "author": "Md Nayem Uddin",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-17T20:00:00.000Z",
+      "rawContent": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents, task states are not represented separately. Observations, tool returns, and policy instructions are placed in the prompt, leaving agents to reconstruct the relevant states from the prompt each time ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LedgerAgent 提出了一种结构化状态表示机制，使工具调用型智能体能在客服等策略敏感场景中显式维护任务状态（如事实、约束、条件），从而提升策略遵循能力与跨轮次一致性。",
+      "summaryEn": "LedgerAgent introduces a structured state representation for tool-calling agents, enabling explicit maintenance of task state (e.g., facts, constraints, conditions) across dialogue turns to improve policy adherence and consistency in domain-sensitive applications like customer service.",
+      "titleEn": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.19334",
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "https://huggingface.co/papers/2606.19334",
+      "author": "Denis Peskoff",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LOCUS 是一个面向美国地方性法规的新型机器可读语料库，填补了法律AI研究中长期缺失的地方层级权威文本数据空白，支持法律NLP模型训练与评估。",
+      "summaryEn": "LOCUS is a new machine-readable corpus of U.S. local ordinances, addressing a critical gap in legal AI resources by providing authoritative, structured, and research-accessible text covering zoning, housing, public health, and other locally regulated domains.",
+      "titleEn": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.18021",
+      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "url": "https://huggingface.co/papers/2606.18021",
+      "author": "Lalit Yadav",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-15T20:00:00.000Z",
+      "rawContent": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving compliance officers without an actionable signal for trustworthy deployment. We present LegalHalluLens, an auditing framework with three components: typed hallucination profiles across four legally-motivated claim categories (numeric, temporal, obligation/entitlement, factual) over CUAD (Hendrycks et al., 20",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LegalHalluLens 是一种面向法律AI的幻觉审计框架，通过类型化幻觉分析（数值、时间、权责、事实四类）和校准多智能体辩论，提升法律AI的可信部署能力。",
+      "summaryEn": "LegalHalluLens is a hallucination auditing framework for legal AI that introduces typed hallucination profiling across four legally grounded claim categories and calibrated multi-agent debate to improve trustworthiness in high-stakes legal deployments.",
+      "titleEn": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.19602",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://huggingface.co/papers/2606.19602",
+      "author": "Osman Alperen Çinar-Koraş",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agentic RAG pipeline that reasons over complete patien",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一种面向临床场景的可配置信息抽取框架ACIE，采用智能体驱动的RAG架构解决医疗文档中时序推理、跨文档依赖和元数据缺失等挑战，并报告了在大学医院埃森的实际部署经验。",
+      "summaryEn": "This paper introduces ACIE (Agentic Clinical Information Extraction), a configurable, agent-driven RAG framework designed to address temporal reasoning, cross-document dependencies, and missing metadata in complex clinical documentation—validated through real-world deployment at University Medicine Essen.",
+      "titleEn": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 145,
+    "totalScored": 42,
+    "totalPublished": 20
+  }
+}
