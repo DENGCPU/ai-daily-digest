@@ -1,0 +1,479 @@
+{
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T04:58:34.727Z",
+  "items": [
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 219427,
+        "score": 33634
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等主流编码助手，强调技能编排、本能建模、记忆机制、安全增强与以研究为先导的开发范式。",
+      "summaryEn": "affaan-m/ECC is a performance optimization framework for AI coding agents, supporting tools like Claude Code, Codex, Opencode, and Cursor, with emphasis on skill orchestration, instinct modeling, memory integration, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 199181,
+        "score": 35382
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持多步推理与工具调用，适用于构建可扩展的AI代理应用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting multi-step reasoning and tool use for building scalable AI agents.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 164059,
+        "score": 21253
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "f/prompts.chat 是一个开源的社区驱动型提示词（prompt）共享平台，前身是 Awesome ChatGPT Prompts，支持自托管以保障数据隐私。",
+      "summaryEn": "f/prompts.chat is an open-source, community-driven prompt repository—formerly Awesome ChatGPT Prompts—that enables sharing, discovering, and self-hosting prompts for privacy-sensitive use.",
+      "titleEn": "f/prompts.chat",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "hn-48622590",
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "author": "mateenah",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-21T21:05:37.000Z",
+      "rawContent": "Show HN: Recall – fully-local project memory for Claude Code",
+      "engagement": {
+        "score": 91,
+        "comments": 61
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Recall 是一款专为 Claude Code 设计的完全本地化项目记忆工具，可在不依赖云端的情况下增强代码上下文理解与长期记忆能力。",
+      "summaryEn": "Recall is a fully-local project memory tool designed for Claude Code, enabling enhanced context awareness and long-term memory retention without cloud dependency.",
+      "titleEn": "Show HN: Recall – fully-local project memory for Claude Code",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146089,
+        "score": 22981
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for building and deploying agentic workflows, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 117603,
+        "score": 19797
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个开源的 C/C++ 实现，专注于在本地 CPU 上高效运行大型语言模型（LLM）推理，支持量化、跨平台部署和轻量级集成。",
+      "summaryEn": "llama.cpp is an open-source C/C++ library enabling efficient, quantized LLM inference on CPUs—designed for portability, low-resource environments, and seamless local deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149917,
+        "score": 9315
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 44828,
+        "score": 41549
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源项目，整合多源行情数据、实时新闻、可视化决策看板与自动化推送功能，并支持零成本定时部署运行。",
+      "summaryEn": "This is an open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, automated notifications, and cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83510,
+        "score": 18297
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，支持快速部署和规模化推理。它采用 PagedAttention 等创新技术显著提升吞吐量和显存利用率。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, leveraging innovations like PagedAttention to dramatically improve throughput and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "author": "TauricResearch",
+      "platform": "github",
+      "publishedAt": "2024-12-28T03:31:08Z",
+      "rawContent": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "engagement": {
+        "likes": 87862,
+        "score": 16967
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于多智能体架构的开源金融交易框架，利用大语言模型（LLM）实现自动化交易策略开发与回测。",
+      "summaryEn": "This is an open-source financial trading framework built on a multi-agent architecture that leverages large language models (LLMs) for automated trading strategy development and backtesting.",
+      "titleEn": "TauricResearch/TradingAgents",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48618455",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "author": "bathory",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-21T12:44:13.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_anthropic_to_require_identity&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...</a>",
+      "engagement": {
+        "score": 643,
+        "comments": 553
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "该内容报道了Anthropic公司计划对Claude用户实施官方身份验证要求，引发Reddit和Hacker News社区关于隐私、准入门槛和AI服务商业化策略的讨论。",
+      "summaryEn": "This content reports Anthropic's announced plan to require official identity verification for Claude users, sparking community discussion on privacy, access barriers, and AI service commercialization strategies.",
+      "titleEn": "Identity verification on Claude",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "arxiv-2606.20532",
+      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "url": "http://arxiv.org/abs/2606.20532v1",
+      "author": "Nityanand Mathur",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-18T17:47:32Z",
+      "rawContent": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention attribution for speech diffusion models, adapting the DAAM framework to the speech domain for the first time, and apply it to CapSpeech-TTS. Our method extracts per-token heatmaps across 25 layers and 2",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出一种面向语音扩散模型的跨注意力归因方法（适配DAAM框架），首次将其应用于风格标注型文本到语音（TTS）系统CapSpeech-TTS，以可视化分析指令中各词元对语音声学特征的影响机制。",
+      "summaryEn": "This paper introduces cross-attention attribution for speech diffusion models—the first adaptation of the DAAM framework to the speech domain—and applies it to CapSpeech-TTS to interpret how individual instruction tokens shape acoustic output in style-captioned TTS.",
+      "titleEn": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3797732",
+      "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+      "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
+      "author": "Shola Jegede",
+      "platform": "devto",
+      "publishedAt": "2026-06-21T21:10:11Z",
+      "rawContent": "If you're building a SaaS AI agent product and you're already on Kinde, you already know the...",
+      "engagement": {
+        "likes": 5,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文是一篇面向AI SaaS开发者的实操教程，详细说明了如何为Mastra认证框架手动构建缺失的Kinde身份验证提供程序，涵盖代码实现、配置步骤和集成要点。",
+      "summaryEn": "This is a hands-on tutorial for AI SaaS developers, detailing how to manually build a missing Kinde auth provider for Mastra’s authentication framework—including code implementation, configuration steps, and integration guidance.",
+      "titleEn": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8
+    },
+    {
+      "id": "devto-3904652",
+      "title": "When Judgment Becomes the Bottleneck",
+      "url": "https://dev.to/gamya_m/when-judgment-becomes-the-bottleneck-973",
+      "author": "Gamya ",
+      "platform": "devto",
+      "publishedAt": "2026-06-21T08:44:00Z",
+      "rawContent": "A few days ago I published a lighthearted post about building a coding mascot generator with Google...",
+      "engagement": {
+        "likes": 15,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 6
+      },
+      "summary": "本文是一篇实践导向的教程，介绍如何使用Google AI工具构建一个编程吉祥物生成器，涵盖API调用、提示词设计和快速迭代等实用环节。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to build a coding mascot generator using Google AI tools, covering API integration, prompt engineering, and iterative development.",
+      "titleEn": "When Judgment Becomes the Bottleneck",
+      "category": "教程",
+      "engagementPercentile": 0.6,
+      "finalScore": 7.930000000000001
+    },
+    {
+      "id": "hn-48616713",
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "author": "sph",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-21T08:04:54.000Z",
+      "rawContent": "A 3D voxel game engine written in APL",
+      "engagement": {
+        "score": 151,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 9,
+        "actionability": 4
+      },
+      "summary": "这是一个用APL编程语言编写的3D体素游戏引擎，属于小众但技术上引人注目的开源项目，展示了APL在现代图形编程中的非传统应用。",
+      "summaryEn": "This is a 3D voxel game engine implemented in APL—a rare and technically intriguing open-source project that demonstrates APL’s unconventional application in modern graphics programming.",
+      "titleEn": "A 3D voxel game engine written in APL",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 7.816666666666667
+    },
+    {
+      "id": "devto-3953400",
+      "title": "Kitana: Why I’m Replacing Token Prediction With Dictionary Traversal",
+      "url": "https://dev.to/edmundsparrow/kitana-why-im-replacing-token-prediction-with-dictionary-traversal-5266",
+      "author": "Ekong Ikpe",
+      "platform": "devto",
+      "publishedAt": "2026-06-21T06:10:24Z",
+      "rawContent": "What If Language Understanding Starts With a Dictionary Instead of a Model?   LLM →...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "本文提出一种颠覆性思路：用词典遍历替代传统语言模型的token预测，质疑LLM范式的基础假设，属于对AI语言理解路径的哲学与方法论反思。",
+      "summaryEn": "This article proposes a paradigm-challenging idea—replacing token prediction in LLMs with dictionary traversal—as a foundational rethinking of language understanding, sparking conceptual and methodological debate rather than offering implementation details.",
+      "titleEn": "Kitana: Why I’m Replacing Token Prediction With Dictionary Traversal",
+      "category": "讨论",
+      "engagementPercentile": 0.4,
+      "finalScore": 7.800000000000001
+    },
+    {
+      "id": "hf-2606.20529",
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "url": "https://huggingface.co/papers/2606.20529",
+      "author": "Md Nayem Uddin",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-17T20:00:00.000Z",
+      "rawContent": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents, task states are not represented separately. Observations, tool returns, and policy instructions are placed in the prompt, leaving agents to reconstruct the relevant states from the prompt each time ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LedgerAgent 提出了一种结构化状态表示机制，使工具调用型智能体能在客服等策略敏感场景中显式维护任务状态（如事实、约束、条件），从而更可靠地遵循领域策略。该方法解决了传统提示式状态重建导致的不一致与错误问题。",
+      "summaryEn": "LedgerAgent introduces a structured state representation for policy-adherent tool-calling agents—explicitly maintaining task-relevant facts, identifiers, constraints, and conditions across dialogue turns—to improve reliability in domain-constrained settings like customer service. It addresses the fragility of implicit, prompt-based state reconstruction in standard agents.",
+      "titleEn": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.19334",
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "https://huggingface.co/papers/2606.19334",
+      "author": "Denis Peskoff",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LOCUS 是一个面向美国地方性法规的新型机器可读语料库，填补了法律AI研究中地方层级法规数据缺失的关键空白，支持法律NLP模型训练与评估。",
+      "summaryEn": "LOCUS is a new machine-readable corpus of U.S. local ordinances, addressing a critical gap in legal AI research by providing scalable, structured access to granular, everyday regulatory texts previously unavailable in bulk.",
+      "titleEn": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.18021",
+      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "url": "https://huggingface.co/papers/2606.18021",
+      "author": "Lalit Yadav",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-15T20:00:00.000Z",
+      "rawContent": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving compliance officers without an actionable signal for trustworthy deployment. We present LegalHalluLens, an auditing framework with three components: typed hallucination profiles across four legally-motivated claim categories (numeric, temporal, obligation/entitlement, factual) over CUAD (Hendrycks et al., 20",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出LegalHalluLens框架，通过类型化幻觉分析和校准的多智能体辩论，提升法律领域AI系统的可信度与可审计性，聚焦于法律场景中幻觉的细粒度分类与量化评估。",
+      "summaryEn": "This paper introduces LegalHalluLens, a novel auditing framework that enables fine-grained, typed hallucination profiling (e.g., numeric, temporal, obligation-related) and calibrated multi-agent debate to improve trustworthiness and auditability of AI in legal applications.",
+      "titleEn": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.19602",
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://huggingface.co/papers/2606.19602",
+      "author": "Osman Alperen Çinar-Koraş",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agentic RAG pipeline that reasons over complete patien",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出ACIE（Agentic Clinical Information Extraction）——一种面向临床场景的智能体增强型RAG框架，针对患者多源异构文档中时序推理、跨文档依赖和元数据缺失等挑战进行了实证研究与系统部署。该工作基于真实医院环境（University Medicine Essen）开展，揭示了标准RAG在临床信息抽取中的失效模式及根本原因。",
+      "summaryEn": "This paper introduces ACIE (Agentic Clinical Information Extraction), an agent-augmented RAG framework designed for clinical information extraction, addressing key failures of standard RAG—including poor temporal reasoning, cross-document dependencies, and missing metadata—in real-world, heterogeneous patient records. It reports empirical findings and on-premise deployment at University Medicine Essen.",
+      "titleEn": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 148,
+    "totalScored": 46,
+    "totalPublished": 20
+  }
+}
