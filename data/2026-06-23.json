@@ -1,0 +1,491 @@
+{
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T03:59:50.420Z",
+  "items": [
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161823,
+        "score": 33570
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的定义、训练与推理，是AI开发工作流中的核心基础设施。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling model definition, training, and inference for state-of-the-art text, vision, audio, and multimodal models — serving as foundational infrastructure for AI development workflows.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 200089,
+        "score": 35628
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在通过持续学习和用户交互实现个性化成长，支持多步推理与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed for personalized growth through continuous learning and user interaction, supporting multi-step reasoning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174755,
+        "score": 16712
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行和管理开源大语言模型的轻量级工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多种主流模型的一键部署。",
+      "summaryEn": "Ollama is a lightweight tool for running and managing open-weight LLMs locally, enabling one-command setup for models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 139917,
+        "score": 23203
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, supporting chains, tool integration, and agent development.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.86111111111111
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146193,
+        "score": 22991
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83590,
+        "score": 18336
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存占用而设计，广泛用于生产级 LLM 部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to maximize throughput and minimize GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "hn-48631726",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "author": "zdgeier",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-22T15:37:48.000Z",
+      "rawContent": "Oak is a version control system I&#x27;ve been working on designed for agents (<a href=\"https:&#x2F;&#x2F;oak.space\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn&#x27;t waste you or y",
+      "engagement": {
+        "score": 161,
+        "comments": 153
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Oak是一款专为AI代理（agents）设计的新型版本控制系统，支持虚拟挂载以提升协作效率和上下文感知能力，避免全量克隆仓库。",
+      "summaryEn": "Oak is a new version control system designed specifically for AI agents, enabling virtual mounts to eliminate full repository clones and improve contextual awareness and parallel task execution.",
+      "titleEn": "Show HN: Oak – Git alternative designed for agents",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 149956,
+        "score": 9322
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流，支持与 LangChain 等生态深度集成。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows, with deep integration into ecosystems like LangChain.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3965516",
+      "title": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
+      "url": "https://dev.to/ryantsuji/building-one-knowledge-graph-across-46-repositories-with-static-analysis-part-1-egm",
+      "author": "Ryosuke Tsuji",
+      "platform": "devto",
+      "publishedAt": "2026-06-22T23:54:01Z",
+      "rawContent": "A static-analysis approach to unifying 46 repositories (37 air-closet-side + 9 mall-side) of legacy production code into one knowledge graph. Why simply 'letting AI read the code' isn't enough, why I had to chase down boundary nodes (API endpoints, DB tables, Event topics), how I dealt with framework and library diversity, and what 3 months of trial and error solved or didn't solve — looking back through actual git history.",
+      "engagement": {
+        "likes": 14,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文详细介绍了如何通过静态分析整合46个遗留代码仓库构建统一知识图谱，强调了仅依赖AI读取代码的局限性，并分享了识别边界节点、应对框架多样性等实战经验。",
+      "summaryEn": "This article details a hands-on tutorial on building a unified knowledge graph across 46 legacy code repositories using static analysis, explaining why 'letting AI read the code' is insufficient and sharing practical lessons on identifying boundary nodes (APIs, DB tables, events) and handling framework/library heterogeneity.",
+      "titleEn": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
+      "category": "教程",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "hn-48626930",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "author": "vantareed",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-22T07:30:17.000Z",
+      "rawContent": "Codex logging bug may write TBs to local SSDs",
+      "engagement": {
+        "score": 473,
+        "comments": 258
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "该内容指出Codex（GitHub Copilot底层模型）存在一个日志记录缺陷，可能导致TB级数据意外写入本地SSD，引发存储和性能风险。",
+      "summaryEn": "This reports a logging bug in Codex—the underlying model for GitHub Copilot—that may unintentionally write terabytes of data to local SSDs, posing storage and performance risks.",
+      "titleEn": "Codex logging bug may write TBs to local SSDs",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.822222222222223
+    },
+    {
+      "id": "devto-3960748",
+      "title": "The Principle of Least AI",
+      "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
+      "author": "Ingo Steinke, web developer",
+      "platform": "devto",
+      "publishedAt": "2026-06-22T09:47:15Z",
+      "rawContent": "Why AI Alternatives Matter   AI is prone to problems affecting its output: hallucinations,...",
+      "engagement": {
+        "likes": 34,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "本文提出‘最小AI原则’，主张在能用更简单、可靠方法解决问题时应避免过度依赖AI，强调AI替代方案的重要性及其在减少幻觉、偏见和资源浪费方面的价值。",
+      "summaryEn": "This article introduces the 'Principle of Least AI', advocating for avoiding unnecessary AI adoption when simpler, more reliable alternatives exist—highlighting the importance of AI alternatives to mitigate hallucinations, bias, and inefficiency.",
+      "titleEn": "The Principle of Least AI",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 9.75
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 91403,
+        "score": 13175
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个基于大语言模型的开源项目，支持一键生成高清短视频，集成了多模态AI能力与自动化工作流。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project leveraging large language models to enable one-click generation of high-definition short videos, integrating multimodal AI capabilities and automated workflows.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48630171",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "author": "DSemba",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-22T13:53:02.000Z",
+      "rawContent": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "engagement": {
+        "score": 249,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 4
+      },
+      "summary": "Moebius是一个参数量仅0.2B的轻量级图像修复模型，却能达到媲美10B参数大模型的性能，体现了高效模型设计的新进展。",
+      "summaryEn": "Moebius is a lightweight (0.2B-parameter) image inpainting model achieving performance comparable to models with ~10B parameters, showcasing advances in efficient AI model design.",
+      "titleEn": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.8
+    },
+    {
+      "id": "devto-3963309",
+      "title": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
+      "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
+      "author": "Sergei Parfenov",
+      "platform": "devto",
+      "publishedAt": "2026-06-22T14:21:08Z",
+      "rawContent": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
+      "engagement": {
+        "likes": 8,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨了AI智能体链（agent chains）中信任建模的演进，提出将信任从布尔标量升级为多维向量，并强调溯源（provenance）作为可传播的核心要素，属于对AI系统可靠性设计的前沿思辨性讨论。",
+      "summaryEn": "This article advances the conceptual modeling of trust in AI agent chains, arguing that trust should be treated as a multi-dimensional vector rather than a binary scalar, with typed provenance serving as the propagatable foundation—representing a thoughtful, community-driven discussion on AI system reliability.",
+      "titleEn": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 8.68888888888889
+    },
+    {
+      "id": "devto-3964775",
+      "title": ". .. . ... . .... . .... . ... .",
+      "url": "https://dev.to/lovestaco/--2kb7",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-06-22T20:25:54Z",
+      "rawContent": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "engagement": {
+        "likes": 10,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "这是一篇介绍开源项目 git-lrc 的文章，该项目是一个轻量级 AI 代码审查工具，可在每次 Git 提交时本地运行，旨在提供即时、低开销的代码质量反馈。",
+      "summaryEn": "This is an announcement of the open-source project git-lrc — a lightweight, commit-triggered AI code reviewer designed to run locally on every Git commit for real-time, low-overhead code feedback.",
+      "titleEn": ". .. . ... . .... . .... . ... .",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.4
+    },
+    {
+      "id": "hn-48631888",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "author": "x312",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-22T15:48:55.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.12277\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.12277</a>",
+      "engagement": {
+        "score": 164,
+        "comments": 87
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该论文将提示注入（Prompt Injection）重新概念化为‘角色混淆’问题，从认知与系统架构角度分析大语言模型在指令遵循中因角色边界模糊导致的安全失效机制。",
+      "summaryEn": "This paper reframes prompt injection as 'role confusion', analyzing how ambiguous role boundaries in large language models lead to security failures during instruction following—from cognitive and system-architecture perspectives.",
+      "titleEn": "Prompt Injection as Role Confusion",
+      "category": "论文",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "devto-3959651",
+      "title": "Agentic RAG: Designing Self-Correcting Retrieval Loops for Production",
+      "url": "https://dev.to/aloknecessary/agentic-rag-designing-self-correcting-retrieval-loops-for-production-2lbg",
+      "author": "Alok Ranjan Daftuar",
+      "platform": "devto",
+      "publishedAt": "2026-06-22T05:59:20Z",
+      "rawContent": "Standard RAG retrieves once and hopes for the best. Agentic RAG retrieves, reflects, decides it was...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "本文介绍了Agentic RAG（代理式检索增强生成）的核心设计理念，强调通过多轮自反思、自修正的检索循环提升RAG在生产环境中的鲁棒性与准确性。",
+      "summaryEn": "This article introduces Agentic RAG—a design paradigm for retrieval-augmented generation that replaces single-shot retrieval with iterative, self-reflective, and self-correcting retrieval loops to improve robustness and accuracy in production systems.",
+      "titleEn": "Agentic RAG: Designing Self-Correcting Retrieval Loops for Production",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48636377",
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "author": "TechTechTech",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-22T21:21:01.000Z",
+      "rawContent": "Runing GLM-5.2 on local hardware",
+      "engagement": {
+        "score": 236,
+        "comments": 107
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "该内容标题提示了在本地硬件上运行GLM-5.2模型的方法，属于AI模型部署实践类指南，但正文缺失，仅标题无法提供具体操作步骤。",
+      "summaryEn": "The title suggests a guide for running the GLM-5.2 model on local hardware—a practical AI deployment topic—but the body content is missing, limiting concrete implementation details.",
+      "titleEn": "Running GLM-5.2 on Local Hardware",
+      "category": "教程",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 7.922222222222222
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 106534,
+        "score": 7044
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent 等多个代码与智能代理工具，提供统一界面访问。",
+      "summaryEn": "cc-switch is a cross-platform desktop AI assistant that unifies access to multiple coding and agent tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a single interface.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 78975,
+        "score": 15475
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成 7×24 小时自主运行的“AI 团队”，提供招聘、调度与汇报等类管理功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 autonomous 'AI team', offering management-like capabilities including agent onboarding, scheduling, and reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 159,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
