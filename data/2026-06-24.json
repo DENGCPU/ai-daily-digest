@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T04:01:18.828Z",
+  "items": [
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161850,
+        "score": 33580
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与训练。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and training across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 201118,
+        "score": 35883
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排与长期记忆增强。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting complex task orchestration and long-term memory augmentation.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174812,
+        "score": 16719
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "该GitHub仓库是Ollama项目，提供本地运行多种主流开源大模型（如Qwen、Gemma、DeepSeek等）的轻量级工具，支持一键拉取与部署。",
+      "summaryEn": "This GitHub repository is the Ollama project, a lightweight tool for running popular open-source LLMs (e.g., Qwen, Gemma, DeepSeek) locally with one-command setup and model management.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "devto-3964392",
+      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
+      "author": "Vasyl",
+      "platform": "devto",
+      "publishedAt": "2026-06-23T12:00:00Z",
+      "rawContent": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
+      "engagement": {
+        "likes": 10,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践导向的AI工程指南，主张在开发AI功能（如‘询问这本书’）前先编写评估用例（evals），以应对AI行为不可预测、缺乏传统单元测试通过点的挑战。",
+      "summaryEn": "This is a practice-oriented AI engineering guide advocating for writing evaluation test cases (evals) *before* implementing an AI feature (e.g., 'Ask This Book') to address the fundamental challenge that AI behaviors lack deterministic 'test pass' moments.",
+      "titleEn": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "devto-3969660",
+      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
+      "url": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
+      "author": "Harsh ",
+      "platform": "devto",
+      "publishedAt": "2026-06-23T10:49:47Z",
+      "rawContent": "AI wrote the first 80% of my feature in 10 minutes.  The code was clean. The logic made sense. The...",
+      "engagement": {
+        "likes": 23,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文探讨AI编程中常见的“80/20现象”——AI能快速生成大部分功能代码，但剩余20%的调试、边缘情况处理、集成与维护却消耗80%的时间，强调人机协作中开发者核心价值的不可替代性。",
+      "summaryEn": "This article examines the '80/20 rule' in AI-assisted coding: while AI rapidly generates ~80% of functional code, the remaining 20%—involving debugging, edge-case handling, integration, and maintenance—consumes ~80% of development time, underscoring the irreplaceable role of human engineers.",
+      "titleEn": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146349,
+        "score": 23017
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "devto-3968104",
+      "title": "Agents write code, but they don't remember",
+      "url": "https://dev.to/lizziepika/agents-write-code-but-they-dont-remember-4ob0",
+      "author": "Lizzie Siegle",
+      "platform": "devto",
+      "publishedAt": "2026-06-23T07:26:59Z",
+      "rawContent": "Code generation is solved, but memory isn't. Here's an argument for why the SDLC is inverting with intent becoming the spine and code becoming a layer you drill into, explaining what teams lose every time an agent's reasoning disappears.",
+      "engagement": {
+        "likes": 11,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "本文探讨AI代理在代码生成中缺乏长期记忆的问题，提出软件开发生命周期（SDLC）正发生范式转变：意图成为核心，代码退居为可追溯的底层实现。",
+      "summaryEn": "This article argues that while AI agents excel at code generation, their lack of persistent memory represents a critical gap—prompting a paradigm shift in the SDLC where 'intent' becomes the central organizing principle and code becomes a drill-down layer.",
+      "titleEn": "Agents write code, but they don't remember",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.966666666666667
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 117861,
+        "score": 19867
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级大语言模型推理框架，支持在 CPU 上高效运行 LLaMA 等开源模型，无需 GPU 即可本地部署。",
+      "summaryEn": "llama.cpp is a lightweight, C/C++-based LLM inference framework enabling efficient CPU-only execution of open-weight models like LLaMA, facilitating local, GPU-free deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150001,
+        "score": 9327
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 47357,
+        "score": 42503
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源系统，整合多源行情数据、实时新闻、可视化决策看板与自动推送功能，支持零成本定时运行。",
+      "summaryEn": "An open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, and automated notifications—with support for cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 83672,
+        "score": 18378
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存开销而设计，广泛用于生产级 LLM 部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to maximize throughput and minimize GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "hn-48643426",
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "author": "ingve",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-23T11:35:05.000Z",
+      "rawContent": "Unlimited OCR: One-shot long-horizon parsing",
+      "engagement": {
+        "score": 451,
+        "comments": 104
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "该内容介绍了一种名为‘Unlimited OCR’的新方法，支持单次输入实现长视野文档解析，在OCR与文档理解领域具有技术突破性；但原文仅提供标题和来源，缺乏具体技术细节或实现路径。",
+      "summaryEn": "This content introduces 'Unlimited OCR', a novel one-shot, long-horizon document parsing method with potential advances in OCR and document understanding; however, the source provides only the title and context (Hacker News), with no technical details, code, or implementation guidance.",
+      "titleEn": "Unlimited OCR: One-shot long-horizon parsing",
+      "category": "论文",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.027777777777779
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 138256,
+        "score": 7986
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源项目，提供可扩展的 Web API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化数据获取流程。",
+      "summaryEn": "Firecrawl is an open-source project offering a scalable web API for searching, scraping, and interacting with websites—designed to streamline data ingestion for AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "devto-3967366",
+      "title": "Context Compaction Visualizer: See Exactly What Your AI Agent Forgot Before It Costs You",
+      "url": "https://dev.to/nilofer_tweets/context-compaction-visualizer-see-exactly-what-your-ai-agent-forgot-before-it-costs-you-1o8n",
+      "author": "Nilofer 🚀",
+      "platform": "devto",
+      "publishedAt": "2026-06-23T06:01:50Z",
+      "rawContent": "When an AI agent runs for many turns, it eventually hits context limits and must compress or discard...",
+      "engagement": {
+        "likes": 8,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一款名为Context Compaction Visualizer的新型AI工具，用于可视化AI智能体在长程对话中因上下文限制而丢失的关键信息，帮助开发者诊断和优化记忆压缩策略。",
+      "summaryEn": "This article introduces the Context Compaction Visualizer—a new tool that visualizes exactly which information an AI agent discards or compresses when hitting context limits during extended interactions, aiding developers in debugging and optimizing context management.",
+      "titleEn": "Context Compaction Visualizer: See Exactly What Your AI Agent Forgot Before It Costs You",
+      "category": "工具",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "hn-48645437",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "author": "DominikPeters",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-23T14:24:21.000Z",
+      "rawContent": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it’s a bit like SVG, but it’s more code than markup, for example it has loops with \\foreach.<p>I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you",
+      "engagement": {
+        "score": 348,
+        "comments": 66
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "这是一款面向LaTeX用户的所见即所得TikZ图形编辑器，支持网页和桌面端，旨在简化学术图表的手动编码流程。",
+      "summaryEn": "This is a WYSIWYG editor for TikZ—a LaTeX package used to create technical figures—available as open-source web and desktop applications to streamline manual figure authoring in academic writing.",
+      "titleEn": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.555555555555557
+    },
+    {
+      "id": "hf-2606.24530",
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "url": "https://huggingface.co/papers/2606.24530",
+      "author": "Yuru Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-22T20:00:00.000Z",
+      "rawContent": "We introduce NatureBench, a cross-discipline benchmark of 90 tasks distilled from peer-reviewed Nature-family publications, designed to evaluate whether AI coding agents can move beyond reproduction toward discovery on real scientific problems. NatureBench is built on NatureGym, an automated pipeline that constructs a standardized, per-task containerized environment from a source paper, addressing the environment-fragmentation problem that has limited the credibility of prior agent-on-research b",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 6
+      },
+      "summary": "NatureBench 是一个源自《自然》家族期刊论文的跨学科基准测试集，包含90个真实科研任务，旨在评估AI编程智能体在科学发现层面的能力，而非仅限于复现结果。",
+      "summaryEn": "NatureBench is a cross-disciplinary benchmark comprising 90 tasks distilled from peer-reviewed Nature-family papers, designed to rigorously evaluate whether AI coding agents can achieve scientific discovery—not just reproduction—on real-world research problems.",
+      "titleEn": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.399999999999999
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 91901,
+        "score": 13250
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术实现一键生成高清短视频，支持本地部署与定制化扩展。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, supporting local deployment and customization.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.23449",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "url": "https://huggingface.co/papers/2606.23449",
+      "author": "Shanhui Zhao",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-21T20:00:00.000Z",
+      "rawContent": "AI agents are driving a new software paradigm, with the ability to autonomously call tools, extract information, manage memory, and complete tasks that span applications and data sources. Most existing end-user operating systems, however, are designed for application-centric workflows and offer little native support for AI agents. This mismatch limits the wider adoption of agents and leads to execution overhead and safety risks when running agents on conventional systems. While the concept of ag",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "AOHP 是一个开源的、面向操作系统的 AI 代理运行时框架，旨在为个人化、高效且安全的 AI 代理交互提供底层系统级支持，填补了现有操作系统对 AI 代理原生支持的空白。",
+      "summaryEn": "AOHP is an open-source, OS-level runtime harness designed to enable personalized, efficient, and secure AI agent interactions—addressing the critical gap in native OS support for autonomous AI agents.",
+      "titleEn": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2606.24855",
+      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "http://arxiv.org/abs/2606.24855v1",
+      "author": "Negin Raoof",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-23T17:34:29Z",
+      "rawContent": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "OpenThoughts-Agent 是一个开源项目，提供面向智能体（agentic）模型训练的开放数据整理流程与‘数据配方’，旨在解决现有开源数据集覆盖任务单一、泛化能力不足的问题。",
+      "summaryEn": "OpenThoughts-Agent is an open-source initiative that provides a transparent, reproducible data curation pipeline and 'data recipes' for training broadly capable agentic language models—addressing the lack of diverse, generalizable training data in current open efforts.",
+      "titleEn": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.24428",
+      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "url": "https://huggingface.co/papers/2606.24428",
+      "author": "Shiding Zhu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-22T20:00:00.000Z",
+      "rawContent": "Experience-driven self-evolution is critical for large language model (LLM) agents to improve through open-world interaction. However, existing experience learning methods mostly rely on single-agent loops, where the same agent executes tasks, summarizes outcomes, and determines memory content. This setup makes agents vulnerable to the Self-Confirmation Trap: wrong-but-self-consistent trajectories are misidentified as successful experience, leading to cumulative errors during retrieval and reuse",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出“执行—蒸馏—验证”（EDV）范式，以解决LLM智能体在经验学习中因单智能体闭环导致的自我确认陷阱问题，提升其在开放世界交互中的自演化鲁棒性。",
+      "summaryEn": "This paper proposes the Execute-Distill-Verify (EDV) paradigm to address the self-confirmation trap in LLM agent experience learning—where single-agent loops mistakenly reinforce erroneous but self-consistent trajectories—thereby improving robustness in open-world, experience-driven self-evolution.",
+      "titleEn": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 162,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
