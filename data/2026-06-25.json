@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T04:01:49.164Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 202216,
+        "score": 36141
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161881,
+        "score": 33590
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的推理与训练，是AI开发中不可或缺的基础设施。该库持续更新并集成前沿模型，显著降低了大模型应用门槛。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling inference and training of state-of-the-art models across text, vision, audio, and multimodal domains. It serves as foundational infrastructure for AI development and lowers the barrier to adopting cutting-edge models.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174869,
+        "score": 16716
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行大型语言模型的开源工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等主流模型的一键部署与管理。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling one-click setup and management of popular models including Kimi-K2.6, GLM-5.1, Qwen, and Gemma.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "hn-48660267",
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "author": "colinmcd",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-24T14:14:18.000Z",
+      "rawContent": "Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine &amp; stdlib implementations.<p>[0] <a href=\"https:&#x2F;&#x2F;nodejs.org&#x2F;a",
+      "engagement": {
+        "score": 216,
+        "comments": 63
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Nub 是一个面向 Node.js 的一体化开发工具包，类似 Bun，但基于原生 Node.js 运行时，通过 `--require` 预加载机制集成 OXC 转译器、模块解析钩子和现代 Web API（如 Worker、Temporal）的 polyfill。",
+      "summaryEn": "Nub is a Bun-like all-in-one toolkit for Node.js that enhances stock Node.js (not replacing it) with an OXC-powered transpiler, custom module resolution, and polyfills for modern APIs—via a `--require` preload hook.",
+      "titleEn": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146489,
+        "score": 23046
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用部署。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for building agentic workflows, featuring visual orchestration, LLM integration, and application deployment capabilities.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 142917,
+        "score": 20589
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化大模型交互界面，支持 Ollama、OpenAI API 等多种后端，便于快速部署和使用私有化 AI 服务。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local interface for large language models, supporting backends like Ollama and OpenAI API, enabling rapid deployment and private AI service usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3981887",
+      "title": "How I Used Automated Red Teaming To Take My AI Agent from 6/9 Breaches to Zero",
+      "url": "https://dev.to/morganwilliscloud/red-team-your-ai-agents-before-someone-else-does-o4i",
+      "author": "Morgan Willis",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T19:23:16Z",
+      "rawContent": "I gave an AI agent the vended bash tool from Strands and asked it to read my AWS credentials file. At...",
+      "engagement": {
+        "likes": 10,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践性教程，详细介绍了如何利用自动化红队测试（Automated Red Teaming）方法识别并修复AI智能体的安全漏洞，显著提升其安全性。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how to apply automated red teaming techniques to identify and remediate security vulnerabilities in an AI agent—specifically preventing unauthorized access to sensitive AWS credentials—resulting in zero breaches.",
+      "titleEn": "How I Used Automated Red Teaming To Take My AI Agent from 6/9 Breaches to Zero",
+      "category": "教程",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3978583",
+      "title": "Auto-verifying your AI-SRE's fixes (Part II): HolmesGPT end-to-end on a real cluster",
+      "url": "https://dev.to/metalbear/auto-verifying-your-ai-sres-fixes-part-ii-holmesgpt-end-to-end-on-a-real-cluster-594p",
+      "author": "Eyal Bukchin",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T12:18:12Z",
+      "rawContent": "We ran HolmesGPT against two planted bugs in a real GKE cluster; mirrord exec verified the patches. One fix passed, one was correctly rejected.",
+      "engagement": {
+        "likes": 17,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了HolmesGPT这一AI驱动的SRE（站点可靠性工程）工具在真实GKE集群中端到端验证故障修复的实际应用，展示了其通过mirrord exec自动验证补丁有效性的能力。",
+      "summaryEn": "This article presents HolmesGPT—an AI-powered SRE tool—demonstrating end-to-end automated verification of bug fixes on a real GKE cluster, using mirrord exec to validate patch correctness.",
+      "titleEn": "Auto-verifying your AI-SRE's fixes (Part II): HolmesGPT end-to-end on a real cluster",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "devto-3977057",
+      "title": "The Open Source Agentic AI Stack: What AAIF Projects Do and How to Contribute",
+      "url": "https://dev.to/mgonzalezo/the-open-source-agentic-ai-stack-what-aaif-projects-do-and-how-to-contribute-24be",
+      "author": "Marco Gonzalez",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T08:37:58Z",
+      "rawContent": "AI agents are evolving from chat wrappers into systems that connect to tools, communicate with other...",
+      "engagement": {
+        "likes": 15,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了开源的智能体AI技术栈（AAIF），解析了多个关键开源项目的核心功能与协作机制，并提供了面向开发者参与贡献的具体路径和实践建议。",
+      "summaryEn": "This article introduces the open-source Agentic AI Stack (AAIF), explains the core functions and interoperability of key projects, and provides concrete, actionable guidance for developers to contribute.",
+      "titleEn": "The Open Source Agentic AI Stack: What AAIF Projects Do and How to Contribute",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 118025,
+        "score": 19894
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个在 C/C++ 中实现的轻量级、高效的大语言模型推理框架，支持在 CPU 上本地运行 LLM，无需 GPU。它以低资源占用和跨平台兼容性著称，广泛用于边缘设备和隐私敏感场景。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance LLM inference framework implemented in C/C++, enabling efficient local execution of large language models on CPU-only systems without GPU dependencies. It is widely adopted for edge deployment and privacy-preserving AI applications.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3978672",
+      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
+      "url": "https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T13:23:02Z",
+      "rawContent": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, called Claude Tag the third major...",
+      "engagement": {
+        "likes": 18,
+        "comments": 20
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "本文是一篇行业评论文章，指出尽管Claude Tag引发广泛关注，但AI社区尚未构建起关键的‘信任层’——即确保AI输出可靠、可验证、可审计的基础设施与实践体系。",
+      "summaryEn": "This is an industry commentary article highlighting that while Claude Tag has generated significant excitement, the AI community has yet to build the essential 'trust layer'—infrastructure and practices ensuring AI outputs are reliable, verifiable, and auditable.",
+      "titleEn": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.38888888888889
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84116,
+        "score": 18457
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150047,
+        "score": 9332
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 138760,
+        "score": 8000
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互。它旨在简化结构化网页数据提取流程，适用于 AI 应用的数据准备环节。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed to streamline structured web data extraction for AI workflows.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48664814",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "author": "htrp",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-24T19:48:01.000Z",
+      "rawContent": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "engagement": {
+        "score": 145,
+        "comments": 268
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 8,
+        "actionability": 2
+      },
+      "summary": "Anthropic指控阿里巴巴非法提取其Claude大模型的能力，引发关于AI模型知识产权与商业竞争的行业争议。",
+      "summaryEn": "Anthropic has accused Alibaba of illicitly extracting capabilities from its Claude AI model, sparking industry debate over AI model intellectual property and competitive ethics.",
+      "titleEn": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.7
+    },
+    {
+      "id": "devto-3973107",
+      "title": "Sipp: a local-first runtime for Hybrid AI Applications",
+      "url": "https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5",
+      "author": "Constant, Yuan Chen",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T13:37:58Z",
+      "rawContent": "Over the past few months, I had the opportunity to contribute to llama.cpp’s WebGPU backend, helping...",
+      "engagement": {
+        "likes": 10,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Sipp 是一个面向混合AI应用的本地优先运行时，支持 WebGPU 加速，旨在提升本地 AI 应用的性能与隐私性；其开发涉及对 llama.cpp WebGPU 后端的贡献。",
+      "summaryEn": "Sipp is a local-first runtime for hybrid AI applications, leveraging WebGPU acceleration to enhance performance and privacy for on-device AI; its development includes contributions to the llama.cpp WebGPU backend.",
+      "titleEn": "Sipp: a local-first runtime for Hybrid AI Applications",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "hf-2606.24937",
+      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "url": "https://huggingface.co/papers/2606.24937",
+      "author": "Haggai Roitman",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-21T20:00:00.000Z",
+      "rawContent": "The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organized around a central thesis: building great agentic systems requires understanding every layer of the pipeline, not just one. The book opens with the LLM substrate -- transformer architecture, GPU systems, training and fine-tuning (SFT,LoRA, MoE), model compression, and inference optimization -- t",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一本面向实践者的系统性指南，涵盖从大语言模型基础、架构优化到智能体系统构建与生产部署的全流程，强调全栈理解对开发自主AI系统的重要性。",
+      "summaryEn": "This is a comprehensive practitioner-oriented guide covering the full stack of agentic AI—from LLM fundamentals and architecture optimization to system design and production deployment—emphasizing holistic, layer-by-layer understanding for building robust autonomous systems.",
+      "titleEn": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "category": "教程",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.25331",
+      "title": "Improved Large Language Diffusion Models",
+      "url": "https://huggingface.co/papers/2606.25331",
+      "author": "Shen Nie",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-23T20:00:00.000Z",
+      "rawContent": "Modern large language models are predominantly trained with autoregressive factorization and causal attention. We present iLLaDA, an 8B masked diffusion language model trained from scratch with fully bidirectional attention. iLLaDA keeps the masked diffusion objective throughout pre-training and supervised fine-tuning (SFT), scaling pre-training to 12T tokens and fine-tuning on a 25B-token instruction corpus for 12 epochs. We further use variable-length generation for efficiency and introduce co",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 5
+      },
+      "summary": "本文提出iLLaDA——一种从零训练的80亿参数掩码扩散式大语言模型，采用全双向注意力机制，并在预训练和监督微调中全程保持掩码扩散目标，显著区别于主流自回归范式。",
+      "summaryEn": "This paper introduces iLLaDA, an 8B-parameter masked diffusion language model trained from scratch with fully bidirectional attention—maintaining the masked diffusion objective throughout both pre-training (12T tokens) and supervised fine-tuning (25B-token instruction corpus, 12 epochs)—challenging the dominant autoregressive paradigm.",
+      "titleEn": "Improved Large Language Diffusion Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-3978761",
+      "title": "We Had 6 Features. 2 Were Eating Our Budget",
+      "url": "https://dev.to/arpitstack/we-had-6-features-2-were-eating-our-budget-2bph",
+      "author": "Arpit Gupta",
+      "platform": "devto",
+      "publishedAt": "2026-06-24T12:17:44Z",
+      "rawContent": "Twelve months ago we were burning $4,200/month on AI infrastructure and could not tell you which...",
+      "engagement": {
+        "likes": 7,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 5,
+        "actionability": 7
+      },
+      "summary": "本文是一篇关于AI基础设施成本优化的实战反思，通过真实案例揭示了在AI产品开发中盲目堆砌功能导致预算失控的问题，并强调通过数据驱动决策精简功能以控制成本。",
+      "summaryEn": "This article is a practical reflection on AI infrastructure cost optimization, using a real-world case to expose how feature bloat in AI product development led to unsustainable budget burn—and underscores the importance of data-driven feature pruning to control AI operational costs.",
+      "titleEn": "We Had 6 Features. 2 Were Eating Our Budget",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 7.9333333333333345
+    },
+    {
+      "id": "hn-48659257",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "author": "meetpateltech",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-24T13:14:39.000Z",
+      "rawContent": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "engagement": {
+        "score": 141,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 3
+      },
+      "summary": "OpenAI与博通联合发布专为大语言模型推理优化的定制芯片，标志着AI硬件生态的重要进展。",
+      "summaryEn": "OpenAI and Broadcom jointly unveiled a custom inference chip optimized for large language models, marking a significant advancement in AI hardware infrastructure.",
+      "titleEn": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    }
+  ],
+  "stats": {
+    "totalCollected": 119,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
