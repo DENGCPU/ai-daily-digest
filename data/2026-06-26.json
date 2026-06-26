@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T04:09:17.200Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 203183,
+        "score": 36384
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持多步推理与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting multi-step reasoning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174912,
+        "score": 16726
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "该GitHub仓库（Ollama）是一个开源本地AI模型运行工具，支持快速部署Kimi-K2.6、GLM-5.1、Qwen、Gemma等多个主流开源与商业大模型。",
+      "summaryEn": "This GitHub repository (Ollama) is an open-source tool for running large language models locally, enabling quick setup of models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146594,
+        "score": 23071
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for building and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "hn-48675435",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "author": "engomez",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-25T16:04:46.000Z",
+      "rawContent": "Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https:&#x2F;&#x2F;openknowledge.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openknowledge.ai&#x2F;</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free&#x2F;local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tr",
+      "engagement": {
+        "score": 226,
+        "comments": 107
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "OpenKnowledge 是一个开源的 AI 原生笔记工具，支持与 Claude、Codex 等大模型直接集成，提供 macOS 应用、Web UI 和 CLI，强调本地化、免费和开源。它旨在为团队提供类似 Notion 的 Markdown 协作体验。",
+      "summaryEn": "OpenKnowledge is an open-source, AI-native markdown editor with native integrations for Claude, Codex, and other agents, available as a macOS app, web UI, and CLI—fully free, local-first, and open source—designed to deliver a Notion-like collaborative writing experience.",
+      "titleEn": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333332
+    },
+    {
+      "id": "hn-48675179",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "author": "verditelabs",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-25T15:48:07.000Z",
+      "rawContent": "Preprint: <a href=\"https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa</a>",
+      "engagement": {
+        "score": 1069,
+        "comments": 234
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "该内容报道了利用AI技术首次成功破译整卷赫库兰尼姆古卷的研究成果，核心是基于深度学习的非侵入式文本识别方法。相关预印本论文和开源代码已在Scroll Prize平台发布。",
+      "summaryEn": "This reports the first-ever full reading of a Herculaneum papyrus scroll using AI-driven non-invasive imaging and deep learning techniques; the work is documented in a preprint and supported by open-source code.",
+      "titleEn": "An entire Herculaneum scroll has been read for the first time",
+      "category": "论文",
+      "engagementPercentile": 1,
+      "finalScore": 10.5
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 118175,
+        "score": 19929
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用纯 C/C++ 实现的轻量级大语言模型推理框架，支持在 CPU 上高效运行量化模型，无需 GPU 或深度学习框架依赖。",
+      "summaryEn": "llama.cpp is a lightweight, pure C/C++ framework for running quantized large language models efficiently on CPU—without GPU or deep learning framework dependencies.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84348,
+        "score": 18517
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150099,
+        "score": 9346
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "hn-48671886",
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "url": "https://lingochunk.com/try",
+      "author": "alder",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-25T11:29:13.000Z",
+      "rawContent": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds their base forms (lemmas) and groups the examples by the lemma. At some point I realised that I have a transcription with word level timestamps that opens a lot of other opportunities. So I added a mode to click the first and last word in the transcript and it starts looping with the right gap and repe",
+      "engagement": {
+        "score": 76,
+        "comments": 30
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一款面向语言学习者的AI工具，可将母语音频自动转录、分词、词形还原（lemma），并生成Anki闪卡和影子跟读（shadowing）练习，支持基于时间戳的片段循环播放。",
+      "summaryEn": "This is an AI-powered language learning tool that converts native-language audio into Anki flashcards and shadowing practice by transcribing speech, performing word-level timestamping, lemmatization, and enabling click-to-loop playback of selected transcript segments.",
+      "titleEn": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 139296,
+        "score": 8021
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互。它填补了 LLM 应用中结构化网络数据实时获取的关键空白。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed to bridge real-time, structured web data access for LLM-powered applications.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-3984466",
+      "title": "I built a virtual office for AI agents because logs are not enough",
+      "url": "https://dev.to/eliautobot/i-built-a-virtual-office-for-ai-agents-because-logs-are-not-enough-3o31",
+      "author": "Elix",
+      "platform": "devto",
+      "publishedAt": "2026-06-25T04:53:38Z",
+      "rawContent": "AI agents are getting more capable, but most interfaces still make them feel invisible.  You kick off...",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "作者开发了一个名为‘虚拟办公室’的可视化界面工具，用于增强AI智能体的可观测性与协作性，弥补传统日志在调试和理解智能体行为上的不足。",
+      "summaryEn": "The author built a 'virtual office' interface tool to improve observability and collaboration for AI agents, addressing the limitations of traditional logs in debugging and understanding agent behavior.",
+      "titleEn": "I built a virtual office for AI agents because logs are not enough",
+      "category": "工具",
+      "engagementPercentile": 0.5,
+      "finalScore": 9.375
+    },
+    {
+      "id": "devto-3645657",
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+      "author": "Julien Avezou",
+      "platform": "devto",
+      "publishedAt": "2026-06-25T12:58:12Z",
+      "rawContent": "Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...",
+      "engagement": {
+        "likes": 44,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "本文宣布名为“Thinking Engineer Toolkit”的AI辅助工程工具正式上线，旨在帮助开发者提升系统性思维与问题解决能力，但未提供具体功能细节或使用指南。",
+      "summaryEn": "This post announces the launch of the 'Thinking Engineer Toolkit'—an AI-powered tool designed to support engineers in structured thinking and problem-solving—but lacks technical specifications or step-by-step usage instructions.",
+      "titleEn": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 9.149999999999999
+    },
+    {
+      "id": "devto-3991298",
+      "title": "One Agent or Many? Orchestrating AI Agents Without the Mess",
+      "url": "https://dev.to/lovestaco/one-agent-or-many-orchestrating-ai-agents-without-the-mess-1g1l",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-06-25T17:44:06Z",
+      "rawContent": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "engagement": {
+        "likes": 19,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "本文探讨了在实际工程场景中（如构建轻量级AI代码审查工具git-lrc）如何协调单体AI代理与多代理架构的权衡，聚焦于可维护性、延迟和复杂性等现实挑战。",
+      "summaryEn": "This article discusses the practical trade-offs between single-agent and multi-agent architectures in real-world AI engineering—using the author’s Micro AI code reviewer 'git-lrc' as a case study—to address maintainability, latency, and orchestration complexity.",
+      "titleEn": "One Agent or Many? Orchestrating AI Agents Without the Mess",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "devto-3984918",
+      "title": "I don't trust the LLM to classify my email. So I don't let it.",
+      "url": "https://dev.to/k08200/i-dont-trust-the-llm-to-classify-my-email-so-i-dont-let-it-55d9",
+      "author": "yongrean",
+      "platform": "devto",
+      "publishedAt": "2026-06-25T05:57:48Z",
+      "rawContent": "My classifier calls an LLM on every single email. The LLM is not allowed to classify the email.  That...",
+      "engagement": {
+        "likes": 13,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 5,
+        "actionability": 6
+      },
+      "summary": "作者分享了对LLM邮件分类可靠性的质疑，并阐述了一种谨慎的工程实践：调用LLM但禁止其直接执行分类决策，转而由确定性规则或 human-in-the-loop 机制完成最终判定。",
+      "summaryEn": "The author expresses distrust in LLMs for email classification and describes a pragmatic engineering approach: invoking an LLM for auxiliary processing while explicitly forbidding it from making the final classification decision—reserving that step for deterministic logic or human oversight.",
+      "titleEn": "I don't trust the LLM to classify my email. So I don't let it.",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 108594,
+        "score": 7181
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent等多个AI编程与代理工具，提供统一界面访问。其官方网址为ccswitch.io。",
+      "summaryEn": "cc-switch is a cross-platform desktop all-in-one AI assistant that integrates multiple AI coding and agent tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a unified interface. Its official website is ccswitch.io.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "devto-3984810",
+      "title": "Tool Permission Matrix Builder & Validator: Structured, Visual Policy Management for AI Agent Teams",
+      "url": "https://dev.to/nilofer_tweets/tool-permission-matrix-builder-validator-structured-visual-policy-management-for-ai-agent-teams-1efo",
+      "author": "Nilofer 🚀",
+      "platform": "devto",
+      "publishedAt": "2026-06-25T05:41:16Z",
+      "rawContent": "AI agents in production access tools that range from harmless read-only queries to irreversible...",
+      "engagement": {
+        "likes": 8,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了一款名为‘工具权限矩阵构建器与验证器’的新AI治理工具，用于为AI代理团队提供结构化、可视化的工具访问策略管理，解决生产环境中多代理协同时的权限安全与合规问题。",
+      "summaryEn": "This article introduces the 'Tool Permission Matrix Builder & Validator', a new AI governance tool that enables structured, visual policy management for tool access permissions across AI agent teams in production—addressing security, safety, and compliance challenges in multi-agent systems.",
+      "titleEn": "Tool Permission Matrix Builder & Validator: Structured, Visual Policy Management for AI Agent Teams",
+      "category": "工具",
+      "engagementPercentile": 0.16666666666666666,
+      "finalScore": 8.125
+    },
+    {
+      "id": "github-infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "author": "infiniflow",
+      "platform": "github",
+      "publishedAt": "2023-12-12T06:13:13Z",
+      "rawContent": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "engagement": {
+        "likes": 83645,
+        "score": 9705
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，融合了前沿 RAG 技术与智能体（Agent）能力，旨在为大语言模型构建更强大的上下文层。",
+      "summaryEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates state-of-the-art RAG techniques with Agent capabilities to build a more robust context layer for LLMs.",
+      "titleEn": "infiniflow/ragflow",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79108,
+        "score": 15487
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的自动化团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hf-2606.26027",
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "url": "https://huggingface.co/papers/2606.26027",
+      "author": "Yupu Hao",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-23T20:00:00.000Z",
+      "rawContent": "Tool use enables large language models (LLMs) to perform complex tasks, and recent agentic reinforcement learning (RL) methods show promise for enhancing model capabilities. However, RL alone often leads to instability or limited gains in tool-use tasks. In our experiments, some models exhibit catastrophic collapse, where performance abruptly drops and tool-invocation structures fail. The analysis reveals that these failures stem from unexpected probability spikes in specific control tokens, dis",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文探讨了多步工具调用强化学习中性能崩溃的根本原因（如控制令牌概率异常激增），并提出引入监督信号可有效缓解该问题，为提升LLM智能体的工具使用稳定性提供了理论洞见。",
+      "summaryEn": "This paper identifies the root cause of catastrophic collapse in multi-step tool-use reinforcement learning—unexpected probability spikes in control tokens—and demonstrates how supervised signals can stabilize training and restore robust tool invocation in LLM agents.",
+      "titleEn": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.21959",
+      "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+      "url": "https://huggingface.co/papers/2606.21959",
+      "author": "Minbyul Jeong",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-19T20:00:00.000Z",
+      "rawContent": "A working citation looks like proof -- but the fact that a link resolves does not mean the cited paper supports the claim. I find that current agentic models rarely fabricate citations (over 99% resolve), yet roughly 15.9% link to the wrong paper. Existing benchmarks miss this failure mode: when a question has a fixed answer key, a model can reproduce the expected source from that key rather than independently verifying that the source supports the claim. I introduce \\openbiorq{}, a retrieval-gr",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出OpenBioRQ数据集，聚焦生物医学领域中未解决的研究问题，旨在评估AI代理在引用验证与溯源推理中的真实性与准确性，揭示当前模型普遍存在‘错误引用’（即链接可解析但内容不支持主张）的问题。",
+      "summaryEn": "This paper introduces OpenBioRQ, a benchmark dataset of unsolved biomedical research questions designed to evaluate AI agents’ ability to verify citations and perform faithful source-based reasoning—exposing a critical failure mode where models link to resolvable but semantically irrelevant papers (15.9% error rate).",
+      "titleEn": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 144,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
