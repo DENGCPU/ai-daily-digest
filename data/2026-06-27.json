@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T03:55:06.380Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 203843,
+        "score": 36595
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs and support complex task orchestration and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161952,
+        "score": 33609
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的训练与推理，是AI开发中不可或缺的基础设施。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling training and inference for state-of-the-art models across text, vision, audio, and multimodal domains.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "devto-3994808",
+      "title": "Functional doesn't mean correct. That's the biggest risk with AI-generated code.",
+      "url": "https://dev.to/cyclopt_dimitrisk/functional-doesnt-mean-correct-thats-the-biggest-risk-with-ai-generated-code-29dh",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-06-26T06:17:15Z",
+      "rawContent": "The code runs. That's not the question.   There's a failure mode with AI-generated code...",
+      "engagement": {
+        "likes": 17,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文探讨了AI生成代码的潜在风险，指出功能正常不等于逻辑正确或安全可靠，强调开发者需保持批判性审查和严格测试。",
+      "summaryEn": "This article examines a critical risk of AI-generated code: functional correctness does not guarantee logical soundness, security, or maintainability—urging developers to apply rigorous review and testing.",
+      "titleEn": "Functional doesn't mean correct. That's the biggest risk with AI-generated code.",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 174956,
+        "score": 16736
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行大语言模型的开源工具，支持 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等主流模型的一键部署与管理。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling one-click setup and management of popular models including Kimi-K2.6, GLM-5.1, Qwen, and Gemma.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146687,
+        "score": 23100
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84486,
+        "score": 18564
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存占用而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.755555555555555
+    },
+    {
+      "id": "hn-48689028",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "author": "minimaxir",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-26T17:06:55.000Z",
+      "rawContent": "System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a>",
+      "engagement": {
+        "score": 887,
+        "comments": 537
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 3
+      },
+      "summary": "该内容预告了OpenAI下一代大模型GPT-5.6 Sol，强调其作为面向部署安全的新型AI工具的定位，但未提供技术细节或使用方法。",
+      "summaryEn": "This content previews OpenAI's next-generation large language model, GPT-5.6 Sol, positioned as a new AI tool focused on deployment safety—but offers no technical specifications, access instructions, or usage guidance.",
+      "titleEn": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.966666666666667
+    },
+    {
+      "id": "devto-3999059",
+      "title": "The AI reviewer scored 23/25 and missed the point",
+      "url": "https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh",
+      "author": "Michael Truong",
+      "platform": "devto",
+      "publishedAt": "2026-06-26T15:14:45Z",
+      "rawContent": "I've been building an AI-assisted editorial pipeline for my technical writing. Notion cards become...",
+      "engagement": {
+        "likes": 6,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 5,
+        "actionability": 7
+      },
+      "summary": "本文分享了作者构建AI辅助技术写作编辑流程的实践经验，重点介绍如何将Notion卡片与AI评审结合，并反思AI评审的局限性。",
+      "summaryEn": "This article shares practical experience building an AI-assisted editorial pipeline for technical writing—integrating Notion cards with AI review—and critically reflects on AI’s limitations in grasping nuanced intent.",
+      "titleEn": "The AI reviewer scored 23/25 and missed the point",
+      "category": "教程",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 9.633333333333335
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150115,
+        "score": 9355
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 93264,
+        "score": 13503
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术实现一键生成高清短视频，支持本地部署与定制化扩展。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, supporting local deployment and customization.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-3999907",
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "url": "https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5",
+      "author": "Lizzie Siegle",
+      "platform": "devto",
+      "publishedAt": "2026-06-26T17:18:04Z",
+      "rawContent": "Browser automation with Playwright, Python, GitHub Actions, and Entire to auto-enter San Francisco Stern Grove concert lotteries each week!",
+      "engagement": {
+        "likes": 15,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 9
+      },
+      "summary": "本文是一篇实用教程，演示如何使用 Playwright、Python 和 GitHub Actions 自动化参与旧金山 Stern Grove 音乐会抽签，属于 AI 辅助自动化工作流的典型应用。",
+      "summaryEn": "This is a practical tutorial demonstrating how to automate weekly entry into the San Francisco Stern Grove concert lottery using Playwright, Python, and GitHub Actions—an illustrative example of AI-adjacent automation in real-world workflows.",
+      "titleEn": "Never forget to enter the Stern Grove lottery again!",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.333333333333332
+    },
+    {
+      "id": "hn-48688700",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "author": "adchurch",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-26T16:40:11.000Z",
+      "rawContent": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it&#x27;s been getting more expensive. This came to a head when Opus 4.7 was released and, th",
+      "engagement": {
+        "score": 154,
+        "comments": 91
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "这是一款嵌入Claude、Codex和Cursor等编码代理中的智能模型路由工具，可动态选择最优AI模型以降低成本并提升性能；目前仅提供演示视频，未公开技术细节或部署指南。",
+      "summaryEn": "This is a smart model routing tool integrated directly into coding agents like Claude Code, Codex, and Cursor, dynamically selecting the optimal AI model per request to reduce cost and improve performance; only a demo video is provided, with no public technical details or deployment instructions.",
+      "titleEn": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.8
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79138,
+        "score": 15487
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排框架，旨在将多个 AI 智能体组织成可全天候运行的协作团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration framework that enables 24/7 autonomous operation of AI teams through agent hiring, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-OpenHands/OpenHands",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "author": "OpenHands",
+      "platform": "github",
+      "publishedAt": "2024-03-13T03:33:31Z",
+      "rawContent": "🙌 OpenHands: AI-Driven Development",
+      "engagement": {
+        "likes": 78441,
+        "score": 9980
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "OpenHands 是一个开源的 AI 智能体框架，专为自动化软件开发任务（如代码编写、调试、测试）而设计，支持与多种 LLM 和开发环境集成。",
+      "summaryEn": "OpenHands is an open-source AI agent framework designed for automating software development tasks—including coding, debugging, and testing—and supports integration with multiple LLMs and development environments.",
+      "titleEn": "OpenHands/OpenHands",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48683588",
+      "title": "Why current LLM costs are not sustainable",
+      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "author": "adityapatadia",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-26T07:44:11.000Z",
+      "rawContent": "Why current LLM costs are not sustainable",
+      "engagement": {
+        "score": 109,
+        "comments": 190
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "本文探讨了当前大语言模型（LLM）推理与训练成本高昂、能源消耗巨大、经济模型不可持续等问题，引发对AI行业长期发展路径的反思。",
+      "summaryEn": "This piece analyzes the unsustainability of current LLM costs—highlighting prohibitive inference/training expenses, massive energy consumption, and flawed economic models—and sparks broader industry reflection on AI’s long-term viability.",
+      "titleEn": "Why current LLM costs are not sustainable",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 8.266666666666666
+    },
+    {
+      "id": "github-unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "author": "unslothai",
+      "platform": "github",
+      "publishedAt": "2023-11-29T16:50:09Z",
+      "rawContent": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "engagement": {
+        "likes": 67435,
+        "score": 6062
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Unsloth Studio 是一个基于 Web 的用户界面工具，支持在本地训练和运行开源大语言模型（如 Gemma 4、Qwen3.6、DeepSeek 和 gpt-oss），显著降低 AI 模型部署门槛。",
+      "summaryEn": "Unsloth Studio is a web-based UI tool enabling local training and inference of open LLMs—including Gemma 4, Qwen3.6, DeepSeek, and gpt-oss—making advanced model deployment accessible without heavy infrastructure.",
+      "titleEn": "unslothai/unsloth",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.18394",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "url": "https://huggingface.co/papers/2606.18394",
+      "author": "Lanxiang Hu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "Speculative decoding (SD) accelerates autoregressive Large Language Models (LLMs) by drafting multiple tokens and verifying them in parallel, but it faces a scaling limitation: increasing the draft budget improves speed only when acceptance remains high and drafting overhead stays low. This ceiling has been difficult to break because prior head-based SD methods face a causality-efficiency dilemma. Autoregressive drafters produce path-conditioned candidates that are effective for tree speculative",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 5
+      },
+      "summary": "JetSpec 是一种新型推测解码方法，通过并行树式草稿生成突破了传统推测解码的扩展性瓶颈，在保持高接受率的同时显著提升大语言模型推理速度。",
+      "summaryEn": "JetSpec is a novel speculative decoding method that breaks the scalability ceiling of traditional approaches via parallel tree drafting, significantly accelerating LLM inference while maintaining high token acceptance rates.",
+      "titleEn": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48692058",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "author": "kkm",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-26T21:14:47.000Z",
+      "rawContent": "The gap between open weights LLMs and closed source LLMs",
+      "engagement": {
+        "score": 141,
+        "comments": 118
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文探讨了开源权重大语言模型与闭源商业大语言模型在性能、能力、生态支持等方面的现实差距，属于AI社区对技术路线和产业格局的深度反思。",
+      "summaryEn": "This piece examines the practical performance, capability, and ecosystem gaps between open-weight LLMs and closed-source commercial LLMs, reflecting community-level analysis of AI development trajectories and industry dynamics.",
+      "titleEn": "The gap between open weights LLMs and closed source LLMs",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 8.05
+    },
+    {
+      "id": "hf-2606.26080",
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "url": "https://huggingface.co/papers/2606.26080",
+      "author": "Changdae Oh",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-23T20:00:00.000Z",
+      "rawContent": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at scale. In this work, we show that reinforcement learning (RL) post-training already provides the ingredients for effective step-level scoring, eliminating the need for dedicated reward model training a",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该研究提出利用大语言模型（LLM）强化学习后训练阶段已有的信号，替代传统需额外训练的进程奖励模型（PRM），从而在智能体（agent）场景中实现高效、可扩展的步级评估。该方法规避了人类标注与蒙特卡洛估计在长周期、不可逆交互环境中的实践瓶颈。",
+      "summaryEn": "This paper proposes leveraging existing signals from reinforcement learning post-training of LLMs—rather than training dedicated process reward models—to enable scalable, step-level evaluation for LLM agents, circumventing the infeasibility of human annotation and Monte Carlo estimation in long-horizon, irreversible, stochastic environments.",
+      "titleEn": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "url": "https://huggingface.co/papers/2606.14397",
+      "author": "Mykola Vysotskyi",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically built on popular applications with relatively simple tasks and focus on a narrow set of capabilities while overlooking broader dimensions, resulting in saturated performance on modern agents and failing to probe their limitations. To this end, we introduce GauntletBench, a web-based benchmark for eval",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出GauntletBench——一个面向智能体（agents）的新型网络基准测试框架，旨在超越传统简单任务环境，全面评估其在陌生、复杂场景下的真实能力与局限性。",
+      "summaryEn": "This paper introduces GauntletBench, a novel web-based benchmark designed to rigorously evaluate agentic systems beyond familiar, simplified environments—probing their robustness, generalization, and limitations across broader capability dimensions.",
+      "titleEn": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 148,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
