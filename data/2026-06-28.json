@@ -1,0 +1,476 @@
+{
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-28T04:17:13.374Z",
+  "items": [
+    {
+      "id": "devto-4007671",
+      "title": "I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway",
+      "url": "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
+      "author": "Lolo",
+      "platform": "devto",
+      "publishedAt": "2026-06-27T19:35:50Z",
+      "rawContent": "Every side project starts the same way.  -Generate an OpenAI key. -Add it to .env. -Write a...",
+      "engagement": {
+        "likes": 14,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "作者因反复编写AI API封装层而疲惫，开发了一个通用AI网关服务，用于统一代理和管理多个大模型API（如OpenAI、Anthropic等），简化集成与密钥管理。",
+      "summaryEn": "Frustrated by repeatedly writing custom wrappers for AI APIs, the author built a lightweight, open-source gateway service to unify and proxy requests across multiple LLM providers (e.g., OpenAI, Anthropic), streamlining authentication, routing, and observability.",
+      "titleEn": "I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 204424,
+        "score": 36802
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs and support complex task orchestration and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "hn-48696585",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "author": "aurenvale",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-27T09:18:52.000Z",
+      "rawContent": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "engagement": {
+        "score": 739,
+        "comments": 306
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "DSpark 是一种基于推测解码（speculative decoding）的新方法，旨在加速大语言模型（LLM）的推理过程，通过并行验证草稿序列提升吞吐量。",
+      "summaryEn": "DSpark is a novel speculative decoding method designed to accelerate large language model (LLM) inference by parallelizing draft generation and verification, improving throughput.",
+      "titleEn": "DSpark: Speculative decoding accelerates LLM inference",
+      "category": "论文",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185186,
+        "score": 46126
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于LLM构建可自主规划、执行和迭代的任务系统。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build LLM-powered agents that plan, execute, and iterate tasks independently.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 161977,
+        "score": 33622
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供预训练模型和工具，支持文本、视觉、音频及多模态任务的推理与训练。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering pre-trained models and utilities for inference and training across text, vision, audio, and multimodal machine learning tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175009,
+        "score": 16751
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个轻量级本地 AI 模型运行工具，支持一键部署和运行包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源大模型。",
+      "summaryEn": "Ollama is a lightweight local AI model runtime tool that enables one-command setup and execution of multiple mainstream open-weight LLMs, including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146787,
+        "score": 23122
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 50620,
+        "score": 44116
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源项目，整合多源行情数据、实时新闻、可视化决策看板和自动化推送功能，并支持零成本定时运行。",
+      "summaryEn": "This is an open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, and automated notifications—with support for cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84599,
+        "score": 18589
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存开销而设计，广泛用于生产级 LLM 部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize throughput and reduce GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "hn-48701512",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "author": "kageroumado",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-27T20:34:53.000Z",
+      "rawContent": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents. Some people made snarky comments about using tmux or Amphetamine, and some defended their choice with “but I only need it sometimes, and forgetting to disable Amphetamine and finding my laptop discharged in my bag is worse.”<p>This is a solution to this problem. Unlike caffeinate, it will prevent y",
+      "engagement": {
+        "score": 103,
+        "comments": 63
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Adrafinil 是一款专为 macOS 设计的轻量级工具，可在合盖状态下阻止系统休眠，仅在 AI 代理运行时保持唤醒，解决工程师因 AI 任务中断而需半开笔记本的痛点。",
+      "summaryEn": "Adrafinil is a lightweight macOS tool that prevents sleep while the lid is closed—only when AI agents are actively running—addressing the common workflow pain point of AI developers needing to keep laptops awake without risking battery drain from forgotten wake tools.",
+      "titleEn": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.072222222222223
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150141,
+        "score": 9356
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-based AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 100998,
+        "score": 11230
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在为 AI 智能体提供标准化的网页交互能力，支持自动化在线任务，如点击、表单填写和导航。",
+      "summaryEn": "browser-use is an open-source library designed to standardize web interaction for AI agents, enabling automation of online tasks such as clicking, form filling, and navigation.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "devto-4003303",
+      "title": "How Small Can an Agent Model Get? The Nemotron Floor",
+      "url": "https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne",
+      "author": "Tessl",
+      "platform": "devto",
+      "publishedAt": "2026-06-27T06:21:19Z",
+      "rawContent": "Most model comparisons ask which model is best. This one starts with a model that never even produced...",
+      "engagement": {
+        "likes": 17,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨了AI智能体模型的最小可行规模边界（即‘Nemotron Floor’），聚焦于极轻量级模型在实际代理任务中的可行性与性能权衡，属于前沿AI工程实践的行业反思。",
+      "summaryEn": "This article explores the lower size limit for functional AI agent models—the 'Nemotron Floor'—examining trade-offs between model scale, latency, cost, and task viability, positioning it as a timely industry discussion on practical AI deployment constraints.",
+      "titleEn": "How Small Can an Agent Model Get? The Nemotron Floor",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 8.5
+    },
+    {
+      "id": "hf-2606.16613",
+      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "url": "https://huggingface.co/papers/2606.16613",
+      "author": "Issa Sugiura",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-14T20:00:00.000Z",
+      "rawContent": "As LLM agents become capable of increasingly long-horizon tasks, evaluating their performance in economic systems is becoming increasingly important. Unlike existing benchmarks that primarily evaluate a single agent interacting with a passive environment, economic systems are inherently multi-agent, requiring autonomous agents to communicate, negotiate, and transact while pursuing their own objectives over extended periods. We introduce CoffeeBench, a benchmark for evaluating LLM agents in a lon",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "CoffeeBench 是一个面向长周期、多智能体经济系统的新型基准测试框架，旨在评估大语言模型智能体在异构多智能体环境中的协作、谈判与长期目标达成能力。",
+      "summaryEn": "CoffeeBench is a novel benchmark designed to evaluate long-horizon LLM agents in heterogeneous multi-agent economic systems—emphasizing autonomous communication, negotiation, and sustained goal pursuit—addressing a critical gap beyond single-agent, static-environment benchmarks.",
+      "titleEn": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.18394",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "url": "https://huggingface.co/papers/2606.18394",
+      "author": "Lanxiang Hu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "Speculative decoding (SD) accelerates autoregressive Large Language Models (LLMs) by drafting multiple tokens and verifying them in parallel, but it faces a scaling limitation: increasing the draft budget improves speed only when acceptance remains high and drafting overhead stays low. This ceiling has been difficult to break because prior head-based SD methods face a causality-efficiency dilemma. Autoregressive drafters produce path-conditioned candidates that are effective for tree speculative",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "JetSpec提出了一种基于并行树式起草的新型推测解码方法，突破了传统推测解码在扩展性上的瓶颈，显著提升了大语言模型推理速度。该方法通过解决因果性与效率之间的权衡难题，实现了更高draft预算下的稳定加速。",
+      "summaryEn": "JetSpec introduces a novel parallel tree-based speculative decoding method that breaks the scalability ceiling of traditional speculative decoding, enabling significant LLM inference speedup at higher draft budgets by resolving the causality-efficiency trade-off.",
+      "titleEn": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79166,
+        "score": 15489
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成可全天候运行的自动化团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.26080",
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "url": "https://huggingface.co/papers/2606.26080",
+      "author": "Changdae Oh",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-23T20:00:00.000Z",
+      "rawContent": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at scale. In this work, we show that reinforcement learning (RL) post-training already provides the ingredients for effective step-level scoring, eliminating the need for dedicated reward model training a",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该研究提出利用大语言模型（LLM）强化学习后训练阶段已有的信号，替代传统需人工标注或蒙特卡洛估计的步骤级奖励建模，显著降低LLM智能体（agent）训练中过程奖励建模的难度。",
+      "summaryEn": "This work demonstrates that reinforcement learning post-training inherently provides step-level scoring signals for LLM agents—eliminating the need for costly, dedicated process reward modeling via human annotation or Monte Carlo estimation.",
+      "titleEn": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.14397",
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "url": "https://huggingface.co/papers/2606.14397",
+      "author": "Mykola Vysotskyi",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically built on popular applications with relatively simple tasks and focus on a narrow set of capabilities while overlooking broader dimensions, resulting in saturated performance on modern agents and failing to probe their limitations. To this end, we introduce GauntletBench, a web-based benchmark for eval",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出GauntletBench——一个面向智能体（agents）的新型网络基准测试框架，旨在超越传统简单任务环境，全面评估其在陌生、复杂场景下的真实能力与局限性。",
+      "summaryEn": "This paper introduces GauntletBench, a novel web-based benchmark designed to rigorously evaluate agentic systems beyond familiar, simplified environments—probing their robustness, generalization, and limitations across broader capability dimensions.",
+      "titleEn": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2606.27369",
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "author": "Yingyu Lin",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-25T17:59:36Z",
+      "rawContent": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) that trains LLMs on score-based optimization tasks without ground-truth solutions, using deterministic execution feedback as continuous-valued supervision. When applying group-relative RL to such conti",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出RiVER框架，通过基于排序的可验证奖励机制，在无需真实答案（ground-truth）的情况下，利用确定性执行反馈对大语言模型进行强化学习训练，拓展了RL在开放域任务中的适用性。",
+      "summaryEn": "This paper introduces RiVER, a ranking-induced verifiable framework that enables reinforcement learning for LLMs on score-based optimization tasks without ground-truth solutions, using deterministic execution feedback as continuous supervision.",
+      "titleEn": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.23835",
+      "title": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "url": "https://huggingface.co/papers/2606.23835",
+      "author": "Anindya Mondal",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-21T20:00:00.000Z",
+      "rawContent": "ABACUS is a unified vision-language model that handles object counting, crowd counting, referring-expression counting, and count-faithful image generation without any benchmark-specific training required. Our model is built on existing 3B-parameter unified foundation model and is adapted for object localization tasks using three key innovations: density-aware adaptive zooming with objectness maps for spatial grounding; a boundary-aware count policy via GRPO to eliminate crop-boundary errors; and",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "ABACUS是一种统一的视觉-语言基础模型，通过三项创新技术（密度感知自适应缩放、边界感知计数策略和跨任务适配）实现无需基准特化训练的图像计数理解与计数保真图像生成。",
+      "summaryEn": "ABACUS is a unified vision-language foundation model that enables image count understanding (e.g., object/crowd/referring-expression counting) and count-faithful image generation without benchmark-specific training, leveraging three novel technical contributions for spatial grounding and boundary-aware counting.",
+      "titleEn": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 138,
+    "totalScored": 43,
+    "totalPublished": 20
+  }
+}
