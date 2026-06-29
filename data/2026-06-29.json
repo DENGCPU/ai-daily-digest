@@ -1,0 +1,476 @@
+{
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T04:24:01.060Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 205102,
+        "score": 36982
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划、工具调用与多步推理。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning, tool use, and multi-step reasoning.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162001,
+        "score": 33625
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的定义、训练与推理，是AI开发的核心基础设施之一。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling model definition, training, and inference for state-of-the-art text, vision, audio, and multimodal models.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 140430,
+        "score": 23312
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, enabling chains, tool integration, and intelligent agent development.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 11.333333333333332
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 146897,
+        "score": 23137
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专注于智能体（agentic）工作流的开发与部署，支持可视化编排、模型集成和应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building, orchestrating, and deploying agentic workflows—with visual workflow design, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 143367,
+        "score": 20663
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型服务，便于快速部署和交互式使用大语言模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backends including Ollama and OpenAI API, enabling quick deployment and interactive LLM usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 118519,
+        "score": 20035
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级大语言模型推理框架，支持在 CPU 上高效运行量化模型，广泛用于本地部署和边缘设备。",
+      "summaryEn": "llama.cpp is a lightweight, C/C++-based LLM inference framework enabling efficient quantized model execution on CPUs, widely adopted for local and edge deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150173,
+        "score": 9356
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84716,
+        "score": 18625
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to accelerate LLM deployment with innovations like PagedAttention.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 140899,
+        "score": 8105
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48709670",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "author": "jms703",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-28T17:50:47.000Z",
+      "rawContent": "GLM 5.2 beats Claude in our benchmarks",
+      "engagement": {
+        "score": 587,
+        "comments": 281
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "这是一则来自 Hacker News 的简短社区讨论，声称 GLM 5.2 在某组基准测试中表现优于 Claude，但未提供方法细节、数据来源或可复现结果。",
+      "summaryEn": "This is a brief community discussion from Hacker News claiming GLM 5.2 outperforms Claude on unspecified benchmarks, lacking methodological details, data sources, or reproducible evidence.",
+      "titleEn": "GLM 5.2 beats Claude in our benchmarks",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.955555555555557
+    },
+    {
+      "id": "hn-48704373",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "author": "handfuloflight",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-28T04:31:18.000Z",
+      "rawContent": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "engagement": {
+        "score": 113,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Wayfinder Router 是一款新型AI工具，可确定性地将用户查询智能路由至本地或云端大语言模型，兼顾隐私、延迟与成本。它面向开发者和企业，支持灵活部署与策略化推理分流。",
+      "summaryEn": "Wayfinder Router is a novel AI tool that deterministically routes user queries between local and hosted LLMs to balance privacy, latency, and cost. It targets developers and enterprises with configurable, policy-driven inference routing.",
+      "titleEn": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333333
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 101220,
+        "score": 11249
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在为 AI 智能体提供标准化的网页交互能力，支持自动化在线任务执行，填补了 AI 代理与真实网页环境之间的关键接口空白。",
+      "summaryEn": "browser-use is an open-source library designed to standardize web interaction for AI agents, enabling reliable automation of online tasks and bridging a critical gap between AI agents and real-world web environments.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.27608",
+      "title": "Qwen-Image-2.0-RL Technical Report",
+      "url": "https://huggingface.co/papers/2606.27608",
+      "author": "Yixian Xu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "We present Qwen-Image-2.0-RL, a post-training pipeline that applies reinforcement learning from human feedback (RLHF) and on-policy distillation (OPD) to improve both the visual quality and instruction-following capability of the Qwen-Image-2.0 diffusion model. To provide reliable reward signals, we construct task-specific composite reward models by fine-tuning vision-language models with a pointwise scoring paradigm and chain-of-thought reasoning. For text-to-image generation, the reward models",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该技术报告介绍了Qwen-Image-2.0-RL，一种结合人类反馈强化学习（RLHF）与在线策略蒸馏（OPD）的后训练方法，旨在提升Qwen-Image-2.0扩散模型的图像质量与指令遵循能力，并构建了基于视觉语言模型的任务特定复合奖励模型。",
+      "summaryEn": "This technical report introduces Qwen-Image-2.0-RL, a post-training pipeline combining reinforcement learning from human feedback (RLHF) and on-policy distillation (OPD) to enhance both visual fidelity and instruction-following of the Qwen-Image-2.0 diffusion model, using task-specific composite reward models built via fine-tuned vision-language models with pointwise scoring and chain-of-thought reasoning.",
+      "titleEn": "Qwen-Image-2.0-RL Technical Report",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.27378",
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "url": "https://huggingface.co/papers/2606.27378",
+      "author": "Fahd Seddik",
+      "platform": "huggingface",
+      "publishedAt": "2026-05-06T20:00:00.000Z",
+      "rawContent": "We introduce an axiomatic evaluation framework for latent thought representations in LLMs, comprising metrics that are independent of downstream benchmark scores and reveal representational failures that benchmark accuracy masks. Existing evaluations conflate representation quality with model capacity. Therefore, failures cannot be attributed to the representation rather than to the model that processes it. We formalize four functional axioms (Causality, Minimality, Separability, and Stability) ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出了一种面向大语言模型潜在思维表征的公理化评估框架，定义了因果性、最小性、可分性和稳定性四大功能公理，旨在解耦表征质量与模型能力，揭示被下游任务准确率所掩盖的表征缺陷。",
+      "summaryEn": "This paper introduces an axiomatic evaluation framework for latent thought representations in LLMs, defining four functional axioms—Causality, Minimality, Separability, and Stability—to decouple representation quality from model capacity and uncover representational failures masked by downstream accuracy metrics.",
+      "titleEn": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2606.28279",
+      "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "url": "http://arxiv.org/abs/2606.28279v1",
+      "author": "Cunxi Yu",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-26T17:21:06Z",
+      "rawContent": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and replay. This extends prior works of repository-scale self-evolution from EDA software systems, to hard",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出HORIZON框架，将硬件设计建模为仓库级代码演化过程，通过Markdown驱动的项目包和自演化的代理循环实现EDA领域中硬件设计的自动化迭代。该工作拓展了先前在EDA软件系统中的仓库级自演化研究，首次将其系统性应用于硬件设计。",
+      "summaryEn": "This paper introduces HORIZON, a self-evolving agent framework that reframes hardware design as repository-level code evolution—using a Markdown-based harness to generate executable project packs and an autonomous agent loop that evolves isolated Git worktrees via repository operations. It pioneers the extension of repository-scale self-evolution from EDA software systems to hardware design.",
+      "titleEn": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.27974",
+      "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+      "url": "https://huggingface.co/papers/2606.27974",
+      "author": "ZhengXian Wu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-25T20:00:00.000Z",
+      "rawContent": "Knowledge-based Visual Question Answering (KB-VQA) requires models to combine image understanding with external knowledge. Most prior methods use a fixed retrieve-then-generate pipeline with a pre-selected retriever and a static top-k setting, which is not adaptive during reasoning. We propose ProMSA, a progressive multimodal search agent for KB-VQA. Given an image-question pair, the agent iteratively chooses image search, text search, or stop, under explicit tool-call budgets and with deduplica",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出ProMSA——一种面向知识型视觉问答（KB-VQA）的渐进式多模态搜索智能体，通过动态、预算约束下的工具调用（图像搜索/文本搜索/停止）替代固定检索-生成流程，提升推理适应性。",
+      "summaryEn": "This paper introduces ProMSA, a progressive multimodal search agent for knowledge-based visual question answering (KB-VQA), which replaces rigid retrieve-then-generate pipelines with adaptive, budget-aware tool selection (image search, text search, or stop) during reasoning.",
+      "titleEn": "ProMSA: Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.22873",
+      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "url": "https://huggingface.co/papers/2606.22873",
+      "author": "SingGuard Team",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-21T20:00:00.000Z",
+      "rawContent": "Vision-language models (VLMs) are increasingly deployed in consumer, medical, financial, and enterprise applications. This broad deployment expands the safety surface: risks can arise from multimodal question answering, assistant responses, and cross-modal composition, while moderation policies may vary across products, regions, and deployment stages. Most existing guardrails either rely on fixed taxonomies or target only a narrow set of interaction settings, which limits their adaptability when",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "SingGuard 是一种面向多模态大语言模型的策略自适应护栏框架，支持动态推理以应对跨模态安全风险和差异化合规政策。该工作聚焦于VLM部署中的安全可扩展性挑战。",
+      "summaryEn": "SingGuard is a policy-adaptive, multimodal LLM guardrail framework featuring dynamic reasoning to address safety risks in vision-language model deployments across diverse domains and regulatory contexts.",
+      "titleEn": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.28276",
+      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+      "url": "https://huggingface.co/papers/2606.28276",
+      "author": "Nadun Ranawaka",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-25T20:00:00.000Z",
+      "rawContent": "Training and evaluating robot policies in the real world is costly and difficult to scale. We introduce SimFoundry, a modular and automated system for zero-shot real-to-sim scene construction from a video. SimFoundry generates sim-ready digital twins and supports object, scene, and task editing, enabling the automated generation of diverse digital cousins: affordance-preserving variations of reconstructed real-world scenes. Policies trained on SimFoundry data transfer zero-shot to challenging re",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "SimFoundry 是一种面向机器人策略学习与评估的模块化、自动化场景生成系统，能从单段视频零样本构建仿真就绪的数字孪生场景，并支持对象、场景和任务级编辑，生成保持功能可供性（affordance）的多样化‘数字近亲’场景。",
+      "summaryEn": "SimFoundry is a modular and automated system for zero-shot real-to-sim scene construction from video, enabling simulation-ready digital twin generation and affordance-preserving scene variations for robot policy learning and evaluation.",
+      "titleEn": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "arxiv-2606.28301",
+      "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+      "url": "http://arxiv.org/abs/2606.28301v1",
+      "author": "Kijung Jeon",
+      "platform": "arxiv",
+      "publishedAt": "2026-06-26T17:47:09Z",
+      "rawContent": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and introduce MDM-VGB, a discrete diffusion sampler that augments unmasking generation with theoretically principled reward-guided remasking. Inspired by the recent success of the classical Jerrum-Sinclair backtracking Markov chain in reward-tilted generation, MDM-VGB extends the backtrack",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出MDM-VGB，一种面向掩码扩散模型（MDM）的离散扩散采样器，通过理论驱动的奖励引导重掩码机制，在推理时提升奖励满足度与样本编辑能力。该方法受Jerrum-Sinclair回溯马尔可夫链启发，属生成式AI前沿算法研究。",
+      "summaryEn": "This paper introduces MDM-VGB, a discrete diffusion sampler for Masked Diffusion Models (MDM), which enhances reward satisfaction and sample editing at test time via theoretically grounded reward-guided remasking—inspired by the Jerrum-Sinclair backtracking Markov chain. It represents a novel algorithmic advance in inference-time scaling for constrained generative modeling.",
+      "titleEn": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48708941",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "author": "engmarketer",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-28T16:35:19.000Z",
+      "rawContent": "I used Claude Code to get a second opinion on my MRI",
+      "engagement": {
+        "score": 376,
+        "comments": 491
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 3
+      },
+      "summary": "这是一则个人在 Hacker News 上分享的轶事，描述其使用 Claude Code（一款 AI 编程工具）尝试为 MRI 影像获取“第二意见”，但未说明具体方法或医学有效性。",
+      "summaryEn": "This is a personal anecdote shared on Hacker News about using Claude Code—an AI coding assistant—to seek a 'second opinion' on an MRI scan, without technical details, medical validation, or reproducible methodology.",
+      "titleEn": "I used Claude Code to get a second opinion on my MRI",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.3500000000000005
+    }
+  ],
+  "stats": {
+    "totalCollected": 150,
+    "totalScored": 45,
+    "totalPublished": 20
+  }
+}
