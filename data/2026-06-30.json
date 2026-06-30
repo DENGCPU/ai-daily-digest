@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T04:03:56.493Z",
+  "items": [
+    {
+      "id": "hn-48714802",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "author": "mzehrer",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-29T04:27:46.000Z",
+      "rawContent": "Herdr: Agent multiplexer that lives in your terminal",
+      "engagement": {
+        "score": 146,
+        "comments": 91
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Herdr 是一款运行在终端中的智能代理多路复用器，允许用户在同一界面中并行管理多个 AI 代理（如 LLM 调用、工具执行），提升本地 AI 工作流的效率与可组合性。",
+      "summaryEn": "Herdr is a terminal-based agent multiplexer that enables users to concurrently orchestrate and switch between multiple AI agents (e.g., LLM calls, tool integrations) within a single CLI interface, enhancing composability and productivity in local AI workflows.",
+      "titleEn": "Herdr: Agent multiplexer that lives in your terminal",
+      "category": "工具",
+      "engagementPercentile": 1,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 205842,
+        "score": 37186
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户使用而持续学习和进化，支持多步推理、工具调用与长期记忆集成。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to progressively learn and evolve with user interaction, supporting multi-step reasoning, tool use, and long-term memory integration.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 223555,
+        "score": 34224
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "这是一个面向AI编程代理（如Claude Code、Codex等）的性能优化系统，整合了技能管理、本能建模、记忆机制、安全控制和以研究为先的开发范式。",
+      "summaryEn": "This is a performance optimization system for AI coding agents (e.g., Claude Code, Codex, Opencode, Cursor), integrating skill orchestration, instinct modeling, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162034,
+        "score": 33657
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与微调。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and fine-tuning across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "devto-4012069",
+      "title": "What Actually Happens When You Call an LLM API",
+      "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-06-29T08:07:46Z",
+      "rawContent": "you've felt it.  you type a prompt, hit send, and the response starts streaming in under a second....",
+      "engagement": {
+        "likes": 31,
+        "comments": 31
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文深入解析了调用大语言模型API时的底层流程，涵盖请求预处理、token化、推理调度、流式响应生成及后处理等关键环节，帮助开发者理解延迟来源与性能瓶颈。",
+      "summaryEn": "This article demystifies the end-to-end technical workflow behind calling an LLM API—covering prompt preprocessing, tokenization, inference scheduling, streaming response generation, and post-processing—to help developers understand latency sources and performance bottlenecks.",
+      "titleEn": "What Actually Happens When You Call an LLM API",
+      "category": "教程",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "hn-48722052",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "author": "danboarder",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-29T17:16:17.000Z",
+      "rawContent": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "engagement": {
+        "score": 173,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Ornith-1.0 是一个开源的、支持自我改进的智能体编码模型系列，旨在提升AI在自主编程任务中的推理与迭代能力。",
+      "summaryEn": "Ornith-1.0 is an open-source family of agentic coding models designed for self-improvement—enabling autonomous reasoning, code generation, and iterative refinement in programming tasks.",
+      "titleEn": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333332
+    },
+    {
+      "id": "hn-48714880",
+      "title": "Lore – Give your coding agent the decisions your team made",
+      "url": "https://github.com/itsthelore/rac-core",
+      "author": "tcballard",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-29T04:40:35.000Z",
+      "rawContent": "Lore – Give your coding agent the decisions your team made",
+      "engagement": {
+        "score": 43,
+        "comments": 53
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Lore 是一款新型 AI 编程代理增强工具，通过结构化记录和注入团队过往技术决策（如架构选择、库选型、配置权衡），提升编码代理的上下文理解与决策一致性。",
+      "summaryEn": "Lore is a novel AI coding agent enhancement tool that injects structured records of team-made technical decisions (e.g., architecture choices, library selections, configuration trade-offs) to improve the agent’s contextual awareness and decision consistency.",
+      "titleEn": "Lore – Give your coding agent the decisions your team made",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175157,
+        "score": 16765
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "该GitHub仓库（Ollama）是一个开源工具，支持本地一键部署和运行多个主流开源大模型（如Qwen、Gemma、DeepSeek等），显著简化了AI模型的本地化使用流程。",
+      "summaryEn": "This GitHub repository (Ollama) is an open-source tool enabling one-command local deployment and inference of multiple leading open-weight LLMs (e.g., Qwen, Gemma, DeepSeek), greatly simplifying local AI model usage.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 143482,
+        "score": 20678
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化大模型交互界面，支持 Ollama、OpenAI API 等多种后端，便于快速部署和使用私有化 AI 服务。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local interface for large language models, supporting backends like Ollama and OpenAI API, enabling rapid deployment and private AI service usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-4012384",
+      "title": "My commit message said \"You've hit your session limit\"",
+      "url": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "author": "Shyamala",
+      "platform": "devto",
+      "publishedAt": "2026-06-29T15:15:49Z",
+      "rawContent": "How I ended up running a local LLM to generate my git commit messages",
+      "engagement": {
+        "likes": 35,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实践教程，介绍作者如何本地部署大语言模型（LLM）并将其集成到 Git 工作流中，自动生成符合规范的提交信息。",
+      "summaryEn": "This is a hands-on tutorial demonstrating how the author locally deployed an LLM and integrated it into their Git workflow to automatically generate semantic, standards-compliant commit messages.",
+      "titleEn": "How I ended up running a local LLM to generate my git commit messages",
+      "category": "教程",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147035,
+        "score": 23150
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专注于智能体（agentic）工作流的开发与部署，支持可视化编排、模型集成和应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building, orchestrating, and deploying agentic workflows—with visual editing, LLM integration, and one-click app publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 118676,
+        "score": 20077
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级开源项目，专注于在本地 CPU 上高效运行大型语言模型（LLM），无需 GPU 依赖。",
+      "summaryEn": "llama.cpp is a lightweight open-source project written in C/C++ that enables efficient local LLM inference on CPUs without GPU dependencies.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "hn-48718863",
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "author": "mezark",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-29T13:11:08.000Z",
+      "rawContent": "What happens when you run a CUDA kernel?",
+      "engagement": {
+        "score": 224,
+        "comments": 28
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 4,
+        "actionability": 6
+      },
+      "summary": "本文深入解析CUDA内核执行时的底层机制，涵盖GPU线程调度、内存访问模式、Warp执行模型及硬件协同细节，适合AI开发者理解GPU加速原理。",
+      "summaryEn": "This article provides a detailed, step-by-step explanation of what occurs at the hardware and software level when a CUDA kernel is launched—including thread hierarchy, warp scheduling, memory coalescing, and GPU execution units—making it valuable for AI practitioners optimizing GPU-accelerated workloads.",
+      "titleEn": "What happens when you run a CUDA kernel?",
+      "category": "教程",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 8.955555555555556
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84858,
+        "score": 18673
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize throughput and reduce GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.799999999999999
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 141608,
+        "score": 8159
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48722802",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "author": "matt_d",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-29T18:03:26.000Z",
+      "rawContent": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "engagement": {
+        "score": 62,
+        "comments": 19
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该内容介绍了一种名为Micro-Agent的新范式，通过在单个大模型API内部构建多智能体协作机制，显著提升推理性能，超越前沿大模型；其核心贡献在于模型内协同架构设计，而非外部调用编排。",
+      "summaryEn": "This content introduces Micro-Agent, a novel paradigm that boosts reasoning performance beyond frontier LMs by enabling multi-agent collaboration *inside* a single model API—shifting focus from external orchestration to internal cooperative inference.",
+      "titleEn": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "category": "论文",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150216,
+        "score": 9362
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "hf-2606.26740",
+      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+      "url": "https://huggingface.co/papers/2606.26740",
+      "author": "Xinyu Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-24T20:00:00.000Z",
+      "rawContent": "Streaming video editing has made rapid progress, yet practical deployment is still limited by two core issues: maintaining stable backgrounds and non-edited regions over time, and achieving the low latency required for real-time interactive scenarios. Meanwhile, recent streaming video generation methods are mostly developed for synthesis and cannot be directly applied to editing due to the strict preservation requirement and region-specific control. In this work, we present a novel streaming vid",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出LiveEdit，一种面向实时扩散模型的流式视频编辑方法，旨在解决流式视频编辑中背景稳定性与低延迟交互的两大核心挑战。",
+      "summaryEn": "This paper introduces LiveEdit, a novel diffusion-based framework for real-time streaming video editing, addressing key challenges of temporal consistency (e.g., stable backgrounds) and ultra-low latency required for interactive applications.",
+      "titleEn": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "url": "https://huggingface.co/papers/2606.28480",
+      "author": "Shoufa Chen",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-25T20:00:00.000Z",
+      "rawContent": "As large language models and harness frameworks continue to advance, agents operating in terminals are increasingly capable of performing a broader range of general computer-use tasks beyond coding. However, existing benchmarks do not adequately evaluate general-purpose terminal computer-use agents (TUAs): general computer-use benchmarks primarily target graphical user interfaces (GUIs), whereas terminal-based benchmarks largely emphasize technical and programming-centric workflows historically ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "TUA-Bench 是一个专为通用终端使用智能体（TUAs）设计的新基准，填补了现有评测体系在终端环境下通用计算机操作能力评估方面的空白。",
+      "summaryEn": "TUA-Bench is a new benchmark specifically designed to evaluate general-purpose terminal-use agents (TUAs), addressing the gap in existing evaluation frameworks that focus either on GUI-based or narrowly technical terminal tasks.",
+      "titleEn": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.30292",
+      "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
+      "url": "https://huggingface.co/papers/2606.30292",
+      "author": "Daniyel Ayupov",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "We present DreamForge-World 0.1 Preview, a preview foundational world model for real-time interactive world simulation. The system adapts the LongLive 1 autoregressive video stack, itself derived from Wan2.1-T2V-1.3B, with a residual action pathway inspired by the Matrix-Game family. DreamForge-World 0.1 Preview focuses on a complementary axis to frontier-scale world simulators: low-compute adaptation, consumer-GPU runtime, and broad interactive capability coverage. It supports live keyboard and",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "DreamForge-World 0.1 Preview 是一个面向低算力设备的实时可控世界模型，基于 LongLive-1 和 Wan2.1-T2V-1.3B 改进，并引入受 Matrix-Game 启发的残差动作通路，支持消费级 GPU 实时交互。",
+      "summaryEn": "DreamForge-World 0.1 Preview is a low-compute, real-time controllable world model built on the LongLive-1 autoregressive video stack (derived from Wan2.1-T2V-1.3B) with a Matrix-Game-inspired residual action pathway, optimized for consumer GPUs and interactive simulation.",
+      "titleEn": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 117,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
