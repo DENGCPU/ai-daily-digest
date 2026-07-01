@@ -1,0 +1,479 @@
+{
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T04:19:59.374Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 206618,
+        "score": 37388
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162059,
+        "score": 33685
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与微调。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and fine-tuning across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 224209,
+        "score": 34313
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "这是一个面向AI编程代理（如Claude Code、Codex等）的性能优化系统，聚焦于技能编排、本能建模、记忆机制、安全增强和以研究为先的开发范式。",
+      "summaryEn": "This is a performance optimization system for AI coding agents (e.g., Claude Code, Codex, Opencode, Cursor), emphasizing skill orchestration, instinct modeling, memory integration, security hardening, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 10.8
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175203,
+        "score": 16778
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个开源的本地大模型运行框架，支持一键拉取和运行包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与商业对齐模型。",
+      "summaryEn": "Ollama is an open-source framework for running large language models locally, enabling one-command setup and execution of multiple models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "hn-48734373",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "author": "kirushik",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-30T15:44:24.000Z",
+      "rawContent": "Claude Code is steganographically marking requests",
+      "engagement": {
+        "score": 1546,
+        "comments": 445
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 9,
+        "actionability": 4
+      },
+      "summary": "该内容指出Claude Code在用户请求中隐写嵌入标识信息，引发关于AI服务隐私、追踪与透明度的技术伦理讨论。",
+      "summaryEn": "This report reveals that Claude Code is embedding covert identifiers in user requests via steganography, sparking technical and ethical discussions about AI service privacy, tracking, and transparency.",
+      "titleEn": "Claude Code is steganographically marking requests",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 10.65
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147168,
+        "score": 23186
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，支持基于智能体（agentic）的工作流开发，提供可视化编排、模型集成与应用部署能力。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 143614,
+        "score": 20711
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Open WebUI 是一个开源的、用户友好的本地化 AI 界面，支持 Ollama、OpenAI API 等多种后端模型服务，便于快速部署和交互式使用大语言模型。",
+      "summaryEn": "Open WebUI is an open-source, user-friendly local AI interface that supports multiple backends including Ollama and the OpenAI API, enabling quick deployment and interactive LLM usage.",
+      "titleEn": "open-webui/open-webui",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "hn-48738985",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "author": "peterdemin",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-30T20:48:36.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes</a><p><a href=\"https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;</a>",
+      "engagement": {
+        "score": 192,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该项目将Kubernetes核心功能移植到浏览器中，通过WebAssembly实现轻量级、可交互的K8s体验，适用于演示、教学和边缘开发场景。",
+      "summaryEn": "This project ports core Kubernetes functionality to the browser using WebAssembly, enabling a lightweight, interactive K8s experience for demos, education, and edge development.",
+      "titleEn": "I ported Kubernetes to the browser",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 84947,
+        "score": 18726
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 142282,
+        "score": 8195
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150273,
+        "score": 9369
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI智能体与工作流。它通过拖拽式界面简化了LLM应用开发流程。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually building, debugging, and deploying LLM-powered AI agents and workflows via a drag-and-drop interface.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "devto-4033830",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "author": "Hemapriya Kanagala",
+      "platform": "devto",
+      "publishedAt": "2026-06-30T19:15:56Z",
+      "rawContent": "TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...",
+      "engagement": {
+        "likes": 24,
+        "comments": 15
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "这是一篇来自Dev.to的技术评论文章，探讨Anthropic发布的题为《当AI构建自身》的思考性散文，反思AI对软件工程范式、开发流程和人类角色的深层影响。",
+      "summaryEn": "This is a reflective technical commentary on Anthropic's essay 'When AI Builds Itself', published on Dev.to, analyzing its implications for software engineering paradigms, development workflows, and the evolving role of human engineers.",
+      "titleEn": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 8.666666666666668
+    },
+    {
+      "id": "devto-4032196",
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "author": "Paige Bailey",
+      "platform": "devto",
+      "publishedAt": "2026-06-30T14:47:06Z",
+      "rawContent": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
+      "engagement": {
+        "likes": 39,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文是一篇行业评论文章，主张AI的未来在于本地化部署和开源生态，强调隐私、 control 和去中心化的重要性，并以黑客松场景为引子展开对当前AI集中化趋势的反思。",
+      "summaryEn": "This is an industry commentary arguing that the future of AI lies in local, on-device deployment and open ecosystems—highlighting privacy, user control, and decentralization as critical counterpoints to today’s centralized, cloud-dependent AI paradigm.",
+      "titleEn": "The Future Of AI Is Local And Open",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.311111111111112
+    },
+    {
+      "id": "devto-4025159",
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-06-30T07:22:16Z",
+      "rawContent": "you probably didn't think about this when you signed up.  you entered your card details, verified...",
+      "engagement": {
+        "likes": 44,
+        "comments": 40
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "本文探讨了用户在使用AI服务时隐含的成本结构，指出许多所谓‘免费’AI访问实则由第三方（如 employers, sponsors, or platforms）承担费用，引发对AI经济模型和用户责任的反思。",
+      "summaryEn": "This article examines the hidden cost structure of AI access, arguing that many 'free' AI services are actually subsidized by third parties (e.g., employers, sponsors, or platforms), prompting reflection on AI economics and user accountability.",
+      "titleEn": "Someone Else Pays for Your AI Access",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.250000000000002
+    },
+    {
+      "id": "hn-48730818",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "author": "fagnerbrack",
+      "platform": "hackernews",
+      "publishedAt": "2026-06-30T10:48:23.000Z",
+      "rawContent": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "engagement": {
+        "score": 125,
+        "comments": 94
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "本文是一篇面向开发者的技术指南，主张在处理输入数据时优先采用解析（parse）而非验证（validate）的策略，尤其适用于类型系统薄弱或动态语言（如 JavaScript、Python）中的健壮性编程实践。",
+      "summaryEn": "This is a developer-oriented technical guide advocating for 'parsing instead of validating' input data—emphasizing robust, fail-fast parsing over defensive validation—especially in dynamically typed or permissive languages.",
+      "titleEn": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "category": "教程",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.166666666666668
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 101819,
+        "score": 11305
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在为 AI 智能体提供标准化、可编程的网页交互能力，支持自动化在线任务执行。",
+      "summaryEn": "browser-use is an open-source library designed to enable standardized, programmable web interaction for AI agents, facilitating automated online task execution.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.30968",
+      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
+      "url": "https://huggingface.co/papers/2606.30968",
+      "author": "Koorosh Roohi",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "Photomosaics are large images whose local regions are seen as independent tiles while their overall arrangement forms a coherent scene. Generating them at high resolution, with every tile convincing in its own right, is computationally expensive, since the canvas must hold many detailed tiles at once. We present PhotoQuilt, a training-free framework that generates photomosaics at arbitrary resolution. Diffusion models struggle to satisfy both scales at once, as direct high-resolution generation ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "PhotoQuilt是一种无需训练的任意分辨率照片拼贴生成框架，通过自举式分块去噪技术解决扩散模型在高分辨率拼贴生成中兼顾全局一致性与局部细节的难题。",
+      "summaryEn": "PhotoQuilt is a training-free framework for generating photomosaics at arbitrary resolution, addressing the challenge of simultaneously preserving global coherence and local tile fidelity in diffusion models via bootstrapped tiled denoising.",
+      "titleEn": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.30319",
+      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
+      "url": "https://huggingface.co/papers/2606.30319",
+      "author": "Haitao Wu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly treat brain encoding and decoding as isolated tasks, relying heavily on unimodal alignment and external priors while overlooking the brain's intrinsic nature as a multimodal integration system. To address these limitations, we propose BrainJanus, the first unified brain model that integrates brain, v",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "BrainJanus 是首个统一建模大脑、视觉与语言的跨模态神经解码与生成模型，突破了传统单向脑-刺激建模范式，强调大脑作为内在多模态整合系统的本质。",
+      "summaryEn": "BrainJanus is the first unified model bridging brain activity, vision, and language—enabling bidirectional understanding and generation—by treating the brain as an intrinsic multimodal integration system rather than isolated encoding/decoding tasks.",
+      "titleEn": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.31315",
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "url": "https://huggingface.co/papers/2606.31315",
+      "author": "Hao Zhang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-29T20:00:00.000Z",
+      "rawContent": "Speculative decoding accelerates inference by using a lightweight draft model to generate candidate tokens in parallel, and are then verified by the target model, enabling lossless acceleration. Recently, diffusion-based speculative decoding further improves parallelism by generating multiple tokens per forward pass via block-level diffusion, achieving state-of-the-art (SOTA) performance. However, existing methods adopt a fixed inference block size and assume a uniform optimal decoding strategy ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "BlockPilot提出了一种面向实例自适应的策略学习方法，用于扩散式推测解码，通过动态调整块大小和解码策略提升大模型推理效率，属于前沿AI推理优化研究。",
+      "summaryEn": "BlockPilot introduces an instance-adaptive policy learning framework for diffusion-based speculative decoding, dynamically optimizing block size and decoding strategy per input to improve LLM inference efficiency—representing a cutting-edge advancement in AI inference acceleration.",
+      "titleEn": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "url": "https://huggingface.co/papers/2606.30534",
+      "author": "Yihao Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interfaces. Rather than optimizing isolated next-token, next-frame, or next-action prediction, we are centered on Next-State-Prediction modeling, offering a unified state-transition modeling route toward understanding, predicting, and acting upon the world. Orca learns through two complementary paradigms:",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "Orca 是一种新型通用世界基础模型，提出“下一状态预测”（Next-State-Prediction）统一建模范式，通过多模态信号学习世界潜在空间，旨在实现对世界的理解、预测与行动。该工作代表了基础模型从局部序列建模向全局状态演化建模的重要范式跃迁。",
+      "summaryEn": "Orca is a novel general world foundation model that introduces Next-State-Prediction as a unified paradigm—learning a shared multimodal world latent space to jointly understand, predict, and act upon dynamic states—moving beyond isolated token/frame/action prediction.",
+      "titleEn": "Orca: The World is in Your Mind",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 162,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
