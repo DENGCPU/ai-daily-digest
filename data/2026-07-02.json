@@ -1,0 +1,476 @@
+{
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T03:59:56.700Z",
+  "items": [
+    {
+      "id": "devto-3982143",
+      "title": "Build a Minimal WebMCP Agent with Playwright and Gemini",
+      "url": "https://dev.to/gramli/build-a-minimal-webmcp-agent-with-playwright-and-gemini-24fh",
+      "author": "Daniel Balcarek",
+      "platform": "devto",
+      "publishedAt": "2026-07-01T06:58:36Z",
+      "rawContent": "WebMCP lets a web page expose tools that AI agents can discover and execute inside the browser. That...",
+      "engagement": {
+        "likes": 31,
+        "comments": 23
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇实操性教程，指导读者如何使用 Playwright 和 Gemini 构建一个最小化的 WebMCP 代理，使 AI 能在浏览器中自动发现并调用网页暴露的工具。内容聚焦于 AI 代理与前端工具协议的集成实践。",
+      "summaryEn": "This is a hands-on tutorial guiding readers to build a minimal WebMCP agent using Playwright and Gemini, enabling AI agents to discover and execute tools exposed by web pages directly in the browser. It focuses on practical integration of AI agents with frontend tooling protocols.",
+      "titleEn": "Build a Minimal WebMCP Agent with Playwright and Gemini",
+      "category": "教程",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 112512,
+        "score": 60444
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 10
+      },
+      "summary": "这是微软官方为初学者设计的生成式AI入门课程，包含21个循序渐进的实践课时，涵盖基础概念、API调用、提示工程及小型应用构建。",
+      "summaryEn": "This is Microsoft's official beginner-friendly generative AI curriculum comprising 21 progressive, hands-on lessons covering fundamentals, API integration, prompt engineering, and building small-scale applications.",
+      "titleEn": "microsoft/generative-ai-for-beginners",
+      "category": "教程",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 12.133333333333333
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 207384,
+        "score": 37615
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排；项目提供可扩展的代理架构与轻量级工具集成能力。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs and support complex task orchestration, featuring an extensible agent architecture and lightweight tool integration.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162101,
+        "score": 33718
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的训练与推理，是AI开发工作流中的核心基础设施。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling training and inference for state-of-the-art text, vision, audio, and multimodal models — a foundational toolkit in modern AI development workflows.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175255,
+        "score": 16788
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个开源的本地大模型运行工具，支持一键部署包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多个主流开源与闭源模型（通过适配接口），显著降低本地 AI 模型试用门槛。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling one-command setup of multiple models—including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others—via standardized model interfaces.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147306,
+        "score": 23198
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85078,
+        "score": 18797
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计，广泛用于生产级 LLM 部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to maximize throughput and minimize GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "hn-48753715",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "author": "chvid",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-01T22:03:36.000Z",
+      "rawContent": "ZCode – Harness for GLM-5.2",
+      "engagement": {
+        "score": 267,
+        "comments": 236
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "ZCode 是一款专为 GLM-5.2 大语言模型设计的轻量级交互式开发与推理工具，提供命令行和 Web 界面支持，旨在简化模型调用与调试流程。",
+      "summaryEn": "ZCode is a lightweight interactive development and inference tool designed specifically for the GLM-5.2 large language model, offering CLI and web-based interfaces to streamline model invocation and debugging.",
+      "titleEn": "ZCode – Harness for GLM-5.2",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.38888888888889
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150342,
+        "score": 9379
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "devto-4041880",
+      "title": "Semantic Observability: Engineering Reliability for Production RAG",
+      "url": "https://dev.to/dumebii/semantic-observability-engineering-reliability-for-production-rag-20g4",
+      "author": "Dumebi Okolo",
+      "platform": "devto",
+      "publishedAt": "2026-07-01T13:19:41Z",
+      "rawContent": "It is a noticeable thing when a microservice fails. It is either a null pointer exception in a Java...",
+      "engagement": {
+        "likes": 15,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文探讨了在生产环境中构建可靠RAG（检索增强生成）系统所面临的可观测性挑战，提出‘语义可观测性’概念，强调需超越传统指标监控，转向对检索质量、生成一致性、上下文相关性等语义层面的工程化保障。",
+      "summaryEn": "This article discusses observability challenges in production RAG systems, introducing the concept of 'Semantic Observability'—a shift from traditional infrastructure metrics to engineering reliability at the semantic level (e.g., retrieval relevance, generation coherence, context fidelity).",
+      "titleEn": "Semantic Observability: Engineering Reliability for Production RAG",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "devto-4037828",
+      "title": "Nobody wants to review the robot's 600-line pull request",
+      "url": "https://dev.to/ali_abbas_d8086e0f96d8173/nobody-wants-to-review-the-robots-600-line-pull-request-4po8",
+      "author": "Ali Abbas",
+      "platform": "devto",
+      "publishedAt": "2026-07-01T06:18:31Z",
+      "rawContent": "An agent opened a pull request on our service last week. Six hundred lines. It rewrote how we handle...",
+      "engagement": {
+        "likes": 6,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨AI代理（如编码助手）自动生成大型Pull Request带来的工程协作挑战，聚焦于代码审查负担、可信度与团队流程适应性等现实问题。",
+      "summaryEn": "This article discusses the engineering collaboration challenges posed by AI agents autonomously generating large pull requests—highlighting review fatigue, trust gaps, and workflow adaptation in real-world software teams.",
+      "titleEn": "Nobody wants to review the robot's 600-line pull request",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.066666666666666
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 95004,
+        "score": 13802
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型与多模态AI能力，实现一键生成高清短视频的自动化工作流。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to automate high-definition short video generation with a single click.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48746914",
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "author": "soheilpro",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-01T13:59:13.000Z",
+      "rawContent": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "engagement": {
+        "score": 263,
+        "comments": 181
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "Cloudflare 推出基于 HTTP 状态码 402（Payment Required）的新型商业化网关 x402，允许开发者对任意托管在其边缘网络上的资源（如 API、静态文件、AI 模型端点）按使用量收费。",
+      "summaryEn": "Cloudflare introduces x402, a monetization gateway leveraging the HTTP 402 status code, enabling developers to charge per-use for any resource (e.g., APIs, static assets, or AI endpoints) served through Cloudflare’s edge network.",
+      "titleEn": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 8.56111111111111
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 102041,
+        "score": 11321
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在为 AI 智能体提供标准化、可编程的网页交互能力，支持自动化在线任务执行。",
+      "summaryEn": "browser-use is an open-source library designed to enable standardized, programmable web interaction for AI agents, facilitating automated online task execution.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hf-2606.31551",
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "url": "https://huggingface.co/papers/2606.31551",
+      "author": "Zhaojian Yu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-29T20:00:00.000Z",
+      "rawContent": "Training language models (LMs) remains a highly human-intensive process, even as frontier language model agents become increasingly capable at software engineering and other long-horizon tasks. A central challenge is that autonomous post-training is not just a coding problem: it requires the agent to repeatedly plan iterations, construct benchmark-aligned data, run stable training jobs, evaluate checkpoints, and preserve experiment state across many hours of interaction. We present AutoTrainess,",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "AutoTrainess 是一项前沿研究，提出让语言模型自主迭代优化自身训练流程的框架，涵盖规划、数据构建、稳定训练、评估与状态持久化等关键环节。该工作直面大模型后训练中自动化程度不足的核心挑战。",
+      "summaryEn": "AutoTrainess is a novel research framework that enables language models to autonomously improve themselves through iterative, end-to-end post-training—including planning, benchmark-aligned data construction, stable training execution, checkpoint evaluation, and cross-session experiment state management. It addresses the fundamental challenge of human dependency in LM refinement.",
+      "titleEn": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2606.19271",
+      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+      "url": "https://huggingface.co/papers/2606.19271",
+      "author": "Youhe Jiang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-16T20:00:00.000Z",
+      "rawContent": "Streaming video generation is emerging as a new serving workload in which users interact with long-lived sessions that generate video progressively, chunk by chunk. Unlike offline video generation or typical LLM serving, streaming video generation must preserve session state across active and idle periods, repeatedly schedule ongoing sessions, and deliver each chunk under a tight latency target. This creates two key serving challenges in multi-user, multi-GPU environments: session duration heter",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "TurboServe 是一篇面向流式视频生成场景的新型推理服务系统论文，聚焦于解决长会话、状态保持、低延迟分块输出等独特服务挑战。",
+      "summaryEn": "TurboServe is a research paper proposing a novel inference serving system tailored for streaming video generation, addressing unique challenges including long-lived stateful sessions, intermittent scheduling, and strict per-chunk latency constraints.",
+      "titleEn": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79332,
+        "score": 15527
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 代理组织成可全天候运行的自动化团队，支持代理招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2607.01104",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "url": "https://huggingface.co/papers/2607.01104",
+      "author": "Zinan Tang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "rawContent": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of static data distributions. As a result, when the underlying data pool shifts, these methods require costly retraining from scratch. This limitation restricts their ability to scale seamlessly from small settings to larger data pools and model sizes. In this paper, we propose CausalMix to address thi",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出CausalMix方法，将数据混合建模为因果推断问题，以解决大语言模型训练中因数据分布漂移导致的混合权重优化失效问题，提升训练可扩展性与鲁棒性。",
+      "summaryEn": "This paper introduces CausalMix, a novel framework that reframes data mixture optimization in LLM training as causal inference to robustly adapt to shifting data distributions—eliminating the need for costly retraining and enabling scalable adaptation across data scales and model sizes.",
+      "titleEn": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2607.00666",
+      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "url": "https://huggingface.co/papers/2607.00666",
+      "author": "Taewook Kang",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "rawContent": "Vision-Language-Action (VLA) models often fail to perform the same learned tasks under environmental shifts, such as changes in camera pose and shifts to a different but similar robot (e.g., from Panda to UR5e). Adapting these models to the shifted environment (i.e., target domain) often requires training on multiple demonstrations for each task, which are costly to collect. To reduce the burden of data curation and training, we propose an analogy-based method that adapts VLA models under enviro",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出一种基于类比推理的‘领域算术’方法，实现视觉-语言-动作（VLA）模型在环境变化（如相机位姿改变或机器人平台切换）下的一次性适配，显著减少对多示例微调的依赖。",
+      "summaryEn": "This paper proposes 'Domain Arithmetic', an analogy-based method for one-shot adaptation of Vision-Language-Action (VLA) models under environmental shifts (e.g., camera pose changes or robot platform transfers), reducing reliance on costly multi-demonstration fine-tuning.",
+      "titleEn": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2607.00917",
+      "title": "Valdi: Value Diffusion World Models",
+      "url": "https://huggingface.co/papers/2607.00917",
+      "author": "Christopher Lindenberg",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "rawContent": "World models can enable Model Predictive Control (MPC), but this requires dynamics prediction that is both fast enough for online use and expressive enough to represent uncertain futures. Diffusion models offer a natural mechanism for modeling uncertain dynamics, yet their iterative inference procedure makes them difficult to use for low-latency latent planning. We bridge this gap with Value Diffusion World Models (Valdi), combining end-to-end online training for MPC with a latent diffusion dyna",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 4
+      },
+      "summary": "Valdi是一种新型价值扩散世界模型，通过将扩散建模与端到端在线MPC训练相结合，解决了世界模型在低延迟潜空间规划中的推理速度与不确定性表达之间的权衡难题。",
+      "summaryEn": "Valdi is a novel Value Diffusion World Model that bridges the gap between fast, low-latency latent planning and expressive uncertain dynamics modeling by integrating diffusion-based dynamics with end-to-end online Model Predictive Control training.",
+      "titleEn": "Valdi: Value Diffusion World Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 128,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
