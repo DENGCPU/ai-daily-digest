@@ -1,0 +1,476 @@
+{
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T03:43:02.724Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 208130,
+        "score": 37868
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持动态工具调用与上下文自适应。该项目提供代码仓库、配置示例和基础文档，便于开发者快速集成与定制。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting dynamic tool use and context-aware adaptation. The repository includes code, configuration examples, and foundational documentation for developer integration and customization.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 225271,
+        "score": 34464
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "这是一个面向AI编程助手（如Claude Code、Codex等）的代理性能优化系统，聚焦于技能编排、本能建模、记忆机制、安全增强和以研究为先的开发范式。",
+      "summaryEn": "This is an agent-centric performance optimization system designed for AI coding assistants (e.g., Claude Code, Codex, Opencode, Cursor), emphasizing skill orchestration, instinct modeling, memory integration, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162172,
+        "score": 33731
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与训练。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and training across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "devto-4044578",
+      "title": "AI For Test Generation: Where It Helps And Where It Lies",
+      "url": "https://dev.to/nazar_boyko/ai-for-test-generation-where-it-helps-and-where-it-lies-jhm",
+      "author": "Nazar Boyko",
+      "platform": "devto",
+      "publishedAt": "2026-07-02T04:44:36Z",
+      "rawContent": "AI is great at writing tests fast, and good at writing tests that look real but verify the wrong...",
+      "engagement": {
+        "likes": 21,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文探讨了AI在测试用例生成中的实际效能与局限性，指出其虽能快速生成看似合理的测试代码，但常因缺乏深层语义理解而产生无效或误导性断言。",
+      "summaryEn": "This article critically examines AI's role in test generation, highlighting its speed and surface-level realism while warning about its tendency to produce syntactically plausible but semantically incorrect or ineffective tests.",
+      "titleEn": "AI For Test Generation: Where It Helps And Where It Lies",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175330,
+        "score": 16802
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "该GitHub仓库是Ollama项目，提供本地运行多种主流开源大模型（如Qwen、Gemma、DeepSeek等）的轻量级工具，支持一键拉取与部署。",
+      "summaryEn": "This GitHub repository is the Ollama project, a lightweight tool for running popular open-source LLMs (e.g., Qwen, Gemma, DeepSeek) locally with one-command setup and model management.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.4
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147468,
+        "score": 23216
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85205,
+        "score": 18847
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为提升吞吐量和降低显存占用而设计，广泛用于生产环境中的 LLM 部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize throughput and reduce GPU memory usage in production deployments.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "hn-48761944",
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "author": "hashier",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-02T14:13:26.000Z",
+      "rawContent": "Immich 3.0",
+      "engagement": {
+        "score": 227,
+        "comments": 111
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "Immich 3.0 是一款开源自托管照片和视频管理工具的新版本，增强了AI驱动的搜索、人脸识别和跨设备同步功能。",
+      "summaryEn": "Immich 3.0 is a new version of the open-source, self-hosted photo and video management tool, featuring enhanced AI-powered search, face recognition, and cross-device synchronization.",
+      "titleEn": "Immich 3.0",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.444444444444445
+    },
+    {
+      "id": "hn-48756602",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "author": "unliftedq",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-02T04:32:41.000Z",
+      "rawContent": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "engagement": {
+        "score": 402,
+        "comments": 165
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "Kimi K2.7 Code模型已正式集成至GitHub Copilot，用户可在支持环境中直接调用该AI编程辅助功能。",
+      "summaryEn": "The Kimi K2.7 Code model is now generally available within GitHub Copilot, enabling users to access this AI-powered coding assistant directly in supported environments.",
+      "titleEn": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.38888888888889
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 150819,
+        "score": 9401
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually designing, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 95303,
+        "score": 13860
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术，实现一键生成高清短视频，显著简化视频创作流程。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, streamlining video creation workflows.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 112482,
+        "score": 7467
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent等多种AI编程工具，提供统一界面访问。其官方网址为ccswitch.io。",
+      "summaryEn": "cc-switch is a cross-platform desktop AI assistant that unifies access to multiple AI coding tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a single interface. The official website is ccswitch.io.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "hf-2607.01874",
+      "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
+      "url": "https://huggingface.co/papers/2607.01874",
+      "author": "Jiayin Zhu",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "Skills are becoming a reusable operational layer for LLM agents, encoding SOPs, domain rules, tool workflows, scripts, and validation routines. In realistic skill repositories, overlapping skills make reliable skill-use difficult. Final verifier success is too coarse for both evaluation and training, since an agent may pass through trial and error while selecting distractor skills, skipping required steps, composing workflows incorrectly or omitting final checks. We introduce SkillCoach, a self-",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "SkillCoach 是一种新型自我演化的评估框架，旨在精细化评估和提升大语言模型智能体对技能（如SOP、工具工作流）的使用能力，解决现有技能库中技能重叠与粗粒度验证导致的不可靠问题。",
+      "summaryEn": "SkillCoach is a novel self-evolving rubric framework designed to finely evaluate and enhance how LLM agents select, compose, and execute reusable skills—addressing reliability issues caused by skill overlap and overly coarse final verification in real-world skill repositories.",
+      "titleEn": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.02032",
+      "title": "PACE: A Proxy for Agentic Capability Evaluation",
+      "url": "https://huggingface.co/papers/2607.02032",
+      "author": "Yueqi Song",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "Evaluating LLM agents on benchmarks like SWE-Bench and GAIA can be expensive, time-consuming, and requires complex infrastructure. A single evaluation can cost thousands of dollars and take days to complete. In contrast, non-agentic LLM benchmarks that test individual capabilities (e.g., reasoning, code generation) are fast and cheap to run. In this paper, we investigate whether performance on expensive agentic benchmarks can be accurately predicted by the performance on a small, carefully selec",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出PACE（Agentic Capability Evaluation Proxy），一种通过轻量级非代理式基准（如推理、代码生成）预测大型语言模型代理在昂贵代理基准（如SWE-Bench、GAIA）上表现的新评估范式，旨在显著降低代理能力评估的成本与复杂度。",
+      "summaryEn": "This paper introduces PACE (Proxy for Agentic Capability Evaluation), a novel evaluation paradigm that predicts LLM agent performance on expensive, infrastructure-heavy agentic benchmarks (e.g., SWE-Bench, GAIA) using fast, low-cost non-agentic capability benchmarks (e.g., reasoning, code generation), enabling scalable and affordable agent evaluation.",
+      "titleEn": "PACE: A Proxy for Agentic Capability Evaluation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.02517",
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "url": "https://huggingface.co/papers/2607.02517",
+      "author": "Hanlin Wang",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain motion, our framework explicitly decouples semantic motion orchestration from visual generation. By leveraging an LLM to coordinate 3D trajectories with camera movements and subsequently employing these ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "WorldDirector 是一种新型视频世界模型框架，通过将语义运动编排与视觉生成解耦，并利用大语言模型协调3D轨迹与相机运动，实现持久动态对象记忆和自由视角探索。",
+      "summaryEn": "WorldDirector is a novel video world model framework that explicitly decouples semantic motion orchestration from visual generation, enabling persistent dynamic object memory and unrestricted viewpoint exploration via LLM-coordinated 3D trajectories and camera control.",
+      "titleEn": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.02499",
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "author": "Gil Harari",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:57:31Z",
+      "rawContent": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and its variants in the community. Here, we implement and systematically compare a class of recently proposed matrix-structured optimizers, including Muon, SOAP, and the hybrid SOAP-Muon, for training Nequ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文是一篇arXiv预印本论文，系统评估了新型矩阵结构优化器（SOAP、Muon及其混合体）在机器学习原子间势（MLIPs）训练中的性能，挑战了当前普遍采用Adam优化器的惯例。",
+      "summaryEn": "This arXiv preprint systematically evaluates novel matrix-structured optimizers—SOAP, Muon, and their hybrid SOAP-Muon—for training machine learning interatomic potentials (MLIPs), challenging the field’s default reliance on Adam.",
+      "titleEn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hn-48762862",
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "url": "https://manufact.com",
+      "author": "pzullo",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-02T15:11:20.000Z",
+      "rawContent": "Hi HN, we are Pietro and Luigi, cofounders of Manufact (<a href=\"https:&#x2F;&#x2F;manufact.com\">https:&#x2F;&#x2F;manufact.com</a>), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;mcp-use&#x2F;mcp-use\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mcp-use&#x2F;mcp-use</a>. We did a Show HN about that last year: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4474",
+      "engagement": {
+        "score": 104,
+        "comments": 62
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "Manufact（YC S25）是一家新推出的云服务平台，专注于支持MCP（Model Control Protocol）应用与服务器部署，同时维护开源MCP SDK项目mcp-use。",
+      "summaryEn": "Manufact (YC S25) is a newly launched cloud platform for MCP (Model Control Protocol) applications and servers, while continuing open-source SDK development under the mcp-use name.",
+      "titleEn": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 7.555555555555556
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79388,
+        "score": 15538
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时持续运行的“AI 团队”，提供招聘、调度与汇报等自动化管理能力。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational 'AI team', offering automated capabilities for hiring, scheduling, and reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.27669",
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "url": "https://huggingface.co/papers/2606.27669",
+      "author": "Yiling Tao",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-25T20:00:00.000Z",
+      "rawContent": "Search agents powered by large language models (LLMs) are increasingly used to solve complex information-seeking tasks, requiring multi-step retrieval and reasoning to fulfill user goals. However, existing benchmarks often assume that user queries are complete and explicit, overlooking the fact that real-world search requests are frequently vague, underspecified, or even factually incorrect. In deep search scenarios, such ambiguity can propagate along multi-step reasoning chains and lead agents ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出DiscoBench——首个专注于澄清意识（clarification-aware）的深度搜索基准，旨在评估搜索代理在面对模糊、不完整或错误用户查询时主动提问与澄清的能力。",
+      "summaryEn": "This paper introduces DiscoBench, the first benchmark specifically designed to evaluate search agents’ ability to proactively ask clarifying questions in deep search scenarios where user queries are vague, underspecified, or factually incorrect.",
+      "titleEn": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.30562",
+      "title": "Morphing into Hybrid Attention Models",
+      "url": "https://huggingface.co/papers/2606.30562",
+      "author": "Disen Lan",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "Hybrid attention models improve long-context efficiency by retaining only a subset of full-attention layers and replacing the remaining layers with linear attention. However, the effectiveness of Transformer-to-hybrid conversion critically depends on which layers preserve full attention. Existing hybrid layer selection methods typically rely on heuristic strategies such as fixed placement patterns or layerwise scoring, implicitly treating layer importance as isolated and overlooking the interdep",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文探讨了混合注意力模型中全注意力层的选择策略，指出现有启发式方法忽视层间依赖性，提出需建模层间协同关系以提升长上下文建模效率。",
+      "summaryEn": "This work investigates layer selection strategies for hybrid attention models, arguing that existing heuristic methods (e.g., fixed patterns or isolated layer scoring) overlook inter-layer dependencies—critical for optimizing long-context efficiency in Transformer-to-hybrid conversion.",
+      "titleEn": "Morphing into Hybrid Attention Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 157,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
