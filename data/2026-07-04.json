@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-04T03:36:08.617Z",
+  "items": [
+    {
+      "id": "hn-48775921",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "author": "livestyle",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-03T15:03:43.000Z",
+      "rawContent": "Jamesob's guide to running SOTA LLMs locally",
+      "engagement": {
+        "score": 298,
+        "comments": 132
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 10
+      },
+      "summary": "这是一份详细指导用户在本地设备上部署和运行当前最先进大语言模型（SOTA LLM）的实用指南，涵盖硬件要求、量化方法、推理框架（如 llama.cpp、Ollama、Text Generation WebUI）及常见问题排查。",
+      "summaryEn": "This is a practical, step-by-step guide for deploying and running state-of-the-art large language models (SOTA LLMs) locally, covering hardware requirements, quantization techniques, inference frameworks (e.g., llama.cpp, Ollama, Text Generation WebUI), and troubleshooting.",
+      "titleEn": "Jamesob's guide to running SOTA LLMs locally",
+      "category": "教程",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 12.133333333333333
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 225720,
+        "score": 34520
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "affaan-m/ECC 是一个面向 AI 编程代理（如 Claude Code、Codex、Cursor 等）的性能优化系统，聚焦于技能编排、本能建模、记忆机制、安全增强和以研究为先的开发范式。",
+      "summaryEn": "affaan-m/ECC is a performance optimization system for AI programming agents (e.g., Claude Code, Codex, Opencode, Cursor), emphasizing skill orchestration, instinct modeling, memory, security, and research-first development.",
+      "titleEn": "affaan-m/ECC",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 208768,
+        "score": 38038
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持多步骤推理与工具调用，适用于构建个性化AI助手。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting multi-step reasoning and tool use for building personalized AI assistants.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185328,
+        "score": 46117
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于LLM构建可自主运行的任务型智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build LLM-powered agents that operate independently to execute tasks.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175407,
+        "score": 16823
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Ollama 是一个用于本地运行和管理开源大语言模型的轻量级工具，支持 Kimi-K2.6、GLM-5.1、DeepSeek、Qwen、Gemma 等主流模型的一键拉取与运行。",
+      "summaryEn": "Ollama is a lightweight tool for running and managing open-weight LLMs locally, enabling one-command pull and execution of models including Kimi-K2.6, GLM-5.1, DeepSeek, Qwen, and Gemma.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147571,
+        "score": 23237
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-3897682",
+      "title": "Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient",
+      "url": "https://dev.to/yashksaini/dev-log-8-hardening-the-orchestrator-a-week-of-making-dev-publish-resilient-14lh",
+      "author": "Yash Kumar Saini",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T03:47:12Z",
+      "rawContent": "Spent the week deep-diving into my dev-publish tool, focusing on durability and orchestrator...",
+      "engagement": {
+        "likes": 12,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文记录了开发者一周内对自研AI发布工具dev-publish的韧性加固过程，重点优化其编排器（Orchestrator）的稳定性与容错能力。",
+      "summaryEn": "This dev log documents a week-long effort to harden the 'dev-publish' tool’s orchestrator—improving resilience, fault tolerance, and reliability in AI development workflows.",
+      "titleEn": "Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient",
+      "category": "工具",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.255555555555555
+    },
+    {
+      "id": "devto-4058430",
+      "title": "Running untrusted, AI-generated code: why we built CreateOS Sandbox on Firecracker",
+      "url": "https://dev.to/pratikbin/running-untrusted-ai-generated-code-why-we-built-createos-sandbox-on-firecracker-dld",
+      "author": "pratikbin",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T11:30:00Z",
+      "rawContent": "The agent doesn't just write the code anymore. It runs it.  That one change broke an assumption a lot...",
+      "engagement": {
+        "likes": 7,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文介绍了CreateOS Sandbox这一新型AI安全执行环境，基于Firecracker微虚拟机技术，专为安全运行不可信的AI生成代码而设计，回应了当前AI代理自主执行代码带来的关键安全挑战。",
+      "summaryEn": "This article introduces CreateOS Sandbox—a new AI tool built on Firecracker microVMs to safely execute untrusted, AI-generated code—addressing the critical security gap created by autonomous AI agents that now execute, not just write, code.",
+      "titleEn": "Running untrusted, AI-generated code: why we built CreateOS Sandbox on Firecracker",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.966666666666665
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 53889,
+        "score": 46694
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源项目，整合多源行情数据、实时新闻、可视化决策看板与自动化推送功能，并支持零成本定时运行。",
+      "summaryEn": "This is an open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, automated notifications, and cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85295,
+        "score": 18906
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，支持快速部署和规模化推理。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, enabling fast deployment and scalable LLM serving.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "devto-4061201",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "url": "https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2",
+      "author": "Ryan Palo",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T14:57:01Z",
+      "rawContent": "Selecting the right abstraction layer is not a new problem in software. It's common to have some...",
+      "engagement": {
+        "likes": 7,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文探讨了在构建AI智能体（Agent）时如何选择合适的工具层抽象（如框架、SDK、编排层），强调权衡开发效率、可控性与可维护性，属于行业实践层面的深度思考。",
+      "summaryEn": "This article examines how to choose the appropriate tooling abstraction layer (e.g., frameworks, SDKs, orchestration layers) when building AI agents, emphasizing trade-offs among development velocity, control, and maintainability — a pragmatic industry discussion.",
+      "titleEn": "Choosing the Right Tooling Layer for Your Agent",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151073,
+        "score": 9422
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流，支持与 LangChain 等生态深度集成。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows, with deep integration into the LangChain ecosystem.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "hn-48772443",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "author": "nsoonhui",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-03T08:31:37.000Z",
+      "rawContent": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "engagement": {
+        "score": 317,
+        "comments": 272
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 3
+      },
+      "summary": "阿里巴巴据称因担忧Claude Code存在潜在后门风险，计划在内部工作环境中禁用该AI编程工具，此事引发对AI工具供应链安全与企业AI治理的行业讨论。",
+      "summaryEn": "Alibaba is reportedly planning to ban Claude Code in its workplace due to alleged backdoor security risks, sparking industry-wide discussion on AI tool supply-chain security and enterprise AI governance.",
+      "titleEn": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 9.3
+    },
+    {
+      "id": "hn-48771515",
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "author": "yehiaabdelm",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-03T06:21:44.000Z",
+      "rawContent": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.<p>I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can when I hand write code.<p>This is kind of ironic to me since AI should be a bicycle for the mind, but right now it feels like a bicycle that just brakes abruptly every couple minutes. I stop, wait, review, prompt again.<p>Is there anyone exploring something fundamentally different than the promp",
+      "engagement": {
+        "score": 138,
+        "comments": 161
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "这是一篇 Hacker News 上的社区讨论帖，作者反思当前 LLM 编程辅助工具（如 Claude Code、Codex）使用体验不佳，难以进入心流状态，并呼吁探索更根本的交互范式。",
+      "summaryEn": "This is a Hacker News community discussion post where the author critiques current LLM-based coding assistants (e.g., Claude Code, Codex) for disrupting flow state and calls for fundamentally new interaction paradigms beyond iterative prompting.",
+      "titleEn": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "hn-48776464",
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "author": "dimitropoulos",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-03T15:50:49.000Z",
+      "rawContent": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "engagement": {
+        "score": 244,
+        "comments": 87
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "该内容报道了一种通过将代码转为图像再用OCR识别来降低Fable平台成本60%的非常规优化策略，属于AI工程实践中的技巧性探索。",
+      "summaryEn": "This reports an unconventional cost-optimization technique—converting code to images and using OCR for processing—to cut Fable’s operational costs by 60%, reflecting pragmatic AI engineering experimentation.",
+      "titleEn": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 9.066666666666666
+    },
+    {
+      "id": "devto-4060682",
+      "title": "The Future of Agentic AI Memory Systems",
+      "url": "https://dev.to/xenocoregiger31/the-future-of-agentic-ai-memory-systems-5fdp",
+      "author": "XenoCoreGiger31",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T13:45:15Z",
+      "rawContent": "For most of the last three years, \"AI memory\" meant stuffing chat history into a context window and...",
+      "engagement": {
+        "likes": 5,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文探讨了具身智能体（Agentic AI）记忆系统的演进趋势，批判了当前依赖上下文窗口的简单记忆方法，并展望了长期、结构化、 retrievable 记忆架构的未来方向。",
+      "summaryEn": "This article discusses the evolution of memory systems for agentic AI, critiquing current context-window-based approaches and envisioning future architectures featuring persistent, structured, and queryable memory.",
+      "titleEn": "The Future of Agentic AI Memory Systems",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.8
+    },
+    {
+      "id": "devto-4061303",
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "url": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "author": "Iain Thomson",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T15:07:40Z",
+      "rawContent": "On the closing day of the AI Engineer World's Fair, industry leaders debated whether loops are ready...",
+      "engagement": {
+        "likes": 9,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文报道了AI工程师世界博览会闭幕日上行业专家关于‘循环（looping）是否已准备好取代传统编码’的分歧性讨论，聚焦AI编程范式的演进与争议。",
+      "summaryEn": "This article reports a divided expert debate at the AI Engineer World's Fair on whether 'looping'—an emerging AI-assisted iterative coding paradigm—is mature enough to supplant conventional software development workflows.",
+      "titleEn": "Is looping ready to roll? Experts split on the future of coding",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "devto-4060805",
+      "title": "Day 3: Watch your grammar with AI, it may cost you — Understanding BPE Tokenizers 🍓🔡",
+      "url": "https://dev.to/unitbuilds_cc/day-3-watch-your-grammar-with-ai-it-may-cost-you-understanding-bpe-tokenizers-54j",
+      "author": "UnitBuilds",
+      "platform": "devto",
+      "publishedAt": "2026-07-03T14:09:49Z",
+      "rawContent": "LLMs don't read letters. They read tokens. This interactive BPE sandbox shows you exactly why — and lets you exploit it.",
+      "engagement": {
+        "likes": 8,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "本文通过交互式BPE分词器沙盒，直观讲解大语言模型如何基于子词单元（而非字符）进行处理，并帮助读者理解分词错误对AI输出的影响及应对方法。",
+      "summaryEn": "This article uses an interactive BPE tokenizer sandbox to visually explain how LLMs process text at the subword (not character) level, helping readers understand how tokenization errors impact AI outputs and how to mitigate them.",
+      "titleEn": "Day 3: Watch your grammar with AI, it may cost you — Understanding BPE Tokenizers 🍓🔡",
+      "category": "教程",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333334
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79429,
+        "score": 15543
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成 7×24 全天候运行的协作团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.233333333333333
+    },
+    {
+      "id": "github-bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "author": "bytedance",
+      "platform": "github",
+      "publishedAt": "2025-05-07T02:50:19Z",
+      "rawContent": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "engagement": {
+        "likes": 76024,
+        "score": 10272
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "字节跳动开源的DEER-Flow是一个面向长周期复杂任务的超级智能体（SuperAgent）框架，支持研究、编程和内容创作，集成沙箱、记忆、工具、技能模块、子智能体及消息网关。",
+      "summaryEn": "ByteDance's open-source DEER-Flow is a long-horizon SuperAgent framework designed for complex, multi-step tasks spanning minutes to hours—including research, coding, and content creation—featuring sandboxes, memory, tool integration, skill modules, subagents, and a message gateway.",
+      "titleEn": "bytedance/deer-flow",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    }
+  ],
+  "stats": {
+    "totalCollected": 148,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
