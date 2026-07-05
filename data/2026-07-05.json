@@ -1,0 +1,476 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T03:54:37.689Z",
+  "items": [
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 140932,
+        "score": 23407
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型应用的开源框架，专注于代理（agent）工程、链式调用和工具集成，广泛应用于 AI 应用开发工作流。",
+      "summaryEn": "LangChain is an open-source framework for building LLM-powered applications, focused on agent engineering, chaining, and tool integration—widely used in AI development workflows.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 12.277777777777777
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147689,
+        "score": 23249
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专注于代理式（agentic）工作流的快速开发与部署，支持可视化编排、模型集成和应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for developing and deploying agentic workflows, featuring visual orchestration, LLM integration, and application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 54348,
+        "score": 47051
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源项目，整合多源行情数据、实时新闻、可视化决策看板和自动化推送功能，并支持零成本定时运行。",
+      "summaryEn": "This is an open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, and automated notifications—with support for cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85382,
+        "score": 18932
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 11.244444444444442
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151140,
+        "score": 9432
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-BerriAI/litellm",
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "author": "BerriAI",
+      "platform": "github",
+      "publishedAt": "2023-07-27T00:09:52Z",
+      "rawContent": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "engagement": {
+        "likes": 52618,
+        "score": 9468
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 8,
+        "actionability": 9
+      },
+      "summary": "litellm 是一个开源的 Python SDK 和 AI 网关代理服务器，支持以统一 OpenAI 兼容格式调用 100+ 种大语言模型 API，并内置成本追踪、安全护栏、负载均衡和日志功能。",
+      "summaryEn": "litellm is an open-source Python SDK and AI gateway proxy server that enables unified OpenAI-compatible calls to 100+ LLM APIs (including Bedrock, Azure, Vertex AI, Anthropic, etc.), with built-in cost tracking, guardrails, load balancing, and logging.",
+      "titleEn": "BerriAI/litellm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.605555555555556
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79460,
+        "score": 15551
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 代理组织成可全天候运行的‘AI 团队’，支持招聘、调度与报告等自动化运维能力。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7-operating 'AI team', enabling automated hiring, scheduling, and reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "github-OpenHands/OpenHands",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "author": "OpenHands",
+      "platform": "github",
+      "publishedAt": "2024-03-13T03:33:31Z",
+      "rawContent": "🙌 OpenHands: AI-Driven Development",
+      "engagement": {
+        "likes": 79439,
+        "score": 10119
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "OpenHands 是一个开源的 AI 自动化开发代理框架，支持在真实开发环境中执行端到端软件工程任务（如代码编写、调试、测试），并兼容多种大模型和工具环境。",
+      "summaryEn": "OpenHands is an open-source AI-driven development agent framework that enables end-to-end software engineering tasks—such as coding, debugging, and testing—in real development environments, with support for multiple LLMs and tool integrations.",
+      "titleEn": "OpenHands/OpenHands",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "author": "bytedance",
+      "platform": "github",
+      "publishedAt": "2025-05-07T02:50:19Z",
+      "rawContent": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "engagement": {
+        "likes": 76112,
+        "score": 10294
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Deer-Flow 是字节跳动开源的长时程超级智能体（SuperAgent）框架，支持研究、编码与内容生成，集成沙箱、记忆、工具链、技能模块、子智能体及消息网关，适用于分钟至小时级复杂任务。",
+      "summaryEn": "Deer-Flow is ByteDance's open-source long-horizon SuperAgent framework designed for research, coding, and content creation, featuring integrated sandboxes, memory, tool orchestration, skill modules, subagents, and a message gateway to handle complex tasks spanning minutes to hours.",
+      "titleEn": "bytedance/deer-flow",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "hn-48786245",
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "author": "adamraudonis",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-04T15:49:08.000Z",
+      "rawContent": "Fable created novel 4D splat format",
+      "engagement": {
+        "score": 123,
+        "comments": 46
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 9,
+        "actionability": 3
+      },
+      "summary": "Fable公司提出了一种新颖的4D splat格式，用于高效表示和渲染动态三维场景，属于前沿AI驱动的几何表征研究。",
+      "summaryEn": "Fable introduced a novel 4D splat format for efficient representation and rendering of dynamic 3D scenes, representing cutting-edge AI-driven geometric representation research.",
+      "titleEn": "Fable created novel 4D splat format",
+      "category": "论文",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.311111111111112
+    },
+    {
+      "id": "devto-4063740",
+      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
+      "url": "https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d",
+      "author": "UnitBuilds",
+      "platform": "devto",
+      "publishedAt": "2026-07-04T11:04:36Z",
+      "rawContent": "Survive endless waves of OOD data, prompt injections, and adversarial token splits inside a GPU Core while scaling your model architecture to 1T parameters.",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文以隐喻方式探讨超大规模（1万亿参数）模型推理所面临的现实挑战，包括分布外数据、提示注入和对抗性token分割等工程与安全问题。",
+      "summaryEn": "This article uses metaphorical language to discuss practical challenges in trillion-parameter model inference—including out-of-distribution data, prompt injection, and adversarial token splitting—highlighting engineering and safety concerns at extreme scale.",
+      "titleEn": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "github-zhayujie/CowAgent",
+      "title": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "author": "zhayujie",
+      "platform": "github",
+      "publishedAt": "2022-08-07T08:33:41Z",
+      "rawContent": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "engagement": {
+        "likes": 45791,
+        "score": 10250
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "CowAgent 是一个开源的轻量级 AI 智能体框架，支持多模型、多渠道任务规划、工具调用与自主演化，提供一键安装和高度可扩展架构。",
+      "summaryEn": "CowAgent is an open-source, lightweight AI agent framework that supports multi-model and multi-channel task planning, tool execution, and self-evolution via memory and knowledge—designed for extensibility and one-line deployment.",
+      "titleEn": "zhayujie/CowAgent",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2607.02271",
+      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "url": "https://huggingface.co/papers/2607.02271",
+      "author": "Haiyang Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may disrupt the fine-grained topology and textures essential for identity discrimination. We present AGVBench, which evaluates 30 representative augmentation strategies on five public palm- and finger-vein datasets with seven backbone architectures, covering classic CNNs, vision transformers, and vein-",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "AGVBench 是一项面向静脉识别任务的数据增强可靠性评估基准，系统评测了30种增强策略在5个公开静脉数据集和7种骨干网络上的表现，强调对细粒度拓扑与纹理特征的保持。该研究揭示了通用图像增强方法在生物特征识别中的局限性。",
+      "summaryEn": "AGVBench is a reliability-focused benchmark for evaluating data augmentation strategies in vein recognition, rigorously testing 30 methods across five public palm/finger-vein datasets and seven backbone architectures (including CNNs and ViTs), highlighting the inadequacy of generic image augmentations for preserving identity-critical fine-grained vein topology and texture.",
+      "titleEn": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.02512",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "author": "Wentao Zhang",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:59:50Z",
+      "rawContent": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (P",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出‘程序即权重’（Program-as-Weights）新范式，将模糊函数（如日志告警、JSON修复、意图排序）从自然语言描述编译为轻量、可本地执行的神经模型，旨在替代依赖LLM API的黑盒调用。该工作发表于arXiv，属前沿AI系统与编程语言交叉研究。",
+      "summaryEn": "This paper introduces 'Program-as-Weights', a novel programming paradigm that compiles fuzzy, specification-driven tasks (e.g., log alerting, JSON repair, intent-aware ranking) from natural-language descriptions into compact, locally executable neural artifacts—bypassing costly, non-reproducible LLM API calls. It is an arXiv preprint at the intersection of AI systems, programming languages, and neuro-symbolic compilation.",
+      "titleEn": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.02499",
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "author": "Gil Harari",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:57:31Z",
+      "rawContent": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and its variants in the community. Here, we implement and systematically compare a class of recently proposed matrix-structured optimizers, including Muon, SOAP, and the hybrid SOAP-Muon, for training Nequ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文是一篇arXiv预印本论文，系统评估了新型矩阵结构优化器（SOAP、Muon及其混合版本）在机器学习原子间势（MLIPs）训练中的性能，挑战了领域内长期依赖Adam优化器的惯例。",
+      "summaryEn": "This arXiv preprint systematically evaluates novel matrix-structured optimizers—SOAP, Muon, and their hybrid SOAP-Muon—for training machine learning interatomic potentials (MLIPs), challenging the field’s longstanding reliance on Adam.",
+      "titleEn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.01224",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://huggingface.co/papers/2607.01224",
+      "author": "Shengguang Wu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "rawContent": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class memory actions alongside task actions, letting the model itself decide how to manage its memory. This memory skill improves along two axes: the structure that supports it (prompts, file schemas, action ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "该研究提出AutoMem框架，将记忆管理建模为大语言模型可学习的认知技能，通过将文件系统操作提升为与任务操作同等的‘第一类记忆动作’，使模型自主决策记忆编码、检索与组织策略。",
+      "summaryEn": "This paper introduces AutoMem, a framework that treats memory management as a trainable cognitive skill for LLMs—elevating filesystem operations to first-class 'memory actions' alongside task actions, enabling models to autonomously learn what, when, and how to encode, retrieve, and organize knowledge.",
+      "titleEn": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.29961",
+      "title": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
+      "url": "https://huggingface.co/papers/2606.29961",
+      "author": "Peyman Hosseini",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "Large Language Model (LLM)-based agents can solve complex procedural tasks by interacting with environments over multiple turns, but this ability typically depends on large models, long contexts, and repeated inference calls. This makes advanced memory-augmented agents difficult to deploy on resource-constrained devices. We introduce DuoMem, a dual-space distillation framework that transfers procedural problem-solving ability from a large teacher model to compact student models. DuoMem distils i",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "DuoMem是一种双空间蒸馏框架，旨在将大语言模型的程序性问题解决能力高效迁移至轻量级学生模型，从而实现可在边缘设备上部署的记忆增强型智能体。",
+      "summaryEn": "DuoMem is a dual-space distillation framework that transfers procedural problem-solving capabilities from large teacher LLMs to compact student models, enabling capable memory-augmented agents deployable on resource-constrained on-device platforms.",
+      "titleEn": "DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2607.01002",
+      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "url": "https://huggingface.co/papers/2607.01002",
+      "author": "Aryo Pradipta Gema",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "rawContent": "In long-context use, large language models frequently synthesize answers from the meaning of a relevant context span rather than literally copy-pasting them. Identifying which attention heads perform this synthesis matters for interpreting long-context model behavior. Yet existing detectors miss these heads by construction: they reward heads whose attended token matches the generated token, a literal-copy criterion that captures where a head reads but not what it writes through its output-value ",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出Logit-Contribution Scoring方法，用于识别大语言模型中执行非字面检索（即语义合成而非直接复制）的注意力头，弥补了现有检测方法仅关注字面匹配的局限性。",
+      "summaryEn": "This paper introduces Logit-Contribution Scoring, a novel method to identify attention heads in large language models that perform non-literal retrieval—synthesizing answers from semantic context rather than copying tokens verbatim—addressing a key gap in existing head attribution techniques.",
+      "titleEn": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hf-2606.31924",
+      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "url": "https://huggingface.co/papers/2606.31924",
+      "author": "Xiaoyu Liu",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-29T20:00:00.000Z",
+      "rawContent": "Controllable image generation methods, such as ControlNet, have demonstrated a remarkable capacity to introduce visual conditions(e.g., depth maps) to guide image generation. However, these methods often struggle with complex multi-instance scenes, frequently leading to attribute confusion among instances. While recent approaches attempt to mitigate this via manual instance labeling, such requirements are labor-intensive. In this paper, we propose InstanceControl, a novel multi-instance controll",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出InstanceControl方法，无需实例标注即可实现复杂多实例场景下的可控图像生成，解决了ControlNet等现有方法在多实例中属性混淆的问题。",
+      "summaryEn": "This paper introduces InstanceControl, a novel method for controllable image generation in complex multi-instance scenes without requiring manual instance labeling—addressing attribute confusion issues prevalent in methods like ControlNet.",
+      "titleEn": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    },
+    {
+      "id": "arxiv-2607.02509",
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "author": "Yanjun Zhao",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:59:26Z",
+      "rawContent": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference metho",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 5
+      },
+      "summary": "本文提出ReContext方法，一种无需训练的推理技术，通过递归证据回放机制提升大语言模型在长上下文中的证据利用能力，弥补了模型虽能访问长文本却难以有效提取关键信息的缺陷。",
+      "summaryEn": "This paper introduces ReContext, a training-free inference method that enhances LLMs’ ability to reason over long contexts by recursively replaying relevant evidence—addressing the critical gap between context accessibility and effective evidence utilization.",
+      "titleEn": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.5
+    }
+  ],
+  "stats": {
+    "totalCollected": 138,
+    "totalScored": 43,
+    "totalPublished": 20
+  }
+}
