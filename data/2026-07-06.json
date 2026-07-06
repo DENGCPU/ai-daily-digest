@@ -1,0 +1,485 @@
+{
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-06T04:01:23.253Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 209778,
+        "score": 38353
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持持续学习与任务扩展。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs, supporting continual learning and task expansion.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162287,
+        "score": 33782
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的推理与训练，是AI开发中核心的模型定义框架。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library for defining, training, and deploying state-of-the-art ML models across text, vision, audio, and multimodal domains.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185395,
+        "score": 46121
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于其构建定制化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build custom agents on top of it.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175559,
+        "score": 16855
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Ollama 是一个开源的本地大模型运行工具，支持快速部署和运行包括 Kimi-K2.6、GLM-5.1、Qwen、Gemma 等多种主流开源与商用模型。",
+      "summaryEn": "Ollama is an open-source tool for running large language models locally, enabling quick setup and inference with models including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others.",
+      "titleEn": "ollama/ollama",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "devto-4073763",
+      "title": "Jetson Nano: Ollama & Optimal Quantization",
+      "url": "https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8",
+      "author": "Anna Villarreal",
+      "platform": "devto",
+      "publishedAt": "2026-07-05T16:06:31Z",
+      "rawContent": "I am delighted to announce that a user reported dysfunction so that I could go down the rabbit hole...",
+      "engagement": {
+        "likes": 6,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 9
+      },
+      "summary": "本文是一篇实操性极强的教程，详细介绍了如何在 NVIDIA Jetson Nano 边缘设备上部署 Ollama 并应用最优量化策略（如 GGUF 量化）以提升本地大模型推理性能。",
+      "summaryEn": "This is a hands-on tutorial detailing how to deploy Ollama on the NVIDIA Jetson Nano edge device and apply optimal quantization (e.g., GGUF) to enable efficient local LLM inference.",
+      "titleEn": "Jetson Nano: Ollama & Optimal Quantization",
+      "category": "教程",
+      "engagementPercentile": 0.5,
+      "finalScore": 10
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 141032,
+        "score": 23438
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "LangChain 是一个用于构建基于大语言模型应用的开源框架，专注于代理（agent）工程、链式调用与工具集成。",
+      "summaryEn": "LangChain is an open-source framework for developing LLM-powered applications, emphasizing agent engineering, chaining, and tool integration.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.655555555555555
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147816,
+        "score": 23279
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 119391,
+        "score": 20267
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级大语言模型推理框架，支持在 CPU 上高效运行 LLaMA 等开源模型，无需 GPU 即可本地部署。",
+      "summaryEn": "llama.cpp is a lightweight, C/C++-based LLM inference framework enabling efficient CPU-only execution of open-weight models like LLaMA, facilitating local, GPU-free deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-4071056",
+      "title": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
+      "url": "https://dev.to/teolex2020/can-you-build-an-alternative-to-llms-8-months-200-failed-experiments-one-wall-2-3776",
+      "author": "Oleksander",
+      "platform": "devto",
+      "publishedAt": "2026-07-05T07:22:18Z",
+      "rawContent": "This is part 2 of a research series documenting an attempt to build something adjacent to — and in...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文是系列文章第二部分，记录了一位开发者耗时8个月、经历约200次失败实验后，在构建大语言模型替代方案过程中遭遇的根本性瓶颈与反思。",
+      "summaryEn": "This is Part 2 of a reflective research series documenting an individual developer’s 8-month journey—featuring ~200 failed experiments—to build an alternative to large language models, culminating in deep technical and conceptual insights about fundamental limitations.",
+      "titleEn": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 9.350000000000001
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85443,
+        "score": 18992
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151208,
+        "score": 9447
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码/可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code/visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "devto-4071619",
+      "title": "Watermark removal isn't lossy — you've been using the wrong tool",
+      "url": "https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg",
+      "author": "KatySwift",
+      "platform": "devto",
+      "publishedAt": "2026-07-05T09:36:57Z",
+      "rawContent": "Ask anyone who has tried to remove a watermark from an image and they'll tell you the same thing: you...",
+      "engagement": {
+        "likes": 5,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "本文是一篇技术博客评论，质疑主流水印去除工具的“有损”假设，主张正确使用AI图像编辑工具（如 inpainting 模型）可实现无损水印移除，并指出用户常因工具选择或提示词不当导致质量下降。",
+      "summaryEn": "This is a technical blog post challenging the common assumption that watermark removal is inherently lossy, arguing instead that high-fidelity, near-lossless removal is possible with proper AI-based inpainting tools and techniques—when used correctly.",
+      "titleEn": "Watermark removal isn't lossy — you've been using the wrong tool",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.25
+    },
+    {
+      "id": "hn-48791380",
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "author": "handfuloflight",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-05T05:01:14.000Z",
+      "rawContent": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "engagement": {
+        "score": 38,
+        "comments": 46
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Mouse 是一款专为AI编程代理设计的高精度代码编辑工具套件，支持细粒度光标控制、结构化编辑和上下文感知修改，旨在提升AI代码生成与迭代的准确性和可控性。",
+      "summaryEn": "Mouse is a suite of precision editing tools designed specifically for AI coding agents, enabling fine-grained cursor control, structural editing, and context-aware code modifications to improve accuracy and controllability in AI-driven development.",
+      "titleEn": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 95856,
+        "score": 13964
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个开源项目，利用大语言模型和多模态AI技术实现一键生成高清短视频，支持本地部署和定制化扩展。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project that leverages large language models and multimodal AI to generate high-definition short videos with a single click, supporting local deployment and customization.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2607.02501",
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "url": "https://huggingface.co/papers/2607.02501",
+      "author": "Ling Xu",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, and robot-side glue code, especially on heterogeneous edge devices. Existing inference runtimes are designed mainly for request-response serving and therefore do not satisfy the runtime contract of embodied deployment: multi-rate execution inside closed-loop control, latency-first batch-1 inference on",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Embodied.cpp 是一个专为具身AI模型设计的轻量级、可移植推理运行时，支持在异构机器人边缘设备上高效部署视觉-语言-动作（VLA）和世界-动作模型（WAM），解决了现有Python栈碎片化与实时闭环控制需求不匹配的问题。",
+      "summaryEn": "Embodied.cpp is a lightweight, portable inference runtime designed specifically for embodied AI models (e.g., VLA and WAMs), enabling efficient deployment on heterogeneous edge robots by addressing fragmentation in Python-based stacks and supporting latency-critical, multi-rate closed-loop control.",
+      "titleEn": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2607.02512",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "author": "Wentao Zhang",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:59:50Z",
+      "rawContent": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (P",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 5
+      },
+      "summary": "本文提出‘程序即权重’（Program-as-Weights）新范式，将自然语言描述的模糊函数编译为轻量、可本地执行的神经网络构件，旨在替代依赖LLM API的不透明调用，提升可复现性与可控性。",
+      "summaryEn": "This paper introduces 'Program-as-Weights', a novel programming paradigm that compiles natural-language-specified fuzzy functions (e.g., log alerting, JSON repair) into compact, locally executable neural artifacts—offering an alternative to opaque, costly LLM API calls.",
+      "titleEn": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hf-2607.02271",
+      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "url": "https://huggingface.co/papers/2607.02271",
+      "author": "Haiyang Li",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-01T20:00:00.000Z",
+      "rawContent": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may disrupt the fine-grained topology and textures essential for identity discrimination. We present AGVBench, which evaluates 30 representative augmentation strategies on five public palm- and finger-vein datasets with seven backbone architectures, covering classic CNNs, vision transformers, and vein-",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "AGVBench 是一项面向静脉识别任务的可靠性导向数据增强基准，系统评估了30种增强策略在5个公开静脉数据集和7种骨干网络上的表现，揭示了通用图像增强方法在细粒度生物特征识别中的局限性。",
+      "summaryEn": "AGVBench is a reliability-oriented benchmark for evaluating data augmentation in vein recognition, systematically assessing 30 augmentation strategies across five public palm- and finger-vein datasets and seven backbone architectures—including CNNs and vision transformers—to expose the inadequacy of generic image augmentation for fine-grained biometric topology preservation.",
+      "titleEn": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.02499",
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "author": "Gil Harari",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-02T17:57:31Z",
+      "rawContent": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and its variants in the community. Here, we implement and systematically compare a class of recently proposed matrix-structured optimizers, including Muon, SOAP, and the hybrid SOAP-Muon, for training Nequ",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文探讨了用于机器学习原子间势（MLIPs）训练的新型矩阵结构优化器（如SOAP和Muon），挑战了该领域长期依赖Adam优化器的惯例，并通过系统实验验证其在加速收敛和减少标签数据需求方面的优势。",
+      "summaryEn": "This paper investigates novel matrix-structured optimizers—SOAP, Muon, and their hybrid—for training machine learning interatomic potentials (MLIPs), challenging the field’s longstanding reliance on Adam and demonstrating faster convergence and improved label efficiency through systematic experiments.",
+      "titleEn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hn-48792399",
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "author": "handfuloflight",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-05T08:43:37.000Z",
+      "rawContent": "Claude Design System Prompt",
+      "engagement": {
+        "score": 116,
+        "comments": 31
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 6
+      },
+      "summary": "该内容提供了一个针对Claude模型优化的系统化提示词设计框架，涵盖角色设定、任务分解、输出格式约束等实用技巧，属于AI提示工程的实践指南。",
+      "summaryEn": "This content presents a systematic prompt design framework optimized for Claude, covering role specification, task decomposition, and output formatting constraints—serving as a practical guide for AI prompt engineering.",
+      "titleEn": "Claude Design System Prompt",
+      "category": "教程",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 7.794444444444444
+    },
+    {
+      "id": "hn-48793542",
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "author": "ViktorEE",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-05T12:06:57.000Z",
+      "rawContent": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there&#x27;s a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is &quot;working&quot;.<p>We’re Emergence Engineering, a dev shop from Hungary, mostly working with rich text editors, CRDTs. PCBJam started as my (Viktor, CTO, ex-electrical engineer) hobby project but as time went on I put more\nand more energy into it, and a product started shaping up in my head, in the last few months we",
+      "engagement": {
+        "score": 98,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "这是一则关于KiCad（一款开源PCB设计工具）已成功移植至浏览器端的消息，用户可通过网页直接运行和编辑电路板设计项目，支持导入自有文件。该项目由匈牙利初创公司Emergence Engineering开发，目前处于公开演示阶段。",
+      "summaryEn": "This announces KiCad—a popular open-source PCB design suite—now running natively in the browser, enabling web-based PCB design with demo projects and user-uploaded files. Developed by Hungarian startup Emergence Engineering, it’s currently in public demo phase.",
+      "titleEn": "Show HN: KiCad in the Browser",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 7.777777777777779
+    }
+  ],
+  "stats": {
+    "totalCollected": 141,
+    "totalScored": 45,
+    "totalPublished": 20
+  }
+}
