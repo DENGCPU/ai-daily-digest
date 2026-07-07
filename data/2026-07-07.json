@@ -1,0 +1,482 @@
+{
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T03:52:30.986Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 210468,
+        "score": 38563
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "devto-4073269",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-07-06T07:28:29Z",
+      "rawContent": "I built a 36-pattern checklist to catch AI writing tells in my own drafts, calibrated against...",
+      "engagement": {
+        "likes": 36,
+        "comments": 19
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文提供了一份36项模式的自查清单，帮助作者识别和修正AI生成文本中的典型痕迹，强调人类在编辑与责任环节的关键作用。",
+      "summaryEn": "This article presents a 36-pattern checklist to help writers detect and revise 'AI tells'—stylistic, structural, and rhetorical hallmarks of AI-generated text—in their own drafts, stressing the human editor’s critical role in refining AI output.",
+      "titleEn": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "category": "教程",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.7
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162321,
+        "score": 33792
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，提供数千种预训练模型和统一API，支持文本、视觉、音频及多模态任务的推理与微调。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library offering thousands of pre-trained models and a unified API for inference and fine-tuning across text, vision, audio, and multimodal tasks.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "devto-4061444",
+      "title": "Where Do Your LLM API Keys Actually Live?",
+      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
+      "author": "Hadil Ben Abdallah",
+      "platform": "devto",
+      "publishedAt": "2026-07-06T08:32:55Z",
+      "rawContent": "If someone compromised one of your project's dependencies today, would they be able to steal your...",
+      "engagement": {
+        "likes": 34,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文是一篇面向开发者的安全实践指南，详细讲解如何安全地管理LLM API密钥（如避免硬编码、使用环境变量、密钥轮换和依赖供应链审计），并提供可立即实施的防护策略。",
+      "summaryEn": "This is a developer-focused security tutorial that explains best practices for securing LLM API keys—covering avoidance of hardcoded secrets, use of environment variables, key rotation, and supply-chain dependency auditing—with concrete, implementable steps.",
+      "titleEn": "Where Do Your LLM API Keys Actually Live?",
+      "category": "教程",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175623,
+        "score": 16863
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "该内容介绍 Ollama 工具支持运行多个主流开源大模型（如 Qwen、Gemma、DeepSeek 等），强调开箱即用的本地部署能力。",
+      "summaryEn": "This content introduces the Ollama tool, highlighting its ability to quickly run multiple mainstream open-weight LLMs—including Qwen, Gemma, DeepSeek, GLM, and others—locally with minimal setup.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 147953,
+        "score": 23300
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用，支持可视化编排、模型集成与 API 发布。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications, featuring visual orchestration, LLM integration, and API publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "devto-4080349",
+      "title": "PagedAttention: Navigating VRAM Fragmentation",
+      "url": "https://dev.to/unitbuilds_cc/pagedattention-navigating-vram-fragmentation-3521",
+      "author": "UnitBuilds",
+      "platform": "devto",
+      "publishedAt": "2026-07-06T13:19:41Z",
+      "rawContent": "A Tetris-style educational game simulating GPU memory scheduling. Pack token request blocks contiguously to avoid OOM crashes, or deploy virtual PagedAttention tables to split and route pages into fragmentation gaps.",
+      "engagement": {
+        "likes": 9,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文通过一款类似俄罗斯方块的交互式教育游戏，直观演示了PagedAttention如何解决GPU显存碎片化问题，帮助开发者理解内存调度与虚拟分页机制。",
+      "summaryEn": "This article uses a Tetris-style interactive educational game to intuitively demonstrate how PagedAttention mitigates GPU VRAM fragmentation by packing token blocks contiguously or deploying virtual page tables to utilize fragmented memory gaps.",
+      "titleEn": "PagedAttention: Navigating VRAM Fragmentation",
+      "category": "教程",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 119495,
+        "score": 20262
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级开源项目，专注于在 CPU 上高效运行大型语言模型（LLM），支持多种量化格式和跨平台部署。",
+      "summaryEn": "llama.cpp is a lightweight, open-source project written in C/C++ for efficient LLM inference on CPUs, supporting multiple quantization formats and cross-platform deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85545,
+        "score": 19047
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed for production deployment and featuring innovations like PagedAttention.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 146451,
+        "score": 8424
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "devto-4077549",
+      "title": "The LLM API Failure Policy I Wish I Had Before My First Production Incident",
+      "url": "https://dev.to/plasma_01/the-llm-api-failure-policy-i-wish-i-had-before-my-first-production-incident-36i8",
+      "author": "plasma",
+      "platform": "devto",
+      "publishedAt": "2026-07-06T07:33:55Z",
+      "rawContent": "Most LLM API error handling starts out looking like normal HTTP error handling.  If it is a 429,...",
+      "engagement": {
+        "likes": 5,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "本文是一篇面向生产环境的LLM API错误处理实战指南，系统梳理了常见故障类型（如429限流、503服务不可用、超时等）及对应的具体应对策略，强调从‘HTTP思维’转向‘LLM可靠性思维’。文章提供了可直接集成的重试逻辑、降级方案和监控指标建议。",
+      "summaryEn": "This is a practical, production-focused guide to LLM API error handling, detailing concrete strategies for common failures (e.g., 429 rate limiting, 503 errors, timeouts) and advocating a shift from generic HTTP resilience to LLM-specific reliability patterns—including retry backoffs, fallback models, circuit breakers, and observability practices.",
+      "titleEn": "The LLM API Failure Policy I Wish I Had Before My First Production Incident",
+      "category": "教程",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.183333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151257,
+        "score": 9453
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "devto-4022944",
+      "title": "Observability Design for the AI Era — Application / Infrastructure / CI / LLM, Each in Its Own Shape (Part 1)",
+      "url": "https://dev.to/ryantsuji/observability-design-for-the-ai-era-application-infrastructure-ci-llm-each-in-its-own-56eg",
+      "author": "Ryosuke Tsuji",
+      "platform": "devto",
+      "publishedAt": "2026-07-06T23:44:23Z",
+      "rawContent": "The previous code-graph series was about reshaping a static analysis graph so AI could query it. The same kind of reshaping is needed on the observability side. This post walks through four axes — application / infrastructure / CI / LLM — and the deliberately different shapes each one ends up in. The design judgments worth calling out: computing Gemini cost client-side instead of from billing API, sending Claude Code OTel straight to BigQuery instead of Loki, and shipping CI logs via post-hoc pu",
+      "engagement": {
+        "likes": 13,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文探讨AI时代可观测性设计的新范式，提出应用、基础设施、CI和LLM四大维度需采用差异化架构，并举例说明具体技术决策（如Gemini成本客户端计算、Claude日志直传BigQuery等）。",
+      "summaryEn": "This article proposes a new observability design paradigm for the AI era, arguing that application, infrastructure, CI, and LLM observability require fundamentally distinct architectural shapes, illustrated with concrete engineering decisions like client-side Gemini cost calculation and direct Claude Code OTel ingestion into BigQuery.",
+      "titleEn": "Observability Design for the AI Era — Application / Infrastructure / CI / LLM, Each in Its Own Shape (Part 1)",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "hn-48807225",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "author": "maxloh",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-06T16:47:44.000Z",
+      "rawContent": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "engagement": {
+        "score": 139,
+        "comments": 36
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "OfficeCLI 是一款专为AI智能体设计的命令行工具套件，支持读取和编辑 Microsoft Office 文档（如 Word、Excel、PowerPoint），填补了AI自动化办公场景中缺乏原生Office文件交互能力的空白。",
+      "summaryEn": "OfficeCLI is a command-line tool suite designed for AI agents to natively read and edit Microsoft Office files (e.g., DOCX, XLSX, PPTX), addressing a key gap in AI-powered office automation workflows.",
+      "titleEn": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 103176,
+        "score": 11423
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源库，旨在让网页对 AI 代理（如 LLM 驱动的自动化代理）更友好，支持在浏览器中可靠地执行网页交互与任务自动化。",
+      "summaryEn": "browser-use is an open-source library designed to make websites more accessible to AI agents (e.g., LLM-powered autonomous agents), enabling robust web interaction and task automation in browsers.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "arxiv-2607.05391",
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "author": "Jacky Kwok",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-06T17:59:35Z",
+      "rawContent": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that p",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出“LLM-as-a-Verifier”框架，将验证能力确立为大语言模型能力扩展的新维度，通过无需额外训练的细粒度反馈机制提升智能体任务的可靠性。该工作发表于arXiv，属于前沿AI基础研究。",
+      "summaryEn": "This paper introduces 'LLM-as-a-Verifier', a novel framework that establishes verification—the ability to assess solution correctness—as a new scaling axis for LLMs, enabling fine-grained, training-free feedback for agentic tasks. It is an arXiv preprint advancing foundational LLM reasoning paradigms.",
+      "titleEn": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "hn-48809877",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "author": "martinald",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-06T20:14:55.000Z",
+      "rawContent": "GLM 5.2 and the coming AI margin collapse",
+      "engagement": {
+        "score": 222,
+        "comments": 146
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文探讨了智谱GLM 5.2模型发布引发的行业影响，聚焦于AI模型性能提升与商业化成本下降可能导致的利润空间压缩趋势。",
+      "summaryEn": "This piece discusses the industry implications of Zhipu's GLM 5.2 release, focusing on how advancing AI model capabilities and falling deployment costs may drive a 'margin collapse' in AI businesses.",
+      "titleEn": "GLM 5.2 and the coming AI margin collapse",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.944444444444445
+    },
+    {
+      "id": "hf-2607.04438",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "url": "https://huggingface.co/papers/2607.04438",
+      "author": "Lingao Xiao",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-04T20:00:00.000Z",
+      "rawContent": "Research dissemination, turning a paper into a poster, a talk video, and a blog post, is still a manual last mile. Prior automation treats each artifact in isolation that each re-extract the paper from scratch, usually ship one-way renders the author cannot reopen in PowerPoint or Word, and gates quality on soft VLM-preference scores that plateau while load-bearing sections still read as empty. We argue this last mile is best built as a composition of skills: thin agent-readable contracts that s",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该研究提出ResearchStudio-Reel框架，旨在通过技能组合式架构自动化学术论文到海报、视频和博客的转化流程，解决现有方法中重复解析、不可编辑输出和质量评估瓶颈等问题。",
+      "summaryEn": "This paper introduces ResearchStudio-Reel, a framework that automates the 'last mile' of research dissemination—converting papers into posters, presentation videos, and blog posts—by composing modular, agent-readable skills to overcome fragmentation, non-editable outputs, and unreliable VLM-based quality gating.",
+      "titleEn": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.01793",
+      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "url": "https://huggingface.co/papers/2607.01793",
+      "author": "Yunhao Feng",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-03T20:00:00.000Z",
+      "rawContent": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them costly to extend as agents evolve. To this end, we present Vera, an end-to-end automated safety testing framework that instantiates software engineering testing principles for non-deterministic agents through a three-stage, s",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文提出Vera框架，将软件工程测试原则应用于大语言模型智能体的安全性评估，通过三阶段流程实现从风险发现到证据驱动验证的端到端自动化测试。",
+      "summaryEn": "This paper introduces Vera, an end-to-end automated safety testing framework that adapts software engineering testing principles to non-deterministic LLM agents, enabling scalable, evidence-grounded safety verification across three stages: risk discovery, test generation, and validation.",
+      "titleEn": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.04439",
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "url": "https://huggingface.co/papers/2607.04439",
+      "author": "Qihao Zhao",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-04T20:00:00.000Z",
+      "rawContent": "Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in current literature, identify meaningful bottlenecks, differentiate from existing solutions, and evaluate risks before committing to implementation. We present ResearchStudio-Idea as a reusable skill suite for this first mile of research ideation. The suite includes Paper-Search, a standalone multi-source",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "该研究提出ResearchStudio-Idea——一个基于实证的科研创意生成技能套件，聚焦于科研初期的问题定位、文献 grounding、瓶颈识别与风险评估，旨在提升AI辅助科研的严谨性与实用性。",
+      "summaryEn": "This paper introduces ResearchStudio-Idea, an evidence-grounded skill suite for the 'first mile' of research ideation—emphasizing literature grounding, bottleneck identification, differentiation from prior work, and risk assessment—addressing critical gaps in LLM-powered research assistance.",
+      "titleEn": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 154,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
