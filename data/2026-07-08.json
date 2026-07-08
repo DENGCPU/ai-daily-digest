@@ -1,0 +1,485 @@
+{
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T03:19:23.889Z",
+  "items": [
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162357,
+        "score": 33814
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的训练与推理，是AI开发中不可或缺的基础设施。该库持续更新，集成了大量预训练模型和标准化API。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling training and inference for state-of-the-art models across text, vision, audio, and multimodal domains, serving as foundational infrastructure for AI development.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 11.411111111111111
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 211072,
+        "score": 38748
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的自主智能体框架，旨在随用户需求演进并支持复杂任务编排；项目强调可扩展性、模块化设计和与现有工具链的集成。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source autonomous agent framework designed to evolve with user needs and support complex task orchestration, emphasizing extensibility, modularity, and integration with existing toolchains.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 11.25
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175684,
+        "score": 16880
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 8
+      },
+      "summary": "该内容介绍 Ollama 工具支持快速部署和运行多个主流开源大模型（如 Qwen、Gemma、DeepSeek 等），聚焦于本地 AI 模型的便捷使用。",
+      "summaryEn": "This content introduces Ollama as a tool enabling quick setup and local execution of multiple leading open-weight LLMs—including Qwen, Gemma, DeepSeek, GLM, and others—emphasizing streamlined, on-device AI inference.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 55604,
+        "score": 47996
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的多市场股票智能分析开源项目，整合多源行情数据、实时新闻、可视化决策看板与自动化推送功能，并支持零成本定时运行。",
+      "summaryEn": "This is an open-source, LLM-powered multi-market stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, and automated notifications—with support for cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-4064284",
+      "title": "AI Wrote a Thread-Safe Counter. The CPU Made It 5x Slower.",
+      "url": "https://dev.to/mrviduus/ai-wrote-a-thread-safe-counter-the-cpu-made-it-5x-slower-45n6",
+      "author": "Vasyl",
+      "platform": "devto",
+      "publishedAt": "2026-07-07T13:00:00Z",
+      "rawContent": "Meet the cache line.  I asked an AI assistant for a simple thing: per-thread counters. Four threads,...",
+      "engagement": {
+        "likes": 8,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文通过一个具体案例——AI生成的线程安全计数器因缓存行竞争导致性能下降5倍——深入讲解了CPU缓存行（cache line）对并发程序性能的影响，并提供了可验证的代码对比与优化方法。",
+      "summaryEn": "This article uses a concrete case—a thread-safe counter generated by AI that performed 5x slower due to cache-line contention—to explain the critical impact of CPU cache lines on concurrent performance, with hands-on code examples and practical optimization techniques.",
+      "titleEn": "AI Wrote a Thread-Safe Counter. The CPU Made It 5x Slower.",
+      "category": "教程",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148098,
+        "score": 23331
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，支持基于智能体（agentic）的工作流开发，提供可视化编排、模型集成与部署能力。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click deployment.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 119612,
+        "score": 20325
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个开源的 C/C++ 实现，专注于在 CPU 上高效运行大型语言模型（LLM）推理，支持量化、跨平台部署和轻量级集成。",
+      "summaryEn": "llama.cpp is an open-source C/C++ library for efficient LLM inference on CPUs, featuring quantization support, cross-platform compatibility, and lightweight integration.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "hn-48819808",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "author": "segmenta",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-07T16:10:44.000Z",
+      "rawContent": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).<p>Our repo is <a href=\"https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat</a>, and there’s a demo video here: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x",
+      "engagement": {
+        "score": 108,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Rowboat 是一个开源的、本地优先的桌面AI应用，旨在替代Claude Desktop，提供可自定义工作界面的全功能生产力环境。",
+      "summaryEn": "Rowboat is an open-source, local-first desktop AI application designed as a full-featured productivity alternative to Claude Desktop, enabling users to build custom work surfaces.",
+      "titleEn": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.533333333333333
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85650,
+        "score": 19092
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为优化吞吐量和降低显存开销而设计，广泛用于生产环境部署。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, designed to optimize latency, throughput, and GPU memory utilization—widely adopted for production LLM deployment.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.288888888888888
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 147327,
+        "score": 8458
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for large-scale web search, scraping, and interaction—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151328,
+        "score": 9470
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于大语言模型的AI智能体与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "devto-4083832",
+      "title": "Your RAG System Is Lying To You About That Table",
+      "url": "https://dev.to/saksheessawant/your-rag-system-is-lying-to-you-about-that-table-32gh",
+      "author": "Sakshee S. Sawant",
+      "platform": "devto",
+      "publishedAt": "2026-07-07T02:17:32Z",
+      "rawContent": "Retrieval Augmented Generation, or RAG, has become the default way to ask questions about long...",
+      "engagement": {
+        "likes": 8,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文深入剖析RAG系统在处理表格数据时的常见幻觉问题，通过具体案例揭示检索与生成环节的失效机制，并提供可落地的调试、验证与优化策略。",
+      "summaryEn": "This article examines common hallucination issues in RAG systems when handling tabular data, illustrating failure points in retrieval and generation with concrete examples, and provides practical, actionable strategies for debugging, validation, and optimization.",
+      "titleEn": "Your RAG System Is Lying To You About That Table",
+      "category": "教程",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48815117",
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-07T08:39:51.000Z",
+      "rawContent": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "engagement": {
+        "score": 109,
+        "comments": 97
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "这篇Hacker News文章报道了YC CEO声称每日交付37K行AI相关代码的言论，并引述一位开发者的质疑性技术分析，探讨其可行性与实际工作流含义，属于行业观点与社区验证性质的讨论。",
+      "summaryEn": "This Hacker News post reports on YC CEO's claim of shipping 37K lines of AI code per day and features a developer's skeptical, behind-the-scenes technical analysis—sparking community debate about productivity metrics, AI-assisted development realism, and engineering transparency.",
+      "titleEn": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 8.250000000000002
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "engagement": {
+        "likes": 96211,
+        "score": 14038
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "MoneyPrinterTurbo 是一个基于大语言模型的开源项目，支持一键生成高清短视频，集成了文本生成、语音合成、图像/视频生成等AI能力。",
+      "summaryEn": "MoneyPrinterTurbo is an open-source project leveraging large language models to enable one-click generation of high-definition short videos, integrating text generation, speech synthesis, and image/video generation capabilities.",
+      "titleEn": "harry0703/MoneyPrinterTurbo",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-4090866",
+      "title": "Building a physical API",
+      "url": "https://dev.to/infoslack/building-a-physical-api-3488",
+      "author": "Daniel Romero",
+      "platform": "devto",
+      "publishedAt": "2026-07-07T18:51:55Z",
+      "rawContent": "Now my journey on building a physical API for the robot. It goes through sentinel, a Rust daemon that listens to the CAN bus and turns the robot's own traffic into telemetry, the API and time series database behind it, Grafana for dashboards and alerts, and a control plane where a live 3D copy of the arm mirrors the real one.",
+      "engagement": {
+        "likes": 11,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文介绍了如何为机器人构建一个“物理API”系统，涵盖基于Rust的CAN总线监听守护进程、时序数据库、Grafana可视化与告警，以及实时3D镜像控制平面，属于AI/机器人系统集成的实践指南。",
+      "summaryEn": "This article details the practical implementation of a 'physical API' for a robot—integrating a Rust-based CAN bus daemon (Sentinel), time-series database, Grafana dashboards/alerts, and a live 3D digital twin control plane—offering hands-on insights for AI-enabled robotics infrastructure.",
+      "titleEn": "Building a physical API",
+      "category": "教程",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 7.88888888888889
+    },
+    {
+      "id": "devto-4086982",
+      "title": "The AI conversation is shifting from \"what can it do\" to \"can we rely on it\"",
+      "url": "https://dev.to/cyclopt_dimitrisk/the-ai-conversation-is-shifting-from-what-can-it-do-to-can-we-rely-on-it-2ja7",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-07-07T10:02:16Z",
+      "rawContent": "The capability phase is over   For the past two years, the AI conversation has been about...",
+      "engagement": {
+        "likes": 15,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "本文指出AI行业正从关注能力转向关注可靠性，强调信任、安全与责任成为新焦点，反映了当前AI发展的重要范式转变。",
+      "summaryEn": "This article argues that the AI discourse is shifting from 'what can it do?' to 'can we rely on it?', highlighting trust, safety, and accountability as the new central concerns in AI development and deployment.",
+      "titleEn": "The AI conversation is shifting from \"what can it do\" to \"can we rely on it\"",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 7.866666666666667
+    },
+    {
+      "id": "hn-48816900",
+      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "url": "https://postgres.saneengineer.com",
+      "author": "anivan_",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-07T12:40:28.000Z",
+      "rawContent": "Hey! I&#x27;m Andrei.<p>I got frustrated by how people tend to build overcomplicated backend systems, being &quot;motivated&quot; by big tech case studies and popular books.<p>So, I started exploring lean architecture, and building my digital garden of ideas, approaches and data that align with this direction.<p>Here I want to present one of the tools – Sizing tool for PostgreSQL. I&#x27;ve benchmarked PostgreSQL on different EC2 instances and disks, with different initial data sets to see perfo",
+      "engagement": {
+        "score": 83,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 8
+      },
+      "summary": "这是一篇介绍 PostgreSQL 性能与成本权衡分析工具的 Hacker News 分享，基于在 23 种 AWS EC2 实例类型上的实测基准数据，旨在支持轻量级后端架构决策。",
+      "summaryEn": "This is a Hacker News post introducing a PostgreSQL sizing tool, presenting benchmarked performance and cost data across 23 AWS EC2 instance types to inform lean backend architecture decisions.",
+      "titleEn": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "category": "工具",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 7.816666666666668
+    },
+    {
+      "id": "hf-2607.05722",
+      "title": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
+      "url": "https://huggingface.co/papers/2607.05722",
+      "author": "Yonggan Fu",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-06T20:00:00.000Z",
+      "rawContent": "We introduce Nemotron-Labs-Diffusion, a tri-mode language model (LM) that unifies AR, diffusion, and self-speculation decoding within a single architecture. Trained with a joint AR-diffusion objective, Nemotron-Labs-Diffusion can switch modes to sustain high throughput across deployment settings and concurrency levels. Our study shows that (1) AR and diffusion objectives are complementary: diffusion improves lookahead planning, while AR provides left-to-right linguistic priors. (2) In self-specu",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 4
+      },
+      "summary": "本文提出Nemotron-Labs-Diffusion，一种支持自回归、扩散和自推测三种解码模式的统一语言模型架构，通过联合训练目标实现模式动态切换与性能协同优化。",
+      "summaryEn": "This work introduces Nemotron-Labs-Diffusion, a unified tri-mode language model supporting autoregressive, diffusion, and self-speculative decoding within a single architecture, enabled by joint AR-diffusion training to enable adaptive, high-throughput inference.",
+      "titleEn": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.06558",
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "url": "https://huggingface.co/papers/2607.06558",
+      "author": "Haoyu Zhao",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-06T20:00:00.000Z",
+      "rawContent": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware and workspaces. We introduce digital teleoperation, a paradigm that decouples data collection from physical constraints by replacing the real robot with a generative world model. In this framework, an operator's hand-pose stream drives a robot-centric generative world model to synthesize high-fidel",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出RynnWorld-Teleop——一种动作条件化的生成式世界模型，用于数字遥操作，旨在突破物理遥操作在数据采集中的硬件与时空瓶颈。该方法通过手部姿态流驱动机器人中心的世界模型，合成高保真仿真轨迹。",
+      "summaryEn": "This paper introduces RynnWorld-Teleop, an action-conditioned generative world model for digital teleoperation, designed to overcome hardware and spatial-temporal bottlenecks in physical robot teleoperation data collection. It synthesizes high-fidelity robotic trajectories using only operator hand-pose streams.",
+      "titleEn": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "devto-4091284",
+      "title": "Being an engineer in the AI era",
+      "url": "https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p",
+      "author": "Alexandra",
+      "platform": "devto",
+      "publishedAt": "2026-07-07T20:10:15Z",
+      "rawContent": "I hesitated to write this.  Not because I don’t have an opinion about AI in software engineering, but...",
+      "engagement": {
+        "likes": 20,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 4,
+        "actionability": 5
+      },
+      "summary": "这是一篇关于AI时代软件工程师角色演变的反思性文章，探讨了AI对工程实践、技能需求和职业心态的影响。",
+      "summaryEn": "This is a reflective essay on the evolving role of software engineers in the AI era, examining how AI reshapes engineering practices, skill requirements, and professional mindset.",
+      "titleEn": "Being an engineer in the AI era",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 7.638888888888888
+    }
+  ],
+  "stats": {
+    "totalCollected": 149,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
