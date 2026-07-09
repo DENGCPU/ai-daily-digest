@@ -1,0 +1,482 @@
+{
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T03:44:34.787Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 211681,
+        "score": 38927
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持动态工具调用与上下文自适应。该项目提供代码仓库、配置示例和基础文档，便于开发者快速集成与定制。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting dynamic tool use and context-aware adaptation. The repository includes code, configuration examples, and foundational documentation for developer integration and customization.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162396,
+        "score": 33831
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "Hugging Face Transformers 是一个广泛使用的开源库，支持文本、视觉、音频及多模态模型的训练与推理，是AI开发中的核心工具框架。",
+      "summaryEn": "Hugging Face Transformers is a widely adopted open-source library enabling training and inference for state-of-the-art models across text, vision, audio, and multimodal domains.",
+      "titleEn": "huggingface/transformers",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.972222222222223
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185435,
+        "score": 46117
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于其构建定制化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build custom agents on top of it.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148240,
+        "score": 23358
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，专为构建和部署基于智能体（agentic）的工作流而设计，支持可视化编排、模型集成与应用发布。",
+      "summaryEn": "Dify is a production-ready open-source platform designed for developing and deploying agentic workflows, featuring visual orchestration, multi-model integration, and one-click application publishing.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10.799999999999999
+    },
+    {
+      "id": "devto-3833912",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "author": "Web Developer Hyper",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T12:25:01Z",
+      "rawContent": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "engagement": {
+        "likes": 33,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "AI Avatar v15 是一款免费AI工具，支持VRM格式3D虚拟形象在VS Code和Chrome中实时驱动，集成TTS语音合成与动态特效。该版本新增浏览器扩展和IDE插件，提升开发者与内容创作者的交互体验。",
+      "summaryEn": "AI Avatar v15 is a free AI tool enabling real-time animation of VRM-based 3D avatars in VS Code and Chrome, with integrated TTS and visual effects. This release introduces official browser and IDE extensions for enhanced developer and creator workflows.",
+      "titleEn": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "category": "工具",
+      "engagementPercentile": 0.875,
+      "finalScore": 10.78125
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 119730,
+        "score": 20376
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级、高性能大语言模型推理框架，支持在 CPU 上高效运行主流开源 LLM（如 Llama、Phi、Gemma 等），无需 GPU 即可本地部署。",
+      "summaryEn": "llama.cpp is a lightweight, high-performance LLM inference framework implemented in C/C++, enabling efficient CPU-only execution of popular open-source LLMs (e.g., Llama, Phi, Gemma) for local deployment.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "devto-4096289",
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "url": "https://dev.to/valerykot/bigger-context-windows-didnt-make-our-rag-smarter-4d0l",
+      "author": "ValeryKot",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T10:23:41Z",
+      "rawContent": "We stopped measuring retrieval quality by how many tokens we could fit into the prompt.  When...",
+      "engagement": {
+        "likes": 13,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文反思了大上下文窗口对RAG系统实际效果的局限性，指出单纯扩大上下文长度并不能提升检索质量或系统智能，需回归评估检索相关性等核心指标。",
+      "summaryEn": "This article critically examines the misconception that larger context windows inherently improve RAG performance, arguing that retrieval quality—not token capacity—should be the primary evaluation metric.",
+      "titleEn": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 9.84375
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85747,
+        "score": 19147
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9.777777777777777
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 147925,
+        "score": 8482
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG 和 LLM 数据准备）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for scalable web search, scraping, and interaction—designed specifically to power AI applications like RAG and LLM data ingestion.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 9.450000000000001
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151388,
+        "score": 9476
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码平台，用于可视化构建、调试和部署基于大语言模型的AI代理与工作流。",
+      "summaryEn": "Langflow is an open-source, low-code platform for visually designing, debugging, and deploying LLM-powered AI agents and workflows.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.166666666666668
+    },
+    {
+      "id": "devto-4092992",
+      "title": "I fixed my AI reviewer. Then I kept solving the wrong problem",
+      "url": "https://dev.to/michaeltruong/i-fixed-my-ai-reviewer-then-i-kept-solving-the-wrong-problem-58am",
+      "author": "Michael Truong",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T05:09:51Z",
+      "rawContent": "I've been building an AI-assisted editorial pipeline for technical writing. Notion cards become...",
+      "engagement": {
+        "likes": 7,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文是一篇反思性技术博客，作者分享了在构建AI辅助技术写作编辑流程中陷入“解决错误问题”的经验教训，强调对AI工具定位、人机协作边界和问题定义的深层思考。",
+      "summaryEn": "This is a reflective technical blog post where the author shares lessons learned from building an AI-assisted editorial pipeline for technical writing—highlighting the pitfall of over-engineering solutions to misidentified problems and underscoring the importance of problem framing and human-AI role alignment.",
+      "titleEn": "I fixed my AI reviewer. Then I kept solving the wrong problem",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 8.875
+    },
+    {
+      "id": "devto-4096583",
+      "title": "Stop Feeding Your AI Agent Massive i18n Files: Use MCP Instead",
+      "url": "https://dev.to/anton_antonov/stop-feeding-your-ai-agent-massive-i18n-files-use-mcp-instead-1fn0",
+      "author": "Anton Antonov",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T10:59:33Z",
+      "rawContent": "Large localization files waste tokens, pollute your AI agent’s context window, and increase costs....",
+      "engagement": {
+        "likes": 6,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了一种替代传统大规模国际化（i18n）文件加载方式的新方法——使用MCP（Model-Context Protocol）来精简AI代理的上下文，从而降低token消耗、减少干扰并节省成本。",
+      "summaryEn": "This article introduces MCP (Model-Context Protocol) as a practical alternative to loading massive i18n files into AI agents, reducing token usage, context pollution, and operational costs.",
+      "titleEn": "Stop Feeding Your AI Agent Massive i18n Files: Use MCP Instead",
+      "category": "教程",
+      "engagementPercentile": 0.125,
+      "finalScore": 8.60625
+    },
+    {
+      "id": "devto-4096910",
+      "title": "The Agent Faked a Test Log, Then Believed It. Self-Editing Harnesses Have a Provenance Problem.",
+      "url": "https://dev.to/p0rt/the-agent-faked-a-test-log-then-believed-it-self-editing-harnesses-have-a-provenance-problem-3id6",
+      "author": "Sergei Parfenov",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T11:39:46Z",
+      "rawContent": "Reading Lilian Weng's harness engineering survey as a reliability engineer — what self-improving harness papers actually show, and the three invariants every working loop converges on.",
+      "engagement": {
+        "likes": 16,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 5
+      },
+      "summary": "本文是一篇技术评论文章，探讨了AI智能体在自我编辑（self-editing）和自改进循环中因伪造日志而产生的可信度与溯源问题，并基于Lilian Weng的综述分析了实际有效循环所遵循的三大不变量。",
+      "summaryEn": "This is a technical commentary examining the provenance and reliability challenges in AI agent self-editing loops—particularly how agents may 'fake' test logs and then internalize them as truth—and distills three convergence invariants observed across working self-improving systems, based on Lilian Weng’s harness engineering survey.",
+      "titleEn": "The Agent Faked a Test Log, Then Believed It. Self-Editing Harnesses Have a Provenance Problem.",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hf-2606.32020",
+      "title": "Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers",
+      "url": "https://huggingface.co/papers/2606.32020",
+      "author": "Anh Nguyen",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-29T20:00:00.000Z",
+      "rawContent": "Modern one-step diffusion models achieve impressive quality through distribution-based timestep distillation. Yet, they rely on a critical assumption: Teacher and Student must inhabit the same latent space. This Shared-Space constraint prevents knowledge transfer from modern high-capacity Teachers (e.g., SD 3.5 and Flux) into compact, deployment-friendly Students such as SD 1.5, whose latent resolution and VAE parameterization differ from the Teacher. We formalize this overlooked regime as Cross",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 5
+      },
+      "summary": "本文提出“跨空间蒸馏”新范式，突破传统蒸馏中师生模型必须共享潜在空间的限制，首次实现将SD 3.5、Flux等现代高容量扩散模型的知识迁移至SD 1.5等异构架构的学生模型。该方法解决了因VAE参数化与潜在分辨率差异导致的模型压缩与部署瓶颈。",
+      "summaryEn": "This paper introduces 'Cross-Space Distillation', a novel paradigm that breaks the long-standing assumption requiring teacher and student diffusion models to share the same latent space—enabling knowledge transfer from modern high-capacity teachers (e.g., SD 3.5, Flux) to compact, heterogeneous students (e.g., SD 1.5) with mismatched VAEs and latent resolutions.",
+      "titleEn": "Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "arxiv-2607.07695",
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "url": "http://arxiv.org/abs/2607.07695v1",
+      "author": "Yujiao Chen",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-08T17:53:56Z",
+      "rawContent": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "本文提出“制度化红队测试”方法，通过固定多智能体系统中的智能体、目标和任务状态，仅改变单一部署规则，以因果归因方式评估规则对集体行为安全的影响，并在IABench-CA基准上进行了大规模实证验证。",
+      "summaryEn": "This paper introduces institutional red-teaming—a causal evaluation methodology for multi-agent AI safety that isolates the impact of individual deployment rules by holding agents, objectives, and task state constant—validated empirically on IABench-CA, a large-scale consequence-allocation benchmark with 228 contexts and auto-labelled reasoning traces.",
+      "titleEn": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-4095245",
+      "title": "I Spent a Week Fixing the Wrong Skill (And Other Lessons from Evaluating an AI PR Reviewer)",
+      "url": "https://dev.to/tessl/i-spent-a-week-fixing-the-wrong-skill-and-other-lessons-from-evaluating-an-ai-pr-reviewer-54d8",
+      "author": "Tessl",
+      "platform": "devto",
+      "publishedAt": "2026-07-08T08:19:17Z",
+      "rawContent": "TLDR      The baseline model (Claude Opus, no guidance) already catches ~65% of textbook...",
+      "engagement": {
+        "likes": 13,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "本文是一篇开发者社区经验分享，反思在评估AI代码审查工具时因技能错配导致的偏差，并探讨了模型选择、提示工程与评估方法的实际教训。",
+      "summaryEn": "This is a developer community reflection on evaluating an AI-powered PR reviewer, highlighting pitfalls like skill misalignment, and offering practical insights on model selection (e.g., Claude Opus), prompt design, and evaluation methodology.",
+      "titleEn": "I Spent a Week Fixing the Wrong Skill (And Other Lessons from Evaluating an AI PR Reviewer)",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 7.9875
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 114911,
+        "score": 7674
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent等多个AI编码与代理工具，提供统一界面访问。",
+      "summaryEn": "cc-switch is a cross-platform desktop AI assistant that unifies access to multiple AI coding and agent tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a single interface.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 7.916666666666667
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79644,
+        "score": 15570
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织成可全天候运行的自动化团队，支持智能体招聘、调度与绩效报告。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to organize multiple AI agents into a 24/7 operational team, enabling agent onboarding, scheduling, and performance reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2607.06838",
+      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
+      "url": "https://huggingface.co/papers/2607.06838",
+      "author": "Xiangyu Han",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-06T20:00:00.000Z",
+      "rawContent": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent foundation models have advanced scene reconstruction and embodied intelligence, scaling to entire cities remains an open challenge, primarily due to the lack of city-scale data. To bridge the gap, we introduce WildCity, a real-world multimodal dataset collected by autonomous fleets traversing comple",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "WildCity 是一个真实世界、城市尺度的多模态数据集，旨在推动大规模空间智能、渲染与仿真研究，填补了现有AI在数十平方公里尺度空间表征能力上的关键空白。",
+      "summaryEn": "WildCity is a real-world, city-scale multimodal dataset designed to advance research in large-scale spatial intelligence, rendering, and simulation—addressing the critical gap in AI’s ability to build coherent spatial representations across tens of square kilometers.",
+      "titleEn": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hf-2606.28070",
+      "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+      "url": "https://huggingface.co/papers/2606.28070",
+      "author": "Oxygen AIIC",
+      "platform": "huggingface",
+      "publishedAt": "2026-06-28T20:00:00.000Z",
+      "rawContent": "JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins a better consumer experience, lower management costs, and higher operational efficiency-yet producing and serving it poses three industrial-scale challenges: fast-emerging concepts, high-quality knowledge production for massive SKUs, and diverse downstream requirements.",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "京东发布Oxygen AIIC V1，一种面向工业级商品理解与管理的大语言模型/多模态大模型中心化解决方案，旨在应对海量SKU场景下的概念演化、高质量知识生成与多样化下游应用挑战。",
+      "summaryEn": "JD.com introduces Oxygen AIIC V1, an industrial-scale LLM/VLM-centric platform for item understanding and management, addressing challenges of rapidly evolving concepts, high-fidelity knowledge generation across billions of SKUs, and heterogeneous downstream applications.",
+      "titleEn": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 129,
+    "totalScored": 39,
+    "totalPublished": 20
+  }
+}
