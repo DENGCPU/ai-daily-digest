@@ -1,0 +1,488 @@
+{
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T03:47:06.148Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 212293,
+        "score": 39124
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持自主任务规划与工具调用。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting autonomous task planning and tool use.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 141421,
+        "score": 23501
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "LangChain 是一个开源的代理工程平台，用于构建基于大语言模型的应用程序，支持链式调用、工具集成和智能体（Agent）开发。",
+      "summaryEn": "LangChain is an open-source agent engineering platform for building LLM-powered applications, enabling chaining, tool integration, and agentic workflows.",
+      "titleEn": "langchain-ai/langchain",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.86111111111111
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185441,
+        "score": 46112
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "AutoGPT 是一个开源自主AI代理框架，旨在降低AI应用与开发门槛，支持用户基于LLM构建可自主运行的智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to democratize AI usage and development, enabling users to build LLM-powered agents that operate independently.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 10.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 175837,
+        "score": 16907
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 7
+      },
+      "summary": "该内容介绍Ollama平台对多个主流开源与商用大模型（如Kimi-K2.6、GLM-5.1、Qwen、Gemma等）的即开即用支持，聚焦于本地AI模型部署与运行体验。",
+      "summaryEn": "This content highlights Ollama’s out-of-the-box support for multiple prominent open and commercial LLMs—including Kimi-K2.6, GLM-5.1, Qwen, Gemma, and others—enabling local, one-command model execution.",
+      "titleEn": "ollama/ollama",
+      "category": "工具",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 10.416666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148349,
+        "score": 23382
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Dify 是一个面向生产环境的开源平台，用于构建和部署基于智能体（agentic）的工作流应用。",
+      "summaryEn": "Dify is a production-ready open-source platform for building and deploying agentic workflow applications.",
+      "titleEn": "langgenius/dify",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 119827,
+        "score": 20403
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "llama.cpp 是一个用 C/C++ 实现的轻量级开源项目，专注于在本地 CPU 上高效运行大型语言模型（LLM），无需 GPU 即可完成推理。",
+      "summaryEn": "llama.cpp is a lightweight open-source project written in C/C++ that enables efficient local LLM inference on CPUs without requiring GPUs.",
+      "titleEn": "ggml-org/llama.cpp",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 9.9
+    },
+    {
+      "id": "devto-4103895",
+      "title": "An alternative to LLM quality gates: deterministic routing + sampling",
+      "url": "https://dev.to/zxpmail/an-alternative-to-llm-quality-gates-deterministic-routing-sampling-1ilf",
+      "author": "zxpmail",
+      "platform": "devto",
+      "publishedAt": "2026-07-09T12:16:29Z",
+      "rawContent": "Every \"agent quality gate\" I tested shares one fatal assumption: that an LLM can judge whether an LLM...",
+      "engagement": {
+        "likes": 8,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文批判现有大语言模型（LLM）质量门控机制的固有缺陷，提出“确定性路由+采样”作为替代方案，并探讨其在AI代理系统中的理论优势与实践挑战。",
+      "summaryEn": "This article critiques the fundamental assumption underlying current LLM-based 'agent quality gates'—that an LLM can reliably self-assess—and proposes 'deterministic routing + sampling' as a more robust, non-LLM-dependent alternative for agent reliability.",
+      "titleEn": "An alternative to LLM quality gates: deterministic routing + sampling",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 9.375
+    },
+    {
+      "id": "github-Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "platform": "github",
+      "publishedAt": "2024-04-29T05:30:25Z",
+      "rawContent": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "engagement": {
+        "likes": 117139,
+        "score": 17419
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "这是一个GitHub上的开源精选列表，汇总了100多个可本地运行、克隆、定制和部署的LLM智能体与RAG应用项目。",
+      "summaryEn": "This is a GitHub-hosted open-source curated list featuring 100+ runnable LLM agent and RAG applications—designed to be cloned, customized, and deployed immediately.",
+      "titleEn": "Shubhamsaboo/awesome-llm-apps",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 9.183333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 148491,
+        "score": 8500
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可编程 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a programmable API for large-scale web search, scraping, and interaction—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85856,
+        "score": 19208
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 8.799999999999999
+    },
+    {
+      "id": "devto-4105551",
+      "title": "Run Amazon Bedrock locally, with real completions from Ollama",
+      "url": "https://dev.to/nahuel990/run-amazon-bedrock-locally-with-real-completions-from-ollama-223k",
+      "author": "Nahuel Nucera",
+      "platform": "devto",
+      "publishedAt": "2026-07-09T12:15:03Z",
+      "rawContent": "MiniStack 1.4.0 ships four new services that emulate Amazon Bedrock end to end, and one env var that...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "MiniStack 1.4.0 是一款本地运行的开源工具，通过模拟 Amazon Bedrock 的完整 API 接口，支持与 Ollama 集成实现真实模型补全，使开发者能在本地环境无缝测试和开发 Bedrock 兼容应用。",
+      "summaryEn": "MiniStack 1.4.0 is a local toolkit that fully emulates Amazon Bedrock’s API endpoints and integrates with Ollama to deliver real LLM completions—enabling local development and testing of Bedrock-compatible applications without cloud dependencies.",
+      "titleEn": "Run Amazon Bedrock locally, with real completions from Ollama",
+      "category": "工具",
+      "engagementPercentile": 0.16666666666666666,
+      "finalScore": 8.774999999999999
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151463,
+        "score": 9524
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 8.75
+    },
+    {
+      "id": "hn-48845422",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "author": "ronak_parmar",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-09T13:23:10.000Z",
+      "rawContent": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "engagement": {
+        "score": 86,
+        "comments": 58
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "FableCut 是一款零依赖的浏览器内视频编辑器，专为被 AI 代理（如 LLM 驱动的自动化工作流）调用而设计，支持通过 API 或指令驱动剪辑、拼接等操作。",
+      "summaryEn": "FableCut is a zero-dependency, browser-based video editor designed to be programmatically driven by AI agents (e.g., LLM-powered automation), enabling API- or instruction-based editing tasks like trimming and concatenation.",
+      "titleEn": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.666666666666666
+    },
+    {
+      "id": "hn-48847562",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "url": "https://www.context.dev",
+      "author": "TheYahiaBakour",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-09T15:28:39.000Z",
+      "rawContent": "Hi Hacker News, I’m Yahia. I built Context.dev (<a href=\"https:&#x2F;&#x2F;www.context.dev&#x2F;\">https:&#x2F;&#x2F;www.context.dev&#x2F;</a>) to make it really easy to integrate web data into your products and agents.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-faster-with-context-dev-apis-2cgl\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-faster-with-context-dev-api...</a><p>Since it’s an API, here are the docs: <a href=\"https:&#x",
+      "engagement": {
+        "score": 77,
+        "comments": 56
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "Context.dev 是一家 YC 孵化（S26）的新创公司，提供 Web 数据结构化提取 API，专为 AI 应用、智能体（agents）和产品集成设计，支持快速接入网页内容。",
+      "summaryEn": "Context.dev is a YC S26 startup offering a structured web data extraction API, designed for seamless integration into AI applications, agents, and production products.",
+      "titleEn": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "category": "工具",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "hn-48852199",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "author": "catalinvoss",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-09T20:51:06.000Z",
+      "rawContent": "Hey HN! We&#x27;ve spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a str",
+      "engagement": {
+        "score": 60,
+        "comments": 85
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 4
+      },
+      "summary": "本文介绍了一款面向4–9岁儿童的实时AI辅导工具，强调其在实时UX引导与动态教学决策方面的技术突破，但未提供具体实现细节或开源代码。",
+      "summaryEn": "This post introduces a real-time AI tutor designed for children aged 4–9, highlighting technical innovations in real-time UX steering and on-the-fly pedagogical decision-making—though implementation details or code are not shared.",
+      "titleEn": "Building a real-time AI tutor for 5-year-olds",
+      "category": "工具",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 8.433333333333334
+    },
+    {
+      "id": "hf-2607.03118",
+      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
+      "url": "https://huggingface.co/papers/2607.03118",
+      "author": "Jintao Zhang",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-02T20:00:00.000Z",
+      "rawContent": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions. Vidu S1 supports infinite-length real-time video generation without blurring, drift, or visual distortion. Built with TurboDiffusion and TurboServe, Vidu S1 outputs 540p real-time videos at up to 42 FPS on regular consumer GPUs. Users can upload custom images of real people, anime, and pets, and c",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "Vidu S1 是一款支持语音实时交互的视频生成模型，可在消费级GPU上以42 FPS输出540p高清视频，并支持上传自定义人物、动漫或宠物图像进行个性化生成。",
+      "summaryEn": "Vidu S1 is a real-time interactive video generation model enabling voice-controlled digital character animation, delivering 540p video at up to 42 FPS on consumer GPUs and supporting custom image uploads (e.g., real people, anime, pets).",
+      "titleEn": "Vidu S1: A Real-Time Interactive Video Generation Model",
+      "category": "工具",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.08758",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "author": "Yifan Zhou",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-09T17:55:53Z",
+      "rawContent": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal,",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 5
+      },
+      "summary": "本文提出IdeaGene-Bench（IG-Bench），一个面向科学思想谱系推理与谱系驱动创意生成的新基准，旨在评估AI系统理解并延续科学知识演化脉络的能力。",
+      "summaryEn": "This paper introduces IdeaGene-Bench (IG-Bench), a novel benchmark for scientific lineage reasoning and lineage-grounded idea generation, designed to evaluate AI systems’ ability to understand and extend the evolutionary inheritance structure of scientific ideas.",
+      "titleEn": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "arxiv-2607.08746",
+      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "url": "http://arxiv.org/abs/2607.08746v1",
+      "author": "Duen Horng Chau",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-09T17:47:08Z",
+      "rawContent": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constructs internally. This graph encodes the data manifold in its original high-dimensional space, before the distortion that UMAP's 2D projection introduces. We demonstrate the untapped potential of this internal representation, showing how standard graph algorithms applied to this graph enhance data sen",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文探讨UMAP算法内部构建的k近邻图（kNN图）在高维流形表征中的未被充分利用的价值，主张超越传统二维嵌入，直接分析该图以提升数据理解与可解释性。",
+      "summaryEn": "This paper highlights the underutilized k-nearest-neighbor (kNN) graph constructed internally by UMAP—revealing rich high-dimensional manifold structure before projection—and demonstrates how standard graph algorithms applied to this graph enhance data sensemaking beyond conventional 2D embeddings.",
+      "titleEn": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    },
+    {
+      "id": "hn-48842611",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "author": "Gedxx",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-09T08:22:52.000Z",
+      "rawContent": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "engagement": {
+        "score": 346,
+        "comments": 243
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "本文探讨了开发者转向Codeberg等去中心化、注重隐私与开源自由的代码托管平台的趋势，反映了对GitHub商业策略和集中化治理的不满。",
+      "summaryEn": "This article examines the growing trend of developers migrating from GitHub to alternatives like Codeberg and self-hosted solutions, driven by concerns over privacy, vendor lock-in, and corporate governance.",
+      "titleEn": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 7.63888888888889
+    },
+    {
+      "id": "hn-48850414",
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "author": "adamkurkiewicz",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-09T18:29:41.000Z",
+      "rawContent": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "engagement": {
+        "score": 193,
+        "comments": 114
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 3
+      },
+      "summary": "GLM 5.2 是智谱推出的最新大语言模型，其在会计记账等结构化任务上的准确率已接近人类簿记员水平。",
+      "summaryEn": "GLM 5.2 is Zhipu AI’s latest large language model, demonstrating near-human accuracy in structured tasks such as bookkeeping.",
+      "titleEn": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "category": "工具",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 7.538888888888889
+    }
+  ],
+  "stats": {
+    "totalCollected": 150,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
