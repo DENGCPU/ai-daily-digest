@@ -1,0 +1,488 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T03:14:08.315Z",
+  "items": [
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 212823,
+        "score": 39302
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "NousResearch/hermes-agent 是一个开源的、可扩展的智能体框架，旨在随用户需求演进，支持动态工具调用与长期记忆增强。",
+      "summaryEn": "NousResearch/hermes-agent is an open-source, extensible agent framework designed to evolve with user needs, supporting dynamic tool use and long-term memory augmentation.",
+      "titleEn": "NousResearch/hermes-agent",
+      "category": "开源",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "devto-4112189",
+      "title": "Every AI provider fails in its own way. I stopped checking status codes and built an error model instead.",
+      "url": "https://dev.to/manolito99/every-ai-provider-fails-in-its-own-way-i-stopped-checking-status-codes-and-built-an-error-model-25do",
+      "author": "Lolo",
+      "platform": "devto",
+      "publishedAt": "2026-07-10T09:33:00Z",
+      "rawContent": "I built an API gateway that routes between OpenAI, Anthropic and Gemini. I figured integrating both...",
+      "engagement": {
+        "likes": 22,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "本文介绍了一种构建AI API网关的实用方法，通过建立错误模型替代简单状态码检查，实现对OpenAI、Anthropic和Gemini等多提供商API的鲁棒路由与容错集成。",
+      "summaryEn": "This article presents a practical approach to building an AI API gateway that routes requests across OpenAI, Anthropic, and Gemini, using a custom error model—rather than basic HTTP status codes—to improve resilience and reliability in multi-provider AI integrations.",
+      "titleEn": "Every AI provider fails in its own way. I stopped checking status codes and built an error model instead.",
+      "category": "教程",
+      "engagementPercentile": 1,
+      "finalScore": 12.149999999999999
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 56522,
+        "score": 48624
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "这是一个基于大语言模型的开源股票智能分析系统，整合多源行情数据、实时新闻、可视化决策看板与自动化推送功能，支持零成本定时部署运行。",
+      "summaryEn": "This is an open-source, LLM-powered stock analysis system that integrates multi-source market data, real-time news, a decision dashboard, and automated notifications, with support for cost-free scheduled execution.",
+      "titleEn": "ZhuLinsen/daily_stock_analysis",
+      "category": "开源",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 11.249999999999998
+    },
+    {
+      "id": "devto-4111177",
+      "title": "I Built a Linter That Catches the Security Bugs AI Assistants Keep Writing",
+      "url": "https://dev.to/ri5hu/i-built-a-linter-that-catches-the-security-bugs-ai-assistants-keep-writing-58m8",
+      "author": "Rishu",
+      "platform": "devto",
+      "publishedAt": "2026-07-10T07:11:18Z",
+      "rawContent": "I've been writing code with AI assistants for a while now. Copilot, Claude, ChatGPT — I've used them...",
+      "engagement": {
+        "likes": 10,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 8
+      },
+      "summary": "作者开发了一款专用于检测AI助手生成代码中常见安全漏洞的静态分析工具（linter），聚焦于AI编码场景下的新型风险，如硬编码密钥、不安全反序列化等。",
+      "summaryEn": "The author built a custom linter specifically designed to detect security bugs commonly introduced by AI coding assistants—such as hardcoded secrets, unsafe deserialization, and insecure API usage—in real-world development workflows.",
+      "titleEn": "I Built a Linter That Catches the Security Bugs AI Assistants Keep Writing",
+      "category": "工具",
+      "engagementPercentile": 0.75,
+      "finalScore": 11.1375
+    },
+    {
+      "id": "github-Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "platform": "github",
+      "publishedAt": "2024-04-29T05:30:25Z",
+      "rawContent": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "engagement": {
+        "likes": 117604,
+        "score": 17480
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 10
+      },
+      "summary": "这是一个GitHub上的开源资源列表，汇总了100多个可本地运行、克隆、定制和部署的LLM智能体与RAG应用项目。",
+      "summaryEn": "This is a GitHub-hosted open-source curated list featuring 100+ runnable LLM agent and RAG applications—designed for cloning, customization, and deployment.",
+      "titleEn": "Shubhamsaboo/awesome-llm-apps",
+      "category": "开源",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 10.633333333333333
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 148961,
+        "score": 8519
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Firecrawl 是一个开源的 Web 数据获取工具，提供可扩展的 API，支持大规模网页搜索、爬取和交互，专为 AI 应用（如 RAG）优化。",
+      "summaryEn": "Firecrawl is an open-source web data acquisition tool offering a scalable API for searching, scraping, and interacting with the web—designed specifically to power AI applications like RAG.",
+      "titleEn": "firecrawl/firecrawl",
+      "category": "开源",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 10.349999999999998
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85935,
+        "score": 19253
+      },
+      "scores": {
+        "relevance": 10,
+        "novelty": 9,
+        "actionability": 7
+      },
+      "summary": "vLLM 是一个高性能、内存高效的大型语言模型推理与服务引擎，专为加速 LLM 部署而设计，支持 PagedAttention 等创新技术。",
+      "summaryEn": "vLLM is a high-throughput, memory-efficient inference and serving engine for large language models, featuring innovations like PagedAttention to significantly improve decoding speed and GPU memory utilization.",
+      "titleEn": "vllm-project/vllm",
+      "category": "开源",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 10.266666666666666
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151593,
+        "score": 9643
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "Langflow 是一个开源的低代码可视化平台，用于构建、调试和部署基于 LLM 的 AI 工作流与智能体。",
+      "summaryEn": "Langflow is an open-source, low-code visual platform for building, debugging, and deploying LLM-powered AI workflows and agents.",
+      "titleEn": "langflow-ai/langflow",
+      "category": "开源",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 10
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185458,
+        "score": 46114
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 6,
+        "actionability": 5
+      },
+      "summary": "AutoGPT 是一个开源的自主AI代理框架，旨在让开发者和用户能便捷地构建和使用基于大语言模型的自动化智能体。",
+      "summaryEn": "AutoGPT is an open-source autonomous AI agent framework designed to enable developers and users to easily build and deploy LLM-powered autonomous agents.",
+      "titleEn": "Significant-Gravitas/AutoGPT",
+      "category": "开源",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 9.966666666666667
+    },
+    {
+      "id": "hn-48858171",
+      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+      "author": "ermantrout",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-10T10:40:26.000Z",
+      "rawContent": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "engagement": {
+        "score": 70,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "本文探讨了统一内存（Unified Memory）架构如何使配备高端CPU和大容量高速内存的迷你PC能够高效运行70B参数大模型，而传统GPU受限于显存带宽和容量瓶颈反而难以胜任，属于对AI硬件部署范式的深度技术分析与行业观察。",
+      "summaryEn": "This article analyzes how Unified Memory architecture enables high-end mini PCs—with powerful CPUs and large, fast system memory—to run 70B-parameter LLMs more effectively than large GPUs constrained by VRAM bandwidth and capacity bottlenecks, offering a nuanced perspective on emerging AI hardware deployment paradigms.",
+      "titleEn": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 9.583333333333332
+    },
+    {
+      "id": "devto-4112028",
+      "title": "Alberta Ran 50 AI Agents in Parallel. Everyone Shared the Same Number.",
+      "url": "https://dev.to/itskondrat/alberta-ran-50-ai-agents-in-parallel-everyone-shared-the-same-number-2g6",
+      "author": "Mykola Kondratiuk",
+      "platform": "devto",
+      "publishedAt": "2026-07-10T09:15:46Z",
+      "rawContent": "Alberta published a case study last week about scanning 466 million lines of code across 1,280...",
+      "engagement": {
+        "likes": 12,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "阿尔伯塔团队在并行运行50个AI智能体扫描超4.66亿行代码的案例研究，展示了大规模AI代理协同工作的工程实践与挑战。",
+      "summaryEn": "Alberta's case study details running 50 AI agents in parallel to scan 466 million lines of code across 1,280 repositories—highlighting scalability, coordination, and operational lessons in real-world AI agent deployment.",
+      "titleEn": "Alberta Ran 50 AI Agents in Parallel. Everyone Shared the Same Number.",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 9.318750000000001
+    },
+    {
+      "id": "hn-48859387",
+      "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "url": "https://github.com/robertsdotpm/runloom",
+      "author": "Uptrenda",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-10T13:07:38.000Z",
+      "rawContent": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "engagement": {
+        "score": 44,
+        "comments": 25
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "Runloom 是一个开源 Python 库，为自由线程（free-threaded）Python 解释器实现类似 Go 的轻量级协程，旨在提升并发性能和简化异步编程模型。",
+      "summaryEn": "Runloom is an open-source Python library that implements Go-style lightweight coroutines for free-threaded Python interpreters, aiming to improve concurrency performance and simplify asynchronous programming.",
+      "titleEn": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "category": "开源",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 9
+    },
+    {
+      "id": "devto-3713322",
+      "title": "Semantic Drift in LLMs: How Archetypal Attractors (Like “Goblin”) Emerge and How Structured Reflection Reduces Them",
+      "url": "https://dev.to/__272d48f2ed/semantic-drift-in-llms-how-archetypal-attractors-like-goblin-emerge-and-how-structured-445o",
+      "author": "Алексей Гормен",
+      "platform": "devto",
+      "publishedAt": "2026-07-10T03:30:38Z",
+      "rawContent": "Large language models often develop recurring symbolic patterns — archetypes, metaphors, and memetic...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "本文探讨大语言模型中语义漂移现象，提出‘原型吸引子’（如‘哥布林’）的涌现机制，并论证结构化反思可有效缓解该问题。",
+      "summaryEn": "This article investigates semantic drift in large language models, introduces the concept of 'archetypal attractors' (e.g., 'goblin') that emerge during inference, and presents empirical evidence that structured reflection mitigates such drift.",
+      "titleEn": "Semantic Drift in LLMs: How Archetypal Attractors (Like “Goblin”) Emerge and How Structured Reflection Reduces Them",
+      "category": "论文",
+      "engagementPercentile": 0.25,
+      "finalScore": 8.775
+    },
+    {
+      "id": "hn-48865093",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "author": "hershyb_",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-10T20:52:28.000Z",
+      "rawContent": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "engagement": {
+        "score": 138,
+        "comments": 80
+      },
+      "scores": {
+        "relevance": 8,
+        "novelty": 6,
+        "actionability": 4
+      },
+      "summary": "该内容源自 Hacker News，对比了 GPT-5.6、Grok 4.5、Claude 和 Muse Spark 四款 AI 模型在构建相同四个应用时的表现，属于行业实践观察与社区讨论。标题中提及的模型版本（如 GPT-5.6、Grok 4.5）并非官方发布，疑似虚构或戏称，反映社区对多模型能力横向评测的兴趣。",
+      "summaryEn": "Sourced from Hacker News, this post compares the practical performance of four AI models—GPT-5.6, Grok 4.5, Claude, and Muse Spark—in building identical applications. The model names (e.g., 'GPT-5.6') appear unofficial or satirical, indicating a community-driven, speculative benchmark discussion rather than an official release or technical tutorial.",
+      "titleEn": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 8.61111111111111
+    },
+    {
+      "id": "github-browser-use/browser-use",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "author": "browser-use",
+      "platform": "github",
+      "publishedAt": "2024-10-31T16:00:56Z",
+      "rawContent": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "engagement": {
+        "likes": 104151,
+        "score": 11484
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 7
+      },
+      "summary": "browser-use 是一个开源项目，旨在为 AI 智能体提供标准化的网页交互能力，支持自动化在线任务（如表单填写、导航、数据提取）。",
+      "summaryEn": "browser-use is an open-source project that standardizes web interaction for AI agents, enabling automated online tasks such as form filling, navigation, and data extraction.",
+      "titleEn": "browser-use/browser-use",
+      "category": "开源",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 8.55
+    },
+    {
+      "id": "arxiv-2607.08758",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "author": "Yifan Zhou",
+      "platform": "arxiv",
+      "publishedAt": "2026-07-09T17:55:53Z",
+      "rawContent": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal,",
+      "engagement": {
+        "likes": 0,
+        "score": 0
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 10,
+        "actionability": 6
+      },
+      "summary": "本文提出IdeaGene-Bench（IG-Bench）基准，用于评估AI系统在科学思想谱系推理和谱系驱动创意生成方面的能力，填补了现有评测对科学知识演化建模的空白。",
+      "summaryEn": "This paper introduces IdeaGene-Bench (IG-Bench), a novel benchmark for evaluating AI systems’ ability to reason about scientific idea lineages and generate lineage-grounded innovations—addressing a critical gap in how AI models handle the evolutionary, inheritance-based nature of scientific knowledge.",
+      "titleEn": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.399999999999999
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 115715,
+        "score": 7740
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 7,
+        "actionability": 6
+      },
+      "summary": "cc-switch 是一款跨平台桌面AI助手，集成Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent等多个AI编程工具，提供统一界面访问。",
+      "summaryEn": "cc-switch is a cross-platform desktop AI assistant that unifies access to multiple AI coding tools—including Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI, and Hermes Agent—via a single interface.",
+      "titleEn": "farion1231/cc-switch",
+      "category": "工具",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 8.333333333333334
+    },
+    {
+      "id": "hf-2607.08770",
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "url": "https://huggingface.co/papers/2607.08770",
+      "author": "Cheng-De Fan",
+      "platform": "huggingface",
+      "publishedAt": "2026-07-08T20:00:00.000Z",
+      "rawContent": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-based video reconstruction, prediction, and frame interpolation. By fine-tuning a foundational video model, our approach achieves high data efficiency and superior perceptual quality. We introduce Autor",
+      "engagement": {},
+      "scores": {
+        "relevance": 9,
+        "novelty": 9,
+        "actionability": 6
+      },
+      "summary": "LongE2V 是一种基于预训练视频扩散模型的新方法，用于从稀疏事件流中高质量重建、预测和插帧视频，在长时序稳定性和感知质量上取得突破。",
+      "summaryEn": "LongE2V is a novel method leveraging pre-trained video diffusion models to achieve high-fidelity event-based video reconstruction, prediction, and frame interpolation—addressing long-horizon instability and texture blurring in prior approaches.",
+      "titleEn": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "category": "论文",
+      "engagementPercentile": 0,
+      "finalScore": 8.1
+    },
+    {
+      "id": "devto-4115308",
+      "title": "Make AI Agents See Your Website",
+      "url": "https://dev.to/kumakint/make-ai-agents-see-your-website-1d23",
+      "author": "Maks",
+      "platform": "devto",
+      "publishedAt": "2026-07-10T17:25:20Z",
+      "rawContent": "AI coding agents are now part of the developer workflow. Whether we like that shift or hate it, users...",
+      "engagement": {
+        "likes": 22,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 7,
+        "novelty": 5,
+        "actionability": 4
+      },
+      "summary": "本文探讨了AI编码代理如何通过网页抓取和结构化数据访问来‘看见’网站内容，属于开发者对AI代理集成趋势的行业观察与反思。",
+      "summaryEn": "This article discusses how AI coding agents can 'see' website content via web scraping and structured data access, offering a reflective industry perspective on integrating AI agents into development workflows.",
+      "titleEn": "Make AI Agents See Your Website",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.906250000000001
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79726,
+        "score": 15583
+      },
+      "scores": {
+        "relevance": 9,
+        "novelty": 8,
+        "actionability": 6
+      },
+      "summary": "LobeHub 是一个开源的 AI 代理编排平台，旨在将多个 AI 智能体组织为 7×24 小时运行的自动化团队，提供招聘、调度与汇报等类“首席代理官”功能。",
+      "summaryEn": "LobeHub is an open-source AI agent orchestration platform designed to manage multiple AI agents as a 24/7 autonomous team, offering 'Chief Agent Operator'-style capabilities including agent hiring, scheduling, and reporting.",
+      "titleEn": "lobehub/lobehub",
+      "category": "开源",
+      "engagementPercentile": 0,
+      "finalScore": 7.8
+    }
+  ],
+  "stats": {
+    "totalCollected": 151,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
