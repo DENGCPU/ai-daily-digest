@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T03:24:47.048Z",
+  "items": [
+    {
+      "id": "hn-48874200",
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "author": "rvz",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T18:04:01.000Z",
+      "rawContent": "AI 2040 and the cult of intelligence",
+      "engagement": {
+        "score": 185,
+        "comments": 221
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162514,
+        "score": 33870
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4113945",
+      "title": "Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.",
+      "url": "https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T02:04:07Z",
+      "rawContent": "Better to sacrifice a part to preserve the whole. — The 36 Stratagems, Sacrifice the Plum Tree to...",
+      "engagement": {
+        "likes": 50,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48871367",
+      "title": "FCC approves test of space mirror to light night sky",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+      "author": "reaperducer",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T12:12:34.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;climate&#x2F;fcc-space-mirror.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;climate&#x2F;fcc-space-mirror....</a><p><a href=\"https:&#x2F;&#x2F;www.pcmag.com&#x2F;news&#x2F;fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate\" rel=\"nofollow\">https:&#x2F;&#x2F;www.pcmag.com&#x2F;news&#x2F;fcc-approves-reflect-orbitals-gia...</a>",
+      "engagement": {
+        "score": 118,
+        "comments": 142
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 141561,
+        "score": 23531
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4119058",
+      "title": "How I Turned Slack Into an AI Teammate That Opens Pull Requests",
+      "url": "https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p",
+      "author": "Med Marrouchi",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T10:22:36Z",
+      "rawContent": "This is a submission for Weekend Challenge: Passion Edition  While talking about AI workflow...",
+      "engagement": {
+        "likes": 24,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 7.142857142857143
+    },
+    {
+      "id": "hn-48876441",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "author": "theorchid",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T22:28:48.000Z",
+      "rawContent": "Stop Telling Me to Ask an LLM",
+      "engagement": {
+        "score": 168,
+        "comments": 95
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 120075,
+        "score": 20475
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4117067",
+      "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
+      "url": "https://dev.to/himanshu_748/my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice-ph1",
+      "author": "Himanshu Kumar",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T03:10:15Z",
+      "rawContent": "This is a submission for the DEV Weekend Challenge: Passion Edition.           What I...",
+      "engagement": {
+        "likes": 15,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7142857142857143,
+      "finalScore": 6.7857142857142865
+    },
+    {
+      "id": "hn-48873836",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "author": "adletbalzhanov",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T17:21:49.000Z",
+      "rawContent": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "engagement": {
+        "score": 175,
+        "comments": 59
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151708,
+        "score": 9656
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4117315",
+      "title": "See how AI instructions decay, then write ones that hold",
+      "url": "https://dev.to/cleverhoods/see-how-ai-instructions-decay-then-write-ones-that-hold-k9",
+      "author": " Gábor Mészáros",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T06:46:08Z",
+      "rawContent": "This is a submission for Weekend Challenge: Passion Edition               What I Built   I told an...",
+      "engagement": {
+        "likes": 8,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5714285714285714,
+      "finalScore": 6.428571428571428
+    },
+    {
+      "id": "hn-48874182",
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "author": "GavCo",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T18:02:33.000Z",
+      "rawContent": "Who manages the agents?",
+      "engagement": {
+        "score": 71,
+        "comments": 86
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 149434,
+        "score": 8550
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-48871973",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "author": "acley",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T13:40:27.000Z",
+      "rawContent": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "engagement": {
+        "score": 135,
+        "comments": 38
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 85999,
+        "score": 19287
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4120595",
+      "title": "Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it",
+      "url": "https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7",
+      "author": "Mohan",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T15:01:25Z",
+      "rawContent": "Launching a Product: A Translation Problem   Launching a product is a translation problem....",
+      "engagement": {
+        "likes": 6,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 6.071428571428571
+    },
+    {
+      "id": "hn-48876505",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "author": "tionis",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-11T22:38:57.000Z",
+      "rawContent": "Mesh LLM: distributed AI computing on iroh",
+      "engagement": {
+        "score": 129,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 79751,
+        "score": 15592
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4117034",
+      "title": "The Transformer Paper Had 8 Authors. All 8 Left Google.",
+      "url": "https://dev.to/bluelobster_agent/the-transformer-paper-had-8-authors-all-8-left-google-4jhd",
+      "author": " Blue lobster_Agent",
+      "platform": "devto",
+      "publishedAt": "2026-07-11T03:00:56Z",
+      "rawContent": "Gemini 2.5 Pro ruled Chatbot Arena for 5 months. Then every architect who made it possible walked out the door — to OpenAI and Anthropic. Here's the inside story of how Google became AI's third-place company.",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 5.7142857142857135
+    }
+  ],
+  "stats": {
+    "totalCollected": 156,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
