@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T03:28:03.046Z",
+  "items": [
+    {
+      "id": "hn-48883275",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "author": "systima",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T18:25:51.000Z",
+      "rawContent": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usa",
+      "engagement": {
+        "score": 488,
+        "comments": 274
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 213799,
+        "score": 39641
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4123508",
+      "title": "The Citation Lied Without Lying: The Hard Limit of My Memory Gate",
+      "url": "https://dev.to/kenielzep97/the-citation-lied-without-lying-the-hard-limit-of-my-memory-gate-2b8e",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-07-12T05:21:12Z",
+      "rawContent": "Here is a note an AI agent might read while deciding what to remember and what to obey:   Current...",
+      "engagement": {
+        "likes": 9,
+        "comments": 23
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48883343",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "author": "therepanic",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T18:31:56.000Z",
+      "rawContent": "I love LLMs, I hate hype",
+      "engagement": {
+        "score": 350,
+        "comments": 210
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162552,
+        "score": 33877
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4123578",
+      "title": "Simple Benchmark Review: Ollama on Jetson Nano",
+      "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
+      "author": "Anna Villarreal",
+      "platform": "devto",
+      "publishedAt": "2026-07-12T05:43:01Z",
+      "rawContent": "Previous Related Post: Part 1      This particular rabbit hole was created due to a previous...",
+      "engagement": {
+        "likes": 12,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 7.083333333333334
+    },
+    {
+      "id": "hn-48879504",
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "author": "signa11",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T08:52:59.000Z",
+      "rawContent": "Ghostel.el: Terminal emulator powered by libghostty",
+      "engagement": {
+        "score": 267,
+        "comments": 52
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148622,
+        "score": 23426
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-48878682",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "author": "cosmtrek",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T05:51:32.000Z",
+      "rawContent": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "engagement": {
+        "score": 151,
+        "comments": 62
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 56907,
+        "score": 48957
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-48882716",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "author": "brryant",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T17:13:07.000Z",
+      "rawContent": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "engagement": {
+        "score": 152,
+        "comments": 50
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 120183,
+        "score": 20520
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4126535",
+      "title": "InsightsTrack + Pulse: I taught Claude Desktop to read my web analytics (via MCP)",
+      "url": "https://dev.to/nishikantaray/insightstrack-pulse-i-taught-claude-desktop-to-read-my-web-analytics-via-mcp-13bd",
+      "author": "Nishikanta Ray",
+      "platform": "devto",
+      "publishedAt": "2026-07-12T15:01:53Z",
+      "rawContent": "This is a submission for Weekend Challenge: Passion Edition           What I Built   InsightsTrack is...",
+      "engagement": {
+        "likes": 10,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "devto-4128361",
+      "title": "12 Stories In, and a Journalist Came to Interview Me",
+      "url": "https://dev.to/xulingfeng/12-stories-in-and-a-journalist-came-to-interview-me-45f5",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-07-13T00:47:15Z",
+      "rawContent": "36 Stratagems Series · Arc 2 (Against Enemy, #7-#12) Wrap-Up     This article has 7 sections:   I....",
+      "engagement": {
+        "likes": 13,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-48883090",
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "author": "adunk",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T18:04:41.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709</a>",
+      "engagement": {
+        "score": 86,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151786,
+        "score": 9667
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-48884395",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "author": "naves",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T20:23:05.000Z",
+      "rawContent": "Tiny Emulators",
+      "engagement": {
+        "score": 166,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 86085,
+        "score": 19325
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4125249",
+      "title": "Let an AI clear out your false positives without letting it hide a real bug",
+      "url": "https://dev.to/aws-builders/let-an-ai-clear-out-your-false-positives-without-letting-it-hide-a-real-bug-1akl",
+      "author": "Huỳnh Lê Nhất Nghĩa",
+      "platform": "devto",
+      "publishedAt": "2026-07-12T11:07:40Z",
+      "rawContent": "Last time I wrote about wiring up a security gate that blocks merges in CI with Synapse. Someone left...",
+      "engagement": {
+        "likes": 11,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-48882562",
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "url": "https://github.com/hasenj/go-shirei/",
+      "author": "hsn915",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-12T16:55:42.000Z",
+      "rawContent": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "engagement": {
+        "score": 78,
+        "comments": 48
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 153,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
