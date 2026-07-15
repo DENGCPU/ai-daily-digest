@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T02:49:21.406Z",
+  "items": [
+    {
+      "id": "hn-48905248",
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "author": "shintoist",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T11:46:02.000Z",
+      "rawContent": "How to stop Claude from saying load-bearing",
+      "engagement": {
+        "score": 446,
+        "comments": 508
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 214935,
+        "score": 39999
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4137611",
+      "title": "Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, an AI Sales Team Called.",
+      "url": "https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T02:54:49Z",
+      "rawContent": "Startle the snake by striking the grass. — The 36 Stratagems, Stomp the Grass to Scare the...",
+      "engagement": {
+        "likes": 34,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48903777",
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "author": "roundabout-host",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T08:34:57.000Z",
+      "rawContent": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "engagement": {
+        "score": 489,
+        "comments": 333
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 112999,
+        "score": 60708
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4144123",
+      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
+      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
+      "author": "Sylwia Laskowska",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T17:57:43Z",
+      "rawContent": "I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...",
+      "engagement": {
+        "likes": 18,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-48905028",
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "author": "embedding-shape",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T11:21:32.000Z",
+      "rawContent": "Codex starts encrypting sub-agent prompts",
+      "engagement": {
+        "score": 411,
+        "comments": 241
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162612,
+        "score": 33881
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4143117",
+      "title": "Your RAG Eval Isn't Flaky. Your Retrieval Is Non-Deterministic.",
+      "url": "https://dev.to/mrviduus/your-rag-eval-isnt-flaky-your-retrieval-is-non-deterministic-42ab",
+      "author": "Vasyl",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T14:48:00Z",
+      "rawContent": "Same query. Same documents. Same model. And the RAG eval can still hand back a different...",
+      "engagement": {
+        "likes": 8,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-48908271",
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "author": "plicerin",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T15:24:49.000Z",
+      "rawContent": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i&#x27;ve added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!",
+      "engagement": {
+        "score": 145,
+        "comments": 86
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148851,
+        "score": 23436
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-48902026",
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "author": "gjvc",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T03:39:55.000Z",
+      "rawContent": "YouTrackDB is a general-use object-oriented graph database",
+      "engagement": {
+        "score": 166,
+        "comments": 66
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151884,
+        "score": 9674
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4144807",
+      "title": "How I Used Spec-Driven Development to Build a Game (TanStack Start)",
+      "url": "https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p",
+      "author": "Erik Hanchett",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T22:26:53Z",
+      "rawContent": "I've been deep in spec-driven development (SDD) lately, and I want to walk through what it actually...",
+      "engagement": {
+        "likes": 11,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "devto-4140627",
+      "title": "Six experiments on adversarial verification — and the 75% wall that didn't move",
+      "url": "https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m",
+      "author": "zxpmail",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T13:15:12Z",
+      "rawContent": "The argument, in one line: a reviewer is a mechanism for drawing a line. Every fix moves the line —...",
+      "engagement": {
+        "likes": 5,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-48913050",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "author": "woodruffw",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T21:15:51.000Z",
+      "rawContent": "Dependabot version updates introduce default package cooldown",
+      "engagement": {
+        "score": 108,
+        "comments": 68
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 151094,
+        "score": 8628
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-48905914",
+      "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "author": "RyanJK5",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-14T12:40:50.000Z",
+      "rawContent": "Try it on Compiler Explorer: <a href=\"https:&#x2F;&#x2F;godbolt.org&#x2F;z&#x2F;91dj5jeGW\" rel=\"nofollow\">https:&#x2F;&#x2F;godbolt.org&#x2F;z&#x2F;91dj5jeGW</a><p>Check out the source code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;RyanJK5&#x2F;rjk-duck\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;RyanJK5&#x2F;rjk-duck</a>",
+      "engagement": {
+        "score": 109,
+        "comments": 47
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 86271,
+        "score": 19422
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4142342",
+      "title": "AI frameworks make the first 10% feel like magic. The other 90% is where they break you.",
+      "url": "https://dev.to/cyclopt_dimitrisk/ai-frameworks-make-the-first-10-feel-like-magic-the-other-90-is-where-they-break-you-55bj",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-07-14T12:53:10Z",
+      "rawContent": "The magic window   Every AI framework ships with a demo that looks incredible. Spin up an...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    }
+  ],
+  "stats": {
+    "totalCollected": 151,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
