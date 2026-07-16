@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T02:55:34.135Z",
+  "items": [
+    {
+      "id": "hn-48916975",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "author": "macleginn",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T06:28:00.000Z",
+      "rawContent": "I tricked Claude into leaking your deepest, darkest secrets",
+      "engagement": {
+        "score": 610,
+        "comments": 281
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 215523,
+        "score": 40196
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4153432",
+      "title": "Métricas de qualidade de software na era da IA",
+      "url": "https://dev.to/he4rt/metricas-de-qualidade-de-software-na-era-da-ia-334o",
+      "author": "Alicia Marianne Gonçalves",
+      "platform": "devto",
+      "publishedAt": "2026-07-16T00:12:21Z",
+      "rawContent": "Não é novidade para ninguém que estamos passando por uma transformação na área de desenvolvimento de...",
+      "engagement": {
+        "likes": 112,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48926590",
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "author": "skp1995",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T20:24:58.000Z",
+      "rawContent": "Grok Build is open source",
+      "engagement": {
+        "score": 292,
+        "comments": 334
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162632,
+        "score": 33895
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4151604",
+      "title": "Building an AI Agent That Knows When Not to Guess (Qwen + MCP)",
+      "url": "https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-07-15T16:23:34Z",
+      "rawContent": "A payment landed for exactly half an invoice's value. The payer's email matched the customer on file....",
+      "engagement": {
+        "likes": 19,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-48922434",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "author": "neomindryan",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T15:34:05.000Z",
+      "rawContent": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "engagement": {
+        "score": 242,
+        "comments": 158
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 148979,
+        "score": 23463
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4153327",
+      "title": "Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB",
+      "url": "https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg",
+      "author": "Enrique",
+      "platform": "devto",
+      "publishedAt": "2026-07-15T23:46:16Z",
+      "rawContent": "Developers are pushing back against cloud API billing and the privacy risks of sending proprietary...",
+      "engagement": {
+        "likes": 7,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-48921077",
+      "title": "Towards a harness that can do anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "author": "evakhoury",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T14:08:28.000Z",
+      "rawContent": "Towards a harness that can do anything",
+      "engagement": {
+        "score": 174,
+        "comments": 89
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 145565,
+        "score": 21077
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-3753294",
+      "title": "Type-safe LLM outputs with Zod: stop guessing what the model returns.",
+      "url": "https://dev.to/thegdsks/type-safe-llm-outputs-with-zod-stop-guessing-what-the-model-returns-544e",
+      "author": "GDS K S",
+      "platform": "devto",
+      "publishedAt": "2026-07-15T03:34:13Z",
+      "rawContent": "Type-safe LLM outputs with Zod: stop guessing what the model returns.   I shipped a...",
+      "engagement": {
+        "likes": 8,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-48926939",
+      "title": "Show HN: Firefox in WebAssembly",
+      "url": "https://developer.puter.com/labs/firefox-wasm/",
+      "author": "coolelectronics",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T21:00:17.000Z",
+      "rawContent": "This is the entire Firefox browser rendering to a &lt;canvas&gt; element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.<p>Here are a few things you might find interesting:<p>- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.<p>- There is a novel WASM-&gt;JS JIT for experimental site speedup<p>- This port cost over 25k in opus&#x2F;fable tokens for debugging and JIT research<p>This was just a fun experime",
+      "engagement": {
+        "score": 143,
+        "comments": 84
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151923,
+        "score": 9680
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4150187",
+      "title": "The Chatbot Was Easy. The Engineering Wasn't.",
+      "url": "https://dev.to/surajrkhonde/the-chatbot-was-easy-the-engineering-wasnt-3cod",
+      "author": "surajrkhonde",
+      "platform": "devto",
+      "publishedAt": "2026-07-15T14:42:57Z",
+      "rawContent": "Part 1 of a series on building a production banking AI chatbot.     When our team kicked off the...",
+      "engagement": {
+        "likes": 11,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-48918575",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "author": "SirOibaf",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T10:11:11.000Z",
+      "rawContent": "DSLs Enable Reliable Use of LLMs",
+      "engagement": {
+        "score": 112,
+        "comments": 73
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 151593,
+        "score": 8662
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4153834",
+      "title": "citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.7029 sobre código)",
+      "url": "https://dev.to/magopredator/citefid-010-verificar-la-fidelidad-de-citas-en-wikis-okf-con-nli-auc-070-sobre-codigo-1ojf",
+      "author": "Fenix",
+      "platform": "devto",
+      "publishedAt": "2026-07-16T02:28:38Z",
+      "rawContent": "citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.70 sobre...",
+      "engagement": {
+        "likes": 10,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-48922838",
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "author": "nonadhocproblem",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-15T15:58:59.000Z",
+      "rawContent": "I&#x27;ve spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format.<p>Results on the tarred Silesia corpus on Intel x86-64 follow:<p><pre><code>  codec       decode",
+      "engagement": {
+        "score": 133,
+        "comments": 40
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 86358,
+        "score": 19468
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 156,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
