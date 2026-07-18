@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T02:50:33.879Z",
+  "items": [
+    {
+      "id": "hn-48945241",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "author": "nprateem",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T09:42:05.000Z",
+      "rawContent": "URL already posted: <a href=\"https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status\" rel=\"nofollow\">https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status</a><p>I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_skyrocketed_fr",
+      "engagement": {
+        "score": 1064,
+        "comments": 646
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 216488,
+        "score": 40572
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4170293",
+      "title": "Every AI-built site looks the same, so I built a skill that locks taste before any code is written",
+      "url": "https://dev.to/codeswithroh/every-ai-built-site-looks-the-same-so-i-built-a-skill-that-locks-taste-before-any-code-is-written-4f6d",
+      "author": "Rohit Purkait",
+      "platform": "devto",
+      "publishedAt": "2026-07-18T00:40:32Z",
+      "rawContent": "I build a lot of side projects with AI coding tools. Mostly Claude Code. A few months ago I noticed...",
+      "engagement": {
+        "likes": 11,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185588,
+        "score": 46076
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4165091",
+      "title": "Experiments with On-device AI — What building on Gemini Nano actually teaches you",
+      "url": "https://dev.to/mohanvenkatakrishnan/experiments-with-on-device-ai-what-building-on-gemini-nano-actually-teaches-you-5deo",
+      "author": "Mohan",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T09:14:45Z",
+      "rawContent": "Chrome ships a real LLM inside the browser now — Gemini Nano, exposed through a handful of built-in...",
+      "engagement": {
+        "likes": 21,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-48949551",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "author": "nicholasjbs",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T16:57:27.000Z",
+      "rawContent": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (<a href=\"https:&#x2F;&#x2F;www.recurse.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.recurse.com&#x2F;</a>)<p>My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.<p>Finally, we made something that we wanted ourselves: a self-directed ",
+      "engagement": {
+        "score": 374,
+        "comments": 34
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 113175,
+        "score": 60761
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4165072",
+      "title": "Retrieval-Augmented Self-Recall: The RAG Problem Nobody Talks About",
+      "url": "https://dev.to/gde03/retrieval-augmented-self-recall-the-rag-problem-nobody-talks-about-2n0n",
+      "author": "Giulio D'Erme",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T09:13:07Z",
+      "rawContent": "Part 1 of Retrieval-Augmented Self-Recall — the research track behind Claude Code, Beyond the Prompt....",
+      "engagement": {
+        "likes": 6,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-48947776",
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "author": "oalders",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T14:26:58.000Z",
+      "rawContent": "Claude Code: Anatomy of a Misfeature",
+      "engagement": {
+        "score": 136,
+        "comments": 116
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 176345,
+        "score": 16999
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4159063",
+      "title": "Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry and SigNoz",
+      "url": "https://dev.to/divyasinghdev/instrumenting-an-ai-powered-github-analyzer-with-opentelemetry-and-signoz-55l3",
+      "author": "Divya",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T12:07:31Z",
+      "rawContent": "This article is my submission for the Agents of SigNoz Hackathon: Blog Track, where participants...",
+      "engagement": {
+        "likes": 9,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-48945260",
+      "title": "I Owe My Life to the Commodore 64",
+      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+      "author": "ingve",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T09:44:25.000Z",
+      "rawContent": "I Owe My Life to the Commodore 64",
+      "engagement": {
+        "score": 96,
+        "comments": 93
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Production-ready platform for agentic workflow development.",
+      "engagement": {
+        "likes": 149184,
+        "score": 23507
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4167709",
+      "title": "Model experiments became an architectural stress test",
+      "url": "https://dev.to/michaeltruong/model-experiments-became-an-architectural-stress-test-3gc0",
+      "author": "Michael Truong",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T15:41:21Z",
+      "rawContent": "I've been tuning Codenames AI, a small web game where an LLM plays Codenames with you. Clue...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-48950477",
+      "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+      "url": "https://news.ycombinator.com/item?id=48950477",
+      "author": "cromka",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T18:18:23.000Z",
+      "rawContent": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.<p>EDIT: Was an outage, they just fixed it (https:&#x2F;&#x2F;status.claude.com&#x2F;)",
+      "engagement": {
+        "score": 86,
+        "comments": 85
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 151972,
+        "score": 9591
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-3972188",
+      "title": "AI Agent Autonomy Levels: From Logged to Locked Down",
+      "url": "https://dev.to/brennhill/ai-agent-autonomy-levels-from-logged-to-locked-down-45am",
+      "author": "Brenn Hill",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T12:00:00Z",
+      "rawContent": "AI agent autonomy levels describe how much an agent is allowed to do on its own before a human is involved, ranging from acting silently with no…",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-48946692",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "author": "medina",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-17T12:42:12.000Z",
+      "rawContent": "VulnHunter: Capital One's agentic AI code security tool",
+      "engagement": {
+        "score": 61,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 86533,
+        "score": 19545
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4169660",
+      "title": "Why RAG gives wrong answers (and how to fix retrieval failures)",
+      "url": "https://dev.to/aws/why-rag-gives-wrong-answers-and-how-to-fix-retrieval-failures-gbj",
+      "author": "Rohini Gaonkar",
+      "platform": "devto",
+      "publishedAt": "2026-07-17T21:14:53Z",
+      "rawContent": "In the previous post, we built a RAG system from scratch. Sixty lines of Python. Six onboarding...",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 140,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
