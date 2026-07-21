@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T03:16:01.834Z",
+  "items": [
+    {
+      "id": "hn-48975665",
+      "title": "I found a WordPress RCEs with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "author": "infosecau",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T08:13:36.000Z",
+      "rawContent": "I found a WordPress RCEs with GPT5.6 and $25",
+      "engagement": {
+        "score": 386,
+        "comments": 210
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 217862,
+        "score": 41119
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4170828",
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "author": "Nazar Boyko",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T13:20:24Z",
+      "rawContent": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "engagement": {
+        "likes": 39,
+        "comments": 25
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-48982681",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "author": "aratahikaru5",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T18:16:08.000Z",
+      "rawContent": "Nativ: Run frontier open models locally on your Mac",
+      "engagement": {
+        "score": 205,
+        "comments": 79
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185624,
+        "score": 46070
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4185079",
+      "title": "The smolagents bug that made my agent retry the same valid code three times",
+      "url": "https://dev.to/himanshu_748/the-smolagents-bug-that-made-my-agent-retry-the-same-valid-code-three-times-2aka",
+      "author": "Himanshu Kumar",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T07:19:13Z",
+      "rawContent": "Third entry in the DEV x Sentry Bug Smash. Entry 1 was a crash with a confusing message. Entry 2 was...",
+      "engagement": {
+        "likes": 16,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-48978792",
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "author": "Gecko4072",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T13:43:10.000Z",
+      "rawContent": "Shinjuku Station in 3D",
+      "engagement": {
+        "score": 165,
+        "comments": 31
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 162782,
+        "score": 33955
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-3805635",
+      "title": "ReflectionCLI 2.0: a local-first thinking CLI for AI-assisted development",
+      "url": "https://dev.to/javz/reflectioncli-20-a-local-first-thinking-cli-for-ai-assisted-development-5hi3",
+      "author": "Julien Avezou",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T12:37:37Z",
+      "rawContent": "The original concept behind this tool won the runner-up award for the Github CLI Challenge earlier...",
+      "engagement": {
+        "likes": 17,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-48981136",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "author": "alexsouthmayd",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T16:32:10.000Z",
+      "rawContent": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https:&#x2F;&#x2F;bloomylearning.com\">https:&#x2F;&#x2F;bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds th",
+      "engagement": {
+        "score": 65,
+        "comments": 76
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 149541,
+        "score": 23570
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4183026",
+      "title": "I built an AI dev harness that isn't allowed to trust itself",
+      "url": "https://dev.to/egnaro9/i-built-an-ai-dev-harness-that-isnt-allowed-to-trust-itself-53mh",
+      "author": "Erik Hill",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T02:12:53Z",
+      "rawContent": "Scope note (read first): this describes a system I built and operate to develop an unannounced game....",
+      "engagement": {
+        "likes": 9,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-48974325",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "author": "Vineeth147",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T04:24:48.000Z",
+      "rawContent": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "engagement": {
+        "score": 140,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 142199,
+        "score": 23648
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4187352",
+      "title": "'Local' Solves Where Your Data Goes. It Doesn't Solve What Your Agent Does",
+      "url": "https://dev.to/p0rt/local-solves-where-your-data-goes-it-doesnt-solve-what-your-agent-does-306b",
+      "author": "Sergei Parfenov",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T11:19:35Z",
+      "rawContent": "Running an agent on your own hardware fixes data sovereignty and nothing else. Prompt injection, silent provenance failures, and privilege escalation all survive the move to local. Here's where local agents are genuinely safe to deploy in 2026, and where 'local' is just a comforting word.",
+      "engagement": {
+        "likes": 8,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-48980506",
+      "title": "Ziggity – A terminal UI for Git, written in Zig",
+      "url": "https://github.com/simoarpe/ziggity",
+      "author": "TheSorcerer",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T15:46:18.000Z",
+      "rawContent": "Ziggity – A terminal UI for Git, written in Zig",
+      "engagement": {
+        "score": 69,
+        "comments": 47
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 146125,
+        "score": 21186
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4065496",
+      "title": "Phase 4: Retrieval Quality & Grounded Answers",
+      "url": "https://dev.to/surajrkhonde/phase-4-retrieval-quality-grounded-answers-2keg",
+      "author": "surajrkhonde",
+      "platform": "devto",
+      "publishedAt": "2026-07-20T04:14:11Z",
+      "rawContent": "From \"Closest Match\" to \"Answer You Can Actually Trust\"               The Story Starts: \"Why...",
+      "engagement": {
+        "likes": 6,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-48981789",
+      "title": "Fable is now included on Max plans (up to 50% of weekly limit)",
+      "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
+      "author": "dudalev",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-20T17:18:46.000Z",
+      "rawContent": "Fable is now included on Max plans (up to 50% of weekly limit)",
+      "engagement": {
+        "score": 27,
+        "comments": 26
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 152116,
+        "score": 9612
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 145,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
