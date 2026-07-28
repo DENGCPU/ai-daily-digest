@@ -1,0 +1,491 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T02:51:34.922Z",
+  "items": [
+    {
+      "id": "hn-49072310",
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "author": "doener",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T16:49:08.000Z",
+      "rawContent": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "engagement": {
+        "score": 303,
+        "comments": 207
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 221468,
+        "score": 42305
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4240237",
+      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
+      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+      "author": "Nazar Boyko",
+      "platform": "devto",
+      "publishedAt": "2026-07-27T13:16:13Z",
+      "rawContent": "Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...",
+      "engagement": {
+        "likes": 84,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49070985",
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "author": "vinhnx",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T15:23:45.000Z",
+      "rawContent": "Related: <i>Kimi-K3 on HuggingFace</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752</a>",
+      "engagement": {
+        "score": 368,
+        "comments": 164
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 163049,
+        "score": 34045
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4239685",
+      "title": "Catching the Attack Was Not the Same as Detecting the Sequence",
+      "url": "https://dev.to/kenielzep97/catching-the-attack-was-not-the-same-as-detecting-the-sequence-1gik",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-07-27T01:10:25Z",
+      "rawContent": "I wrote a suite for one class of authorization failure, scored my own gates with it, and a reviewer...",
+      "engagement": {
+        "likes": 18,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8,
+      "finalScore": 7
+    },
+    {
+      "id": "hn-49069447",
+      "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+      "url": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
+      "author": "cdemer",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T13:29:12.000Z",
+      "rawContent": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+      "engagement": {
+        "score": 86,
+        "comments": 89
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 177038,
+        "score": 17140
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49068029",
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "author": "croemer",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T11:32:32.000Z",
+      "rawContent": "Elevated errors on Claude Opus 5",
+      "engagement": {
+        "score": 99,
+        "comments": 71
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 150467,
+        "score": 23706
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4244970",
+      "title": "\"Unlimited context\" is not a feature. It's technical debt with better marketing.",
+      "url": "https://dev.to/cyclopt_dimitrisk/unlimited-context-is-not-a-feature-its-technical-debt-with-better-marketing-4443",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-07-27T12:08:59Z",
+      "rawContent": "Intro   Model providers keep shipping bigger context windows: 100k tokens, 200k, over a...",
+      "engagement": {
+        "likes": 18,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6,
+      "finalScore": 6.5
+    },
+    {
+      "id": "hn-49076391",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "author": "dhorthy",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T22:37:52.000Z",
+      "rawContent": "Benchmarking Opus 5 on SlopCodeBench",
+      "engagement": {
+        "score": 152,
+        "comments": 39
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 121812,
+        "score": 21062
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49067352",
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "url": "https://github.com/libsm64/libsm64",
+      "author": "klaussilveira",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T10:04:48.000Z",
+      "rawContent": "Libsm64: Mario 64 as a library for use in external game engines",
+      "engagement": {
+        "score": 186,
+        "comments": 21
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 152510,
+        "score": 9673
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4247350",
+      "title": "MCPRadar: A Security Scanner Built for the MCP Ecosystem published: true tags: mcp, security, ai, opensource",
+      "url": "https://dev.to/yatuk/mcpradar-a-security-scanner-built-for-the-mcp-ecosystem-published-true-tags-mcp-security-ai-2pil",
+      "author": "yatuk",
+      "platform": "devto",
+      "publishedAt": "2026-07-27T18:26:45Z",
+      "rawContent": "Model Context Protocol servers have quickly become the connective tissue between AI agents and the...",
+      "engagement": {
+        "likes": 8,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4,
+      "finalScore": 6
+    },
+    {
+      "id": "hn-49071441",
+      "title": "All major LLMs are lib-left. Even Grok, half the time",
+      "url": "https://unslop.run/blog/political-compass-of-llms",
+      "author": "dopamine_daddy",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T15:57:15.000Z",
+      "rawContent": "All major LLMs are lib-left. Even Grok, half the time",
+      "engagement": {
+        "score": 41,
+        "comments": 76
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 87372,
+        "score": 19938
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49072462",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "author": "snyy",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-27T16:59:08.000Z",
+      "rawContent": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.<p>Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we&#x27;re open-sourcing NoBg, the Python library we built to train and run it.<p>Try the model here: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;spaces&#x2F;feyninc&#x2F;feynobg\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;spaces&#x2F;feyninc&#x2F;feynobg</a>. Check out the library here: <a href=\"https:&#x2F;&#x",
+      "engagement": {
+        "score": 94,
+        "comments": 22
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "engagement": {
+        "likes": 99581,
+        "score": 14784
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 111,
+    "totalScored": 36,
+    "totalPublished": 20
+  }
+}
