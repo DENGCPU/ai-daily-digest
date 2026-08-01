@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T03:24:30.471Z",
+  "items": [
+    {
+      "id": "hn-49126604",
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T18:04:58.000Z",
+      "rawContent": "qm – Multiplayer agent harness for work",
+      "engagement": {
+        "score": 492,
+        "comments": 106
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 223462,
+        "score": 43027
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4281935",
+      "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
+      "url": "https://dev.to/shreshthgoyal/claude-code-openrouter-the-setup-guide-that-actually-explains-things-1d6o",
+      "author": "Shreshth Goyal",
+      "platform": "devto",
+      "publishedAt": "2026-07-31T15:27:57Z",
+      "rawContent": "So you have heard people rave about Claude Code. Maybe you have also heard people mention OpenRouter...",
+      "engagement": {
+        "likes": 16,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49119063",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "author": "mfiguiere",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T04:38:19.000Z",
+      "rawContent": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "engagement": {
+        "score": 227,
+        "comments": 152
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 113852,
+        "score": 61140
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4280228",
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "author": "Rodrigo Diego",
+      "platform": "devto",
+      "publishedAt": "2026-07-31T11:00:29Z",
+      "rawContent": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "engagement": {
+        "likes": 6,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 7.142857142857143
+    },
+    {
+      "id": "hn-49121868",
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "url": "https://arxiv.org/abs/2607.27197",
+      "author": "rahen",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T11:37:12.000Z",
+      "rawContent": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "engagement": {
+        "score": 142,
+        "comments": 135
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 163213,
+        "score": 34082
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4278052",
+      "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
+      "url": "https://dev.to/debashish_ghosal/ai-assisted-engineering-faster-to-build-isnt-cheaper-to-own-1lh",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-07-31T06:59:10Z",
+      "rawContent": "I like AI coding tools. I use them myself, and my teams use them too. That is probably the most...",
+      "engagement": {
+        "likes": 9,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7142857142857143,
+      "finalScore": 6.7857142857142865
+    },
+    {
+      "id": "hn-49125034",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "author": "speckx",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T16:15:31.000Z",
+      "rawContent": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "engagement": {
+        "score": 158,
+        "comments": 89
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 150943,
+        "score": 23799
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49119425",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+      "url": "https://github.com/mokshablr/gander",
+      "author": "mokshablr",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T05:45:13.000Z",
+      "rawContent": "Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>",
+      "engagement": {
+        "score": 195,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 147486,
+        "score": 21426
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49123386",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "author": "marcobambini",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T14:12:38.000Z",
+      "rawContent": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "engagement": {
+        "score": 171,
+        "comments": 70
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 158752,
+        "score": 9019
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4284341",
+      "title": "Why Agent Evaluation Is Harder Than Model Evaluation",
+      "url": "https://dev.to/debashish_ghosal/why-agent-evaluation-is-harder-than-model-evaluation-poe",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-01T01:48:05Z",
+      "rawContent": "I did not get to this opinion from a whitepaper.  I got to it because I am building an open-source...",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 6.071428571428571
+    },
+    {
+      "id": "devto-4282156",
+      "title": "I Implemented the Algorithm Behind ChatGPT From Scratch - Day 8 (PPO).",
+      "url": "https://dev.to/madhumithakolkar/i-implemented-the-algorithm-behind-chatgpt-from-scratch-day-8-ppo-o3f",
+      "author": "Madhumitha Kolkar",
+      "platform": "devto",
+      "publishedAt": "2026-07-31T16:12:33Z",
+      "rawContent": "SERIES: Learning RL and JAX in Public - from zero to DeepMind :)     When people ask \"how was ChatGPT...",
+      "engagement": {
+        "likes": 11,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 6.071428571428571
+    },
+    {
+      "id": "hn-49127031",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "author": "jabits",
+      "platform": "hackernews",
+      "publishedAt": "2026-07-31T18:39:47.000Z",
+      "rawContent": "Golang proposal: container/: generic collection types",
+      "engagement": {
+        "score": 129,
+        "comments": 80
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 152694,
+        "score": 9731
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4277351",
+      "title": "Why I Think Workflows Matter More Than Agents",
+      "url": "https://dev.to/jaideepparashar/why-i-think-workflows-matter-more-than-agents-3p82",
+      "author": "Jaideep Parashar",
+      "platform": "devto",
+      "publishedAt": "2026-07-31T05:36:16Z",
+      "rawContent": "If you've spent any time in the AI community recently, you've probably noticed one trend.  Everything...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 5.7142857142857135
+    }
+  ],
+  "stats": {
+    "totalCollected": 149,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
