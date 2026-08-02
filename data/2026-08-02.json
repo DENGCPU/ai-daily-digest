@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T03:24:06.259Z",
+  "items": [
+    {
+      "id": "hn-49133889",
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "author": "throwaway2037",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T12:34:25.000Z",
+      "rawContent": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "engagement": {
+        "score": 257,
+        "comments": 174
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 223880,
+        "score": 43225
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4288467",
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "author": "Anna Villarreal",
+      "platform": "devto",
+      "publishedAt": "2026-08-01T16:03:02Z",
+      "rawContent": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "engagement": {
+        "likes": 23,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49131367",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "author": "giuliomagnifico",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T05:38:16.000Z",
+      "rawContent": "Ten Ways NAS Is Getting Enshitified",
+      "engagement": {
+        "score": 188,
+        "comments": 167
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 151020,
+        "score": 23822
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49135365",
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "author": "lalitmaganti",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T15:39:31.000Z",
+      "rawContent": "GitHub has alternatives, but no replacement",
+      "engagement": {
+        "score": 85,
+        "comments": 122
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "platform": "github",
+      "publishedAt": "2024-04-29T05:30:25Z",
+      "rawContent": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "engagement": {
+        "likes": 129613,
+        "score": 19120
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49138443",
+      "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+      "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T21:02:07.000Z",
+      "rawContent": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+      "engagement": {
+        "score": 97,
+        "comments": 61
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 152728,
+        "score": 9746
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49137060",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "author": "juhopitk",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T18:32:20.000Z",
+      "rawContent": "Postmortem for Kernel Soundness Bug #14576",
+      "engagement": {
+        "score": 122,
+        "comments": 44
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 87889,
+        "score": 20154
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49136990",
+      "title": "Tell HN: I hate your fuzzy search",
+      "url": "https://news.ycombinator.com/item?id=49136990",
+      "author": "tehwebguy",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T18:25:00.000Z",
+      "rawContent": "Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.",
+      "engagement": {
+        "score": 91,
+        "comments": 54
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "engagement": {
+        "likes": 101028,
+        "score": 15089
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49132083",
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "author": "earcar",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T07:42:08.000Z",
+      "rawContent": "Solid Queue 1.6.0 now supports fiber workers",
+      "engagement": {
+        "score": 96,
+        "comments": 38
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 81067,
+        "score": 15740
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49135546",
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "author": "brandur",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T16:01:22.000Z",
+      "rawContent": "Pgtestdb's template cloning approach to testing is fast",
+      "engagement": {
+        "score": 65,
+        "comments": 41
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "github-infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "author": "infiniflow",
+      "platform": "github",
+      "publishedAt": "2023-12-12T06:13:13Z",
+      "rawContent": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "engagement": {
+        "likes": 86581,
+        "score": 10173
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "hn-49137904",
+      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+      "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+      "author": "xbryanx",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T20:07:39.000Z",
+      "rawContent": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+      "engagement": {
+        "score": 49,
+        "comments": 43
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 5.277777777777778
+    },
+    {
+      "id": "github-OpenHands/OpenHands",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "author": "OpenHands",
+      "platform": "github",
+      "publishedAt": "2024-03-13T03:33:31Z",
+      "rawContent": "🙌 OpenHands: AI-Driven Development",
+      "engagement": {
+        "likes": 82811,
+        "score": 10665
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 5.277777777777778
+    },
+    {
+      "id": "hn-49135245",
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "author": "DSemba",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-01T15:23:15.000Z",
+      "rawContent": "Explorative modeling: Train on the best of K guesses",
+      "engagement": {
+        "score": 82,
+        "comments": 24
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0,
+      "finalScore": 5
+    }
+  ],
+  "stats": {
+    "totalCollected": 136,
+    "totalScored": 42,
+    "totalPublished": 20
+  }
+}
