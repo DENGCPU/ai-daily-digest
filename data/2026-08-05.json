@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T02:51:46.454Z",
+  "items": [
+    {
+      "id": "hn-49164649",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "author": "meetpateltech",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T05:32:13.000Z",
+      "rawContent": "Apple is getting this wrong",
+      "engagement": {
+        "score": 273,
+        "comments": 284
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 225561,
+        "score": 43817
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4308466",
+      "title": "Understanding Over Origin: The Missing Friction",
+      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+      "author": "Adam - The Developer ✨",
+      "platform": "devto",
+      "publishedAt": "2026-08-04T04:36:13Z",
+      "rawContent": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
+      "engagement": {
+        "likes": 30,
+        "comments": 22
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49170165",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "author": "automatoney",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T15:16:22.000Z",
+      "rawContent": "Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what pro",
+      "engagement": {
+        "score": 474,
+        "comments": 90
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 237732,
+        "score": 36117
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4312237",
+      "title": "Your model doesn't need to pass the bar exam. It needs to parse a log file.",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-to-pass-the-bar-exam-it-needs-to-parse-a-log-file-cj4",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-08-04T11:16:44Z",
+      "rawContent": "Intro   Every few weeks, another frontier model claims a new benchmark, better reasoning,...",
+      "engagement": {
+        "likes": 11,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 7.083333333333334
+    },
+    {
+      "id": "hn-49166202",
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "author": "gyan",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T09:30:33.000Z",
+      "rawContent": "FFmpeg 9.0",
+      "engagement": {
+        "score": 428,
+        "comments": 94
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 185818,
+        "score": 46048
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49166386",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "author": "zhoutong",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T10:00:55.000Z",
+      "rawContent": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "engagement": {
+        "score": 367,
+        "comments": 90
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 163338,
+        "score": 34120
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4310830",
+      "title": "Your AI agent can't design images. It can write HTML.",
+      "url": "https://dev.to/accreditly/your-ai-agent-cant-design-images-it-can-write-html-4g7g",
+      "author": "Accreditly",
+      "platform": "devto",
+      "publishedAt": "2026-08-04T08:52:46Z",
+      "rawContent": "Diffusion models can't do layout, but your agent already writes HTML. MCP setup for Claude Code and Cursor, plus the self-review loop that makes it work.",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49164896",
+      "title": "Harness engineering for self-improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T06:17:54.000Z",
+      "rawContent": "Harness engineering for self-improvement",
+      "engagement": {
+        "score": 305,
+        "comments": 72
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 177800,
+        "score": 17265
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49175192",
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "author": "stymaar",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T21:09:39.000Z",
+      "rawContent": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "engagement": {
+        "score": 243,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 151355,
+        "score": 23889
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49165665",
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+      "author": "pedro_movai",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T08:11:02.000Z",
+      "rawContent": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "engagement": {
+        "score": 131,
+        "comments": 109
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 143436,
+        "score": 23890
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4313962",
+      "title": "I Rewrote My RL Agent in DeepMind's Neural Network Library - Day 9 (Haiku)",
+      "url": "https://dev.to/madhumithakolkar/i-rewrote-my-rl-agent-in-deepminds-neural-network-library-day-9-haiku-5d4e",
+      "author": "Madhumitha Kolkar",
+      "platform": "devto",
+      "publishedAt": "2026-08-04T15:00:55Z",
+      "rawContent": "SERIES: Learning RL and JAX in Public - from zero to DeepMind :)     Days 4 through 8 were raw JAX....",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4310755",
+      "title": "Qwen3.8-Max Is Huge. The Agent Harness Still Decides",
+      "url": "https://dev.to/zira125/qwen38-max-is-huge-the-agent-harness-still-decides-4cke",
+      "author": "Zira",
+      "platform": "devto",
+      "publishedAt": "2026-08-04T08:44:48Z",
+      "rawContent": "Alibaba launched Qwen3.8-Max on August 3, presenting it as the largest model in the Qwen family so...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49166230",
+      "title": "An Honest Review of AI Programming",
+      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+      "author": "ingve",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-04T09:35:15.000Z",
+      "rawContent": "An Honest Review of AI Programming",
+      "engagement": {
+        "score": 45,
+        "comments": 73
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 141,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
