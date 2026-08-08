@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T01:55:29.352Z",
+  "items": [
+    {
+      "id": "hn-49209385",
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "author": "v0id_isgood",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T12:28:55.000Z",
+      "rawContent": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed d",
+      "engagement": {
+        "score": 173,
+        "comments": 100
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 227101,
+        "score": 44418
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4336877",
+      "title": "I Thought Building Agent Observability Was a Detector Problem. I Was Wrong.",
+      "url": "https://dev.to/debashish_ghosal/i-thought-building-agent-observability-was-a-detector-problem-i-was-wrong-7b",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T04:52:23Z",
+      "rawContent": "When I started building agent-exec-trace, I thought I knew where the difficulty would be. OSS...",
+      "engagement": {
+        "likes": 12,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 238585,
+        "score": 36230
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49214098",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "author": "piotrgrabowski",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T18:01:30.000Z",
+      "rawContent": "Assembly Hall of Shame",
+      "engagement": {
+        "score": 251,
+        "comments": 58
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "devto-4341879",
+      "title": "I Asked an AI to Author the Same Policy Tests 50 Times. It Hit Every Boundary in 49 Valid Runs.",
+      "url": "https://dev.to/kikashy/i-asked-an-ai-to-author-the-same-policy-tests-50-times-it-hit-every-boundary-in-49-valid-runs-2g8n",
+      "author": "Brian Jin",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T16:10:23Z",
+      "rawContent": "I have been experimenting with a specific question: can an AI independently author the test cases...",
+      "engagement": {
+        "likes": 7,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186337,
+        "score": 46060
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49207146",
+      "title": "I won't read LLM authored fiction",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "author": "chr15m",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T07:45:56.000Z",
+      "rawContent": "I won't read LLM authored fiction",
+      "engagement": {
+        "score": 70,
+        "comments": 112
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "devto-4342741",
+      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
+      "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
+      "author": "christine",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T19:39:15Z",
+      "rawContent": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
+      "engagement": {
+        "likes": 11,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 151732,
+        "score": 23944
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49213985",
+      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "url": "https://theclaudyssey.com/",
+      "author": "spinchange",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T17:55:14.000Z",
+      "rawContent": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "engagement": {
+        "score": 41,
+        "comments": 57
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "devto-4341137",
+      "title": "How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil",
+      "url": "https://dev.to/aws-builders/how-kiro-crews-cron-jobs-replaced-4-hours-of-weekly-toil-37h",
+      "author": "Sarvar Nadaf",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T13:22:29Z",
+      "rawContent": "6-minute demo: AI agent sets up automated dependency scans, git hygiene checks, health reports, doc audits, and a Friday EOW summary. Cost: $2.10/week.",
+      "engagement": {
+        "likes": 8,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 152934,
+        "score": 9827
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49205790",
+      "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+      "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+      "author": "bhavansig",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T04:04:07.000Z",
+      "rawContent": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+      "engagement": {
+        "score": 53,
+        "comments": 35
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 88474,
+        "score": 20418
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49208341",
+      "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
+      "url": "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668",
+      "author": "almog",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T10:33:00.000Z",
+      "rawContent": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
+      "engagement": {
+        "score": 68,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "devto-3942656",
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "author": "Çalgan Aygün",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T09:38:40Z",
+      "rawContent": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "engagement": {
+        "likes": 9,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "devto-4335571",
+      "title": "Three Ways Your Training Data Lies to You (And None of Them Throw an Error)",
+      "url": "https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044",
+      "author": "Rickesh T N",
+      "platform": "devto",
+      "publishedAt": "2026-08-07T00:21:27Z",
+      "rawContent": "Every failure I am about to describe produced a clean run. No exception, no stack trace, no red...",
+      "engagement": {
+        "likes": 6,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 81401,
+        "score": 15781
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49215786",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "author": "ilamont",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-07T20:25:04.000Z",
+      "rawContent": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "engagement": {
+        "score": 31,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    }
+  ],
+  "stats": {
+    "totalCollected": 139,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
