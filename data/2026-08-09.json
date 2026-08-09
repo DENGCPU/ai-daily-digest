@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T02:03:38.609Z",
+  "items": [
+    {
+      "id": "hn-49219508",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "author": "epestr",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T07:04:51.000Z",
+      "rawContent": "Hardware backdoors in some x86 CPUs",
+      "engagement": {
+        "score": 348,
+        "comments": 94
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 227546,
+        "score": 44597
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4345476",
+      "title": "Building an AI-native Second Brain with Multi-RAG, Knowledge Graphs, and MCP",
+      "url": "https://dev.to/nishikantaray/building-an-ai-native-second-brain-with-multi-rag-knowledge-graphs-and-mcp-fmg",
+      "author": "Nishikanta Ray",
+      "platform": "devto",
+      "publishedAt": "2026-08-08T02:38:21Z",
+      "rawContent": "Claude is incredibly good at reasoning.  But reasoning is only as useful as the context available to...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186439,
+        "score": 46068
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4348943",
+      "title": "Model Routing Made My AI Agents Cheaper. It Didn't Make Them Easier to Trust.",
+      "url": "https://dev.to/devansh365/model-routing-made-my-ai-agents-cheaper-it-didnt-make-them-easier-to-trust-2oad",
+      "author": "Devansh",
+      "platform": "devto",
+      "publishedAt": "2026-08-08T13:53:18Z",
+      "rawContent": "I spent a while optimizing what my AI agents cost to run.  Cheap models for routine work. Better...",
+      "engagement": {
+        "likes": 8,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 148265,
+        "score": 21577
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4345970",
+      "title": "Who Named This ReAct? I'd Like to Speak to the Manager.",
+      "url": "https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg",
+      "author": "L. Cordero",
+      "platform": "devto",
+      "publishedAt": "2026-08-08T05:00:13Z",
+      "rawContent": "This week I started the Agentic Engineer Nanodegree through AWS AI &amp; ML Scholars, the next step...",
+      "engagement": {
+        "likes": 10,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49223079",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "author": "gumby",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T16:04:36.000Z",
+      "rawContent": "Can Intel finally beat ARM on performance per Watt?",
+      "engagement": {
+        "score": 164,
+        "comments": 99
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-49221864",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "author": "happosai",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T13:55:42.000Z",
+      "rawContent": "Gentoo bugzilla closed due AI bot scraper overload",
+      "engagement": {
+        "score": 152,
+        "comments": 105
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 88542,
+        "score": 20446
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4349779",
+      "title": "Teaching Your AI Web Design Some Actual Taste",
+      "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-08-08T17:30:42Z",
+      "rawContent": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49223475",
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "author": "andrewpollack",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T16:49:07.000Z",
+      "rawContent": "LinkedIn Feed Blocker",
+      "engagement": {
+        "score": 163,
+        "comments": 98
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "github-lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "author": "lobehub",
+      "platform": "github",
+      "publishedAt": "2023-05-21T07:19:12Z",
+      "rawContent": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "engagement": {
+        "likes": 81427,
+        "score": 15782
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4350773",
+      "title": "I Built Scenario Packs for Agent Regression Testing. The Integration, Not the Judge, Broke Me.",
+      "url": "https://dev.to/debashish_ghosal/i-built-scenario-packs-for-agent-regression-testing-the-integration-not-the-judge-broke-me-1k9k",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-08T23:27:37Z",
+      "rawContent": "I thought the hard part would be the scoring.   Write clean YAML. Define expected behavior. Run...",
+      "engagement": {
+        "likes": 6,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49221220",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "author": "rfarley04",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T12:31:11.000Z",
+      "rawContent": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "engagement": {
+        "score": 101,
+        "comments": 77
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-earendil-works/pi",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "author": "earendil-works",
+      "platform": "github",
+      "publishedAt": "2025-08-09T14:03:50Z",
+      "rawContent": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "engagement": {
+        "likes": 85636,
+        "score": 10631
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4350862",
+      "title": "AI Made Prototyping Free. That Is Exactly Why Your Portfolio Strategy Matters Now.",
+      "url": "https://dev.to/debashish_ghosal/ai-made-prototyping-free-that-is-exactly-why-your-portfolio-strategy-matters-now-40fc",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-09T00:06:56Z",
+      "rawContent": "Part of the \"AI Leadership in the Real World\" series: how leaders turn AI from scattered pilots and...",
+      "engagement": {
+        "likes": 6,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49221711",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "author": "electricant",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T13:33:06.000Z",
+      "rawContent": "Triton: DirectX 11 Driver for QEMU",
+      "engagement": {
+        "score": 138,
+        "comments": 25
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "github-OpenHands/OpenHands",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "author": "OpenHands",
+      "platform": "github",
+      "publishedAt": "2024-03-13T03:33:31Z",
+      "rawContent": "🙌 OpenHands: AI-Driven Development",
+      "engagement": {
+        "likes": 83489,
+        "score": 10793
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49222824",
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "author": "mfiguiere",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-08T15:34:49.000Z",
+      "rawContent": "Message your other Claude Code sessions",
+      "engagement": {
+        "score": 62,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    }
+  ],
+  "stats": {
+    "totalCollected": 146,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
