@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T02:02:56.020Z",
+  "items": [
+    {
+      "id": "hn-49241679",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "author": "riordan",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T10:10:02.000Z",
+      "rawContent": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "engagement": {
+        "score": 1045,
+        "comments": 579
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 228492,
+        "score": 44951
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4359412",
+      "title": "Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road.",
+      "url": "https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T09:54:57Z",
+      "rawContent": "Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...",
+      "engagement": {
+        "likes": 45,
+        "comments": 19
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49239751",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "author": "etoxin",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T06:02:38.000Z",
+      "rawContent": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "engagement": {
+        "score": 627,
+        "comments": 349
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 239260,
+        "score": 36331
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4356093",
+      "title": "I Gave My Agent One Signed Permission It Couldn’t Mint Itself",
+      "url": "https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T01:35:13Z",
+      "rawContent": "Evidence status. The supervised operator run completed on 2026-08-09. An operator-signed job...",
+      "engagement": {
+        "likes": 7,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49239021",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "author": "sbehere",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T03:50:00.000Z",
+      "rawContent": "Auto mode is now the default in Claude Code",
+      "engagement": {
+        "score": 276,
+        "comments": 303
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186505,
+        "score": 46081
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4361704",
+      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
+      "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
+      "author": "Harsh ",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T14:25:08Z",
+      "rawContent": "I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...",
+      "engagement": {
+        "likes": 16,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49247070",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T17:41:13.000Z",
+      "rawContent": "Learning more about Claude's mathematical capabilities",
+      "engagement": {
+        "score": 163,
+        "comments": 115
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 152007,
+        "score": 23987
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4361015",
+      "title": "Beyond Human Language: Why AI Needs Its Own Dictionary (And How to Build It)",
+      "url": "https://dev.to/toxy4ny/beyond-human-language-why-ai-needs-its-own-dictionary-and-how-to-build-it-3gd4",
+      "author": "KL3FT3Z",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T12:49:38Z",
+      "rawContent": "Beyond Human Language: Why AI Needs Its Own Dictionary (And How to Build It)   A proposal...",
+      "engagement": {
+        "likes": 6,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49242297",
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "author": "prakashqwerty",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T11:34:40.000Z",
+      "rawContent": "Tail-call optimization in C is relatively recent (2025)",
+      "engagement": {
+        "score": 124,
+        "comments": 123
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 143920,
+        "score": 23973
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4361521",
+      "title": "When Your AI Agent Passes 2,283 Tests — And Still Fails in Production",
+      "url": "https://dev.to/dengyier/when-your-ai-agent-passes-2283-tests-and-still-fails-in-production-2dga",
+      "author": "dengyier",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T14:20:13Z",
+      "rawContent": "A real-world production bug, a protocol-design insight from the community, and why cryptographic...",
+      "engagement": {
+        "likes": 5,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49238851",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "author": "MrRowTheBoat",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T03:18:40.000Z",
+      "rawContent": "Hey HN!<p>I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn&#x27;t quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI&#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and ",
+      "engagement": {
+        "score": 190,
+        "comments": 81
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 148426,
+        "score": 21608
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4363184",
+      "title": "Opus 5: The Cost of Instruction Conflicts",
+      "url": "https://dev.to/reporails/opus-5-the-cost-of-instruction-conflicts-ama",
+      "author": " Gábor Mészáros",
+      "platform": "devto",
+      "publishedAt": "2026-08-10T19:54:36Z",
+      "rawContent": "What does a conflicting instruction set cost you? For one, time and tokens, not to mention the...",
+      "engagement": {
+        "likes": 8,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49243474",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "author": "kuberwastaken",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-10T13:35:40.000Z",
+      "rawContent": "Humanising LLM Outputs Is Dumb",
+      "engagement": {
+        "score": 156,
+        "comments": 91
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153036,
+        "score": 9841
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 155,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
