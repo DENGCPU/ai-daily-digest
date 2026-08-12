@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T02:19:37.544Z",
+  "items": [
+    {
+      "id": "hn-49254880",
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "author": "aziaziazi",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T08:15:46.000Z",
+      "rawContent": "France to ban unsolicited telemarketing calls",
+      "engagement": {
+        "score": 987,
+        "comments": 479
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 229068,
+        "score": 45148
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4361150",
+      "title": "7 Tips to Make Your AI Agent More Predictable",
+      "url": "https://dev.to/aws/7-tips-to-make-your-ai-agent-more-predictable-1ga4",
+      "author": "Salih Guler ",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T10:20:35Z",
+      "rawContent": "After months of building with AI coding tools, I found the difference between generated code that...",
+      "engagement": {
+        "likes": 33,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49257876",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "author": "quantumgarbage",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T13:22:00.000Z",
+      "rawContent": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "engagement": {
+        "score": 503,
+        "comments": 210
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186530,
+        "score": 46086
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4372605",
+      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
+      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
+      "author": "Sylwia Laskowska",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T22:33:57Z",
+      "rawContent": "For the past few hours, the whole world,&nbsp; or at least my LinkedIn feed,&nbsp;has been talking...",
+      "engagement": {
+        "likes": 16,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49259339",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "author": "frabonacci",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T14:50:33.000Z",
+      "rawContent": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "engagement": {
+        "score": 288,
+        "comments": 43
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 152131,
+        "score": 24011
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4369791",
+      "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
+      "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
+      "author": "Shrijal Acharya",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T13:36:48Z",
+      "rawContent": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
+      "engagement": {
+        "likes": 14,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49259611",
+      "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "author": "YonathanTesfaye",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T15:09:34.000Z",
+      "rawContent": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "engagement": {
+        "score": 133,
+        "comments": 87
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 144014,
+        "score": 23987
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4367144",
+      "title": "Weng's Harness Ladder Has a Blind Step",
+      "url": "https://dev.to/zxpmail/wengs-harness-ladder-has-a-blind-step-26f1",
+      "author": "zxpmail",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T08:05:52Z",
+      "rawContent": "Lilian Weng's harness engineering survey mapped the field. It also revealed a blind step: the evaluator itself fails directionally, not just imprecisely. 20 scenarios × 3 models × 600 judgments + 7 design constraints implemented in code.",
+      "engagement": {
+        "likes": 7,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49262211",
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "author": "speckx",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T18:09:56.000Z",
+      "rawContent": "How we used to get jobs: A newspaper classifieds story",
+      "engagement": {
+        "score": 114,
+        "comments": 91
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 123504,
+        "score": 21593
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4369365",
+      "title": "I Showed My CISO Kiro Crew: Here's the Security Model That Got It Approved",
+      "url": "https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j",
+      "author": "Sarvar Nadaf",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T12:25:14Z",
+      "rawContent": "5-min demo: AI agent investigates a P1, gets BLOCKED on dangerous commands, then fixes it with human approval. 8 layers, 137 deny patterns, signed audit logs.",
+      "engagement": {
+        "likes": 15,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49265051",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "author": "EwanG",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T21:56:18.000Z",
+      "rawContent": "WorldClaw Agentic 3D open-world generation at scale",
+      "engagement": {
+        "score": 130,
+        "comments": 44
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153071,
+        "score": 9843
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4365222",
+      "title": "Write down every guarantee before you write any code",
+      "url": "https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi",
+      "author": "Don Johnson",
+      "platform": "devto",
+      "publishedAt": "2026-08-11T03:35:29Z",
+      "rawContent": "Here is every promise a to-do list makes.    VARIABLE tasks  Init == tasks = [i \\in Ids |-&gt;...",
+      "engagement": {
+        "likes": 6,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49256057",
+      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "author": "j0selit0",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-11T10:40:47.000Z",
+      "rawContent": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "engagement": {
+        "score": 164,
+        "comments": 24
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 88809,
+        "score": 20561
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 118,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
