@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T02:21:11.205Z",
+  "items": [
+    {
+      "id": "hn-49270953",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "author": "zoenolan",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T11:53:01.000Z",
+      "rawContent": "2026 Eclipse Webcams",
+      "engagement": {
+        "score": 459,
+        "comments": 124
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 229619,
+        "score": 45332
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4372189",
+      "title": "The Next Evolution of Software Developers",
+      "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
+      "author": "Roberto B.",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T14:36:41Z",
+      "rawContent": "The next evolution of software developers: from implementation to intent, orchestration, and...",
+      "engagement": {
+        "likes": 17,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49267928",
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "author": "kristianpaul",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T04:51:59.000Z",
+      "rawContent": "llama.cpp",
+      "engagement": {
+        "score": 350,
+        "comments": 166
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186565,
+        "score": 46089
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4378690",
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "author": "Caleb Duff",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T15:45:27Z",
+      "rawContent": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "engagement": {
+        "likes": 15,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 7.142857142857143
+    },
+    {
+      "id": "hn-49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "author": "gavinhking",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T14:02:46.000Z",
+      "rawContent": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "engagement": {
+        "score": 236,
+        "comments": 174
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 152263,
+        "score": 24033
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4378526",
+      "title": "Agent Plugins Package Capabilities. IRC-A Asks: Who Authorizes Them at Runtime?",
+      "url": "https://dev.to/sandrog/agent-plugins-package-capabilities-irc-a-asks-who-authorizes-them-at-runtime-33gg",
+      "author": "Sandro Garcia",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T13:46:36Z",
+      "rawContent": "Yesterday I stumbled on a LinkedIn post about a new open standard for packaging Agent Skills and MCP...",
+      "engagement": {
+        "likes": 8,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7142857142857143,
+      "finalScore": 6.7857142857142865
+    },
+    {
+      "id": "hn-49270022",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "author": "ColinWright",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T10:04:25.000Z",
+      "rawContent": "What sort of maths are LLMs good at?",
+      "engagement": {
+        "score": 238,
+        "comments": 134
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 144104,
+        "score": 23998
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4379248",
+      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+      "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+      "author": "Varshith V Hegde",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T15:53:06Z",
+      "rawContent": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
+      "engagement": {
+        "likes": 19,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5714285714285714,
+      "finalScore": 6.428571428571428
+    },
+    {
+      "id": "hn-49272549",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "author": "gutechh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T14:00:54.000Z",
+      "rawContent": "Why tiny JPEGs look different in Chrome",
+      "engagement": {
+        "score": 261,
+        "comments": 59
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 148620,
+        "score": 21632
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49270764",
+      "title": "I hate packaging my software for Linux",
+      "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "author": "_sinelaw_",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T11:33:48.000Z",
+      "rawContent": "I hate packaging my software for Linux",
+      "engagement": {
+        "score": 88,
+        "comments": 135
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 166480,
+        "score": 9356
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4374499",
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "author": "Asuran",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T05:30:27Z",
+      "rawContent": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "engagement": {
+        "likes": 19,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.42857142857142855,
+      "finalScore": 6.071428571428571
+    },
+    {
+      "id": "hn-49270040",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "author": "adius",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-12T10:06:29.000Z",
+      "rawContent": "Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript &#x2F; Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived",
+      "engagement": {
+        "score": 260,
+        "comments": 40
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153125,
+        "score": 9850
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4378848",
+      "title": "I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here's How",
+      "url": "https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc",
+      "author": "Nilesh Raut",
+      "platform": "devto",
+      "publishedAt": "2026-08-12T14:41:33Z",
+      "rawContent": "A few weeks ago I got tired of watching my API usage bill creep up every time I tested a new idea for...",
+      "engagement": {
+        "likes": 12,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 5.7142857142857135
+    }
+  ],
+  "stats": {
+    "totalCollected": 147,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
