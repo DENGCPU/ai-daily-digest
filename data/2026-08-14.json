@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T02:19:17.153Z",
+  "items": [
+    {
+      "id": "hn-49285244",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "author": "bjin",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T12:58:02.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness</a><p><a href=\"https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide&#x2F;quickstart\" rel=\"nofollow\">https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...</a>",
+      "engagement": {
+        "score": 563,
+        "comments": 246
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 230176,
+        "score": 45547
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4385699",
+      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
+      "url": "https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T07:58:42Z",
+      "rawContent": "24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...",
+      "engagement": {
+        "likes": 55,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49289844",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "author": "pr337h4m",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T18:10:02.000Z",
+      "rawContent": "Accelerating GPT-5.6 Sol Ultrafast",
+      "engagement": {
+        "score": 435,
+        "comments": 183
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186598,
+        "score": 46086
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4385107",
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T06:43:24Z",
+      "rawContent": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "engagement": {
+        "likes": 23,
+        "comments": 21
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49286341",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "author": "matt_d",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T14:17:13.000Z",
+      "rawContent": "Spaghettifying DRAM",
+      "engagement": {
+        "score": 501,
+        "comments": 140
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 152382,
+        "score": 24048
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4386500",
+      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
+      "url": "https://dev.to/harsh2644/the-most-dangerous-ai-generated-code-is-the-code-that-passes-all-tests-10nd",
+      "author": "Harsh ",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T09:26:45Z",
+      "rawContent": "The code compiled The tests passed The PR was green So I merged it.  Days later I was looking at...",
+      "engagement": {
+        "likes": 12,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49285604",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "author": "andsoitis",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T13:28:45.000Z",
+      "rawContent": "AI agents lie, cheat and steal. That is putting off users",
+      "engagement": {
+        "score": 154,
+        "comments": 197
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 144195,
+        "score": 24008
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4375352",
+      "title": "Building a Fair Benchmark for AI Agent Memory Systems",
+      "url": "https://dev.to/aml-/building-a-fair-benchmark-for-ai-agent-memory-systems-1i1i",
+      "author": "Agent Memory Leaderboard",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T02:51:12Z",
+      "rawContent": "Everyone is building AI memory systems.  But how do we know which ones actually work?  As AI agents...",
+      "engagement": {
+        "likes": 8,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49290215",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "author": "ValdikSS",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T18:41:01.000Z",
+      "rawContent": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "engagement": {
+        "score": 153,
+        "comments": 97
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 148724,
+        "score": 21650
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4389332",
+      "title": "Not All AI Builders Are Doing the Same Work",
+      "url": "https://dev.to/deeheber/not-all-ai-builders-are-doing-the-same-work-31m4",
+      "author": "Danielle Heberling",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T09:12:03Z",
+      "rawContent": "In 2026, nearly everyone I interact with in tech wants to talk about AI. It comes up on LinkedIn, at...",
+      "engagement": {
+        "likes": 13,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49285718",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "author": "dreamforever",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T13:36:19.000Z",
+      "rawContent": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "engagement": {
+        "score": 138,
+        "comments": 73
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 167006,
+        "score": 9381
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4294142",
+      "title": "MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe",
+      "url": "https://dev.to/ssukhpinder/mcp-c-sdk-protocol-negotiation-pin-2026-07-28-when-fallback-is-unsafe-2fhk",
+      "author": "Sukhpinder Singh",
+      "platform": "devto",
+      "publishedAt": "2026-08-13T20:37:16Z",
+      "rawContent": "MCP C# SDK protocol negotiation can quietly change the wire contract beneath an otherwise successful...",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49283563",
+      "title": "Can I use my Outputs to train an AI model?",
+      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+      "author": "DarenWatson",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-13T09:34:13.000Z",
+      "rawContent": "Can I use my Outputs to train an AI model?",
+      "engagement": {
+        "score": 86,
+        "comments": 78
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153203,
+        "score": 9855
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 130,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
