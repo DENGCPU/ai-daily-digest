@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T01:28:33.332Z",
+  "items": [
+    {
+      "id": "hn-49348751",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "author": "tyre",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T17:02:15.000Z",
+      "rawContent": "Claude Code May–August 2026 weekly limits promotion",
+      "engagement": {
+        "score": 256,
+        "comments": 223
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 232569,
+        "score": 46422
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4425699",
+      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+      "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T11:06:36Z",
+      "rawContent": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "engagement": {
+        "likes": 24,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49348163",
+      "title": "Degraded performance for multiple models",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+      "author": "matt89",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T16:28:20.000Z",
+      "rawContent": "Degraded performance for multiple models",
+      "engagement": {
+        "score": 146,
+        "comments": 127
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186677,
+        "score": 46052
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4389468",
+      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
+      "url": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
+      "author": "Sarvar Nadaf",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T12:05:57Z",
+      "rawContent": "5-min demo: custom agent + skill + cron job + dashboard page, installed live with one curl command. Kiro Crew isn't just a tool. It's a platform.",
+      "engagement": {
+        "likes": 10,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8571428571428571,
+      "finalScore": 7.142857142857143
+    },
+    {
+      "id": "hn-49344643",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "author": "porridgeraisin",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T12:22:58.000Z",
+      "rawContent": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "engagement": {
+        "score": 153,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 152845,
+        "score": 24142
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4427721",
+      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
+      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
+      "author": "tom",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T16:08:34Z",
+      "rawContent": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7142857142857143,
+      "finalScore": 6.7857142857142865
+    },
+    {
+      "id": "hn-49349898",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "author": "fittingopposite",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T18:07:21.000Z",
+      "rawContent": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "engagement": {
+        "score": 202,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 144501,
+        "score": 24059
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4421071",
+      "title": "Designing AI Evals: Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "author": "Katie McLaughlin",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T07:00:00Z",
+      "rawContent": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
+      "engagement": {
+        "likes": 11,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5714285714285714,
+      "finalScore": 6.428571428571428
+    },
+    {
+      "id": "hn-49352806",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "author": "amrrs",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T21:14:21.000Z",
+      "rawContent": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "engagement": {
+        "score": 109,
+        "comments": 72
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153432,
+        "score": 9890
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49353221",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "author": "phoenix120",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T21:50:33.000Z",
+      "rawContent": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "engagement": {
+        "score": 141,
+        "comments": 35
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 89378,
+        "score": 20875
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49352794",
+      "title": "Companies promote incompetent employees to management to limit damage they do",
+      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+      "author": "behnamoh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-18T21:13:30.000Z",
+      "rawContent": "Companies promote incompetent employees to management to limit damage they do",
+      "engagement": {
+        "score": 58,
+        "comments": 62
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-BerriAI/litellm",
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "author": "BerriAI",
+      "platform": "github",
+      "publishedAt": "2023-07-27T00:09:52Z",
+      "rawContent": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "engagement": {
+        "likes": 56683,
+        "score": 10701
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4419951",
+      "title": "Hermes Bot Mode: I Built a Team of AI Agents That Hand Off Work to Each Other",
+      "url": "https://dev.to/vivek_shetye/hermes-bot-mode-i-built-a-team-of-ai-agents-that-hand-off-work-to-each-other-a49",
+      "author": "Vivek Shetye",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T15:03:23Z",
+      "rawContent": "What if your AI agents behaved less like isolated chatbots and more like a team of specialists that...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 5.7142857142857135
+    },
+    {
+      "id": "devto-4422965",
+      "title": "The 402 error that isn't about your balance",
+      "url": "https://dev.to/xiaodong_zhang_bd8dc835b3/the-402-error-that-isnt-about-your-balance-2me",
+      "author": "xiaodong Zhang",
+      "platform": "devto",
+      "publishedAt": "2026-08-18T05:53:27Z",
+      "rawContent": "I've been running Claude Code without an Anthropic subscription for about three months. Not because I...",
+      "engagement": {
+        "likes": 10,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2857142857142857,
+      "finalScore": 5.7142857142857135
+    }
+  ],
+  "stats": {
+    "totalCollected": 164,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
