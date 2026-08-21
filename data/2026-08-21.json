@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T01:37:39.734Z",
+  "items": [
+    {
+      "id": "hn-49374269",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "author": "abhisek",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T13:23:12.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on-arrayref&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161</a>",
+      "engagement": {
+        "score": 394,
+        "comments": 364
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 233563,
+        "score": 46805
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4417069",
+      "title": "I built an MCP memory server for one user (me, for six weeks)",
+      "url": "https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh",
+      "author": "Heinrich Neb",
+      "platform": "devto",
+      "publishedAt": "2026-08-20T09:05:38Z",
+      "rawContent": "Building in public  You explain your deploy setup to your assistant. It helps. Tomorrow you explain...",
+      "engagement": {
+        "likes": 6,
+        "comments": 15
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49378957",
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "author": "0xedb",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T19:22:24.000Z",
+      "rawContent": "The August 17 outage, and the work ahead",
+      "engagement": {
+        "score": 312,
+        "comments": 354
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186689,
+        "score": 46046
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49373456",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "author": "simedw",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T12:04:38.000Z",
+      "rawContent": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn&#x27;t work.",
+      "engagement": {
+        "score": 501,
+        "comments": 106
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164286,
+        "score": 34301
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49375996",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "author": "Bluestein",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T15:26:02.000Z",
+      "rawContent": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "engagement": {
+        "score": 191,
+        "comments": 202
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 179065,
+        "score": 17487
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4439349",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
+      "author": "Marco",
+      "platform": "devto",
+      "publishedAt": "2026-08-20T02:13:13Z",
+      "rawContent": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  I maintain a small...",
+      "engagement": {
+        "likes": 5,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "author": "danielvaughn",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "rawContent": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.<p>I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They&#x27;re great, but I&#x27;m finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there&#x27;s a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I&#x",
+      "engagement": {
+        "score": 220,
+        "comments": 119
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 153064,
+        "score": 24166
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49374772",
+      "title": "Hacking with Claude on a $27 smart watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "author": "speckx",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T14:08:09.000Z",
+      "rawContent": "Hacking with Claude on a $27 smart watch",
+      "engagement": {
+        "score": 85,
+        "comments": 46
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 124893,
+        "score": 21955
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49374830",
+      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+      "url": "https://github.com/paulsp94/omacosy",
+      "author": "paulsp",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T14:12:08.000Z",
+      "rawContent": "I have been using omarchy on my tower since nearly a year now, shortly after it was released first. I really love the experience I am having with it but I still use my macbook for daly work, so I wanted to recreate a similar experience on it. Thats why I created omacosy, a setup for tiling windows, custom menu bar, some themes from omarchy, focus follows mouse, focus rings around windwos, some mac flavors with trackpad events and a custom mission control overview for your workspaces.<p>I used Ae",
+      "engagement": {
+        "score": 48,
+        "comments": 37
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 153515,
+        "score": 9901
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4418983",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "url": "https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm",
+      "author": "Ken W Alger",
+      "platform": "devto",
+      "publishedAt": "2026-08-20T14:03:00Z",
+      "rawContent": "Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...",
+      "engagement": {
+        "likes": 13,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49375244",
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "url": "https://zoneless.com",
+      "author": "tinyprojects",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T14:38:45.000Z",
+      "rawContent": "Hey, I&#x27;m Ben. I built Zoneless because I was paying so much to use Stripe Connect on my own marketplace. The fees were really, really bad, and it was also limiting in terms of the seller countries I could onboard. To give you an idea, I was paying around $9,000 per month in fees just to run payouts. Using Zoneless, that cost goes down to around $6.<p>I&#x27;ve been using it personally for the past few months, and onboarded 5,000+ sellers and done 3,000+ payouts. 74% of new sellers on my mar",
+      "engagement": {
+        "score": 63,
+        "comments": 25
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 89570,
+        "score": 20976
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "hn-49377923",
+      "title": "Optimizing things in the USSR (2016)",
+      "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+      "author": "cassepipe",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-20T17:55:16.000Z",
+      "rawContent": "Optimizing things in the USSR (2016)",
+      "engagement": {
+        "score": 39,
+        "comments": 35
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 5.277777777777778
+    }
+  ],
+  "stats": {
+    "totalCollected": 147,
+    "totalScored": 44,
+    "totalPublished": 20
+  }
+}
