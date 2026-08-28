@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T10:42:48.088Z",
+  "items": [
+    {
+      "id": "hn-49468083",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "author": "TangerineDream",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T17:17:57.000Z",
+      "rawContent": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "engagement": {
+        "score": 773,
+        "comments": 227
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 237530,
+        "score": 48174
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4489060",
+      "title": "Velocidade de entrega e custo de manutenção pós IA",
+      "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
+      "author": "Elves Santos",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T13:58:08Z",
+      "rawContent": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
+      "engagement": {
+        "likes": 71,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49467922",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "author": "saretup",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T17:06:32.000Z",
+      "rawContent": "Gemini Omni 1.1 Flash",
+      "engagement": {
+        "score": 258,
+        "comments": 192
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 243852,
+        "score": 36878
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4496903",
+      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
+      "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
+      "author": "Sarvar Nadaf",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T13:21:53Z",
+      "rawContent": "Your AI coding agent does exactly what you ask, which isn't always what you mean. NexPath catches vague prompts before they become bugs.",
+      "engagement": {
+        "likes": 45,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49465119",
+      "title": "Six months of writing code exclusively with agents",
+      "url": "https://blog.exe.dev/engineering-with-ai",
+      "author": "bryanmikaelian",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T14:05:19.000Z",
+      "rawContent": "Six months of writing code exclusively with agents",
+      "engagement": {
+        "score": 68,
+        "comments": 100
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186962,
+        "score": 46050
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4504303",
+      "title": "I Told the AI \"A Scanner Flagged This\" — and It Agreed With Everything",
+      "url": "https://dev.to/alimafana/i-told-the-ai-a-scanner-flagged-this-and-it-agreed-with-everything-4jn6",
+      "author": "Ali Afana ",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T11:26:31Z",
+      "rawContent": "I gave two AI models the same 200 pieces of code, the same prompt, the same question. One of them...",
+      "engagement": {
+        "likes": 9,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49471407",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "author": "SilenN",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T21:18:35.000Z",
+      "rawContent": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.<p>It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).<p>The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider,",
+      "engagement": {
+        "score": 183,
+        "comments": 36
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164549,
+        "score": 34395
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4501813",
+      "title": "Most AI Second Opinions Are Fake. I Built a Two-LLM Review Engine to Prove It.",
+      "url": "https://dev.to/debashish_ghosal/most-ai-second-opinions-are-fake-i-built-a-two-llm-review-engine-to-prove-it-17e7",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T13:35:48Z",
+      "rawContent": "Most AI \"second opinions\" are fake.   Not because there is no second model. Because the second model...",
+      "engagement": {
+        "likes": 12,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49465461",
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+      "author": "gtzi",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T14:27:39.000Z",
+      "rawContent": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "engagement": {
+        "score": 89,
+        "comments": 80
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 168106,
+        "score": 21684
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49471965",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "author": "elyosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T22:10:47.000Z",
+      "rawContent": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "engagement": {
+        "score": 165,
+        "comments": 41
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 179612,
+        "score": 17596
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4505973",
+      "title": "I'm 12. A senior dev broke my app. Then he became User #001",
+      "url": "https://dev.to/koda2026/im-12-a-senior-dev-broke-my-app-then-he-became-my-first-user-meh",
+      "author": "Harun - solo dev ",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T15:04:47Z",
+      "rawContent": "Two days ago, my Dev.to post went viral. I gained 400 followers in a single night.  And then the...",
+      "engagement": {
+        "likes": 13,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4496488",
+      "title": "Nobody Argued For Your Stack",
+      "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+      "author": "Ryan Carniato",
+      "platform": "devto",
+      "publishedAt": "2026-08-27T18:34:44Z",
+      "rawContent": "Last week, it came to light Cursor had mostly finished migrating from SolidJS to React. This...",
+      "engagement": {
+        "likes": 10,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49467750",
+      "title": "Flock CEO gets his house blurred out on Google Maps and Zillow",
+      "url": "https://twitter.com/LocumRex/status/2092993787605717176",
+      "author": "lorecore",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-27T16:53:01.000Z",
+      "rawContent": "Flock CEO gets his house blurred out on Google Maps and Zillow",
+      "engagement": {
+        "score": 154,
+        "comments": 42
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 153746,
+        "score": 24300
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 169,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
