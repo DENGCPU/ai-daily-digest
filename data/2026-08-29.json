@@ -1,0 +1,491 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T06:29:50.975Z",
+  "items": [
+    {
+      "id": "hn-49478340",
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "author": "smartmic",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T13:42:40.000Z",
+      "rawContent": "Get your Windows license refund",
+      "engagement": {
+        "score": 670,
+        "comments": 278
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 237833,
+        "score": 48325
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4513989",
+      "title": "Your AI Remembers Everything and Trusts All of It",
+      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
+      "author": "marcosomma",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T14:27:09Z",
+      "rawContent": "I think we are still talking about AI memory in the wrong way. Most implementations are variations of...",
+      "engagement": {
+        "likes": 23,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49479878",
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "author": "jeudesprits",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T15:20:13.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713</a><p><a href=\"https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3\" rel=\"nofollow\">https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3</a>",
+      "engagement": {
+        "score": 653,
+        "comments": 221
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 244015,
+        "score": 36907
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4514362",
+      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
+      "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
+      "author": "Jonathan Murray",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T15:25:20Z",
+      "rawContent": "Nvidia is worth more than most countries because we cannot figure out how to do cheap...",
+      "engagement": {
+        "likes": 24,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49477212",
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T11:51:20.000Z",
+      "rawContent": "Migrating to HTTPX2",
+      "engagement": {
+        "score": 190,
+        "comments": 82
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 186966,
+        "score": 46050
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49485267",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "author": "hentrep",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T23:02:21.000Z",
+      "rawContent": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "engagement": {
+        "score": 209,
+        "comments": 67
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164588,
+        "score": 34400
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4513879",
+      "title": "How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+      "url": "https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel",
+      "author": "Morgan Willis",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T14:07:24Z",
+      "rawContent": "AI’s most fervent and optimistic promoters promise a future where AI is innovating its way out of...",
+      "engagement": {
+        "likes": 17,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4510918",
+      "title": "My LLM Critic Disagreed With Itself on Every Trial. The Safe Part Was the Code I Didn’t Trust It to Touch.",
+      "url": "https://dev.to/debashish_ghosal/my-llm-critic-disagreed-with-itself-on-every-trial-the-safe-part-was-the-code-i-didnt-trust-it-to-4j09",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T07:15:40Z",
+      "rawContent": "In the My Agent Refused 96 Times. That Was the Right Output., I argued that the most valuable output...",
+      "engagement": {
+        "likes": 17,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49477157",
+      "title": "HTTPX2 – A next-generation HTTP client for Python",
+      "url": "https://github.com/pydantic/httpx2",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T11:41:45.000Z",
+      "rawContent": "HTTPX2 – A next-generation HTTP client for Python",
+      "engagement": {
+        "score": 119,
+        "comments": 38
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 168132,
+        "score": 21685
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49483020",
+      "title": "Bye, Bye GitHub",
+      "url": "https://log.ozgur.works/bye-bye-github.html",
+      "author": "iozguradem",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T19:12:11.000Z",
+      "rawContent": "Bye, Bye GitHub",
+      "engagement": {
+        "score": 65,
+        "comments": 56
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 179677,
+        "score": 17597
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4514335",
+      "title": "Your agent's logs are testimony, not evidence",
+      "url": "https://dev.to/lizhuojunx86/your-agents-logs-are-testimony-not-evidence-1lk8",
+      "author": "Li Zhuojun",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T15:23:07Z",
+      "rawContent": "On August 26, METR and Redwood Research published their independent investigation into the OpenAI /...",
+      "engagement": {
+        "likes": 6,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4515587",
+      "title": "Hallucination Is an Architecture Problem, Not Only a Prompt Problem",
+      "url": "https://dev.to/paul_chen_90371fe7426cb44/hallucination-is-an-architecture-problem-not-only-a-prompt-problem-51p8",
+      "author": "Paul Chen",
+      "platform": "devto",
+      "publishedAt": "2026-08-28T19:06:47Z",
+      "rawContent": "If you've built a knowledge base on top of an LLM, you've probably noticed something...",
+      "engagement": {
+        "likes": 9,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49477311",
+      "title": "AI Agent Has Root",
+      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+      "author": "lowcache",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-28T12:03:09.000Z",
+      "rawContent": "AI Agent Has Root",
+      "engagement": {
+        "score": 38,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 153791,
+        "score": 24307
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 157,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
