@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T04:25:41.977Z",
+  "items": [
+    {
+      "id": "hn-49506819",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "author": "Recursing",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T07:49:18.000Z",
+      "rawContent": "Breaking Claude Code Opus 5 Auto Mode",
+      "engagement": {
+        "score": 357,
+        "comments": 113
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 239094,
+        "score": 48769
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4524789",
+      "title": "My LLM Critic Flip-Flops on Every Run. That's Fine — Because a Frozenset Decides What's Fatal.",
+      "url": "https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T08:09:45Z",
+      "rawContent": "This is a companion to the PlannerCritic series. Article 2 was about a specific critic bug. This one...",
+      "engagement": {
+        "likes": 11,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49506142",
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T06:03:02.000Z",
+      "rawContent": "uv: Deduplicate all files in the wheel cache",
+      "engagement": {
+        "score": 210,
+        "comments": 103
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187044,
+        "score": 46045
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4522406",
+      "title": "I Opened All Thirteen Memory MCP Servers. Every Public Signal I Trusted Was Wrong.",
+      "url": "https://dev.to/izgorodin/i-opened-all-thirteen-memory-mcp-servers-every-public-signal-i-trusted-was-wrong-1i1g",
+      "author": "Edward Izgorodin",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T14:06:00Z",
+      "rawContent": "I went looking for a memory MCP server the way anyone does. Sort by stars, check the registry, read...",
+      "engagement": {
+        "likes": 8,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-49506655",
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "author": "Bluestein",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T07:23:47.000Z",
+      "rawContent": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "engagement": {
+        "score": 59,
+        "comments": 61
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164676,
+        "score": 34411
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4524795",
+      "title": "I Published Every Flaw My Safety Tool Can't Catch. It Made It More Credible, Not Less.",
+      "url": "https://dev.to/debashish_ghosal/i-published-every-flaw-my-safety-tool-cant-catch-it-made-it-more-credible-not-less-57go",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T20:25:37Z",
+      "rawContent": "This is a companion to the PlannerCritic series. Article 5 was about what happened when I tried to...",
+      "engagement": {
+        "likes": 6,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-49506519",
+      "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
+      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+      "author": "partsch",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T07:02:05.000Z",
+      "rawContent": "Claude Code reduces it's weekly limit by 17% – compared to today",
+      "engagement": {
+        "score": 64,
+        "comments": 46
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 168361,
+        "score": 21708
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4536740",
+      "title": "Building Needflare: An Autonomous Disaster Intelligence & Logistics Agent with Gemini 3.7, Gemma 4 & Google Veo",
+      "url": "https://dev.to/vero-code/building-needflare-an-autonomous-disaster-intelligence-logistics-agent-with-gemini-37-gemma-4-21m8",
+      "author": " Veronika Kashtanova",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T11:40:59Z",
+      "rawContent": "This article was created for the purposes of entering the Google Cloud: All Things Agentic...",
+      "engagement": {
+        "likes": 11,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "hn-49511007",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "author": "kushagrchitkar",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T15:34:34.000Z",
+      "rawContent": "Hi HN, I&#x27;m Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.<p>We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to.<p>This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, th",
+      "engagement": {
+        "score": 51,
+        "comments": 45
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 179854,
+        "score": 17626
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4532590",
+      "title": "Best Enterprise MCP Gateway for Your AI Agents in 2026",
+      "url": "https://dev.to/vivek_shetye/best-enterprise-mcp-gateway-for-your-ai-agents-in-2026-43hl",
+      "author": "Vivek Shetye",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T15:00:32Z",
+      "rawContent": "The best enterprise MCP gateway is not the product with the longest feature list. It is the one whose...",
+      "engagement": {
+        "likes": 12,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-49511400",
+      "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
+      "url": "https://corporatemindgames.com/",
+      "author": "dontwordle",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T16:08:08.000Z",
+      "rawContent": "I have always enjoyed building and playing puzzles. I am a regular user of NYT Games and LinkedIn Games. I thought it would be fun to create some corporate-themed puzzles as a silly alternative to LinkedIn Games.<p>So, I built Corporate Mind Games. The games are intended to be a little bit sassy and sarcastic, but I hope they are enjoyable and challenging.<p>I was planning to post this on HN last week. However, many years ago, I made a game called Don&#x27;t Wordle, which unexpectedly appeared o",
+      "engagement": {
+        "score": 43,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154046,
+        "score": 24341
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4536950",
+      "title": "Diff Every Tool Call: Replaying Agent Runs from a JSONL Trace",
+      "url": "https://dev.to/apprs_6334/diff-every-tool-call-replaying-agent-runs-from-a-jsonl-trace-2b75",
+      "author": "Riley Wang",
+      "platform": "devto",
+      "publishedAt": "2026-08-31T12:01:47Z",
+      "rawContent": "Production failed on Friday. My final transcript looked clean. The agent answered, cited sources, and...",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "hn-49510632",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "author": "kstonekuan",
+      "platform": "hackernews",
+      "publishedAt": "2026-08-31T15:02:41.000Z",
+      "rawContent": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;Hebbian-Robotics&#x2F;hflow\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Hebbian-Robotics&#x2F;hflow</a>), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processe",
+      "engagement": {
+        "score": 44,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 150534,
+        "score": 21982
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 148,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
