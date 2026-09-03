@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T03:48:28.878Z",
+  "items": [
+    {
+      "id": "hn-49535284",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "author": "teekert",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T12:30:39.000Z",
+      "rawContent": "Can I opt out of my input or output data being used for training?",
+      "engagement": {
+        "score": 387,
+        "comments": 168
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 240222,
+        "score": 49163
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4552700",
+      "title": "Agents That Act Need Brakes, Not Just Brains",
+      "url": "https://dev.to/james_anderson_h/agents-that-act-need-brakes-not-just-brains-54h2",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T06:05:06Z",
+      "rawContent": "Here's the moment a lot of us had this year.  You built an agent. It was genuinely impressive — it...",
+      "engagement": {
+        "likes": 20,
+        "comments": 21
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49535201",
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "author": "frexs",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T12:23:20.000Z",
+      "rawContent": "Check if a file was made with Claude",
+      "engagement": {
+        "score": 153,
+        "comments": 112
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 246437,
+        "score": 37161
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4540527",
+      "title": "Execution Trees, Not More Logs: A Better Debugging Model for AI Agents",
+      "url": "https://dev.to/raju_dandigam/execution-trees-not-more-logs-a-better-debugging-model-for-ai-agents-3d4g",
+      "author": "Raju Dandigam",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T04:46:27Z",
+      "rawContent": "A flat log can tell you that five things happened. It often cannot tell you which operation caused...",
+      "engagement": {
+        "likes": 20,
+        "comments": 20
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49541458",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "author": "surreal_",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T19:49:01.000Z",
+      "rawContent": "Fable 5.1 World Modeling",
+      "engagement": {
+        "score": 159,
+        "comments": 54
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187088,
+        "score": 46042
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4552932",
+      "title": "I Tried Pair Programming With Three Different AI Tools For a Month",
+      "url": "https://dev.to/elsie-rainee/i-tried-pair-programming-with-three-different-ai-tools-for-a-month-2nnc",
+      "author": "Elsie Rainee",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T06:34:20Z",
+      "rawContent": "AI coding tools can write a function in seconds. The harder question is whether that function...",
+      "engagement": {
+        "likes": 26,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49539152",
+      "title": "Mushroom hunting with LLMs: what can go wrong?",
+      "url": "https://quesma.com/blog/mushroom-llm-vision/",
+      "author": "stared",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T16:58:34.000Z",
+      "rawContent": "Mushroom hunting with LLMs: what can go wrong?",
+      "engagement": {
+        "score": 50,
+        "comments": 71
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164731,
+        "score": 34431
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4557766",
+      "title": "What do you build when you can build anything?",
+      "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
+      "author": "Alexandra",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T16:38:09Z",
+      "rawContent": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
+      "engagement": {
+        "likes": 27,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49533073",
+      "title": "Ask HN: How do you survive a job you hate which is slowly making you sick?",
+      "url": "https://news.ycombinator.com/item?id=49533073",
+      "author": "_override",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T07:43:49.000Z",
+      "rawContent": "I started a new job a little less than a year ago as a product owner&#x2F;manager for a legacy enterprise system. Unfortunately the job has not at all been what I expected and what was sold to me in the interview process for a number of reasons.<p>I don&#x27;t want to get too much into it, but the main reason is that my job was supposed to be leading a modernization project to expand our legacy enterprise system with modern API-based integrations, but our development team simply does not have ex",
+      "engagement": {
+        "score": 45,
+        "comments": 68
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154272,
+        "score": 24391
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4555833",
+      "title": "I'm 12. A dev asked me to expand my architecture. Here's the deep dive — schema, RLS, fallback chain, and the z-index war.",
+      "url": "https://dev.to/koda2026/im-12-a-dev-asked-me-to-expand-my-architecture-heres-the-deep-dive-schema-rls-fallback-27k6",
+      "author": "Harun - solo dev ",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T12:03:20Z",
+      "rawContent": "My last article shared the high-level architecture of KODA (my AI coding mentor built on a POCO C55)....",
+      "engagement": {
+        "likes": 13,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49539805",
+      "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
+      "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
+      "author": "JulianPGough",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T17:46:42.000Z",
+      "rawContent": "Last year, I wrote a speculative cosmology piece called Blowtorch Theory. It rather cheekily extended the American theoretical physicist Lee Smolin&#x27;s wonderful, powerful, oddly neglected theory of cosmological natural selection; the idea that universes reproduce, with variation, leading to Darwinian evolution of universes.<p>While I was having dinner with my five-year-old, a friend texted to say that the piece was at number one on Hacker News. At the time, I didn&#x27;t really know anything",
+      "engagement": {
+        "score": 68,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 145536,
+        "score": 24283
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4557696",
+      "title": "My AI Gateway Added 400ms to Every Request. Here's Where It Went",
+      "url": "https://dev.to/devstackhub/my-ai-gateway-added-400ms-to-every-request-heres-where-it-went-2fkp",
+      "author": "Dev Stack Hub",
+      "platform": "devto",
+      "publishedAt": "2026-09-02T16:21:42Z",
+      "rawContent": "If your AI application suddenly becomes 300–500ms slower after adding an AI gateway, the first...",
+      "engagement": {
+        "likes": 19,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49541496",
+      "title": "AI Agents and the Refactoring That Never Happens",
+      "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+      "author": "rosenfeld",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-02T19:51:39.000Z",
+      "rawContent": "AI Agents and the Refactoring That Never Happens",
+      "engagement": {
+        "score": 42,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 175791,
+        "score": 9629
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 160,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
