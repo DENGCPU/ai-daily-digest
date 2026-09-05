@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T03:47:51.016Z",
+  "items": [
+    {
+      "id": "hn-49566137",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "author": "aaraujo002",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T15:33:45.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;kmOqm\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;kmOqm</a>",
+      "engagement": {
+        "score": 275,
+        "comments": 254
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 241554,
+        "score": 49578
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4572132",
+      "title": "Stratagems #28: Mark Built a Ladder. The AI Climbed to the Top.",
+      "url": "https://dev.to/xulingfeng/stratagems-28-mark-built-a-ladder-the-ai-climbed-to-the-top-1fm0",
+      "author": "xulingfeng",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T08:28:29Z",
+      "rawContent": "Lend him the opening. Lure him in. Cut his support. Trap him where there is no way out. To take the...",
+      "engagement": {
+        "likes": 34,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49567310",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "author": "garrinm",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T17:09:24.000Z",
+      "rawContent": "“Next-token predictor” is the wrong mental model for LLMs",
+      "engagement": {
+        "score": 94,
+        "comments": 213
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187136,
+        "score": 46044
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4570404",
+      "title": "The Detector Reported Zero Because It Only Had One Item.",
+      "url": "https://dev.to/kenielzep97/the-detector-reported-zero-because-it-only-had-one-item-ni0",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T05:06:35Z",
+      "rawContent": "Two instructions went into an Auditor my agent collaborators and I built to surface conflicts in...",
+      "engagement": {
+        "likes": 29,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49564397",
+      "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+      "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+      "author": "1vuio0pswjnm7",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T13:33:01.000Z",
+      "rawContent": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+      "engagement": {
+        "score": 100,
+        "comments": 187
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164798,
+        "score": 34448
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4572783",
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "author": "ujja",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T09:24:10Z",
+      "rawContent": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "engagement": {
+        "likes": 24,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49567437",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "author": "stingrae",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T17:18:08.000Z",
+      "rawContent": "Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant</a>",
+      "engagement": {
+        "score": 248,
+        "comments": 87
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 169346,
+        "score": 21787
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4571347",
+      "title": "Your AI-generated tests aren't testing your code. They're testing the AI's blind spots.",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-ai-generated-tests-arent-testing-your-code-theyre-testing-the-ais-blind-spots-46mo",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T06:54:42Z",
+      "rawContent": "Intro   There's a pitch behind every \"AI writes your tests too\" workflow: more coverage,...",
+      "engagement": {
+        "likes": 23,
+        "comments": 15
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49570545",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "author": "Topfi",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T21:39:19.000Z",
+      "rawContent": "GPT-6 Astra on OpenRouter",
+      "engagement": {
+        "score": 146,
+        "comments": 75
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 180173,
+        "score": 17697
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4577360",
+      "title": "I trained my AI agent to burn less money. Here's what actually worked.",
+      "url": "https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn",
+      "author": "Jennifer Smith",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T20:10:19Z",
+      "rawContent": "A few months ago I became convinced my AI assistant was bleeding money through incompetence. It felt...",
+      "engagement": {
+        "likes": 5,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49563839",
+      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+      "author": "hawshemi",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T12:49:44.000Z",
+      "rawContent": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "engagement": {
+        "score": 64,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154474,
+        "score": 24416
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4574070",
+      "title": "When Should You Use n8n Instead of Writing the Code Yourself?",
+      "url": "https://dev.to/hosseinhezami/when-should-you-use-n8n-instead-of-writing-the-code-yourself-4j1f",
+      "author": "Hossein Hezami",
+      "platform": "devto",
+      "publishedAt": "2026-09-04T11:53:44Z",
+      "rawContent": "The first time an n8n workflow replaces a 300-line integration script, it feels like you got away...",
+      "engagement": {
+        "likes": 13,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49562219",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "author": "gioscarab",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-04T09:03:00.000Z",
+      "rawContent": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.<p>I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (ev",
+      "engagement": {
+        "score": 99,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 150969,
+        "score": 22061
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 166,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
