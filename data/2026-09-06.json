@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T03:51:41.763Z",
+  "items": [
+    {
+      "id": "hn-49576124",
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
+      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "author": "ijidak",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T13:02:14.000Z",
+      "rawContent": "Global warming will exceed 1.5-degree limit, UN says",
+      "engagement": {
+        "score": 306,
+        "comments": 352
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 242069,
+        "score": 49739
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4583222",
+      "title": "I don't want to be a ML engineer who trains models.",
+      "url": "https://dev.to/jonathancodes365/i-dont-want-to-be-a-ml-engineer-who-trains-models-7dg",
+      "author": "Jonathan Sherpa",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T16:01:07Z",
+      "rawContent": "I don’t just want to train a model in a Jupyter notebook and call it an ML project.  I want to...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49573680",
+      "title": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "author": "sevenseacat",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T06:31:49.000Z",
+      "rawContent": "Git hosting that never leaves Europe",
+      "engagement": {
+        "score": 324,
+        "comments": 149
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187162,
+        "score": 46042
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4569245",
+      "title": "I Thought Role Separation Would Fix the Optimizer. It Didn't.",
+      "url": "https://dev.to/debashish_ghosal/i-thought-role-separation-would-fix-the-optimizer-it-didnt-1h1",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T16:03:24Z",
+      "rawContent": "Previously: 9 Bugs That All Looked Like a Working System · I Built an AI That Rewrites Its Own...",
+      "engagement": {
+        "likes": 7,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49580164",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "author": "canjobear",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T20:02:35.000Z",
+      "rawContent": "LLMs as a Cognitive Virus",
+      "engagement": {
+        "score": 203,
+        "comments": 170
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 164844,
+        "score": 34460
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4583452",
+      "title": "Tree of Thoughts and MCTS for LLMs: What Happens When You Stop Making the Model Guess Once",
+      "url": "https://dev.to/shrsv/tree-of-thoughts-and-mcts-for-llms-what-happens-when-you-stop-making-the-model-guess-once-3dmm",
+      "author": "Shrijith Venkatramana",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T18:01:00Z",
+      "rawContent": "Hello, I'm Shrijith Venkatramana, and I'm building LiveReview — a blast-radius aware AI code review...",
+      "engagement": {
+        "likes": 9,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49576258",
+      "title": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "author": "der_gopher",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T13:19:42.000Z",
+      "rawContent": ".gitignore Everything by Default",
+      "engagement": {
+        "score": 164,
+        "comments": 160
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 169428,
+        "score": 21795
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4580908",
+      "title": "Why Most AI Agents Fail in Production",
+      "url": "https://dev.to/hosseinhezami/why-most-ai-agents-fail-in-production-43mm",
+      "author": "Hossein Hezami",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T08:18:53Z",
+      "rawContent": "The demo is flawless. The agent reads the support ticket, categorizes it, looks up the customer,...",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49578280",
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "author": "elvis70",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T16:45:02.000Z",
+      "rawContent": "Learn Programming with OCaml",
+      "engagement": {
+        "score": 192,
+        "comments": 78
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154550,
+        "score": 24422
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4579531",
+      "title": "🚨📢Launching Docgrity 🚀: Documentation integrity for you, your team, and your agent friends. 🤖",
+      "url": "https://dev.to/ujja/meet-docgrity-documentation-integrity-for-you-your-team-and-your-agent-friends-14gm",
+      "author": "ujja",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T04:55:38Z",
+      "rawContent": "Today I'm launching Docgrity — a tool for finding where your documentation disagrees with itself,...",
+      "engagement": {
+        "likes": 9,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49576704",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "author": "zkehs",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T14:13:22.000Z",
+      "rawContent": "There's No Limit to How Bad Code Can Get",
+      "engagement": {
+        "score": 99,
+        "comments": 78
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 145729,
+        "score": 24337
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4580222",
+      "title": "Vibe Coding Is Easy. Making Money From It Is the Hard Part — Here’s a Practical Developer Guide",
+      "url": "https://dev.to/robertadam987_/vibe-coding-is-easy-making-money-from-it-is-the-hard-part-heres-a-practical-developer-guide-20g2",
+      "author": "Robert Adamson",
+      "platform": "devto",
+      "publishedAt": "2026-09-05T06:38:31Z",
+      "rawContent": "Vibe Coding Is Easy. Making Money From It Is the Hard Part — Here’s a Practical Developer...",
+      "engagement": {
+        "likes": 8,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49575143",
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "author": "Bluestein",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-05T10:32:09.000Z",
+      "rawContent": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "engagement": {
+        "score": 68,
+        "comments": 90
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 127180,
+        "score": 22819
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 150,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
