@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T03:50:38.180Z",
+  "items": [
+    {
+      "id": "hn-49585644",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "author": "cyb0rg0",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-06T11:56:43.000Z",
+      "rawContent": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "engagement": {
+        "score": 578,
+        "comments": 386
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 242631,
+        "score": 49900
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4587783",
+      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
+      "url": "https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b",
+      "author": "Yash Kumar Saini",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T13:46:16Z",
+      "rawContent": "Yash K Saini — Engineer, building in public — AI/ML, low-level (Rust/C/C++), and open source.  GitHub...",
+      "engagement": {
+        "likes": 19,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187174,
+        "score": 46040
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49588988",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "author": "zImPatrick",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-06T17:49:47.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal</a><p><a href=\"https:&#x2F;&#x2F;nitter.net&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nitter.net&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>",
+      "engagement": {
+        "score": 535,
+        "comments": 271
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 7.083333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154665,
+        "score": 24448
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4590564",
+      "title": "Compare Against the Schema They Shipped, Not the One You Expected",
+      "url": "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T21:57:04Z",
+      "rawContent": "My harness flagged the model for sending the wrong arguments. It compared what the model actually...",
+      "engagement": {
+        "likes": 14,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4585631",
+      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
+      "url": "https://dev.to/lovestaco/markov-chain-monte-carlo-the-1953-algorithm-hiding-under-modern-ai-5cb4",
+      "author": "Athreya aka Maneshwar",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T04:31:27Z",
+      "rawContent": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "engagement": {
+        "likes": 17,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49589003",
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "author": "Cider9986",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-06T17:51:23.000Z",
+      "rawContent": "Following legal advice, the Nitter project will continue",
+      "engagement": {
+        "score": 265,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 145828,
+        "score": 24362
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4590122",
+      "title": "Mozaik in Plain English: A Gentle Introduction to Concurrent AI Agents",
+      "url": "https://dev.to/jamilxt/mozaik-in-plain-english-a-gentle-introduction-to-concurrent-ai-agents-5bed",
+      "author": "jamilxt",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T19:41:19Z",
+      "rawContent": "Most AI agent tutorials show you a pipeline. Agent A extracts data, hands it to Agent B, B hands it...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 151154,
+        "score": 22097
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49584123",
+      "title": "Play GTA Vice City in the Browser",
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "author": "rzk",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-06T07:33:17.000Z",
+      "rawContent": "Play GTA Vice City in the Browser",
+      "engagement": {
+        "score": 75,
+        "comments": 34
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 154357,
+        "score": 10035
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4587102",
+      "title": "I Rebuilt My RAG Pipeline Without LangChain — What Got Better and What Got Worse",
+      "url": "https://dev.to/hosseinhezami/i-rebuilt-my-rag-pipeline-without-langchain-what-got-better-and-what-got-worse-4d1a",
+      "author": "Hossein Hezami",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T09:59:19Z",
+      "rawContent": "The first time I seriously doubted the framework was not because the model hallucinated. It was...",
+      "engagement": {
+        "likes": 8,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4586028",
+      "title": "When Your Benchmark Finally Tells the Truth",
+      "url": "https://dev.to/debashish_ghosal/when-your-benchmark-finally-tells-the-truth-534h",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T05:45:44Z",
+      "rawContent": "Update — v0.1.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
+      "engagement": {
+        "likes": 11,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49586902",
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
+      "author": "scastiel",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-06T14:34:46.000Z",
+      "rawContent": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "engagement": {
+        "score": 69,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "author": "harry0703",
+      "platform": "github",
+      "publishedAt": "2024-03-11T02:57:34Z",
+      "rawContent": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "engagement": {
+        "likes": 121193,
+        "score": 18675
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4589476",
+      "title": "The receipt should come from the person who received it",
+      "url": "https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog",
+      "author": "Yash Kumar Saini",
+      "platform": "devto",
+      "publishedAt": "2026-09-06T17:33:22Z",
+      "rawContent": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   Every...",
+      "engagement": {
+        "likes": 12,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-farion1231/cc-switch",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "author": "farion1231",
+      "platform": "github",
+      "publishedAt": "2025-08-04T14:16:16Z",
+      "rawContent": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "engagement": {
+        "likes": 131404,
+        "score": 9050
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 139,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
