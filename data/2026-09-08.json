@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T03:54:12.449Z",
+  "items": [
+    {
+      "id": "hn-49599481",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "author": "highfrequency",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T15:27:03.000Z",
+      "rawContent": "Bill Gates tries to install MovieMaker (2003)",
+      "engagement": {
+        "score": 365,
+        "comments": 246
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 243097,
+        "score": 50063
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4576085",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
+      "author": "Pascal CESCATO",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T03:34:19Z",
+      "rawContent": "This is a submission for the Weekend Challenge: Generosity Edition      Don't Just Ask AI. Give the...",
+      "engagement": {
+        "likes": 29,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49598291",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T13:35:13.000Z",
+      "rawContent": "bzip3",
+      "engagement": {
+        "score": 391,
+        "comments": 111
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187188,
+        "score": 46035
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4593511",
+      "title": "My MCP integration got rejected. Almost nothing in the server had to change.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/my-mcp-integration-got-rejected-almost-nothing-in-the-server-had-to-change-npb",
+      "author": "Eugeniya Ivanova",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T07:54:22Z",
+      "rawContent": "In July I set out to add our MCP server to the ChatGPT app directory. The server was already live,...",
+      "engagement": {
+        "likes": 17,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-49601655",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "author": "rustywasm",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T18:52:06.000Z",
+      "rawContent": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "engagement": {
+        "score": 243,
+        "comments": 125
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 154898,
+        "score": 24471
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4596714",
+      "title": "Nobody Checks Whether the Guardrail Is Running",
+      "url": "https://dev.to/mickyarun/nobody-checks-whether-the-guardrail-is-running-3ng",
+      "author": "arun rajkumar",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T14:07:25Z",
+      "rawContent": "Every AI-and-engineering post right now is about adding a guardrail.  Lint rules the agent can't...",
+      "engagement": {
+        "likes": 9,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-49600233",
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "author": "spwa4",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T16:40:32.000Z",
+      "rawContent": "In case you&#x27;re wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.",
+      "engagement": {
+        "score": 122,
+        "comments": 135
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 177713,
+        "score": 9696
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4597685",
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
+      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
+      "author": "Alister Baroi",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T15:57:07Z",
+      "rawContent": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
+      "engagement": {
+        "likes": 13,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "hn-49602699",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "author": "josephcsible",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T20:32:55.000Z",
+      "rawContent": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "engagement": {
+        "score": 128,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 127428,
+        "score": 22883
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4599584",
+      "title": "Your AI Agent Has a Memory. But It's Not Chat History",
+      "url": "https://dev.to/rijultp/your-ai-agent-has-a-memory-but-its-not-chat-history-2pm",
+      "author": "Rijul Rajesh",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T19:46:48Z",
+      "rawContent": "Hello, I'm Rijul, and I'm building LiveReview — a blast-radius aware AI code review built for your...",
+      "engagement": {
+        "likes": 8,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-49596054",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "author": "ankitg12",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T09:26:41.000Z",
+      "rawContent": "Speculative Decoding in vLLM on AMD GPUs",
+      "engagement": {
+        "score": 135,
+        "comments": 49
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "author": "langflow-ai",
+      "platform": "github",
+      "publishedAt": "2023-02-08T22:28:03Z",
+      "rawContent": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "engagement": {
+        "likes": 154419,
+        "score": 10048
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4589378",
+      "title": "When Your Judge Can't Decide",
+      "url": "https://dev.to/debashish_ghosal/when-your-judge-cant-decide-1252",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-07T19:52:17Z",
+      "rawContent": "Update — v0.1.0 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "hn-49596976",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "url": "https://news.ycombinator.com/item?id=49596976",
+      "author": "maxim-fin",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-07T11:22:40.000Z",
+      "rawContent": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network&#x2F;Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with &quot;save:false&quot;, and the marker then appeared verbatim in the HTML served from the generated &quot;*.codepen.dev preview&quot;. Thus, if you ever entered some secrets in there by mistake con",
+      "engagement": {
+        "score": 110,
+        "comments": 56
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-vllm-project/vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "author": "vllm-project",
+      "platform": "github",
+      "publishedAt": "2023-02-09T11:23:20Z",
+      "rawContent": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "engagement": {
+        "likes": 91200,
+        "score": 21870
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 144,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
