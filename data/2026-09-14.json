@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T04:14:14.142Z",
+  "items": [
+    {
+      "id": "hn-49684356",
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "author": "chiassedu80",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T14:25:13.000Z",
+      "rawContent": "CUDA for AMD on Windows",
+      "engagement": {
+        "score": 145,
+        "comments": 75
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 245215,
+        "score": 51018
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4642467",
+      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
+      "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
+      "author": "Giorgi Kobaidze",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T07:06:59Z",
+      "rawContent": "Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...",
+      "engagement": {
+        "likes": 41,
+        "comments": 43
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49684266",
+      "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "author": "delichon",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T14:15:40.000Z",
+      "rawContent": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+      "engagement": {
+        "score": 97,
+        "comments": 86
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187316,
+        "score": 46016
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4642110",
+      "title": "I made two AIs review each other's code for 30 days. A human still caught the bug in 5 minutes.",
+      "url": "https://dev.to/infoinlet1/i-made-two-ais-review-each-others-code-for-30-days-a-human-still-caught-the-bug-in-5-minutes-484a",
+      "author": "Info Inlet",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T04:33:36Z",
+      "rawContent": "Last month I let AI write 100% of my code for 30 days. The single loudest lesson wasn't \"AI is...",
+      "engagement": {
+        "likes": 20,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-49684101",
+      "title": "Key symbols we lost to time, pt. 1: The PC side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+      "author": "leephillips",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T14:00:44.000Z",
+      "rawContent": "Key symbols we lost to time, pt. 1: The PC side",
+      "engagement": {
+        "score": 99,
+        "comments": 30
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 180845,
+        "score": 17843
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4642462",
+      "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
+      "url": "https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj",
+      "author": "Varshith V Hegde",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T07:06:09Z",
+      "rawContent": "Someone on a Zoom call said a URL yesterday. I was still writing down the previous bullet point. By...",
+      "engagement": {
+        "likes": 14,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-49685037",
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "author": "lumpa",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T15:24:05.000Z",
+      "rawContent": "Libraries Run Rust Inside Python (With PyO3)",
+      "engagement": {
+        "score": 62,
+        "comments": 33
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 155637,
+        "score": 24579
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4642194",
+      "title": "I Sell Memory APIs. I'm Also Building the Benchmark. Here's How I'm Trying Not to Rig It.",
+      "url": "https://dev.to/woochan/i-sell-memory-apis-im-also-building-the-benchmark-heres-how-im-trying-not-to-rig-it-481e",
+      "author": "woochan",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T05:09:24Z",
+      "rawContent": "Hey everyone. This time I'll go through what got me started on this benchmark, and the core of how...",
+      "engagement": {
+        "likes": 9,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "hn-49689706",
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "url": "https://openai.com/index/better-language-models/",
+      "author": "Jimmc414",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T23:11:17.000Z",
+      "rawContent": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "engagement": {
+        "score": 64,
+        "comments": 30
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 151914,
+        "score": 22222
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4642975",
+      "title": "My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.",
+      "url": "https://dev.to/alimafana/my-comment-section-designed-my-next-experiment-then-it-made-me-freeze-my-predictions-2hg1",
+      "author": "Ali Afana ",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T09:44:54Z",
+      "rawContent": "Ten days ago I published an article about a failure mode: tell a language model \"a scanner flagged...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-49684778",
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "url": "https://cpak.it/",
+      "author": "xlmnxp",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-13T15:02:56.000Z",
+      "rawContent": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "engagement": {
+        "score": 50,
+        "comments": 19
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 180057,
+        "score": 9782
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4555568",
+      "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
+      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
+      "author": "Web Developer Hyper",
+      "platform": "devto",
+      "publishedAt": "2026-09-13T23:30:12Z",
+      "rawContent": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
+      "engagement": {
+        "likes": 8,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "hn-49690943",
+      "title": "Show HN: Is It Greg?",
+      "url": "https://github.com/antoineleclair/is-it-greg",
+      "author": "antoineleclair",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T01:58:41.000Z",
+      "rawContent": "My friend Greg often posts incredible things he just made, just for fun.<p>Often, I don&#x27;t realize that it&#x27;s something HE made and then I see the URL, AND IT&#x27;S MY FRIEND, GREG!<p>A few things he made that I think are amazing:<p>- ikea complexity index: <a href=\"https:&#x2F;&#x2F;ikea.greg.technology&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;ikea.greg.technology&#x2F;</a><p>- Boing: <a href=\"https:&#x2F;&#x2F;boing.greg.technology&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;boing.greg.tec",
+      "engagement": {
+        "score": 51,
+        "comments": 18
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 128132,
+        "score": 23134
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 111,
+    "totalScored": 39,
+    "totalPublished": 20
+  }
+}
