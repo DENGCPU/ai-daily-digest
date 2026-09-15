@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T04:14:25.817Z",
+  "items": [
+    {
+      "id": "hn-49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "author": "tosh",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T12:01:32.000Z",
+      "rawContent": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "engagement": {
+        "score": 219,
+        "comments": 155
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 245559,
+        "score": 51173
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4652133",
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+      "author": "Hemapriya Kanagala",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T17:12:10Z",
+      "rawContent": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
+      "engagement": {
+        "likes": 58,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49699373",
+      "title": "Claude is a Contrarian",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "author": "rdsubhas",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T16:14:24.000Z",
+      "rawContent": "Claude is a Contrarian",
+      "engagement": {
+        "score": 116,
+        "comments": 141
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187348,
+        "score": 46017
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4650950",
+      "title": "Is AI Really Better at Coding Than Most Developers? Here's the Uncomfortable Truth",
+      "url": "https://dev.to/thebitforge/is-ai-really-better-at-coding-than-most-developers-heres-the-uncomfortable-truth-4d9",
+      "author": "TheBitForge",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T13:34:47Z",
+      "rawContent": "I've had this argument three times this month. Once with a client who wanted to skip hiring a junior...",
+      "engagement": {
+        "likes": 38,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49703003",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "rawContent": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "engagement": {
+        "score": 130,
+        "comments": 118
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 166056,
+        "score": 34580
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4649033",
+      "title": "How to Add a Verification Loop to Your AI Agent in 30 Minutes",
+      "url": "https://dev.to/hackmamba/how-to-add-a-verification-loop-to-your-ai-agent-in-30-minutes-4530",
+      "author": "Oyedele Temitope",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T09:19:19Z",
+      "rawContent": "AI agent loops can produce an output, run some checks and move on without establishing that the...",
+      "engagement": {
+        "likes": 27,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49693613",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "author": "SamuraiLion",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T08:25:57.000Z",
+      "rawContent": "A 386 PC for Your RP2350",
+      "engagement": {
+        "score": 207,
+        "comments": 79
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 180983,
+        "score": 17873
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4652870",
+      "title": "Building a Recall Response Console With ToolJet MCP (and Examining ToolJet’s Approach to AI App Building)",
+      "url": "https://dev.to/tooljet/building-a-recall-response-console-with-tooljet-mcp-and-examining-tooljets-approach-to-ai-app-126",
+      "author": "Karan Rathod",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T20:14:59Z",
+      "rawContent": "Building the first version of an internal application is only one part of the job. The more difficult...",
+      "engagement": {
+        "likes": 30,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49698607",
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "author": "carllerche",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T15:27:56.000Z",
+      "rawContent": "Principles for Fast Tokio Applications",
+      "engagement": {
+        "score": 176,
+        "comments": 45
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 155746,
+        "score": 24597
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4645793",
+      "title": "0/60 Wasn't the Model: The Empty Haystack Behind My Two Worst Corpora",
+      "url": "https://dev.to/debashish_ghosal/060-wasnt-the-model-the-empty-haystack-behind-my-two-worst-corpora-34nh",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T13:10:00Z",
+      "rawContent": "Update — v0.3.1 released. CauterRule is now live on GitHub and PyPI. It turns repeated agent...",
+      "engagement": {
+        "likes": 19,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49697014",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "author": "0o_MrPatrick_o0",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T13:59:09.000Z",
+      "rawContent": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "engagement": {
+        "score": 123,
+        "comments": 68
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "engagement": {
+        "likes": 180498,
+        "score": 9792
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4646990",
+      "title": "The Steelman: When an AI Agent Actually Earns Its Complexity",
+      "url": "https://dev.to/james_anderson_h/the-steelman-when-an-ai-agent-actually-earns-its-complexity-2ck7",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-09-14T04:37:48Z",
+      "rawContent": "A while back I wrote that most \"AI agents\" are just pipelines in a trench coat — deterministic...",
+      "engagement": {
+        "likes": 17,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49699648",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "author": "Betelbuddy",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-14T16:32:23.000Z",
+      "rawContent": "Why don't machine learning research agents overfit?",
+      "engagement": {
+        "score": 112,
+        "comments": 62
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 128251,
+        "score": 23199
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 163,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
