@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T04:16:44.693Z",
+  "items": [
+    {
+      "id": "hn-49826565",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "author": "snikolaev",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T05:21:10.000Z",
+      "rawContent": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "engagement": {
+        "score": 253,
+        "comments": 254
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 248766,
+        "score": 52664
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4732978",
+      "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+      "url": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+      "author": "Mika Flowers",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T11:06:58Z",
+      "rawContent": "Updated 3D Environment for Library              Reading DEV Articles     A lot of you...",
+      "engagement": {
+        "likes": 16,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49834825",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "author": "lormayna",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T18:24:52.000Z",
+      "rawContent": "Creatine uptake enhances antitumor immunity",
+      "engagement": {
+        "score": 152,
+        "comments": 171
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187538,
+        "score": 45997
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4730447",
+      "title": "I Made a VS Code Extension to Copy Your Repo to Your Clipboard as Clean Markdown Context for Your Chatbot",
+      "url": "https://dev.to/effessdev/i-made-a-vs-code-extension-to-copy-your-repo-to-your-clipboard-as-clean-markdown-context-for-your-4j6l",
+      "author": "EffessDev",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T10:11:21Z",
+      "rawContent": "The UI:    An example output:    # Project...",
+      "engagement": {
+        "likes": 8,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49832406",
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "author": "hermitcrab",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T15:50:26.000Z",
+      "rawContent": "GitHub has not removed malicious imitation software after 3 weeks",
+      "engagement": {
+        "score": 248,
+        "comments": 108
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 166620,
+        "score": 34668
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4662589",
+      "title": "7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)",
+      "url": "https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T12:22:00Z",
+      "rawContent": "You've been there. You run the eval, the number comes back, and something about it doesn't sit...",
+      "engagement": {
+        "likes": 22,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49828969",
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "author": "adunk",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T11:08:39.000Z",
+      "rawContent": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "engagement": {
+        "score": 217,
+        "comments": 102
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 181654,
+        "score": 17999
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4732315",
+      "title": "Your model doesn't need more training. It needs a better search index.",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-model-doesnt-need-more-training-it-needs-a-better-search-index-3mca",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T09:40:25Z",
+      "rawContent": "Intro   Every team that plugs an LLM into its business hits the same moment. Someone asks...",
+      "engagement": {
+        "likes": 7,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49833867",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "author": "sidharthkmenon",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T17:21:36.000Z",
+      "rawContent": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (<a href=\"https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;\">https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;</a>), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>.<p>We were missing the feeling of a “whiteboard sessi",
+      "engagement": {
+        "score": 232,
+        "comments": 87
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 157130,
+        "score": 24772
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4734153",
+      "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
+      "url": "https://dev.to/unit_500_c36d1b1011fdf39c/100-vuln-detection-wasnt-enough-measuring-whether-ai-respects-the-patch-dg4",
+      "author": "unit life",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T13:18:19Z",
+      "rawContent": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   AI models...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49830866",
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "author": "terryds",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T14:09:57.000Z",
+      "rawContent": "Best LLM for every budget, updated daily",
+      "engagement": {
+        "score": 167,
+        "comments": 105
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 153095,
+        "score": 22394
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4700947",
+      "title": "AI-assisted genealogy, a follow-up",
+      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-a-follow-up-531",
+      "author": "Nicolas Fränkel",
+      "platform": "devto",
+      "publishedAt": "2026-09-24T09:02:00Z",
+      "rawContent": "I got a lot of feedback on my post AI-assisted genealogy, some good, some not so good. In any case, I...",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49826221",
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "author": "erichocean",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-24T04:20:59.000Z",
+      "rawContent": "Contrastive Language Models",
+      "engagement": {
+        "score": 160,
+        "comments": 51
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The web data API to search, scrape, and interact at scale. 🔥",
+      "engagement": {
+        "likes": 184370,
+        "score": 9912
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 160,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
