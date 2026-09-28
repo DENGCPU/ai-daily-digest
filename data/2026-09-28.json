@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T04:39:37.096Z",
+  "items": [
+    {
+      "id": "hn-49870367",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "author": "sancho-panza",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T20:12:54.000Z",
+      "rawContent": "When did Google get so weird?",
+      "engagement": {
+        "score": 950,
+        "comments": 517
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 249546,
+        "score": 53079
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4754094",
+      "title": "Prompt Injection Is the New SQL Injection (and We're Not Ready)",
+      "url": "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T05:32:50Z",
+      "rawContent": "In March 2026, a financial services company discovered that their customer-facing AI agent had been...",
+      "engagement": {
+        "likes": 26,
+        "comments": 18
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 268498,
+        "score": 40115
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "author": "zzzeek",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T16:19:46.000Z",
+      "rawContent": "There are no \"rogue\" AI agents",
+      "engagement": {
+        "score": 344,
+        "comments": 247
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "devto-4754483",
+      "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes",
+      "url": "https://dev.to/dj29/chain-of-thought-faithfulness-toggling-reasoning-mode-made-one-model-5x-more-likely-to-follow-39b3",
+      "author": "Dhruv Jani",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T07:59:44Z",
+      "rawContent": "This is a submission for the Kaggle Benchmarking Challenge           What I Benchmarked   A while...",
+      "engagement": {
+        "likes": 26,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187596,
+        "score": 45981
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49868404",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "author": "birdculture",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T16:50:58.000Z",
+      "rawContent": "Don't couple your Go code to GitHub",
+      "engagement": {
+        "score": 175,
+        "comments": 86
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "devto-4754009",
+      "title": "Your AI Coding Agent Says “Tests Pass.” But Did It Actually Run Them?",
+      "url": "https://dev.to/robertadam987_/your-ai-coding-agent-says-tests-pass-but-did-it-actually-run-them-4684",
+      "author": "Robert Adamson",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T05:07:41Z",
+      "rawContent": "AI coding agents are getting very good at finishing tasks.  They modify files.  Fix errors.  Write...",
+      "engagement": {
+        "likes": 13,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 166736,
+        "score": 34696
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49865343",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "author": "yu3zhou4",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T10:26:25.000Z",
+      "rawContent": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "engagement": {
+        "score": 101,
+        "comments": 101
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "devto-4758216",
+      "title": "Implementation is where judgements go to become invisible",
+      "url": "https://dev.to/tom_jones_230c4659491adcd/implementation-is-where-judgements-go-to-become-invisible-4p1h",
+      "author": "Tom Jones",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T22:38:21Z",
+      "rawContent": "One question, three answers   I have a small tool that finds people waiting for a reply from...",
+      "engagement": {
+        "likes": 6,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 157366,
+        "score": 24795
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49868202",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "author": "smb06",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T16:29:38.000Z",
+      "rawContent": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "engagement": {
+        "score": 56,
+        "comments": 110
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "devto-4735087",
+      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
+      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
+      "author": "Mika Flowers",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T13:04:40Z",
+      "rawContent": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
+      "engagement": {
+        "likes": 18,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 153393,
+        "score": 22441
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49867775",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "author": "hp6",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T15:51:28.000Z",
+      "rawContent": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena</a>",
+      "engagement": {
+        "score": 104,
+        "comments": 41
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "devto-4662628",
+      "title": "I Built Two Agent Systems. Each One Proved the Other One Wrong.",
+      "url": "https://dev.to/debashish_ghosal/i-built-two-agent-systems-each-one-proved-the-other-one-wrong-1f58",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-09-27T12:30:00Z",
+      "rawContent": "I built one engine where an LLM reviews another LLM's plan. I built another where two LLMs debate a...",
+      "engagement": {
+        "likes": 8,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "The web data API to search, scrape, and interact at scale. 🔥",
+      "engagement": {
+        "likes": 185618,
+        "score": 9953
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-49870304",
+      "title": "Have an LLC",
+      "url": "https://zachholman.com/posts/you-should-have-an-llc",
+      "author": "mlex",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-27T20:04:37.000Z",
+      "rawContent": "Have an LLC",
+      "engagement": {
+        "score": 51,
+        "comments": 46
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    }
+  ],
+  "stats": {
+    "totalCollected": 142,
+    "totalScored": 48,
+    "totalPublished": 20
+  }
+}
