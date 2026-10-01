@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T05:06:49.001Z",
+  "items": [
+    {
+      "id": "hn-49910553",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "author": "allisdust",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T15:50:11.000Z",
+      "rawContent": "The AI Race Just Got Awkward",
+      "engagement": {
+        "score": 381,
+        "comments": 418
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 250392,
+        "score": 53513
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4776315",
+      "title": "1 in 5 Packages Your AI Suggests Don't Exist. Attackers Know Which Ones.",
+      "url": "https://dev.to/james_anderson_h/slopsquatting-your-ai-invented-a-package-and-an-attacker-was-waiting-1g67",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T08:37:59Z",
+      "rawContent": "You ask your AI assistant how to do something. It gives you clean, confident code, with an install...",
+      "engagement": {
+        "likes": 33,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-49913192",
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "author": "iandinwoodie",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T19:26:37.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler</a>",
+      "engagement": {
+        "score": 183,
+        "comments": 83
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187629,
+        "score": 45980
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4775068",
+      "title": "The Data Was Public. The Agent Path Wasn't. So His Mock Became My Documentation.",
+      "url": "https://dev.to/kenielzep97/the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation-413a",
+      "author": "Self-Correcting Systems",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T04:36:02Z",
+      "rawContent": "Two commands against the same data. Run them yourself:    $ curl -sS --get...",
+      "engagement": {
+        "likes": 33,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-49906669",
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T09:59:03.000Z",
+      "rawContent": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "engagement": {
+        "score": 79,
+        "comments": 99
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 120869,
+        "score": 63569
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4775331",
+      "title": "I've been a developer for 10 years. AI just showed me I only had one real skill.\"",
+      "url": "https://dev.to/infoinlet1/ive-been-a-developer-for-10-years-ai-just-showed-me-i-only-had-one-real-skill-38p",
+      "author": "Info Inlet",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T05:34:48Z",
+      "rawContent": "Last Sunday I built an invoice tracker for a friend who runs a small shop. Nothing clever. I...",
+      "engagement": {
+        "likes": 23,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-49911995",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "author": "anerli",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T17:37:40.000Z",
+      "rawContent": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.<p>Inference engin",
+      "engagement": {
+        "score": 141,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 166878,
+        "score": 34735
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4776060",
+      "title": "Your AI guardrail is green. It's also catching nothing.",
+      "url": "https://dev.to/rudratosh/your-ai-guardrail-is-green-its-also-catching-nothing-5eel",
+      "author": "Rudratosh Shastri",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T07:55:25Z",
+      "rawContent": "The scariest security failure isn't the guardrail that's down, or the one that's weak. It's the one that's running, passing every health check, and quietly configured to catch nothing — green by construction. I found one in a benchmark of 629 real agent attacks: a famous prompt-injection model catching 1%, not because it's bad, but because its default threshold was ~50x too high. Here's the anatomy of a guardrail that has no symptom.",
+      "engagement": {
+        "likes": 7,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-49908962",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "author": "ibobev",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T13:50:50.000Z",
+      "rawContent": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "engagement": {
+        "score": 142,
+        "comments": 55
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 157628,
+        "score": 24863
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4702311",
+      "title": "What Science Fiction Tells Us About Our Changing Relationship With AI",
+      "url": "https://dev.to/javz/what-science-fiction-tells-us-about-our-changing-relationship-with-ai-5c8m",
+      "author": "Julien Avezou",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T11:05:53Z",
+      "rawContent": "I have noticed in recent years that the way AI is portrayed in science fiction has shifted.  I wanted...",
+      "engagement": {
+        "likes": 18,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-49913975",
+      "title": "Gitea 28.0",
+      "url": "https://blog.gitea.com/release-of-28.0.0/",
+      "author": "porridgeraisin",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T20:32:23.000Z",
+      "rawContent": "Gitea 28.0",
+      "engagement": {
+        "score": 73,
+        "comments": 32
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 65815,
+        "score": 54931
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4779412",
+      "title": "CHRONOS-HEIST: A Playable Multi-Era Temporal Mystery Game Powered by Sanity Content Lake",
+      "url": "https://dev.to/shreyansh_agrahari_2009db/chronos-heist-a-playable-multi-era-temporal-mystery-game-powered-by-sanity-content-lake-gg1",
+      "author": "Shreyansh Agrahari",
+      "platform": "devto",
+      "publishedAt": "2026-09-30T21:02:30Z",
+      "rawContent": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             ...",
+      "engagement": {
+        "likes": 30,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-49911928",
+      "title": "Claude Says",
+      "url": "https://ohhfishal.net/Posts/claude",
+      "author": "speckx",
+      "platform": "hackernews",
+      "publishedAt": "2026-09-30T17:32:06.000Z",
+      "rawContent": "Claude Says",
+      "engagement": {
+        "score": 68,
+        "comments": 31
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 147335,
+        "score": 24670
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 162,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
