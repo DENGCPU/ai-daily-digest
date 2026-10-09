@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T05:27:27.504Z",
+  "items": [
+    {
+      "id": "hn-50002650",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "author": "sashank_1509",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T07:05:40.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md</a>",
+      "engagement": {
+        "score": 271,
+        "comments": 555
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 252093,
+        "score": 54398
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4776935",
+      "title": "To Retry or Not to Retry? That Is the Question.",
+      "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
+      "author": "Daniel Balcarek",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T07:00:15Z",
+      "rawContent": "This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...",
+      "engagement": {
+        "likes": 47,
+        "comments": 40
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50006366",
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "url": "https://news.ycombinator.com/item?id=50006366",
+      "author": "lukehandcool",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T14:39:47.000Z",
+      "rawContent": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There&#x27;s no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I&#x27;d keep paying as long as ",
+      "engagement": {
+        "score": 681,
+        "comments": 210
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187489,
+        "score": 45933
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4817363",
+      "title": "How Our Engineering Team Uses AI, Part II: Meat Proxies",
+      "url": "https://dev.to/metalbear/how-our-engineering-team-uses-ai-part-ii-meat-proxies-148g",
+      "author": "Eyal Bukchin",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T10:33:43Z",
+      "rawContent": "Originally published on metalbear.com.  In January we published How Our Engineering Team Uses AI. The...",
+      "engagement": {
+        "likes": 33,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50002426",
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "author": "adunk",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T06:29:25.000Z",
+      "rawContent": "Classic PC demoscene productions running natively in the browser",
+      "engagement": {
+        "score": 151,
+        "comments": 140
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 166868,
+        "score": 34770
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50007353",
+      "title": "New gTLD Application for .lan",
+      "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+      "author": "mzajc",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T15:51:51.000Z",
+      "rawContent": "New gTLD Application for .lan",
+      "engagement": {
+        "score": 115,
+        "comments": 140
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 172203,
+        "score": 22067
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50008565",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "author": "mikelgan",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T17:08:02.000Z",
+      "rawContent": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "engagement": {
+        "score": 68,
+        "comments": 158
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 182431,
+        "score": 18169
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4819254",
+      "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
+      "url": "https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n",
+      "author": "AI Dive",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T16:37:20Z",
+      "rawContent": "My Claude Code week started ending on Wednesday. I blamed the September 14 cut, like everyone on...",
+      "engagement": {
+        "likes": 6,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4819935",
+      "title": "TouchGrass: The Open-AI Agent That Succeeds When You Stop Using It",
+      "url": "https://dev.to/rajan_mishra_a9f78ad216b4/touchgrass-the-open-ai-agent-that-succeeds-when-you-stop-using-it-3k1e",
+      "author": "Rajan Mishra",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T20:24:00Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass             ...",
+      "engagement": {
+        "likes": 21,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4812044",
+      "title": "I Turned 149k Messy Images into an Offline Recognition System",
+      "url": "https://dev.to/michellebuchiokonicha/i-turned-149k-messy-images-into-an-offline-recognition-system-3cp3",
+      "author": "Michellebuchiokonicha",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T06:31:39Z",
+      "rawContent": "Training an on-device YOLO26n food detection model from scratch across multi-source datasets  I set...",
+      "engagement": {
+        "likes": 12,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50003107",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "author": "theemathas",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-08T08:08:37.000Z",
+      "rawContent": "OpenAI Withdraws 3 Math Papers",
+      "engagement": {
+        "score": 338,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 157955,
+        "score": 24947
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4819778",
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "author": "Swift",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T20:00:18Z",
+      "rawContent": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "engagement": {
+        "likes": 15,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 189680,
+        "score": 10063
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4817050",
+      "title": "700 manuscripts, 48 hours, three withdrawals. The verifier won.",
+      "url": "https://dev.to/slabb/700-manuscripts-48-hours-three-withdrawals-the-verifier-won-dhl",
+      "author": "Sam LABBE",
+      "platform": "devto",
+      "publishedAt": "2026-10-08T09:53:33Z",
+      "rawContent": "OpenAI published hundreds of AI-produced math results before fully formalizing them. Two days later, three are gone — and that is the system working, not failing.",
+      "engagement": {
+        "likes": 5,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 151,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
