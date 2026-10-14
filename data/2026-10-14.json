@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T04:16:50.626Z",
+  "items": [
+    {
+      "id": "hn-50069499",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "author": "formerly_proven",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T10:27:00.000Z",
+      "rawContent": "11 year old unsoundness bugs found in Rust borrow checker",
+      "engagement": {
+        "score": 694,
+        "comments": 386
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 253541,
+        "score": 54992
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4842489",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "url": "https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T07:15:38Z",
+      "rawContent": "Earlier this month, a developer in Atlanta got fed up with Adobe's cancellation fees. So he used...",
+      "engagement": {
+        "likes": 40,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50068946",
+      "title": "Were software engineers blue-collar workers all along?",
+      "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+      "author": "ilreb",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T09:25:10.000Z",
+      "rawContent": "Were software engineers blue-collar workers all along?",
+      "engagement": {
+        "score": 93,
+        "comments": 193
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "platform": "github",
+      "publishedAt": "2026-04-14T00:51:32Z",
+      "rawContent": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "engagement": {
+        "likes": 214073,
+        "score": 52734
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4826108",
+      "title": "AI Fatigue? Yea I know.",
+      "url": "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9",
+      "author": "FrancisTRᴅᴇᴠ",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T14:57:34Z",
+      "rawContent": "I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...",
+      "engagement": {
+        "likes": 57,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50070593",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "author": "acossta",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T12:26:36.000Z",
+      "rawContent": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "engagement": {
+        "score": 239,
+        "comments": 96
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187565,
+        "score": 45940
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4842439",
+      "title": "Your Auth Check Passed. The Agent Still Did Something Nobody Asked For",
+      "url": "https://dev.to/shubhradev/your-auth-check-passed-the-agent-still-did-something-nobody-asked-for-156f",
+      "author": "Shubhra Pokhariya",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T07:30:23Z",
+      "rawContent": "Authentication answers who. Authorization answers what they're allowed to do. Neither one answers...",
+      "engagement": {
+        "likes": 23,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50069318",
+      "title": "AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "author": "HatchedLake721",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T10:07:03.000Z",
+      "rawContent": "AWS Lambda Web Functions",
+      "engagement": {
+        "score": 108,
+        "comments": 100
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 167686,
+        "score": 34874
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4844686",
+      "title": "Your AI agent said it blocked the attack. I read the source of 5 tools that check if it's lying.",
+      "url": "https://dev.to/rudratosh/your-ai-agent-said-it-blocked-the-attack-i-read-the-source-of-5-tools-that-check-if-its-lying-l1n",
+      "author": "Rudratosh Shastri",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T13:31:39Z",
+      "rawContent": "Here's a failure your test suite probably can't see.  An AI agent with a send_email tool summarizes a...",
+      "engagement": {
+        "likes": 9,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50072120",
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "author": "kkukshtel",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T14:14:23.000Z",
+      "rawContent": "How to engineer an AI harness for game development",
+      "engagement": {
+        "score": 139,
+        "comments": 64
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 172883,
+        "score": 22159
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4843483",
+      "title": "Your AI Coding Agent Just Built an App. Would You Trust It With Production Data?",
+      "url": "https://dev.to/robertadam987_/your-ai-coding-agent-just-built-an-app-would-you-trust-it-with-production-data-oc4",
+      "author": "Robert Adamson",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T09:53:52Z",
+      "rawContent": "AI can build a working application faster than ever.  Give an AI coding agent a prompt, and it might...",
+      "engagement": {
+        "likes": 14,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50067570",
+      "title": "Denmark set to allow return of 'physical force' in school",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+      "author": "janisz",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T06:27:03.000Z",
+      "rawContent": "Denmark set to allow return of 'physical force' in school",
+      "engagement": {
+        "score": 78,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 183073,
+        "score": 18272
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50068437",
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "author": "mlukewizard",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-13T08:24:06.000Z",
+      "rawContent": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "engagement": {
+        "score": 83,
+        "comments": 52
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 158397,
+        "score": 25049
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4838502",
+      "title": "Do You Actually Need an LLM?",
+      "url": "https://dev.to/kenwalger/do-you-actually-need-an-llm-3n55",
+      "author": "Ken W Alger",
+      "platform": "devto",
+      "publishedAt": "2026-10-13T13:03:00Z",
+      "rawContent": "I spent a weekend running two small language models against three jobs I would normally hand to a...",
+      "engagement": {
+        "likes": 12,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 161,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
