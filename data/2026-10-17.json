@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T03:45:40.908Z",
+  "items": [
+    {
+      "id": "hn-50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "author": "ahlCVA",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;</a>",
+      "engagement": {
+        "score": 737,
+        "comments": 282
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "platform": "github",
+      "publishedAt": "2026-04-14T00:51:32Z",
+      "rawContent": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "engagement": {
+        "likes": 292860,
+        "score": 73819
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4860387",
+      "title": "What I Look for Before Trusting an AI App Builder With a Real Project",
+      "url": "https://dev.to/thebitforge/what-i-look-for-before-trusting-an-ai-app-builder-with-a-real-project-4h27",
+      "author": "TheBitForge",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T06:26:24Z",
+      "rawContent": "AI app builders can now generate a working database, authentication flow, and deployed URL from a...",
+      "engagement": {
+        "likes": 39,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "author": "pretext",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T19:04:47.000Z",
+      "rawContent": "How the Claude Code team does code review",
+      "engagement": {
+        "score": 261,
+        "comments": 249
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 254465,
+        "score": 55286
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4785053",
+      "title": "The Bug Lives at the Seam, Not in the Logic",
+      "url": "https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T02:16:00Z",
+      "rawContent": "The encrypted secret was bytes. It round-tripped perfectly in the in-memory store. The unit tests...",
+      "engagement": {
+        "likes": 22,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50118320",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "author": "antipaul",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T13:43:48.000Z",
+      "rawContent": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "engagement": {
+        "score": 280,
+        "comments": 128
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187617,
+        "score": 45917
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4864468",
+      "title": "What if the scoreboard had no delay?",
+      "url": "https://dev.to/satviksingh192/what-if-the-scoreboard-had-no-delay-3gi2",
+      "author": "Satvik Singh",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T20:26:14Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle.          ...",
+      "engagement": {
+        "likes": 20,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50124251",
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "author": "trvrprkr",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T20:33:41.000Z",
+      "rawContent": "I never authorized an integration that scans my secrets",
+      "engagement": {
+        "score": 203,
+        "comments": 165
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 167772,
+        "score": 34884
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4863598",
+      "title": "Help Your Coding Assistant Find the Right Code in Large Repos",
+      "url": "https://dev.to/raabdahl/help-your-coding-assistant-find-the-right-code-in-large-repos-20e3",
+      "author": "Saurabh \"Rob\" Dahal",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T16:53:48Z",
+      "rawContent": "Get the starter: sdahal1/repo-search-workshop on GitHub. The reproduction, searches, tests, and...",
+      "engagement": {
+        "likes": 13,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50118688",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "author": "__cayenne__",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T14:18:44.000Z",
+      "rawContent": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
+      "engagement": {
+        "score": 195,
+        "comments": 89
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 173195,
+        "score": 22157
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4840294",
+      "title": "Singularity News :: 0010",
+      "url": "https://dev.to/pengeszikra/singularity-news-0010-nhn",
+      "author": "Peter Vivo",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T21:22:38Z",
+      "rawContent": "Bartender R2D66 explained the next step in evolution. Whisky made it sound reasonable.   Welcome to...",
+      "engagement": {
+        "likes": 9,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50122431",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "author": "Anon84",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T18:32:35.000Z",
+      "rawContent": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "engagement": {
+        "score": 224,
+        "comments": 62
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 183509,
+        "score": 18339
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50121562",
+      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "url": "https://news.ycombinator.com/item?id=50121562",
+      "author": "rsorto",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-16T17:31:42.000Z",
+      "rawContent": "I am a LegalTech Attorney leading a developer team from Costa Rica. While trying to load credits onto my Anthropic API account (claude.com), I experienced a critical internationalization (i18n) and UX failure that has placed an unfair financial burden on me due to a severe oversight in their payment pipeline.<p>The platform prompted me for a payment. Since I am in a Spanish-speaking region where localized systems and keyboards handle dots and commas differently, I typed 5.04.<p>Anthropic’s input",
+      "engagement": {
+        "score": 86,
+        "comments": 34
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 158675,
+        "score": 25080
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4863183",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "author": "xbill",
+      "platform": "devto",
+      "publishedAt": "2026-10-16T15:14:10Z",
+      "rawContent": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
+      "engagement": {
+        "likes": 7,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 120,
+    "totalScored": 40,
+    "totalPublished": 20
+  }
+}
