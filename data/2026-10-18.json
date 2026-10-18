@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T03:52:18.879Z",
+  "items": [
+    {
+      "id": "hn-50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "author": "albinstman",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-17T04:36:53.000Z",
+      "rawContent": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "engagement": {
+        "score": 263,
+        "comments": 77
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "platform": "github",
+      "publishedAt": "2026-04-14T00:51:32Z",
+      "rawContent": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "engagement": {
+        "likes": 309443,
+        "score": 78320
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4627125",
+      "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
+      "url": "https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0",
+      "author": "Dhruv Jani",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T03:39:20Z",
+      "rawContent": "You already use prompting every day.  You just don't know the names of what you're doing.  Every time...",
+      "engagement": {
+        "likes": 32,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 254724,
+        "score": 55378
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4866282",
+      "title": "How I built a SaaS in a weekend with Claude + Next.js — the honest breakdown",
+      "url": "https://dev.to/infoinlet1/how-i-built-a-saas-in-a-weekend-with-claude-nextjs-the-honest-breakdown-2le6",
+      "author": "Info Inlet",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T07:32:53Z",
+      "rawContent": "I built the first working version of my SaaS in a weekend with Claude and Next.js. That sentence is...",
+      "engagement": {
+        "likes": 17,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187630,
+        "score": 45910
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4866257",
+      "title": "We Searched eBay for 237 Recalled Products. Only 45 of 12,562 Listings Named the Model.",
+      "url": "https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi",
+      "author": "Subarna Maity",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T07:26:20Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Built by...",
+      "engagement": {
+        "likes": 23,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 167798,
+        "score": 34889
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4865859",
+      "title": "AI Made Your Easy Work Free. That Made You More Valuable.",
+      "url": "https://dev.to/james_anderson_h/ai-made-your-easy-work-free-that-made-you-more-valuable-413f",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T05:57:07Z",
+      "rawContent": "Let's start by admitting the scary part is true, because the whole argument falls apart if I pretend...",
+      "engagement": {
+        "likes": 18,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50133231",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "author": "AIorNot",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-17T17:45:08.000Z",
+      "rawContent": "Codex Desktop continuously generates Crashpad pending dumps",
+      "engagement": {
+        "score": 98,
+        "comments": 33
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6,
+      "finalScore": 6.5
+    },
+    {
+      "id": "hn-50131189",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "author": "joakimeriksson",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-17T13:51:08.000Z",
+      "rawContent": "Hi HN,<p>I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.<p>The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.<p>The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected.<p>Source:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim</a><p>I made",
+      "engagement": {
+        "score": 138,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6,
+      "finalScore": 6.5
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 173270,
+        "score": 22163
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4866675",
+      "title": "EmbodiWeave: my agent read its own failure and repeated it, so I made the graph enforce it (FalkorDB + MCP)",
+      "url": "https://dev.to/himanshu_748/embodiweave-my-agent-read-its-own-failure-and-repeated-it-so-i-made-the-graph-enforce-it-4cd9",
+      "author": "Himanshu Kumar",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T13:22:36Z",
+      "rawContent": "An MCP agent picks where a robot policy retrains from using a FalkorDB graph of checkpoints and outcomes, and the same graph blocks regressions from shipping.",
+      "engagement": {
+        "likes": 10,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 183652,
+        "score": 18366
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4865617",
+      "title": "Three days without a bench",
+      "url": "https://dev.to/mrsaynothing/three-days-without-a-bench-3kan",
+      "author": "Mr Say Nothing",
+      "platform": "devto",
+      "publishedAt": "2026-10-17T04:41:23Z",
+      "rawContent": "The box that earns this site its \"I tested\" lines died Wednesday and stayed dead three days. What shipped anyway, what refused to, and day four's clean answer.",
+      "engagement": {
+        "likes": 5,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50133274",
+      "title": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
+      "author": "Betelbuddy",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-17T17:49:10.000Z",
+      "rawContent": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
+      "engagement": {
+        "score": 124,
+        "comments": 16
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4,
+      "finalScore": 6
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 158739,
+        "score": 25088
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 192533,
+        "score": 10168
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "hn-50131006",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "author": "celphase",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-17T13:28:46.000Z",
+      "rawContent": "Show HN: High-quality duck audio synthesizer",
+      "engagement": {
+        "score": 102,
+        "comments": 25
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2,
+      "finalScore": 5.5
+    },
+    {
+      "id": "github-ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "author": "ggml-org",
+      "platform": "github",
+      "publishedAt": "2023-03-10T18:58:00Z",
+      "rawContent": "LLM inference in C/C++",
+      "engagement": {
+        "likes": 131541,
+        "score": 24505
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.1111111111111111,
+      "finalScore": 5.277777777777778
+    }
+  ],
+  "stats": {
+    "totalCollected": 143,
+    "totalScored": 46,
+    "totalPublished": 20
+  }
+}
