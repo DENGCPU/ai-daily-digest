@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T04:01:22.818Z",
+  "items": [
+    {
+      "id": "hn-50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "author": "allinonai",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T20:48:14.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2",
+      "engagement": {
+        "score": 270,
+        "comments": 153
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "platform": "github",
+      "publishedAt": "2026-04-14T00:51:32Z",
+      "rawContent": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "engagement": {
+        "likes": 324604,
+        "score": 82222
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4845404",
+      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
+      "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
+      "author": "Daniel Balcarek",
+      "platform": "devto",
+      "publishedAt": "2026-10-18T07:03:07Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...",
+      "engagement": {
+        "likes": 38,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50141429",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "author": "f-serif",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T14:30:27.000Z",
+      "rawContent": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "engagement": {
+        "score": 158,
+        "comments": 161
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 254986,
+        "score": 55476
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4873669",
+      "title": "My AI Experiment Was Going Great Until My Client Replied 😂",
+      "url": "https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd",
+      "author": "Hanzla Baig",
+      "platform": "devto",
+      "publishedAt": "2026-10-18T18:53:07Z",
+      "rawContent": "Quick confession. Last Sunday I opened dev.to and my brain made a tiny error noise. 😵  Opus against...",
+      "engagement": {
+        "likes": 34,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "hn-50141076",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "author": "RobotToaster",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T13:48:48.000Z",
+      "rawContent": "RepRapMicron",
+      "engagement": {
+        "score": 351,
+        "comments": 56
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187644,
+        "score": 45913
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4872495",
+      "title": "LeetCode Made Coding Fun Again",
+      "url": "https://dev.to/empiree/leetcode-made-coding-fun-again-d7d",
+      "author": "Oleg Dubovoi",
+      "platform": "devto",
+      "publishedAt": "2026-10-18T14:59:17Z",
+      "rawContent": "Many of us have already fully switched to AI-powered development. We write specs, create skills,...",
+      "engagement": {
+        "likes": 14,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "hn-50137950",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "author": "critiquebrowser",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T04:33:49.000Z",
+      "rawContent": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.",
+      "engagement": {
+        "score": 242,
+        "comments": 85
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 167830,
+        "score": 34902
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4872696",
+      "title": "StoreScribe: an open model writes your App Store listing, inside every limit",
+      "url": "https://dev.to/sbis04/storescribe-an-open-model-writes-your-app-store-listing-inside-every-limit-1lck",
+      "author": "Souvik Biswas",
+      "platform": "devto",
+      "publishedAt": "2026-10-18T15:46:21Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle          ...",
+      "engagement": {
+        "likes": 14,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "hn-50141657",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "author": "evolve2k",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T14:58:10.000Z",
+      "rawContent": "Websites are closing their doors to AI agents",
+      "engagement": {
+        "score": 135,
+        "comments": 131
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 173443,
+        "score": 22186
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4871504",
+      "title": "How I built an Autonomous Voice Healthcare Agent on FalkorDB that actually saves lives",
+      "url": "https://dev.to/roshni_mishra_9ed865d304f/how-i-built-an-autonomous-voice-healthcare-agent-on-falkordb-that-actually-saves-lives-5gg8",
+      "author": "Roshni Mishra",
+      "platform": "devto",
+      "publishedAt": "2026-10-18T11:06:32Z",
+      "rawContent": "Late last month, I was talking to a doctor friend who works near Varanasi. He told me something that...",
+      "engagement": {
+        "likes": 8,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-50143218",
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "author": "bookofjoe",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T17:27:30.000Z",
+      "rawContent": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "engagement": {
+        "score": 91,
+        "comments": 149
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 158834,
+        "score": 25102
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50141295",
+      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+      "author": "healsdata",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T14:16:41.000Z",
+      "rawContent": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+      "engagement": {
+        "score": 112,
+        "comments": 138
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 192833,
+        "score": 10184
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-50140769",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "author": "jsomau",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-18T13:06:54.000Z",
+      "rawContent": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.<p>Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth.",
+      "engagement": {
+        "score": 172,
+        "comments": 102
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 155,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
