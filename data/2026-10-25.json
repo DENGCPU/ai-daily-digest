@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T04:00:06.817Z",
+  "items": [
+    {
+      "id": "hn-50220913",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "author": "sblank",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T13:09:28.000Z",
+      "rawContent": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "engagement": {
+        "score": 425,
+        "comments": 459
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "author": "morluto",
+      "platform": "github",
+      "publishedAt": "2026-04-14T00:51:32Z",
+      "rawContent": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "engagement": {
+        "likes": 379372,
+        "score": 94811
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4909647",
+      "title": "Humanizer has about 60,000 stars. On 12 public tasks my linter plugin scored 2.67 higher",
+      "url": "https://dev.to/efe_genc/humanizer-has-about-60000-stars-on-12-public-tasks-my-linter-plugin-scored-267-higher-2cdg",
+      "author": "Efe Genc",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T09:32:54Z",
+      "rawContent": "ai-slop-linter against six humanizer tools and no tool: 12 public tasks, graded blind, 58.67 of 60 against 56. On a held-out set the top tools tied.",
+      "engagement": {
+        "likes": 11,
+        "comments": 15
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50218430",
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "author": "pentagrama",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T04:49:58.000Z",
+      "rawContent": "OBS Studio 33",
+      "engagement": {
+        "score": 445,
+        "comments": 161
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 256849,
+        "score": 56197
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4908848",
+      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+      "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
+      "author": "James Anderson",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T05:41:38Z",
+      "rawContent": "The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...",
+      "engagement": {
+        "likes": 23,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50224100",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "author": "bobbydigitales",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T19:06:55.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568</a>",
+      "engagement": {
+        "score": 285,
+        "comments": 183
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187731,
+        "score": 45896
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4909233",
+      "title": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
+      "url": "https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14",
+      "author": "Souvik Biswas",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T07:48:29Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         ...",
+      "engagement": {
+        "likes": 19,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "author": "cxr",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T16:06:26.000Z",
+      "rawContent": "Roku developer repositories moved from GitHub to GitLab",
+      "engagement": {
+        "score": 270,
+        "comments": 186
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 168108,
+        "score": 34973
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4908996",
+      "title": "Your AI Agent Says “Done.” What Did It Actually Verify?",
+      "url": "https://dev.to/robertadam987_/your-ai-agent-says-done-what-did-it-actually-verify-16jd",
+      "author": "Robert Adamson",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T06:26:16Z",
+      "rawContent": "“Fixed the bug. All tests pass.”  Great.  Which tests? Did they run? Did they cover the bug—or did...",
+      "engagement": {
+        "likes": 5,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50219700",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "author": "fragebogen",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T09:58:27.000Z",
+      "rawContent": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "engagement": {
+        "score": 201,
+        "comments": 65
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 174418,
+        "score": 22286
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4796922",
+      "title": "Three Times My Test Failed and the LLM Was Right",
+      "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-10-25T01:03:43Z",
+      "rawContent": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
+      "engagement": {
+        "likes": 7,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 159449,
+        "score": 25199
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50221179",
+      "title": "One Must Fall 2097 Remastered",
+      "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+      "author": "hmm37",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-24T13:47:07.000Z",
+      "rawContent": "One Must Fall 2097 Remastered",
+      "engagement": {
+        "score": 43,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 195056,
+        "score": 10293
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4909760",
+      "title": "My AI Coding Workflow, v3",
+      "url": "https://dev.to/helderberto/my-ai-coding-workflow-v3-3c4c",
+      "author": "Helder Burato Berto",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T09:51:31Z",
+      "rawContent": "My AI coding workflow changes every few months, so I give it version numbers. New tools ship, models...",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4910882",
+      "title": "Everyone Clicks 'I Agree.' No One Reads Them: I Fine-Tuned a 4B Model with Tinker to Catch Unfair Terms of Service in 30 Seconds",
+      "url": "https://dev.to/emmasofia/everyone-clicks-i-agree-no-one-reads-them-i-fine-tuned-a-4b-model-with-tinker-to-catch-unfair-30lm",
+      "author": "Emma Sofia",
+      "platform": "devto",
+      "publishedAt": "2026-10-24T14:29:14Z",
+      "rawContent": "A 9,000-word contract scanned in 30 seconds. How I fine-tuned Qwen 4B with Tinker on the LexGLUE UNFAIR-ToS benchmark to catch arbitration waivers, unilateral changes, and liability caps.",
+      "engagement": {
+        "likes": 5,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 147,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
