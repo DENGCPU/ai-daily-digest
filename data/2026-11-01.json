@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:18:33.111Z",
+  "items": [
+    {
+      "id": "hn-50313661",
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "author": "wilbertliu",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T06:16:36.000Z",
+      "rawContent": "Digital minimalism",
+      "engagement": {
+        "score": 314,
+        "comments": 231
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 259236,
+        "score": 57018
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4954082",
+      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮",
+      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+      "author": "Dhruv Jani",
+      "platform": "devto",
+      "publishedAt": "2026-10-31T17:57:27Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "engagement": {
+        "likes": 32,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50318871",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "author": "ryanmadden",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T18:50:34.000Z",
+      "rawContent": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "engagement": {
+        "score": 162,
+        "comments": 177
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187851,
+        "score": 45905
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4954907",
+      "title": "ESA's satellite is dead. Its ghost: 2,123 signals. TabPFN beat the published SOTA; 83¢ of Tinker stopped an LLM speaking for it",
+      "url": "https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1",
+      "author": "Advik Divekar",
+      "platform": "devto",
+      "publishedAt": "2026-10-31T22:18:15Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the...",
+      "engagement": {
+        "likes": 20,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50316531",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "author": "khalidkhair",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T14:29:03.000Z",
+      "rawContent": "Malware uses LLMs to rank victims by how much they're worth",
+      "engagement": {
+        "score": 238,
+        "comments": 130
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 122670,
+        "score": 65474
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-4954468",
+      "title": "I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.",
+      "url": "https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4",
+      "author": "Jessica Doering",
+      "platform": "devto",
+      "publishedAt": "2026-10-31T19:33:06Z",
+      "rawContent": "A follow-up to my original 16GB GPU experiment, this time with consistent quantization, repeated...",
+      "engagement": {
+        "likes": 14,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50316100",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "author": "aphyr",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T13:39:52.000Z",
+      "rawContent": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb</a>",
+      "engagement": {
+        "score": 233,
+        "comments": 124
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 168400,
+        "score": 35062
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4951330",
+      "title": "Aoandon: Hearn's ghost stories in Japanese, retold at five JLPT levels",
+      "url": "https://dev.to/adk_bbx/aoandon-hearns-ghost-stories-in-japanese-retold-at-five-jlpt-levels-5017",
+      "author": "ADK BBX",
+      "platform": "devto",
+      "publishedAt": "2026-10-31T09:03:22Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine  In...",
+      "engagement": {
+        "likes": 20,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50320995",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "author": "guregodevo",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T22:46:12.000Z",
+      "rawContent": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "engagement": {
+        "score": 147,
+        "comments": 82
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 175452,
+        "score": 22395
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4935332",
+      "title": "Butu 🧸: a friendly browser companion that gets lonely when you leave your work",
+      "url": "https://dev.to/rudas/butu-a-friendly-browser-companion-that-gets-lonely-when-you-leave-your-work-3d9f",
+      "author": "Rupam Das",
+      "platform": "devto",
+      "publishedAt": "2026-10-31T10:06:55Z",
+      "rawContent": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine.    ...",
+      "engagement": {
+        "likes": 7,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50320255",
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "author": "firesteelrain",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T21:07:58.000Z",
+      "rawContent": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "engagement": {
+        "score": 124,
+        "comments": 76
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 160121,
+        "score": 25310
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50319169",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "author": "tevlon",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T19:18:48.000Z",
+      "rawContent": "Based on vermiceli&#x27;s annotated disassembly of Contra: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us</a>. Thanks for the great work.<p>I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser.<p>The cherry on t",
+      "engagement": {
+        "score": 75,
+        "comments": 44
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "author": "open-webui",
+      "platform": "github",
+      "publishedAt": "2023-10-06T22:08:27Z",
+      "rawContent": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "engagement": {
+        "likes": 157427,
+        "score": 22887
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-50315987",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "author": "gloxkiqcza",
+      "platform": "hackernews",
+      "publishedAt": "2026-10-31T13:25:00.000Z",
+      "rawContent": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "engagement": {
+        "score": 69,
+        "comments": 41
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 165,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
