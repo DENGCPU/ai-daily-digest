@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:56:07.897Z",
+  "items": [
+    {
+      "id": "hn-50363461",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "author": "jameslk",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T10:10:27.000Z",
+      "rawContent": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;16836988<p><i>“[Ge",
+      "engagement": {
+        "score": 647,
+        "comments": 168
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 260653,
+        "score": 57492
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-4971955",
+      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
+      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
+      "author": "Sylwia Laskowska",
+      "platform": "devto",
+      "publishedAt": "2026-11-04T08:06:25Z",
+      "rawContent": "Weren't we supposed to be replaced by AI by now? Or at least work less? AI agents were supposed to...",
+      "engagement": {
+        "likes": 110,
+        "comments": 70
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "author": "eggbrain",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T14:37:22.000Z",
+      "rawContent": "I&#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.<p>1) What AI subscriptions are you personally paying for? (Claude, ChatGPT&#x2F;Codex, Cursor, etc)<p>- Which tiers?<p>- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?<p>2) Are you using models outside (or instead) of tho",
+      "engagement": {
+        "score": 232,
+        "comments": 229
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187906,
+        "score": 45904
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4973986",
+      "title": "Your AI's code is \"almost right\". Here are 7 ways it fools you, and the 30-second check for each",
+      "url": "https://dev.to/wst2002rk/your-ais-code-is-almost-right-here-are-7-ways-it-fools-you-and-the-30-second-check-for-each-4i93",
+      "author": "Wageesha Tripathi",
+      "platform": "devto",
+      "publishedAt": "2026-11-04T07:54:43Z",
+      "rawContent": "The worst AI code isn't the code that crashes. Code that crashes, you notice.  The worst one looks...",
+      "engagement": {
+        "likes": 43,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8,
+      "finalScore": 7
+    },
+    {
+      "id": "hn-50363378",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "author": "kevcampb",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T10:00:06.000Z",
+      "rawContent": "Incident with Pull Requests, Git Operations and Issues",
+      "engagement": {
+        "score": 261,
+        "comments": 129
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 123001,
+        "score": 65926
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50366971",
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "author": "karakoram",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T15:28:31.000Z",
+      "rawContent": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "engagement": {
+        "score": 76,
+        "comments": 92
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 168557,
+        "score": 35116
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4974705",
+      "title": "Your Agent Logs What It Did. It Has No Record of What It Meant To Do.",
+      "url": "https://dev.to/mickyarun/your-agent-logs-what-it-did-it-has-no-record-of-what-it-meant-to-do-1il7",
+      "author": "arun rajkumar",
+      "platform": "devto",
+      "publishedAt": "2026-11-04T09:54:55Z",
+      "rawContent": "@allenheltondev published a post yesterday called What the heck do I alert on anymore?. He runs an AI...",
+      "engagement": {
+        "likes": 7,
+        "comments": 17
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6,
+      "finalScore": 6.5
+    },
+    {
+      "id": "hn-50364814",
+      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "author": "vesinisa",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T12:46:58.000Z",
+      "rawContent": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "engagement": {
+        "score": 98,
+        "comments": 79
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 175842,
+        "score": 22431
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50366929",
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "author": "adlep",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T15:25:33.000Z",
+      "rawContent": "I&#x27;ve missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Tpft--x3WlI\" rel=\"nofollow\">https:&#",
+      "engagement": {
+        "score": 99,
+        "comments": 72
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 185952,
+        "score": 18895
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-4973382",
+      "title": "Part 4: The Alert That Could Never Fire",
+      "url": "https://dev.to/ndcodes/part-4-the-alert-that-could-never-fire-3434",
+      "author": "Nnamdi Felix Ibe",
+      "platform": "devto",
+      "publishedAt": "2026-11-04T06:20:32Z",
+      "rawContent": "Since the first week of this project, observability/prometheus/alerts.yml has contained this:    -...",
+      "engagement": {
+        "likes": 12,
+        "comments": 3
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4,
+      "finalScore": 6
+    },
+    {
+      "id": "hn-50363861",
+      "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+      "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+      "author": "teleforce",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T11:02:23.000Z",
+      "rawContent": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+      "engagement": {
+        "score": 52,
+        "comments": 77
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 160438,
+        "score": 25375
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-50366575",
+      "title": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "author": "SG-",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-04T15:04:14.000Z",
+      "rawContent": "Debian apt security update (man-in-the-middle)",
+      "engagement": {
+        "score": 140,
+        "comments": 30
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 198717,
+        "score": 10482
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 163,
+    "totalScored": 46,
+    "totalPublished": 20
+  }
+}
