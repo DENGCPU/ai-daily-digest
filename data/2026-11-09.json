@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:33:18.049Z",
+  "items": [
+    {
+      "id": "hn-50415628",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "author": "TheWiggles",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T18:16:07.000Z",
+      "rawContent": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "engagement": {
+        "score": 682,
+        "comments": 383
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 261829,
+        "score": 58250
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-5000951",
+      "title": "What gets refused on Seedance, and how the two review layers differ",
+      "url": "https://dev.to/chet103cc/what-gets-refused-on-seedance-and-how-the-two-review-layers-differ-1fpa",
+      "author": "chet100",
+      "platform": "devto",
+      "publishedAt": "2026-11-09T00:54:07Z",
+      "rawContent": "Answer: Seedance reviews a job twice. Layer 1 screens the prompt before any task exists — a clear...",
+      "engagement": {
+        "likes": 71,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50411961",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "author": "joshcsimmons",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T10:22:04.000Z",
+      "rawContent": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "engagement": {
+        "score": 400,
+        "comments": 178
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 299794,
+        "score": 44280
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4997203",
+      "title": "I Tried to Hack My Own PaaS... Here's What I Found (HYNA-Stage v2.5.0 Security Audit) 🔒🪔",
+      "url": "https://dev.to/koda2026/i-tried-to-hack-my-own-paas-heres-what-i-found-hyna-stage-v250-security-audit-3eji",
+      "author": "Harun - solo dev ",
+      "platform": "devto",
+      "publishedAt": "2026-11-08T06:03:20Z",
+      "rawContent": "Happy Diwali, everyone! 🪔  I just got back from blasting firecrackers with my brother, grandpa, and...",
+      "engagement": {
+        "likes": 20,
+        "comments": 11
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8333333333333334,
+      "finalScore": 7.083333333333334
+    },
+    {
+      "id": "hn-50412591",
+      "title": "Why I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "author": "Risse",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T12:14:10.000Z",
+      "rawContent": "Why I will not be using LLMs in my coding",
+      "engagement": {
+        "score": 109,
+        "comments": 225
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 187956,
+        "score": 45891
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50418176",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "author": "dcoulmbe",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T22:35:35.000Z",
+      "rawContent": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "engagement": {
+        "score": 339,
+        "comments": 92
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 168671,
+        "score": 35143
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4997451",
+      "title": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
+      "url": "https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc",
+      "author": "Taqui",
+      "platform": "devto",
+      "publishedAt": "2026-11-08T07:41:18Z",
+      "rawContent": "I found 10 trending skills on GitHub that can boost your agent power a lot, and I had to test them...",
+      "engagement": {
+        "likes": 20,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50418975",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "author": "matteoraso",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T23:44:36.000Z",
+      "rawContent": "I'm not convinced the AI bubble exists",
+      "engagement": {
+        "score": 122,
+        "comments": 157
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 176600,
+        "score": 22525
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4999883",
+      "title": "How much does it cost to run a text game with LLMs",
+      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7",
+      "author": "Aliaksei Zelianouski",
+      "platform": "devto",
+      "publishedAt": "2026-11-08T18:46:19Z",
+      "rawContent": "AI costs are confusing. Providers give you a lot of numbers and nothing to actually know how much you are going to pay in the long run. There is no point in these input/cached/output token prices if you have no idea how many reasoning tokens you'll spend on your tasks. How much will be cached. We are going to review the real-world usage of 27 frontier models.",
+      "engagement": {
+        "likes": 7,
+        "comments": 9
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "hn-50411818",
+      "title": "GitHub Down Again?",
+      "url": "https://github.com/torvalds/linux",
+      "author": "ridowk",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T09:56:07.000Z",
+      "rawContent": "GitHub Down Again?",
+      "engagement": {
+        "score": 120,
+        "comments": 127
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 160711,
+        "score": 25424
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50415817",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "author": "zzzeek",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T18:43:07.000Z",
+      "rawContent": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "engagement": {
+        "score": 94,
+        "comments": 113
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "author": "langchain-ai",
+      "platform": "github",
+      "publishedAt": "2022-10-17T02:58:36Z",
+      "rawContent": "The agent engineering platform.",
+      "engagement": {
+        "likes": 149232,
+        "score": 25098
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "devto-4999531",
+      "title": "The model said yes. The chain said no. An on-chain lock for AI agents with wallets",
+      "url": "https://dev.to/muhammadmurtuzahussain/the-model-said-yes-the-chain-said-no-an-on-chain-lock-for-ai-agents-with-wallets-2igp",
+      "author": "Muhammad Murtuza Hussain",
+      "platform": "devto",
+      "publishedAt": "2026-11-08T16:46:54Z",
+      "rawContent": "I let strangers try to talk AI agents out of real Solana devnet vaults. Same attack, same model, same prompt: one drained, one locked by an on-chain spend policy.",
+      "engagement": {
+        "likes": 6,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-50412954",
+      "title": "A lack of male protagonists is making it harder to get young boys into books",
+      "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+      "author": "ryzvonusef",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-08T13:07:37.000Z",
+      "rawContent": "A lack of male protagonists is making it harder to get young boys into books",
+      "engagement": {
+        "score": 45,
+        "comments": 105
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.2222222222222222,
+      "finalScore": 5.555555555555555
+    }
+  ],
+  "stats": {
+    "totalCollected": 161,
+    "totalScored": 47,
+    "totalPublished": 20
+  }
+}
