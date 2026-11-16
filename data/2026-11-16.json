@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T05:43:07.399Z",
+  "items": [
+    {
+      "id": "hn-50509837",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "author": "bcye",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T19:26:22.000Z",
+      "rawContent": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "engagement": {
+        "score": 251,
+        "comments": 51
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 263691,
+        "score": 59454
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-5039348",
+      "title": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
+      "url": "https://dev.to/wst2002rk/jira-said-done-it-wasnt-and-the-bug-showed-up-later-so-i-made-jira-check-first-9ed",
+      "author": "Wageesha Tripathi",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T05:05:40Z",
+      "rawContent": "Picture this. The ticket moved to Done on Friday. The pull request was merged, CI was green, everyone...",
+      "engagement": {
+        "likes": 37,
+        "comments": 14
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 303954,
+        "score": 44794
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-5042404",
+      "title": "The Vibe Coding Kernel-pocalypse Is Here, and It Is a Good Thing",
+      "url": "https://dev.to/xbill/the-vibe-coding-kernel-pocalypse-is-here-and-it-is-a-good-thing-3d83",
+      "author": "xbill",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T15:44:53Z",
+      "rawContent": "A step by step guide to mainline Linux kernel development with a coding agent in a closed loop: the kernel's own AGENTS.md, a few markdown runbooks, a build and install script, and the boot and system logs fed back to the agent after every change. The same loop runs on an Intel laptop, two Windows-on-ARM laptops and a Pixel 3a.",
+      "engagement": {
+        "likes": 9,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50510042",
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "url": "https://news.ycombinator.com/item?id=50510042",
+      "author": "snirgbs",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T19:49:28.000Z",
+      "rawContent": "We&#x27;re a small business that sells pre-booked appointments with homeowners to local contractors, billed per appointment that actually happens.<p>Our first client agreed to this on a recorded call and saved his card through a $1 Stripe payment link, which we planned to use for billing later. That $1 payment went through.<p>A few weeks later we invoiced him $1,500 for 3 completed appointments and charged the saved card. Stripe blocked the payment. Two days after that the account was closed wit",
+      "engagement": {
+        "score": 166,
+        "comments": 75
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.875,
+      "finalScore": 7.1875
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 188046,
+        "score": 45856
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "author": "vismit2000",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T12:14:06.000Z",
+      "rawContent": "Understanding Positional Embeddings in Modern LLMs",
+      "engagement": {
+        "score": 224,
+        "comments": 27
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.75,
+      "finalScore": 6.875
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 169036,
+        "score": 35214
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50505905",
+      "title": "Jensen Huang allegedly manufactured the GPU shortage",
+      "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+      "author": "bobsoap",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T10:53:50.000Z",
+      "rawContent": "Jensen Huang allegedly manufactured the GPU shortage",
+      "engagement": {
+        "score": 62,
+        "comments": 60
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.625,
+      "finalScore": 6.5625
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 177585,
+        "score": 22646
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-5042533",
+      "title": "How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon",
+      "url": "https://dev.to/necoz/how-i-made-a-markov-chain-model-from-scratch-in-c-during-a-global-online-teen-hackathon-3gd7",
+      "author": "Tyler N",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T19:51:04Z",
+      "rawContent": "Stardance, a global teen online hackathon hosted for teenagers by Hack Club, a nonprofit...",
+      "engagement": {
+        "likes": 17,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-5034268",
+      "title": "My Codex Agents Were Posting to Slack as Me",
+      "url": "https://dev.to/shinpr/my-codex-agents-were-posting-to-slack-as-me-18e4",
+      "author": "Shinsuke KAGAWA",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T14:01:00Z",
+      "rawContent": "On the morning of November 13 I found a message in a Slack thread with my AI team, posted under my...",
+      "engagement": {
+        "likes": 5,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-5043779",
+      "title": "How I Built AI-Native Products as a One-Person Software Factory",
+      "url": "https://dev.to/debashish_ghosal/how-i-built-ai-native-products-how-i-built-ai-native-products-as-a-one-person-software-factory-133o",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T22:43:49Z",
+      "rawContent": "Summary: I didn't use AI agents to skip product discipline. I used them to compress it. The result...",
+      "engagement": {
+        "likes": 14,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50509416",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "author": "gregsadetsky",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T18:36:40.000Z",
+      "rawContent": "Eclipse Mosquitto – An open source MQTT broker",
+      "engagement": {
+        "score": 82,
+        "comments": 29
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5,
+      "finalScore": 6.25
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 161232,
+        "score": 25512
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-5034784",
+      "title": "Why Architecture is the True Security Boundary",
+      "url": "https://dev.to/aws-builders/why-architecture-is-the-true-security-boundary-38fi",
+      "author": "Eyal Estrin",
+      "platform": "devto",
+      "publishedAt": "2026-11-15T16:10:16Z",
+      "rawContent": "For decades, organizations have tried to define a single security boundary to separate what is...",
+      "engagement": {
+        "likes": 9,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50513451",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "author": "eks391",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T02:53:30.000Z",
+      "rawContent": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots&#x2F;agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make you",
+      "engagement": {
+        "score": 48,
+        "comments": 8
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.375,
+      "finalScore": 5.9375
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "engagement": {
+        "likes": 202121,
+        "score": 10598
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "hn-50506940",
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "author": "nu_nu11",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-15T13:50:51.000Z",
+      "rawContent": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "engagement": {
+        "score": 38,
+        "comments": 10
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.25,
+      "finalScore": 5.625
+    }
+  ],
+  "stats": {
+    "totalCollected": 156,
+    "totalScored": 49,
+    "totalPublished": 20
+  }
+}
