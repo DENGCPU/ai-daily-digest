@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T07:19:57.223Z",
+  "items": [
+    {
+      "id": "hn-50524767",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "author": "kristjansson",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T23:00:34.000Z",
+      "rawContent": "Optimizely compromised, served malware on Zoom, GitLab",
+      "engagement": {
+        "score": 270,
+        "comments": 116
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 264010,
+        "score": 59542
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-5031591",
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
+      "author": "Raju Dandigam",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T14:28:00Z",
+      "rawContent": "An await finishes. The application returns a result. The trace contains a completed tool span. The...",
+      "engagement": {
+        "likes": 19,
+        "comments": 13
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50523300",
+      "title": "CNN, Zoom, Fox News Served Visitors a Crypto-Stealing Skimmer – OPTIMJACK",
+      "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+      "author": "martinald",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T21:08:38.000Z",
+      "rawContent": "CNN, Zoom, Fox News Served Visitors a Crypto-Stealing Skimmer – OPTIMJACK",
+      "engagement": {
+        "score": 187,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "author": "affaan-m",
+      "platform": "github",
+      "publishedAt": "2026-01-18T00:51:51Z",
+      "rawContent": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "engagement": {
+        "likes": 304812,
+        "score": 44884
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-5043905",
+      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
+      "author": "xbill",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T17:56:57Z",
+      "rawContent": "Seven models on the 15 problems of AIME 2025 I at their lowest and highest thinking settings, under a hard budget. The top setting cost 2.6 to 4.8 times as much on every paid model; Hydrogen, Carbon and Argon solved all 15 at either setting, and no score change was large enough to rule out chance on 15 problems.",
+      "engagement": {
+        "likes": 24,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50520076",
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
+      "author": "ex-aws-dude",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T17:20:28.000Z",
+      "rawContent": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to do<p>The bug backlog should be empty and we&#x27;ve caught up to every feature request from PMs to the point that we are bottlenecked on the business side<p>But that does not seem to be the case with my own company or most devs I talk to in the industry<p>So what gives?",
+      "engagement": {
+        "score": 47,
+        "comments": 71
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 188070,
+        "score": 45856
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-5046182",
+      "title": "Where to Draw the Boundaries When AI Agents Write Code: Building a Control Layer Around Kiro CLI and Running It for a Month",
+      "url": "https://dev.to/aws-builders/where-to-draw-the-boundaries-when-ai-agents-write-code-building-a-control-layer-around-kiro-cli-52k8",
+      "author": "Kento IKEDA",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T08:10:31Z",
+      "rawContent": "This article is an English version of a post I contributed to the AWS Blog (Japanese).           ...",
+      "engagement": {
+        "likes": 19,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50526537",
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "author": "qainsights",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T02:13:41.000Z",
+      "rawContent": "Mem Is Shutting Down",
+      "engagement": {
+        "score": 43,
+        "comments": 56
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "author": "microsoft",
+      "platform": "github",
+      "publishedAt": "2023-06-19T16:28:59Z",
+      "rawContent": "21 Lessons, Get Started Building with Generative AI ",
+      "engagement": {
+        "likes": 123703,
+        "score": 66550
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-5047181",
+      "title": "The Agentic Loop Explained: Step Through the Plan, Build, Judge and Repeat Loop Behind AI Coding Agents",
+      "url": "https://dev.to/devopsdaily/the-agentic-loop-explained-step-through-the-plan-build-judge-and-repeat-loop-behind-ai-coding-36g2",
+      "author": "DevOps Daily",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T10:52:54Z",
+      "rawContent": "Ask a chat model for a signup endpoint and you get one answer. A coding agent works differently: it...",
+      "engagement": {
+        "likes": 17,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50524225",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "author": "ronfriedhaber",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T22:19:23.000Z",
+      "rawContent": "How to Break into Security, Ptacek Edition (2012)",
+      "engagement": {
+        "score": 100,
+        "comments": 24
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 169106,
+        "score": 35219
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-5046149",
+      "title": "Why Text-Only Feeds Are Winning Back Our Attention",
+      "url": "https://dev.to/debashish_ghosal/why-text-only-feeds-are-winning-back-our-attention-3p1m",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T07:59:13Z",
+      "rawContent": "Why Text-Only Feeds Are Winning Back Our Attention   Remember when every single post on your...",
+      "engagement": {
+        "likes": 21,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50515182",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "url": "https://github.com/ages2001/WINUDF",
+      "author": "Oxodao",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T08:00:13.000Z",
+      "rawContent": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "engagement": {
+        "score": 96,
+        "comments": 18
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 177705,
+        "score": 22663
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-5047072",
+      "title": "Every deletion in your diff had a reason to exist. AI doesn't know what it was.",
+      "url": "https://dev.to/cyclopt_dimitrisk/every-deletion-in-your-diff-had-a-reason-to-exist-ai-doesnt-know-what-it-was-1dm2",
+      "author": "Dimitris Kyrkos ",
+      "platform": "devto",
+      "publishedAt": "2026-11-16T10:33:09Z",
+      "rawContent": "Diff tools are biased.  Additions render green. They're the new surface area, the thing the reviewer...",
+      "engagement": {
+        "likes": 20,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50525052",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "author": "0nelight",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-16T23:25:41.000Z",
+      "rawContent": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "engagement": {
+        "score": 53,
+        "comments": 26
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 187308,
+        "score": 19118
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 157,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
