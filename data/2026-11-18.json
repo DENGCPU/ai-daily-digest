@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T06:44:24.901Z",
+  "items": [
+    {
+      "id": "hn-50535230",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "author": "jasondavies",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T17:46:43.000Z",
+      "rawContent": "GPT‑6.2 Astra and Sol",
+      "engagement": {
+        "score": 1206,
+        "comments": 754
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 264298,
+        "score": 59633
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-5058432",
+      "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
+      "url": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
+      "author": "Sarvar Nadaf",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T15:45:44Z",
+      "rawContent": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model.",
+      "engagement": {
+        "likes": 29,
+        "comments": 18
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50529612",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "author": "craigmart",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T10:20:40.000Z",
+      "rawContent": "How the Claude Code team thinks about verification",
+      "engagement": {
+        "score": 278,
+        "comments": 224
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 188082,
+        "score": 45864
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-5015822",
+      "title": "Could I Still Do This From Scratch?",
+      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
+      "author": "Daniel Nwaneri",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T11:26:15Z",
+      "rawContent": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
+      "engagement": {
+        "likes": 43,
+        "comments": 12
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50535885",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "author": "lemonish97",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T18:25:13.000Z",
+      "rawContent": "MAI Code 2 and Code 2 Flash",
+      "engagement": {
+        "score": 331,
+        "comments": 147
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 169304,
+        "score": 35280
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "devto-5055580",
+      "title": "Once Upon Agentic AI (Part 2): Develop your own MCP server and cast its tools from Strands Agents",
+      "url": "https://dev.to/aws/once-upon-agentic-ai-part-2-develop-your-own-mcp-server-and-cast-its-tools-from-strands-agents-9ob",
+      "author": "TheWitcherish",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T08:35:35Z",
+      "rawContent": "Series: Once Upon Agentic AI.  Despite their new powers and fearless hearts, our heroes had not...",
+      "engagement": {
+        "likes": 29,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50537156",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "author": "petecooper",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T19:50:40.000Z",
+      "rawContent": "jQuery 4.1.0",
+      "engagement": {
+        "score": 300,
+        "comments": 159
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 177770,
+        "score": 22674
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-4991421",
+      "title": "My Agent Scrubbed a Leaked API Key by Force-Pushing main. It Made Everything Worse.",
+      "url": "https://dev.to/debashish_ghosal/my-agent-scrubbed-a-leaked-api-key-by-force-pushing-main-it-made-everything-worse-57a",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T07:00:00Z",
+      "rawContent": "My Agent Scrubbed a Leaked API Key by Force-Pushing main. It Made Everything Worse.   An API...",
+      "engagement": {
+        "likes": 24,
+        "comments": 7
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50538303",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "author": "judahmeek",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T21:16:12.000Z",
+      "rawContent": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "engagement": {
+        "score": 143,
+        "comments": 188
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 187475,
+        "score": 19133
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-5055633",
+      "title": "Your prompt contract should fail a test before your agent does",
+      "url": "https://dev.to/tokenlat/your-prompt-contract-should-fail-a-test-before-your-agent-does-mod",
+      "author": "TokenLat",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T08:45:27Z",
+      "rawContent": "A refund agent has one rule in its prompt: never approve an amount above 200 without manager...",
+      "engagement": {
+        "likes": 10,
+        "comments": 6
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50530114",
+      "title": "My Empire of Dirt",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "author": "throwaway384034",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T11:39:20.000Z",
+      "rawContent": "My Empire of Dirt",
+      "engagement": {
+        "score": 129,
+        "comments": 169
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 161393,
+        "score": 25523
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-5058784",
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0",
+      "author": "xbill",
+      "platform": "devto",
+      "publishedAt": "2026-11-17T17:13:33Z",
+      "rawContent": "Gemma 4 E2B on a local RTX 3050 with thinking off and on, two QAT 4-bit builds, with and without a drafter, on all 1,319 GSM8K problems and the 30 problems of AIME 2025. Thinking doubled the time and moved no score beyond chance; the drafter cut the time by 1.55 to 2.04 times and changed no score.",
+      "engagement": {
+        "likes": 13,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50539610",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "author": "nvader",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-17T23:18:49.000Z",
+      "rawContent": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "engagement": {
+        "score": 253,
+        "comments": 59
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "author": "firecrawl",
+      "platform": "github",
+      "publishedAt": "2024-04-15T21:02:29Z",
+      "rawContent": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "engagement": {
+        "likes": 202716,
+        "score": 10621
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 159,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
