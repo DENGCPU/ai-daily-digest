@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T06:25:35.745Z",
+  "items": [
+    {
+      "id": "hn-50572348",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "author": "dotcoma",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T09:42:16.000Z",
+      "rawContent": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "engagement": {
+        "score": 539,
+        "comments": 316
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "github-NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "author": "NousResearch",
+      "platform": "github",
+      "publishedAt": "2025-07-22T22:22:28Z",
+      "rawContent": "The agent that grows with you",
+      "engagement": {
+        "likes": 265041,
+        "score": 59889
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "devto-5056698",
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+      "author": "Lauren Lee👩🏼‍💻",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T16:28:49Z",
+      "rawContent": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
+      "engagement": {
+        "likes": 29,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 1,
+      "finalScore": 7.5
+    },
+    {
+      "id": "hn-50573886",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "author": "theanonymousone",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T12:41:38.000Z",
+      "rawContent": "If you stop writing code, you also get worse at reviewing it",
+      "engagement": {
+        "score": 335,
+        "comments": 167
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "github-Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "author": "Significant-Gravitas",
+      "platform": "github",
+      "publishedAt": "2023-03-16T09:21:07Z",
+      "rawContent": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "engagement": {
+        "likes": 188120,
+        "score": 45833
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "devto-4991529",
+      "title": "When AGENTS.md, CLAUDE.md, and a Skill Disagree, Which One Wins?",
+      "url": "https://dev.to/debashish_ghosal/when-agentsmd-claudemd-and-a-skill-disagree-which-one-wins-cp2",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T16:01:32Z",
+      "rawContent": "When AGENTS.md, CLAUDE.md, and a Skill Disagree, Which One Wins?   Your repo has AGENTS.md....",
+      "engagement": {
+        "likes": 19,
+        "comments": 5
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.8888888888888888,
+      "finalScore": 7.222222222222222
+    },
+    {
+      "id": "hn-50576232",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "author": "trotro",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T15:34:31.000Z",
+      "rawContent": "Finite-time blow-up for the Navier–Stokes equations",
+      "engagement": {
+        "score": 273,
+        "comments": 86
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "github-huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "author": "huggingface",
+      "platform": "github",
+      "publishedAt": "2018-10-29T13:56:00Z",
+      "rawContent": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "engagement": {
+        "likes": 169335,
+        "score": 35252
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.7777777777777778,
+      "finalScore": 6.944444444444445
+    },
+    {
+      "id": "hn-50583761",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "author": "LetThingsBeDiff",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T23:18:32.000Z",
+      "rawContent": "I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can&#x27;t find a job, within those 2 years, I pretty much spent my savings that I&#x27;ve saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working",
+      "engagement": {
+        "score": 71,
+        "comments": 74
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "github-ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "author": "ZhuLinsen",
+      "platform": "github",
+      "publishedAt": "2026-01-10T06:43:20Z",
+      "rawContent": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "engagement": {
+        "likes": 73582,
+        "score": 57989
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-5074788",
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+      "author": "Lauren Lee👩🏼‍💻",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T08:55:01Z",
+      "rawContent": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
+      "engagement": {
+        "likes": 29,
+        "comments": 0
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "devto-5081870",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md",
+      "author": "Remigiusz Samborski",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T12:45:36Z",
+      "rawContent": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
+      "engagement": {
+        "likes": 23,
+        "comments": 2
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.6666666666666666,
+      "finalScore": 6.666666666666666
+    },
+    {
+      "id": "hn-50583911",
+      "title": "Help github just deleted me",
+      "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
+      "author": "01nate",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T23:35:42.000Z",
+      "rawContent": "Help github just deleted me",
+      "engagement": {
+        "score": 53,
+        "comments": 51
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "github-f/prompts.chat",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "author": "f",
+      "platform": "github",
+      "publishedAt": "2022-12-05T13:54:13Z",
+      "rawContent": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "engagement": {
+        "likes": 178088,
+        "score": 22702
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "devto-4950013",
+      "title": "Most of the AI Agents on GitHub Are While Loops in a Trench Coat",
+      "url": "https://dev.to/debashish_ghosal/most-of-the-ai-agents-on-github-are-while-loops-in-a-trench-coat-37ig",
+      "author": "Debashish Ghosal",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T07:00:00Z",
+      "rawContent": "I built an \"agent\" last year that embarrassed me. Not because it failed. Because it succeeded, and...",
+      "engagement": {
+        "likes": 17,
+        "comments": 1
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.5555555555555556,
+      "finalScore": 6.388888888888888
+    },
+    {
+      "id": "hn-50581403",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "author": "iacguy",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T20:19:56.000Z",
+      "rawContent": "Hi HN!<p>Utpal here, I&#x27;m one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.\n- Session files",
+      "engagement": {
+        "score": 92,
+        "comments": 24
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "github-ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "author": "ollama",
+      "platform": "github",
+      "publishedAt": "2023-06-26T19:39:32Z",
+      "rawContent": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "engagement": {
+        "likes": 187784,
+        "score": 19112
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "devto-5080717",
+      "title": "Don't Trust the Agent. Trust the Factory.",
+      "url": "https://dev.to/remojansen/dont-trust-the-agent-trust-the-factory-fmc",
+      "author": "Remo H. Jansen",
+      "platform": "devto",
+      "publishedAt": "2026-11-20T10:28:31Z",
+      "rawContent": "The path to reliable agentic engineering isn’t waiting for models to stop making mistakes. It’s...",
+      "engagement": {
+        "likes": 7,
+        "comments": 4
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.4444444444444444,
+      "finalScore": 6.111111111111112
+    },
+    {
+      "id": "hn-50582629",
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "url": "https://github.com/google-deepmind/math-horizon",
+      "author": "RubenLtke",
+      "platform": "hackernews",
+      "publishedAt": "2026-11-20T21:42:21.000Z",
+      "rawContent": "A few hours ago Google DeepMind created a math horizon repo",
+      "engagement": {
+        "score": 44,
+        "comments": 30
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    },
+    {
+      "id": "github-langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "author": "langgenius",
+      "platform": "github",
+      "publishedAt": "2023-04-12T07:40:24Z",
+      "rawContent": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "engagement": {
+        "likes": 161596,
+        "score": 25538
+      },
+      "scores": {
+        "relevance": 5,
+        "novelty": 5,
+        "actionability": 5
+      },
+      "summary": "评分失败，使用默认分数",
+      "summaryEn": "Scoring failed, using default scores",
+      "titleEn": "",
+      "category": "讨论",
+      "engagementPercentile": 0.3333333333333333,
+      "finalScore": 5.833333333333334
+    }
+  ],
+  "stats": {
+    "totalCollected": 159,
+    "totalScored": 50,
+    "totalPublished": 20
+  }
+}
